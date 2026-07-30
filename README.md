@@ -22,7 +22,7 @@ This repository does not publish canonical AKN4EU XML. Its Markdown and JSON for
 
 ## Relation model
 
-The graph distinguishes the legal function and source role of a relation instead of treating every cross-reference as equivalent. Internal legislation relations and judicial relations use separate vocabularies.
+The graph distinguishes the legal function, source role and direction of a relation instead of treating every cross-reference as equivalent. Internal legislation relations and judicial relations use separate vocabularies.
 
 ### Internal legislation relations
 
@@ -46,16 +46,22 @@ The graph distinguishes the legal function and source role of a relation instead
 | Annex structure | `part_of` | Identifies an annex point as a subdivision of another annex point. |
 | Annex to article | `gives_effect_to` | Identifies an annex provision that implements an article's reference to the annex. |
 
-### Judicial relations
+### Judicial relations and direction
 
 The internal relation vocabulary is not sufficient for case law. In particular, legislative `provides_guidance_for` is not the same as a court's holding, and scope-oriented `applies_to` is not the same as judicial `applies`.
 
-| Judgment-to-block relation | Meaning |
-|---|---|
-| `interprets` | The verified holding construes the meaning, scope, conditions, exception or legal consequence of the target recital, article paragraph, recommendation point or annex point. |
-| `applies` | The court applies the target block to the facts without making a material construction that warrants `interprets`. |
-| `reviews_validity_of` | The decision reviews the validity or legality of the target block. The edge must also record a `validity_outcome`, such as `upheld`, `invalid`, `annulled_full`, `annulled_part`, `dismissed`, `inadmissible` or `not_determined`. |
-| `references` | The judgment contains an exact and materially relevant citation to the target, but the verified holding does not support interpretation, application or validity review. This citation-only relation must not be described as a judicial interpretation. |
+A judicial relation has two node-local perspectives derived from one canonical edge:
+
+| Canonical edge and judgment `outbound_relations` | Legislation block `inbound_relations` | Meaning |
+|---|---|---|
+| `interprets` | `interpreted_by` | The verified holding construes the meaning, scope, conditions, exception or legal consequence of the legislation block. |
+| `applies` | `applied_by` | The court applies the legislation block to the facts without making a material construction that warrants `interprets`. |
+| `reviews_validity_of` | `validity_reviewed_by` | The decision reviews the validity or legality of the legislation block. The edge must also record a `validity_outcome`, such as `upheld`, `invalid`, `annulled_full`, `annulled_part`, `dismissed`, `inadmissible` or `not_determined`. |
+| `references` | `referenced_by` | The judgment contains an exact and materially relevant citation to the legislation block, but the verified holding does not support interpretation, application or validity review. This citation-only relation must not be described as a judicial interpretation. |
+
+The canonical edge is directed from the judgment to the legislation block and therefore uses the active predicate. The judgment node also uses that active predicate in its `outbound_relations`. Because the same relation is rendered inside the legislation text's `inbound_relations`, that local representation uses the passive inverse: `interpreted_by`, `applied_by`, `validity_reviewed_by` or `referenced_by`.
+
+The passive form is not a second independently authored edge or a competing canonical relation type. It is a deterministic projection of the canonical edge. The inbound object retains the active value as `canonical_relation` and shares the same `edge_id`, source, target, evidence and pinpoint with the judgment's outbound view.
 
 Effects such as confirming, limiting, overruling or annulling are recorded in fields such as `holding`, `later_history` and `validity_outcome` rather than being added as overlapping relation types.
 
@@ -65,7 +71,9 @@ A judgment can have more than one relation to more than one existing legal block
 
 A single canonical edge list is the source of truth for both internal and judicial relations. Outbound and inbound relations are derived from that list, which makes edge symmetry structural rather than a later reconciliation step. This prevents a consistency routine from inventing a missing relation merely to make both directions match.
 
-For case law, the judgment is the source node and the exact existing recital, article paragraph, recommendation point or annex point is the target node. The judgment's `outbound_relations` and the legal block's `inbound_relations` are regenerated from the same canonical edge.
+For case law, the judgment is the source node and the exact existing recital, article paragraph, recommendation point or annex point is the target node. The canonical edge and judgment outbound view use the active predicate. The legal block's inbound view uses the fixed passive inverse while preserving `canonical_relation` and the common `edge_id`.
+
+For example, a canonical `interprets` edge from a judgment to an article paragraph is rendered as `interprets` in the judgment's `outbound_relations` and as `interpreted_by` in the article paragraph's `inbound_relations`. Both views are generated from the same edge; neither is reconciled or invented afterward.
 
 Structural symmetry is not the same as legal correctness. The mappings therefore retain source text, target identifiers, decision identity, holding, pinpoints, provenance and reasoning so that every edge can be reviewed on its merits.
 
@@ -100,7 +108,8 @@ You can use a mapping without a graph database:
 1. Open the Markdown file in an editor or provide it to an AI assistant.
 2. Ask a question about a recital, article paragraph, annex requirement or related judicial interpretation.
 3. Require the answer to identify the relevant node IDs, relation types, supporting legal text and, for case law, the decision citation and pinpoint.
-4. Check the result against the linked official legal act and official judgment before using it for a legal or compliance decision.
+4. Interpret judicial relation labels from the node's perspective: active on the judgment, passive in the legislation block.
+5. Check the result against the linked official legal act and official judgment before using it for a legal or compliance decision.
 
 The embedded JSON can also be parsed for search, analysis or import into Neo4j and other graph tools. The metadata includes AKN4EU-informed document identifiers, EU Vocabularies URIs and case-law provenance to support later cross-document linking.
 
@@ -115,7 +124,9 @@ The generation workflow uses separate extraction, mapping, internal QA, case-law
 - a canonical edge list with referential-integrity and symmetry checks;
 - mechanical gates for confidence, target coherence, duplicated reasoning and template-like mappings;
 - full-decision and authoritative-source verification before emitting a judicial relation;
-- exact-target, relation-coherence and pinpoint gates for case law;
+- exact-target, relation-coherence, direction and pinpoint gates for case law;
+- fixed active-to-passive inverse mapping for legislation-block inbound relations;
+- shared `edge_id` and preserved `canonical_relation` across judicial relation projections;
 - cross-source judgment deduplication;
 - documented intentional absences, unresolved targets and pending candidates where no defensible relation was identified.
 
@@ -130,6 +141,7 @@ A useful issue should include:
 - the mapping filename;
 - the source and target node IDs;
 - the relation that appears wrong or missing;
+- whether the issue concerns the active canonical/outbound predicate or its passive legislation-block inbound projection;
 - a short explanation with the relevant official text;
 - for case law, the court, decision date, case or file number, ECLI where available, and exact pinpoint;
 - a link to the authoritative source, preferably an ELI, EUR-Lex, CURIA or official court page.
