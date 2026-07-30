@@ -1,0 +1,7 @@
+# Environment files may contain secrets and must not be committed.
+.env
+.env.*
+
+# Explicitly allow sanitized templates.
+!.env.example
+!.env.sample
