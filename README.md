@@ -19,19 +19,6 @@ Each mapping is published as a Progressive Disclosure-compatible Markdown file w
 
 This repository does not publish canonical AKN4EU XML. Its Markdown and JSON format is an additional practitioner-oriented layer designed for review, AI use and later graph ingestion.
 
-## Current pilot
-
-The first mapping covers [Commission Implementing Regulation (EU) 2024/2690](./2024-10-18_EU_Commission_NIS2_Implementing_Regulation_2024-2690_recital_article_annex_mapping.md), which lays down rules for applying Directive (EU) 2022/2555 to specified digital service providers.
-
-| Item | Coverage |
-|---|---:|
-| Recitals | 43 |
-| Article paragraphs | 19 |
-| Annex points | 60 |
-| Recorded relations and structural links | 257 |
-
-Official source: [ELI: Commission Implementing Regulation (EU) 2024/2690](http://data.europa.eu/eli/reg_impl/2024/2690/oj)
-
 ## Relation model
 
 The graph distinguishes the function of a relation instead of treating every cross-reference as equivalent. Examples include:
@@ -104,7 +91,6 @@ The repository's MIT License applies to the original project material covered by
 
 - [AKN4EU overview, Publications Office of the European Union](https://op.europa.eu/en/web/eu-vocabularies/akn4eu)
 - [AKN4EU schema, version 4.2](https://op.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/akn4eu)
-- [Commission Implementing Regulation (EU) 2024/2690](http://data.europa.eu/eli/reg_impl/2024/2690/oj)
 
 ## License
 
