@@ -37,7 +37,7 @@ tags_extra:
 - event-monitoring
 akn4eu_version: '4.2'
 akn4eu_alignment_date: '2026-07-26'
-rpm_version: 3.0.0
+rpm_version: 3.2.2
 eur_lex_alignment_date: '2026-07-26'
 eur_lex_source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402690
 text_completeness: eur-lex-verbatim
