@@ -1085,7 +1085,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 2,
       "from_paragraph": "2",
-      "reasoning": "Art2P2 requires entities to 'ensure a level of security appropriate to the risks' \u2014 this general risk-proportionality requirement depends on the specific technical and methodological measures enumerated in Art2P1. The appropriate security level is achieved by implementing the measures listed in P1.",
+      "reasoning": "Art2P2 requires entities to 'ensure a level of security appropriate to the risks' — this general risk-proportionality requirement depends on the specific technical and methodological measures enumerated in Art2P1. The appropriate security level is achieved by implementing the measures listed in P1.",
       "relation": "depends_on",
       "to_article": 2,
       "to_paragraph": "1",
@@ -1098,7 +1098,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 3,
       "from_paragraph": "2",
-      "reasoning": "Art3P2 (scheduled interruptions of service and planned maintenance) qualifies Art3P1 (general significant incident criteria) by excluding planned/scheduled events from the significant incident definition \u2014 it narrows the scope of what counts as a significant incident.",
+      "reasoning": "Art3P2 (scheduled interruptions of service and planned maintenance) qualifies Art3P1 (general significant incident criteria) by excluding planned/scheduled events from the significant incident definition — it narrows the scope of what counts as a significant incident.",
       "relation": "qualifies",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1111,7 +1111,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 3,
       "from_paragraph": "3",
-      "reasoning": "Art3P3 (methodology for counting users impacted by an incident) qualifies Art3P1 (significant incident criteria) by specifying how the user-impact threshold should be calculated \u2014 it refines the measurement methodology for applying the criteria in P1.",
+      "reasoning": "Art3P3 (methodology for counting users impacted by an incident) qualifies Art3P1 (significant incident criteria) by specifying how the user-impact threshold should be calculated — it refines the measurement methodology for applying the criteria in P1.",
       "relation": "qualifies",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1124,7 +1124,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 4,
       "from_paragraph": "1",
-      "reasoning": "Art4 (recurring incidents that individually are not significant but collectively may be) qualifies Art3P1 (significant incident criteria) by adding a special case where individually non-significant incidents can become significant through recurrence \u2014 it extends and qualifies the individual-incident-based criteria in P1.",
+      "reasoning": "Art4 (recurring incidents that individually are not significant but collectively may be) qualifies Art3P1 (significant incident criteria) by adding a special case where individually non-significant incidents can become significant through recurrence — it extends and qualifies the individual-incident-based criteria in P1.",
       "relation": "qualifies",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1137,7 +1137,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 5,
       "from_paragraph": "1",
-      "reasoning": "Art5 (significant incidents for DNS service providers) depends on Art3P1 (general significant incident criteria) \u2014 the DNS-specific criteria in Art5 build upon and apply the general framework established in Art3P1 to the DNS service provider entity type.",
+      "reasoning": "Art5 (significant incidents for DNS service providers) depends on Art3P1 (general significant incident criteria) — the DNS-specific criteria in Art5 build upon and apply the general framework established in Art3P1 to the DNS service provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1150,7 +1150,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 6,
       "from_paragraph": "1",
-      "reasoning": "Art6 (significant incidents for TLD name registries) depends on Art3P1 (general significant incident criteria) \u2014 the TLD-specific criteria in Art6 build upon and apply the general framework established in Art3P1 to the TLD name registry entity type.",
+      "reasoning": "Art6 (significant incidents for TLD name registries) depends on Art3P1 (general significant incident criteria) — the TLD-specific criteria in Art6 build upon and apply the general framework established in Art3P1 to the TLD name registry entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1163,7 +1163,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 7,
       "from_paragraph": "1",
-      "reasoning": "Art7 (significant incidents for cloud computing service providers) depends on Art3P1 (general significant incident criteria) \u2014 the cloud-specific criteria in Art7 build upon and apply the general framework established in Art3P1 to the cloud computing service provider entity type.",
+      "reasoning": "Art7 (significant incidents for cloud computing service providers) depends on Art3P1 (general significant incident criteria) — the cloud-specific criteria in Art7 build upon and apply the general framework established in Art3P1 to the cloud computing service provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1176,7 +1176,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 8,
       "from_paragraph": "1",
-      "reasoning": "Art8 (significant incidents for data centre service providers) depends on Art3P1 (general significant incident criteria) \u2014 the data-centre-specific criteria in Art8 build upon and apply the general framework established in Art3P1 to the data centre service provider entity type.",
+      "reasoning": "Art8 (significant incidents for data centre service providers) depends on Art3P1 (general significant incident criteria) — the data-centre-specific criteria in Art8 build upon and apply the general framework established in Art3P1 to the data centre service provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1189,7 +1189,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 9,
       "from_paragraph": "1",
-      "reasoning": "Art9 (significant incidents for content delivery network providers) depends on Art3P1 (general significant incident criteria) \u2014 the CDN-specific criteria in Art9 build upon and apply the general framework established in Art3P1 to the CDN provider entity type.",
+      "reasoning": "Art9 (significant incidents for content delivery network providers) depends on Art3P1 (general significant incident criteria) — the CDN-specific criteria in Art9 build upon and apply the general framework established in Art3P1 to the CDN provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1202,7 +1202,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 10,
       "from_paragraph": "1",
-      "reasoning": "Art10 (significant incidents for managed service providers and managed security service providers) depends on Art3P1 (general significant incident criteria) \u2014 the MSP-specific criteria in Art10 build upon and apply the general framework established in Art3P1 to the MSP entity type.",
+      "reasoning": "Art10 (significant incidents for managed service providers and managed security service providers) depends on Art3P1 (general significant incident criteria) — the MSP-specific criteria in Art10 build upon and apply the general framework established in Art3P1 to the MSP entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1215,7 +1215,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 11,
       "from_paragraph": "1",
-      "reasoning": "Art11 (significant incidents for providers of online marketplaces) depends on Art3P1 (general significant incident criteria) \u2014 the online-marketplace-specific criteria in Art11 build upon and apply the general framework established in Art3P1 to the online marketplace provider entity type.",
+      "reasoning": "Art11 (significant incidents for providers of online marketplaces) depends on Art3P1 (general significant incident criteria) — the online-marketplace-specific criteria in Art11 build upon and apply the general framework established in Art3P1 to the online marketplace provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1228,7 +1228,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 12,
       "from_paragraph": "1",
-      "reasoning": "Art12 (significant incidents for providers of online search engines) depends on Art3P1 (general significant incident criteria) \u2014 the search-engine-specific criteria in Art12 build upon and apply the general framework established in Art3P1 to the online search engine provider entity type.",
+      "reasoning": "Art12 (significant incidents for providers of online search engines) depends on Art3P1 (general significant incident criteria) — the search-engine-specific criteria in Art12 build upon and apply the general framework established in Art3P1 to the online search engine provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1241,7 +1241,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 13,
       "from_paragraph": "1",
-      "reasoning": "Art13 (significant incidents for providers of social networking services platforms) depends on Art3P1 (general significant incident criteria) \u2014 the social-network-specific criteria in Art13 build upon and apply the general framework established in Art3P1 to the social networking service provider entity type.",
+      "reasoning": "Art13 (significant incidents for providers of social networking services platforms) depends on Art3P1 (general significant incident criteria) — the social-network-specific criteria in Art13 build upon and apply the general framework established in Art3P1 to the social networking service provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1254,7 +1254,7 @@ The repository licence covers only original selection, structure and analysis. I
       "confidence": "high",
       "from_article": 14,
       "from_paragraph": "1",
-      "reasoning": "Art14 (significant incidents for trust service providers) depends on Art3P1 (general significant incident criteria) \u2014 the trust-service-specific criteria in Art14 build upon and apply the general framework established in Art3P1 to the trust service provider entity type.",
+      "reasoning": "Art14 (significant incidents for trust service providers) depends on Art3P1 (general significant incident criteria) — the trust-service-specific criteria in Art14 build upon and apply the general framework established in Art3P1 to the trust service provider entity type.",
       "relation": "depends_on",
       "to_article": 3,
       "to_paragraph": "1",
@@ -1657,10 +1657,10 @@ The repository licence covers only original selection, structure and analysis. I
             "identifier_type": "CELEX",
             "identifier": "32024R2690",
             "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32024R2690",
-            "attribution_text": "Source: EUR-Lex, \u00a9 European Union."
+            "attribution_text": "Source: EUR-Lex, © European Union."
           },
           "official_verification_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2690",
-          "attribution_text": "EU legal material: EUR-Lex, \u00a9 European Union. Bounded case-law discovery via LexAPI on 2026-07-30; official act record verified at EUR-Lex. No judgment text or LexAPI-specific enrichment is included.",
+          "attribution_text": "EU legal material: EUR-Lex, © European Union. Bounded case-law discovery via LexAPI on 2026-07-30; official act record verified at EUR-Lex. No judgment text or LexAPI-specific enrichment is included.",
           "rights_notice": "No LexAPI parsing, structuring, enrichment, citation-graph data, semantic scores, or raw API responses are relicensed.",
           "provider_license": null,
           "provider_specific_material": "none",
@@ -1794,7 +1794,7 @@ The repository licence covers only original selection, structure and analysis. I
           "source": "open_legal_data",
           "attribution_id": "src-open-legal-data-case-law-research-32024r2690",
           "method": "search",
-          "query": "\"Durchf\u00fchrungsverordnung (EU) 2024/2690\"",
+          "query": "\"Durchführungsverordnung (EU) 2024/2690\"",
           "filters": {
             "page": 1,
             "page_size": 20
@@ -1847,7 +1847,7 @@ The repository licence covers only original selection, structure and analysis. I
           "source": "open_legal_data",
           "attribution_id": "src-open-legal-data-case-law-research-32024r2690",
           "method": "search",
-          "query": "Cybersicherheitsrisikomanagementma\u00dfnahmen",
+          "query": "Cybersicherheitsrisikomanagementmaßnahmen",
           "filters": {
             "page": 1,
             "page_size": 50
@@ -1892,7 +1892,7 @@ The repository licence covers only original selection, structure and analysis. I
         {
           "count": 1,
           "source": "open_legal_data",
-          "reason": "KG, 18.11.2025 \u2013 5 UKl 10/25 mentioned NIS2 in a \u00a7 312k BGB argument but did not support an edge to this Regulation."
+          "reason": "KG, 18.11.2025 – 5 UKl 10/25 mentioned NIS2 in a § 312k BGB argument but did not support an edge to this Regulation."
         },
         {
           "count": 1,
@@ -1968,7 +1968,7 @@ The repository licence covers only original selection, structure and analysis. I
     {
       "confidence": "high",
       "from_recital": 8,
-      "reasoning": "R8 describes technical network security measures (protocols, email, DNS). R9 builds on this by moving to the governance layer \u2014 policies on information system security and access control \u2014 which complement and operationalize the technical measures in R8.",
+      "reasoning": "R8 describes technical network security measures (protocols, email, DNS). R9 builds on this by moving to the governance layer — policies on information system security and access control — which complement and operationalize the technical measures in R8.",
       "relation": "builds_on",
       "to_recital": 9,
       "akn4eu_source_refers_to": null,
@@ -2012,7 +2012,7 @@ The repository licence covers only original selection, structure and analysis. I
     {
       "confidence": "high",
       "from_recital": 25,
-      "reasoning": "R25 (asset classification by type, sensitivity, risk level) builds directly on R24 (asset management framework) \u2014 classification is a core component that extends the asset management concept established in R24.",
+      "reasoning": "R25 (asset classification by type, sensitivity, risk level) builds directly on R24 (asset management framework) — classification is a core component that extends the asset management concept established in R24.",
       "relation": "builds_on",
       "to_recital": 24,
       "akn4eu_source_refers_to": null,
@@ -2023,7 +2023,7 @@ The repository licence covers only original selection, structure and analysis. I
     {
       "confidence": "high",
       "from_recital": 26,
-      "reasoning": "R26 (asset inventory granularity and attributes) builds on R24 (asset management) \u2014 the inventory is a concrete implementation component of the broader asset management framework established in R24.",
+      "reasoning": "R26 (asset inventory granularity and attributes) builds on R24 (asset management) — the inventory is a concrete implementation component of the broader asset management framework established in R24.",
       "relation": "builds_on",
       "to_recital": 24,
       "akn4eu_source_refers_to": null,
@@ -2034,7 +2034,7 @@ The repository licence covers only original selection, structure and analysis. I
     {
       "confidence": "high",
       "from_recital": 26,
-      "reasoning": "R26 (asset inventory including unique identifier, owner, classification) builds on R25 (asset classification) \u2014 the inventory incorporates the classification scheme defined in R25 as one of its attributes.",
+      "reasoning": "R26 (asset inventory including unique identifier, owner, classification) builds on R25 (asset classification) — the inventory incorporates the classification scheme defined in R25 as one of its attributes.",
       "relation": "builds_on",
       "to_recital": 25,
       "akn4eu_source_refers_to": null,
@@ -2045,7 +2045,7 @@ The repository licence covers only original selection, structure and analysis. I
     {
       "confidence": "high",
       "from_recital": 23,
-      "reasoning": "R23 (multi-factor authentication) builds on R21 (access control policy) \u2014 MFA is a specific, strengthened access control mechanism that extends the general access control framework established in R21, particularly for remote and high-privilege access scenarios.",
+      "reasoning": "R23 (multi-factor authentication) builds on R21 (access control policy) — MFA is a specific, strengthened access control mechanism that extends the general access control framework established in R21, particularly for remote and high-privilege access scenarios.",
       "relation": "builds_on",
       "to_recital": 21,
       "akn4eu_source_refers_to": null,
@@ -2056,7 +2056,7 @@ The repository licence covers only original selection, structure and analysis. I
     {
       "confidence": "high",
       "from_recital": 28,
-      "reasoning": "R28 (all-hazards approach covering physical and environmental threats) provides the conceptual framework and context for R29 (specific physical protection measures against fire, flood, power failures) \u2014 the all-hazards approach establishes that physical threats must be addressed, which R29 then details with concrete protection measures.",
+      "reasoning": "R28 (all-hazards approach covering physical and environmental threats) provides the conceptual framework and context for R29 (specific physical protection measures against fire, flood, power failures) — the all-hazards approach establishes that physical threats must be addressed, which R29 then details with concrete protection measures.",
       "relation": "provides_context_for",
       "to_recital": 29,
       "akn4eu_source_refers_to": null,
@@ -2217,7 +2217,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 1,
       "text": "With regard to DNS service providers, TLD name registries, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, providers of online market places, of online search engines and of social networking services platforms, and trust service providers as covered by Article 3 of Directive (EU) 2022/2555 (the relevant entities), this Regulation aims to lay down the technical and the methodological requirements of the measures referred to in Article 21(2) of Directive (EU) 2022/2555 and to further specify the cases in which an incident should be considered to be significant as referred to in Article 23(3) of Directive (EU) 2022/2555.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-1",
+      "text_sha256": "9d20af6d2b67a419595cfe0a4709a1747dc46c5fefe6a40bd188a463c78aa9e7"
     },
     {
       "id": "recital-2",
@@ -2238,7 +2240,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 2,
       "text": "Taking account of the cross-border nature of their activities and in order to ensure a coherent framework for trust service providers, this Regulation should, with respect to trust service providers, further specify the cases in which an incident shall be considered to be significant, in addition to laying down the technical and the methodological requirements of the cybersecurity risk-management measures.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-2",
+      "text_sha256": "4b5cab2f67223f74c8b79b7640615b77121bcfd518fe89901a3781286e8ab990"
     },
     {
       "id": "recital-3",
@@ -2390,7 +2394,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 3,
       "text": "Following Article 21(5), third subparagraph of Directive (EU) 2022/2555, the technical and methodological requirements of the cybersecurity risk-management measures set out in the Annex to this Regulation are based on European and international standards, such as ISO/IEC 27001, ISO/IEC 27002 and ETSI EN 319 401, and technical specifications, such as CEN/TS 18026:2024, relevant to the security of network and information systems.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-3",
+      "text_sha256": "5339986829560451b8359743a49975952091eb288a34a65c3f86096a2b8380fd"
     },
     {
       "id": "recital-4",
@@ -2411,7 +2417,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 4,
       "text": "As regards the implementation and application of the technical and the methodological requirements of cybersecurity risk-management measures set out in the Annex to this Regulation, in line with the principle of proportionality, due account should be taken of the divergent risk exposure of relevant entities, such as the criticality of the relevant entity, the risks to which it is exposed, the relevant entity's size and structure as well as the likelihood of occurrence of incidents and their severity, including their societal and economic impact, when complying with the technical and methodological requirements of cybersecurity risk-management measures set out in the Annex to this Regulation.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-4",
+      "text_sha256": "6d3b4258c0e0b559a9a085e65d31dc5eeed4630fb5e3af3e7b759b1cf2eca4dc"
     },
     {
       "id": "recital-5",
@@ -2432,7 +2440,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 5,
       "text": "In line with the principle of proportionality, where relevant entities cannot implement some of the technical and the methodological requirements of the cybersecurity risk-management measures due to their size, those entities should be able to take other compensating measures that are suitable to achieve the purpose of those requirements. For example, when defining roles, responsibilities and authorities for network and information system security within the relevant entity, micro-sized entities might find it difficult to segregate conflicting duties and conflicting areas of responsibility. Such entities should be able to consider compensating measures such as targeted oversight by the entity's management or increased monitoring and logging.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-5",
+      "text_sha256": "7a46ce6db9592944255a5d86217a2134edd2e7471659693aea8b1cd6b59ac4f8"
     },
     {
       "id": "recital-6",
@@ -2453,7 +2463,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 6,
       "text": "Certain technical and methodological requirements set out in the Annex to this Regulation should be applied by the relevant entities where appropriate, where applicable, or to the extent feasible. Where a relevant entity considers it not appropriate, not applicable or not feasible for the relevant entity to apply certain technical and methodological requirements as provided for in the Annex to this Regulation, the relevant entity should in a comprehensible manner document its reasoning to that effect. National competent authorities may, when exercising supervision, take into account the appropriate time required for the relevant entities to implement the technical and the methodological requirements of the cybersecurity risk-management measures.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-6",
+      "text_sha256": "ed768bb06333cd2670a48028a7a92a2922760ddc12eeb7d9da8aad67d6029075"
     },
     {
       "id": "recital-7",
@@ -2473,7 +2485,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 7,
       "text": "ENISA or national competent authorities under Directive (EU) 2022/2555 can provide guidance to support relevant entities in the identification, analysis, and assessment of risks for the purpose of implementing the technical and the methodological requirements concerning the establishment and maintenance of an appropriate risk management framework. Such guidance can include, in particular, national and sectoral risk assessments as well as risk assessments specific for a certain type of entity. The guidance may also include tools or templates for the development of risk management framework at the level of the relevant entities. Frameworks, guidance or other mechanisms provided by Member States' national law, as well as relevant European and international standards, can also support relevant entities in demonstrating compliance with this Regulation. Moreover, ENISA or national competent authorities under Directive (EU) 2022/2555 can support relevant entities in identifying and implementing appropriate solutions to treat risks identified in such risk assessments. Such guidance should be without prejudice to the relevant entities' obligation to identify and document the risks posed to the security of network and information systems, and to the relevant entities' obligation to implement the technical and the methodological requirements of the cybersecurity risk management measures set out in the Annex to this Regulation according to their needs and resources.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-7",
+      "text_sha256": "17632d2203cb9272724c69a8fa7076e2ae70fc2f6cd3161952beb157937525a2"
     },
     {
       "id": "recital-8",
@@ -2493,7 +2507,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 8,
       "text": "Network security measures in relation to: (i) the transition towards latest generation network layer communication protocols, (ii) the deployment of internationally agreed and interoperable modern e-mail communications standards, and (iii) the application of best practices for DNS security, and for Internet routing security and routing hygiene entail specific challenges regarding the identification of best available standards and deployment techniques. To achieve as soon as possible a high common level of cybersecurity across networks, the Commission, with the assistance of the European Union Agency for Cybersecurity (ENISA) and in collaboration with competent authorities, industry - including telecommunication industry - and other stakeholders, should support the development of a multistakeholder forum tasked to identify these best available standards and deployment techniques. Such multi-stakeholder guidance should be without prejudice to the relevant entities' obligation to implement the technical and the methodological requirements of the cybersecurity risk management measures set out in the Annex to this Regulation.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-8",
+      "text_sha256": "b34a0fd3a5e0914b5eba9d9a253edd580b8540f4db3128e99e3c4a8022f52047"
     },
     {
       "id": "recital-9",
@@ -2513,7 +2529,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 9,
       "text": "Pursuant to Article 21(2), point (a), of Directive (EU) 2022/2555, essential and important entities should have, besides policies on risk analysis, policies on information system security. For that purpose, the relevant entities should establish a policy on the security of network and information systems as well as topic-specific policies, such as policies on access control, which should be coherent with the policy on the security of network and information systems. The policy on the security of network and information systems should be the highest-level document setting out the relevant entities' overall approach to their security of network and information systems and should be approved by the management bodies of the relevant entities. The topic-specific policies should be approved by an appropriate level of management. The policy should lay down indicators and measures to monitor its implementation and the current status of relevant entities' maturity level of network and information security, in particular to facilitate the oversight of the implementation of the cybersecurity risk-management measures through the management bodies.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-9",
+      "text_sha256": "550da0cee8b62cdb7078edb581bd5027d9d0dc45aefbafbb0e9ba1f9015ab57d"
     },
     {
       "id": "recital-10",
@@ -2665,7 +2683,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 10,
       "text": "For the purposes of the technical and the methodological requirements laid down in the Annex to this Regulation, the term 'user' should encompass all legal and natural persons which have access to the entity's network and information systems.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-10",
+      "text_sha256": "db5f07df2047ba0a976b319fd0abf4f6cc5606d0bf401cacdff1b76ce77085af"
     },
     {
       "id": "recital-11",
@@ -2685,7 +2705,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 11,
       "text": "To identify and address the risks posed to the security of network and information systems, the relevant entities should establish and maintain an appropriate risk management framework. As a part of the risk management framework, the relevant entities should establish, implement and monitor a risk treatment plan. The relevant entities may use the risk treatment plan to identify and prioritise risk treatment options and measures. Options for risk treatment include, in particular, avoiding, reducing or, in exceptional cases, accepting the risk. The choice of risk treatment options should take into account the results of the risk assessment carried out by the relevant entity, and be in accordance with the relevant entity's policy on the security of network and information systems. To give effect to the chosen risk treatment options, the relevant entities should take the appropriate risk treatment measures.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-11",
+      "text_sha256": "d6579e1a1d9453f9538ca8479f6d4c3c0d565c6f29c765fb6fa9f17e7035ef0e"
     },
     {
       "id": "recital-12",
@@ -2705,7 +2727,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 12,
       "text": "To detect events, near misses and incidents, the relevant entities should monitor their network and information systems and should take actions to evaluate events, near misses and incidents. Those measures should be capable of allowing the detection of network-based attacks based on anomalous inbound and outbound traffic patterns and denial of service attacks in a timely manner.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-12",
+      "text_sha256": "c81d226dba5110c3156e3c1806df41ee3dcff72f82f670e68dc505c72624fe09"
     },
     {
       "id": "recital-13",
@@ -2725,7 +2749,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 13,
       "text": "When the relevant entities conduct a business impact analysis, they are encouraged to carry out a comprehensive analysis establishing, as appropriate, maximum tolerable downtime, recovery time objectives, recovery point objectives and service delivery objectives.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-13",
+      "text_sha256": "b77e220dc580307fe9018dad0bfa1d2bd236695ee1b94e1e6ac27f531ec02219"
     },
     {
       "id": "recital-14",
@@ -2745,7 +2771,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 14,
       "text": "In order to mitigate risks stemming from a relevant entity's supply chain and its relationship with its suppliers, the relevant entities should establish a supply chain security policy which governs their relations with their direct suppliers and service providers. These entities should specify in the contracts with their direct suppliers or service providers adequate security clauses, for example by requiring, where appropriate, cybersecurity risk-management measures according to Article 21(2) of Directive (EU) 2022/2555 or other similar legal requirements.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-14",
+      "text_sha256": "c9e43d04a9eb952585413ded174088369ddef10476ab324a0b0ad0648e597bc9"
     },
     {
       "id": "recital-15",
@@ -2765,7 +2793,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 15,
       "text": "The relevant entities should regularly carry out security tests based on a dedicated policy and procedures to verify whether the cybersecurity risk-management measures are implemented and function properly. Security tests may be performed on specific network and information systems or on the relevant entity as a whole and may include automated or manual tests, penetration tests, vulnerability scanning, static and dynamic application security tests, configuration tests or security audits. The relevant entities may conduct security tests on their network and information systems at set-up, after infrastructure or application upgrades or modifications that they deem significant, or after maintenance. The findings of the security tests should inform the relevant entities' policies and procedures to assess the effectiveness of the cybersecurity risk-management measures, as well as independent reviews of their network and information security policies.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-15",
+      "text_sha256": "01f99e2fb5ea1ad481c5a2ac7b5283859355e3fcc8c749f58403d4e12fc6309f"
     },
     {
       "id": "recital-16",
@@ -2785,7 +2815,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 16,
       "text": "In order to avoid significant disruption and harm caused by the exploitation of unpatched vulnerabilities in network and information systems, the relevant entities should set out and apply appropriate security patch management procedures which are aligned with the relevant entities' change management, vulnerability management, risk management and other relevant procedures. Relevant entities should take measures proportionate to their resources to ensure that security patches do not introduce additional vulnerabilities or instabilities. In case of planned inaccessibility to the service caused by the application of security patches, the relevant entities are encouraged to duly inform customers in advance.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-16",
+      "text_sha256": "0208937e945f8c3eb9ebac666545a53534a9a01cc9e17b5c9cb3bcd0856bbea5"
     },
     {
       "id": "recital-17",
@@ -2805,7 +2837,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 17,
       "text": "The relevant entities should manage the risks stemming from the acquisition of ICT products or ICT services from suppliers or service providers and should obtain assurance that the ICT products or ICT services to be acquired achieve certain cybersecurity protection levels, for example by European cybersecurity certificates and EU statements of conformity for ICT products or ICT services issued under a European cybersecurity certification scheme adopted pursuant to Article 49 of Regulation (EU) 2019/881 of the European Parliament and of the Council. Where the relevant entities set out security requirements to apply to the ICT products to be acquired, they should take into account the essential cybersecurity requirements set out in a regulation of the European Parliament and of the Council on horizontal cybersecurity requirements for products with digital elements.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-17",
+      "text_sha256": "d7838e1a9010dd9ce7c0c02b7fcd692e9ee6a4666268a8cb5b3812814157e711"
     },
     {
       "id": "recital-18",
@@ -2825,7 +2859,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 18,
       "text": "In order to protect against cyber threats and support the prevention and containment of data breaches, the relevant entities should implement network security solutions. Typical solutions for network security include the use of firewalls to protect the relevant entities' internal networks, the limitation of connections and access to services where connections and access are absolutely needed, and the use of virtual private networks for remote access and allowing connections of service providers only after an authorisation request and for a set time period such as the duration of a maintenance operation.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-18",
+      "text_sha256": "7420ebb50b086cdc7043d7e88d30d46e2f6cc93d44daa115bd0a0848d283548c"
     },
     {
       "id": "recital-19",
@@ -2845,7 +2881,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 19,
       "text": "In order to protect the networks of the relevant entities and their information systems against malicious and unauthorised software, those entities should implement controls that prevent or detect the use of unauthorised software and should, where appropriate, use detection and response software. The relevant entities should also consider implementing measures to minimize the attack surface, reduce vulnerabilities that can be exploited by attackers, control the execution of applications on endpoints, and deploy email and web application filters to reduce exposure to malicious content.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-19",
+      "text_sha256": "25216e24b84c6d6e5e3f093e2edae242113547695031d44460755efce12d8c6a"
     },
     {
       "id": "recital-20",
@@ -2865,7 +2903,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 20,
       "text": "Pursuant to Article 21(2), point (g), of Directive (EU) 2022/2555, Member States are to ensure that essential and important entities apply basic cyber hygiene practices and cybersecurity training. Basic cyber hygiene practices can include zero-trust principles, software updates, device configuration, network segmentation, identity and access management or user awareness, organise training for their staff and raise awareness concerning cyber threats, phishing or social engineering techniques. Cyber hygiene practices are a part of different technical and methodological requirements of the cybersecurity risk management measures set out in the Annex to this Regulation. With regard to basic cyber hygiene practices for users, the relevant entities should consider practices such as clear desk and screen policy, use of multi-factor and other authentication means, safe email use and web browsing, protection from phishing and social engineering, secure remote working practices.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-20",
+      "text_sha256": "eb2562765fa159ae13666b7afa637916297e20af43daf3abfa129249e922a953"
     },
     {
       "id": "recital-21",
@@ -2885,7 +2925,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 21,
       "text": "In order to prevent unauthorised access to the relevant entities' assets, the relevant entities should establish and implement a topic-specific policy addressing access by persons and by network and information systems, such as applications.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-21",
+      "text_sha256": "94896e3ed3848688d3f2aebf8825fa45943c6aa710f9a373588e5fa36a25116a"
     },
     {
       "id": "recital-22",
@@ -2927,7 +2969,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 22,
       "text": "In order to avoid that employees can misuse, for instance, access rights within the relevant entity to harm and cause damage, relevant entities should consider adequate employee security management measures and raise awareness among personnel about such risks. The relevant entities should establish, communicate and maintain a disciplinary process for handling violations of the relevant entities' network and information system security policies, which may be embedded in other disciplinary processes established by the relevant entities. Verification of the background of the employees and where applicable the direct suppliers and service providers of the relevant entities should contribute to the goal of human resources security in the relevant entities, and may include measures such as checks of the person's criminal record or past professional duties, as appropriate for the person's duties in the relevant entity and in line with the relevant entity's policy on the security of network and information systems.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-22",
+      "text_sha256": "931cc691affab1efcca6a1d1829c335ba9dc4f0a29f83c4564cf0171904b0693"
     },
     {
       "id": "recital-23",
@@ -2947,7 +2991,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 23,
       "text": "Multi-factor authentication can enhance the entities' cybersecurity and should be considered by the entities in particular when users access network and information systems from remote locations, or when they access sensitive information or privileged accounts and system administration accounts. Multi-factor authentication can be combined with other techniques to require additional factors under specific circumstances, based on predefined rules and patterns, such as access from an unusual location, from an unusual device or at an unusual time.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-23",
+      "text_sha256": "4940cd4673f0926c214f9bdca02dca7fed43249c99ed0268cc860ebbab5f9ad1"
     },
     {
       "id": "recital-24",
@@ -2967,7 +3013,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 24,
       "text": "The relevant entities should manage and protect the assets which are of value to them through a sound asset management which should also serve as the basis for the risk analysis and business continuity management. The relevant entities should manage both tangible and intangible assets and should create an asset inventory, associate the assets with a defined classification level, handle and track the assets and take steps to protect the assets throughout their lifecycle.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-24",
+      "text_sha256": "908fb9737c9f536ca93b1d9d1413aa62c7679e4e40bfbbeb1e590960e8869e74"
     },
     {
       "id": "recital-25",
@@ -2998,7 +3046,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 25,
       "text": "Asset management should involve classifying assets by their type, sensitivity, risk level, and security requirements and applying appropriate measures and controls to ensure their availability, integrity, confidentiality, and authenticity. By classifying assets by risk level, the relevant entities should be able to apply appropriate security measures and controls to protect assets such as encryption, access control including perimeter and physical and logical access control, backups, logging and monitoring, retention and disposal. When conducting a business impact analysis, the relevant entities may determine the classification level based on the consequences of disruption of assets for the entities. All employees of the entities handling assets should be familiar with the asset handling policies and instructions.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-25",
+      "text_sha256": "1bc2cc21acfad7529891a38cb417615034c572fdb6cd57ce754cdaf2a92f61b0"
     },
     {
       "id": "recital-26",
@@ -3018,7 +3068,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 26,
       "text": "The granularity of the asset inventory should be appropriate for the needs of the relevant entities. A comprehensive asset inventory could include, for each asset, at least a unique identifier, the owner of the asset, a description of the asset, the location of the asset, the type of asset, the type and classification of information processed in the asset, the date of last update or patch of the asset, the classification of the asset under the risk assessment, and the end of life of the asset. When identifying the owner of an asset, the relevant entities should also identify the person responsible for protecting said asset.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-26",
+      "text_sha256": "954a20ecfaa0ba75423bf0cfe69748ecd80f9c18de85515ab9e43183412580e9"
     },
     {
       "id": "recital-27",
@@ -3038,7 +3090,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 27,
       "text": "The allocation and organisation of cybersecurity roles, responsibilities and authorities should establish a consistent structure for the governance and implementation of cybersecurity within the relevant entities, and should ensure effective communication in case of incidents. When defining and assigning responsibilities for certain roles, the relevant entities should consider roles such as chief information security officer, information security officer, incident handling officer, auditor, or comparable equivalents. Relevant entities may assign roles and responsibilities to external parties, such as ICT third-party service providers.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-27",
+      "text_sha256": "dfa2e65a9284a0e9489d27b45aa42afac09406e9f14df9847578587aff5a0bac"
     },
     {
       "id": "recital-28",
@@ -3069,7 +3123,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 28,
       "text": "In accordance with Article 21(2) of Directive (EU) 2022/2555, the cybersecurity risk-management measures are to be based on an all-hazards approach that aims to protect network and information systems and the physical environment of those systems from events such as theft, fire, flood, telecommunication or power failures, or unauthorised physical access and damage to, and interference with, an essential or important entity's information and information processing facilities, which could compromise the availability, authenticity, integrity or confidentiality of stored, transmitted or processed data or of the services offered by, or accessible via, network and information systems. The technical and the methodological requirements of the cybersecurity risk-management measures should therefore also address the physical and environmental security of network and information systems by including measures to protect such systems from system failures, human error, malicious acts or natural phenomena. Further examples of physical and environmental threats can include earthquakes, explosions, sabotage, insider threat, civil unrest, toxic waste, and environmental emissions. Prevention of loss, damage or compromise of network and information systems or interruption to their operations due to the failure and disruption of supporting utilities should contribute to the goal of business continuity in the relevant entities. Moreover, protection against physical and environmental threats should contribute to security of network and information systems maintenance in the relevant entities.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-28",
+      "text_sha256": "ed4863dc704eec6dcf65d89ea07383e8cfdc3a65a1ea63c82a957c473d31b201"
     },
     {
       "id": "recital-29",
@@ -3089,7 +3145,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 29,
       "text": "Relevant entities should design and implement protection measures against physical and environmental threats and determine minimum and maximum control thresholds for physical and environmental threats and monitor environmental parameters. For example, they should consider installing systems to detect at an early stage the flooding of areas where network and information systems are located. Regarding fire hazard, the relevant entities should consider the establishment of a separate fire compartment for the data centre, the use of fire-resistant materials, sensors for monitoring temperature and humidity, the connection of the building to a fire alarm system with an automated notification to the local fire department, and early fire detection and extinguishing systems. The relevant entities should also carry out regular fire drills and fire inspections. Furthermore, to ensure power supply, the relevant entities should consider overvoltage protection and corresponding emergency power supply, in accordance with relevant standards. Moreover, as overheating poses a risk to the availability of network and information systems, relevant entities, in particular data centre service providers, could consider adequate, continuous and redundant air conditioning systems.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-29",
+      "text_sha256": "12dc535bef29f005714a2e23855c21c3796abdb95503f6dc8f5877f37ca4828d"
     },
     {
       "id": "recital-30",
@@ -3122,7 +3180,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 30,
       "text": "This Regulation is to further specify the cases in which an incident should be considered to be significant for the purpose of Article 23(3) of Directive (EU) 2022/2555. The criteria should be such that relevant entities are able to assess whether an incident is significant, in order to notify the incident in accordance with Directive (EU) 2022/2555. Furthermore, the criteria set out in this Regulation should be considered exhaustive, without prejudice to Article 5 of Directive (EU) 2022/2555. This regulation specifies the cases in which an incident should be considered to be significant by setting out horizontal as well as entity-type specific cases.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-30",
+      "text_sha256": "3c17632ca9e0026c094fe28c3ad56fb01028d6de5ed0bc06fc6af9e824461e92"
     },
     {
       "id": "recital-31",
@@ -3153,8 +3213,10 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "recital_number": 31,
-      "text": "Pursuant to Article 23(4) of Directive (EU) 2022/2555, relevant entities should be required to notify significant incidents within the deadlines set by that provision. Those notification deadlines are running from the moment the entity becomes aware of such significant incidents. The relevant entity is therefore required to report incidents that, based on its initial assessment, could cause severe operational disruption of the services or financial loss for that entity or affect other natural or legal persons by causing considerable material or non-material damage. Therefore, when a relevant entity has detected a suspicious event, or after a potential incident has been brought to its attention by a third party, such as an individual, a customer, an entity, an authority, a media organisation, or another source, the relevant entity should assess in a timely manner the suspicious event to determine whether it constitutes an incident and, if so, determine its nature and severity. The relevant entity is therefore to be regarded as having become \u201caware\u201d of the significant incident when, after such initial assessment, that entity has a reasonable degree of certainty that a significant incident has occurred.",
-      "type": "recital"
+      "text": "Pursuant to Article 23(4) of Directive (EU) 2022/2555, relevant entities should be required to notify significant incidents within the deadlines set by that provision. Those notification deadlines are running from the moment the entity becomes aware of such significant incidents. The relevant entity is therefore required to report incidents that, based on its initial assessment, could cause severe operational disruption of the services or financial loss for that entity or affect other natural or legal persons by causing considerable material or non-material damage. Therefore, when a relevant entity has detected a suspicious event, or after a potential incident has been brought to its attention by a third party, such as an individual, a customer, an entity, an authority, a media organisation, or another source, the relevant entity should assess in a timely manner the suspicious event to determine whether it constitutes an incident and, if so, determine its nature and severity. The relevant entity is therefore to be regarded as having become “aware” of the significant incident when, after such initial assessment, that entity has a reasonable degree of certainty that a significant incident has occurred.",
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-31",
+      "text_sha256": "eeff839f3626adaaa995c454193f13d104206a88430b45dcf4aa2ee49278cfc0"
     },
     {
       "id": "recital-32",
@@ -3198,8 +3260,10 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "recital_number": 32,
-      "text": "With a view to establishing whether an incident is significant, where relevant, relevant entities should count the number of users impacted by the incident, taking into consideration business and end customers with whom the relevant entities have a contractual relationship as well as natural and legal persons that are associated with business customers. Where a relevant entity is unable to calculate the number of impacted users, the relevant entity\u2019s estimate of the possible maximum number of affected users should be considered for the purpose of calculating the total number of users affected by the incident. The significance of an incident involving a trust service should not only be determined by the number of users but also by the number of relying parties as these can be equally affected by a significant incident involving a trust service in regard to operational disruption and material or non-material damage. Therefore, trust service providers should, where applicable, also take into account the number of relying parties when establishing whether an incident is significant. For that purpose, relying parties should be understood as natural or legal persons that rely upon a trust service.",
-      "type": "recital"
+      "text": "With a view to establishing whether an incident is significant, where relevant, relevant entities should count the number of users impacted by the incident, taking into consideration business and end customers with whom the relevant entities have a contractual relationship as well as natural and legal persons that are associated with business customers. Where a relevant entity is unable to calculate the number of impacted users, the relevant entity’s estimate of the possible maximum number of affected users should be considered for the purpose of calculating the total number of users affected by the incident. The significance of an incident involving a trust service should not only be determined by the number of users but also by the number of relying parties as these can be equally affected by a significant incident involving a trust service in regard to operational disruption and material or non-material damage. Therefore, trust service providers should, where applicable, also take into account the number of relying parties when establishing whether an incident is significant. For that purpose, relying parties should be understood as natural or legal persons that rely upon a trust service.",
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-32",
+      "text_sha256": "a5eacb1b9d525ca70c46447d0714dd4921da4d7c630bcd96f0bbc47c009fe9b7"
     },
     {
       "id": "recital-33",
@@ -3220,7 +3284,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 33,
       "text": "Maintenance operations resulting in the limited availability or unavailability of the services should not be considered as significant incidents if the limited availability or unavailability of the service occurs according to a scheduled maintenance operation. Moreover, where a service is unavailable due to scheduled interruptions such as interruptions or non-availability based on pre-determined contractual agreement should not be considered as significant incident.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-33",
+      "text_sha256": "debf11c40d846110e47c45f4b8e8fb6a09fae686ae644bc2842f4ca4be672d4b"
     },
     {
       "id": "recital-34",
@@ -3313,7 +3379,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 34,
       "text": "The duration of an incident which impacts availability of a service should be measured from the disruption of the proper provision of such service until the time of recovery. Where a relevant entity is unable to determine the moment when the disruption began, the duration of the incident should be measured from the moment the incident was detected, or from the moment when the incident was recorded in network or system logs or other data sources, whichever is earlier.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-34",
+      "text_sha256": "86368bbe38054128a09ea1ec097572ee6af281f07035e2449000627fcd7bb6b2"
     },
     {
       "id": "recital-35",
@@ -3454,7 +3522,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 35,
       "text": "Complete unavailability of a service should be measured from the moment the service is fully unavailable to users, to the moment when regular activities or operations have been restored to the level of service that was provided prior to the incident. Where a relevant entity is unable to determine when the complete unavailability of a service began, the unavailability should be measured from the moment it was detected by that entity.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-35",
+      "text_sha256": "b562c90749a48e25d8c60bf991ebd26889ccbf48792b221d880f4dc41a89a5ff"
     },
     {
       "id": "recital-36",
@@ -3487,7 +3557,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 36,
       "text": "For the purpose of determining the direct financial losses resulting from an incident, relevant entities should take into account all the financial losses which they have incurred as a result of the incident, such as costs for replacement or relocation of software, hardware or infrastructure, staff costs, including costs associated with replacement or relocation of staff, recruitment of extra staff, remuneration of overtime and recovery of lost or impaired skills, fees due to non-compliance with contractual obligations, costs for redress and compensation to customers, losses due to forgone revenues, costs associated with internal and external communication, advisory costs, including costs associated with legal counselling, forensic services and remediation services, and other costs associated to the incident. However, administrative fines, as well as costs that are necessary for the day-to-day operation of the business, should not be considered as financial losses resulting from an incident, including costs for general maintenance of infrastructure, equipment, hardware and software, keeping skills of staff up to date, internal or external costs to enhance the business after the incident, including upgrades, improvements and risk assessment initiatives, and insurance premiums. The relevant entities should calculate the amounts of financial losses based on available data and, where the actual amounts of financial losses cannot be determined, the entities should estimate those amounts.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-36",
+      "text_sha256": "b19be5365cf51bc37f255f4aefb2cad702e6b4013e95be1ade4e4f9d9bf1dda5"
     },
     {
       "id": "recital-37",
@@ -3507,8 +3579,10 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "recital_number": 37,
-      "text": "Relevant entities should also be obliged to report incidents that have caused or are capable of causing the death of natural persons or considerable damage to natural persons\u2019 health as such incidents are particularly serious cases of causing considerable material or non-material damage. For instance, an incident affecting a relevant entity could cause unavailability of healthcare or emergency services, or the loss of confidentiality or integrity of data with an effect on the health of natural persons. For the purpose of determining whether an incident has caused or is capable of causing considerable damage to a natural person\u2019s health, relevant entities should take into account whether the incident caused or is capable of causing severe injuries and ill-health. For that purpose, the relevant entities should not be required to collect additional information to which they do not have access.",
-      "type": "recital"
+      "text": "Relevant entities should also be obliged to report incidents that have caused or are capable of causing the death of natural persons or considerable damage to natural persons’ health as such incidents are particularly serious cases of causing considerable material or non-material damage. For instance, an incident affecting a relevant entity could cause unavailability of healthcare or emergency services, or the loss of confidentiality or integrity of data with an effect on the health of natural persons. For the purpose of determining whether an incident has caused or is capable of causing considerable damage to a natural person’s health, relevant entities should take into account whether the incident caused or is capable of causing severe injuries and ill-health. For that purpose, the relevant entities should not be required to collect additional information to which they do not have access.",
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-37",
+      "text_sha256": "20bf6f852100adf015dc82ae915dc8b984d174adb2745f612c3722ab7dd6f4f8"
     },
     {
       "id": "recital-38",
@@ -3516,7 +3590,7 @@ The repository licence covers only original selection, structure and analysis. I
       "outbound_relations": [
         {
           "confidence": "high",
-          "reasoning": "Defines 'limited availability' as used in the significance criteria under Article 3(1) \u2014 slower than average response times or partial loss of service functionality, with reference to objective criteria based on average response times.",
+          "reasoning": "Defines 'limited availability' as used in the significance criteria under Article 3(1) — slower than average response times or partial loss of service functionality, with reference to objective criteria based on average response times.",
           "relation": "defines",
           "target_article": 3,
           "target_paragraph": "1",
@@ -3625,7 +3699,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "recital_number": 38,
       "text": "Limited availability should be considered to occur in particular when a service provided by a relevant entity is considerably slower than average response time, or where not all functionalities of a service are available. Where possible, objective criteria based on the average response times of services provided by the relevant entities should be used to assess delays in response time. A functionality of a service may be, for instance, a chat functionality or an image search functionality.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-38",
+      "text_sha256": "85acee714ebbcc6ef0009fc9cc3b1d09468767d8e937a003b365f8cc0f703df2"
     },
     {
       "id": "recital-39",
@@ -3645,8 +3721,10 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "recital_number": 39,
-      "text": "Successful, suspectedly malicious and unauthorised access to a relevant entity\u2019s network and information systems should be regarded as a significant incident, where such access is capable of causing severe operational disruption. For instance, where a cyber threat actor pre-positions itself in a relevant entity\u2019s network and information systems with a view to causing disruption of services in the future, the incident should be considered to be significant.",
-      "type": "recital"
+      "text": "Successful, suspectedly malicious and unauthorised access to a relevant entity’s network and information systems should be regarded as a significant incident, where such access is capable of causing severe operational disruption. For instance, where a cyber threat actor pre-positions itself in a relevant entity’s network and information systems with a view to causing disruption of services in the future, the incident should be considered to be significant.",
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-39",
+      "text_sha256": "f1a1386c178a511ef9314c2356378b462bdb591629a56fbf89432e8d284a91ef"
     },
     {
       "id": "recital-40",
@@ -3666,8 +3744,10 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "recital_number": 40,
-      "text": "Recurring incidents that are linked through the same apparent root cause, which individually do not meet the criteria of a significant incident, should collectively be considered to be a significant incident, provided that they collectively meet the criterion for financial loss, and that they have occurred at least twice within six months. Such recurring incidents can indicate significant deficiencies and weaknesses in the relevant entity\u2019s cybersecurity risk management procedures and their level of cybersecurity maturity. Moreover, such recurring incidents are capable of causing significant financial loss for the relevant entity.",
-      "type": "recital"
+      "text": "Recurring incidents that are linked through the same apparent root cause, which individually do not meet the criteria of a significant incident, should collectively be considered to be a significant incident, provided that they collectively meet the criterion for financial loss, and that they have occurred at least twice within six months. Such recurring incidents can indicate significant deficiencies and weaknesses in the relevant entity’s cybersecurity risk management procedures and their level of cybersecurity maturity. Moreover, such recurring incidents are capable of causing significant financial loss for the relevant entity.",
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-40",
+      "text_sha256": "ccfdfc5fec0d2125c6ce30e55abaa5ca399c08d7991663d0ca432792c6f1146c"
     },
     {
       "id": "recital-41",
@@ -3675,7 +3755,9 @@ The repository licence covers only original selection, structure and analysis. I
       "outbound_relations": [],
       "recital_number": 41,
       "text": "The Commission has exchanged advice and cooperated with the Cooperation Group and ENISA on the draft implementing act, in accordance with Articles 21(5) and 23(11) of Directive (EU) 2022/2555.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-41",
+      "text_sha256": "01c42fe9b5b88746c293f92c1f98f12e128ae14d81f280accaf51962e292249b"
     },
     {
       "id": "recital-42",
@@ -3683,7 +3765,9 @@ The repository licence covers only original selection, structure and analysis. I
       "outbound_relations": [],
       "recital_number": 42,
       "text": "The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council3, and delivered its opinion on 1 September 2024.",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-42",
+      "text_sha256": "ebf62ab6a012b11e6b5ae2721b77dfbae39cb7826c82dce485172e084d24eb30"
     },
     {
       "id": "recital-43",
@@ -3691,7 +3775,9 @@ The repository licence covers only original selection, structure and analysis. I
       "outbound_relations": [],
       "recital_number": 43,
       "text": "The measures provided for in this Regulation are in accordance with the opinion of the committee established in accordance with Article 39 of Directive (EU) 2022/2555, 3 Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).",
-      "type": "recital"
+      "type": "recital",
+      "canonical_ref": "celex:32024R2690/recital-43",
+      "text_sha256": "cc70498907ac13e6c564b31ff4eb47695ddbd5f5acf7cb1197befb2c16a7f048"
     },
     {
       "id": "article-Art1-UN1",
@@ -3703,7 +3789,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Subject matter",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "This Regulation, with regard to DNS service providers, TLD name registries, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, providers of online market places, of online search engines and of social networking services platforms, and trust service providers (the relevant entities) lays down the technical and the methodological requirements of the measures referred to in Article\u00a021(2) of Directive (EU)\u00a02022/2555 and further specifies the cases in which an incident shall be considered to be significant as referred to in Article\u00a023(3) of Directive (EU)\u00a02022/2555.",
+      "text": "This Regulation, with regard to DNS service providers, TLD name registries, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, providers of online market places, of online search engines and of social networking services platforms, and trust service providers (the relevant entities) lays down the technical and the methodological requirements of the measures referred to in Article 21(2) of Directive (EU) 2022/2555 and further specifies the cases in which an incident shall be considered to be significant as referred to in Article 23(3) of Directive (EU) 2022/2555.",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -3717,7 +3803,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art1-UN1",
+      "text_sha256": "059c953e18b451a998a2bd175870c61e022c27994376d0fa17d0e01f725799ad"
     },
     {
       "article_number": 2,
@@ -3869,13 +3957,15 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "outbound_relations": [],
       "paragraph_number": "1",
-      "text": "For the relevant entities the technical and methodological requirements of cybersecurity risk-management measures referred to in Article\u00a021(2), points (a) to (j), of Directive (EU)\u00a02022/2555 are set out in the Annex to this Regulation.",
+      "text": "For the relevant entities the technical and methodological requirements of cybersecurity risk-management measures referred to in Article 21(2), points (a) to (j), of Directive (EU) 2022/2555 are set out in the Annex to this Regulation.",
       "type": "article_paragraph",
       "akn4eu_paragraph_kind": "numbered",
       "akn4eu_article_kind": "regular",
       "akn4eu_heading": "Technical and methodological requirements",
       "akn4eu_sub_units": [],
-      "ancestry": []
+      "ancestry": [],
+      "canonical_ref": "celex:32024R2690/article-Art2-Para1",
+      "text_sha256": "69d38586dac1e7bd05e642c8e90f3e02388854217262e13bfe1d0456164d1161"
     },
     {
       "article_number": 2,
@@ -3923,7 +4013,9 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_article_kind": "regular",
       "akn4eu_heading": "Technical and methodological requirements",
       "akn4eu_sub_units": [],
-      "ancestry": []
+      "ancestry": [],
+      "canonical_ref": "celex:32024R2690/article-Art2-Para2",
+      "text_sha256": "1d880c4d7e0abab1e03f2ebca1b09a3e2b2cba8344b43a24f6cd005d299b88c1"
     },
     {
       "id": "article-Art2-UN1",
@@ -3935,9 +4027,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Technical and methodological requirements",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "Where the Annex to this Regulation provides that a technical or methodological requirement of a cybersecurity risk-management measure shall be applied \u2018where appropriate\u2019, \u2018where applicable\u2019 or \u2018to the extent feasible\u2019, and where a relevant entity considers it not appropriate, not applicable or not feasible for the relevant entity to apply certain such technical and methodological requirements, the relevant entity shall in a comprehensible manner document its reasoning to that effect.",
+      "text": "Where the Annex to this Regulation provides that a technical or methodological requirement of a cybersecurity risk-management measure shall be applied ‘where appropriate’, ‘where applicable’ or ‘to the extent feasible’, and where a relevant entity considers it not appropriate, not applicable or not feasible for the relevant entity to apply certain such technical and methodological requirements, the relevant entity shall in a comprehensible manner document its reasoning to that effect.",
       "outbound_relations": [],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R2690/article-Art2-UN1",
+      "text_sha256": "27c07719270ef60a345a92a6e176472deb30054498a55c5d3ef56acbede3e307"
     },
     {
       "article_number": 3,
@@ -4033,7 +4127,7 @@ The repository licence covers only original selection, structure and analysis. I
         },
         {
           "confidence": "high",
-          "reasoning": "Defines 'limited availability' as used in the significance criteria under Article 3(1) \u2014 slower than average response times or partial loss of service functionality, with reference to objective criteria based on average response times.",
+          "reasoning": "Defines 'limited availability' as used in the significance criteria under Article 3(1) — slower than average response times or partial loss of service functionality, with reference to objective criteria based on average response times.",
           "relation": "defines",
           "source_recital": 38,
           "source_type": "recital",
@@ -4056,13 +4150,15 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "outbound_relations": [],
       "paragraph_number": "1",
-      "text": "An incident shall be considered to be significant for the purposes of Article\u00a023(3) of Directive (EU)\u00a02022/2555 with regard to the relevant entities where one or more of the following criteria are fulfilled:",
+      "text": "An incident shall be considered to be significant for the purposes of Article 23(3) of Directive (EU) 2022/2555 with regard to the relevant entities where one or more of the following criteria are fulfilled:",
       "type": "article_paragraph",
       "akn4eu_paragraph_kind": "numbered",
       "akn4eu_article_kind": "regular",
       "akn4eu_heading": "Significant incidents",
       "akn4eu_sub_units": [],
-      "ancestry": []
+      "ancestry": [],
+      "canonical_ref": "celex:32024R2690/article-Art3-Para1",
+      "text_sha256": "dca7869e47b8fac1c1f812e4cdf39fca57ee0a9017749b4983819c02cfec12a5"
     },
     {
       "article_number": 3,
@@ -4088,7 +4184,9 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_article_kind": "regular",
       "akn4eu_heading": "Significant incidents",
       "akn4eu_sub_units": [],
-      "ancestry": []
+      "ancestry": [],
+      "canonical_ref": "celex:32024R2690/article-Art3-Para2",
+      "text_sha256": "c65c8e71d5c1422e5d4f2b7ca41e2fa440d2a623cf035c58bff4d8e4f441c9fb"
     },
     {
       "article_number": 3,
@@ -4108,13 +4206,15 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "outbound_relations": [],
       "paragraph_number": "3",
-      "text": "When calculating the number of users impacted by an incident for the purpose of Articles\u00a07 and\u00a09 to 14, the relevant entities shall consider all of the following:",
+      "text": "When calculating the number of users impacted by an incident for the purpose of Articles 7 and 9 to 14, the relevant entities shall consider all of the following:",
       "type": "article_paragraph",
       "akn4eu_paragraph_kind": "numbered",
       "akn4eu_article_kind": "regular",
       "akn4eu_heading": "Significant incidents",
       "akn4eu_sub_units": [],
-      "ancestry": []
+      "ancestry": [],
+      "canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "text_sha256": "15a822ceaefc5a437b8e567d2d54312ccf19fba05ebf99551a3ff510e48a3d14"
     },
     {
       "id": "article-Art4-UN1",
@@ -4126,7 +4226,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Recurring incidents",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "Incidents that individually are not considered a significant incident within the meaning of Article\u00a03, shall be considered collectively as one significant incident where they meet all of the following criteria:",
+      "text": "Incidents that individually are not considered a significant incident within the meaning of Article 3, shall be considered collectively as one significant incident where they meet all of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4151,7 +4251,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art4-UN1",
+      "text_sha256": "a8d502f98cbb5b07272d72b78987f5ed60460273209340d11fdff73cb798b9ec"
     },
     {
       "id": "article-Art5-UN1",
@@ -4163,7 +4265,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to DNS service providers",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to DNS service providers, an incident shall be considered significant under Article\u00a03(1)(g), where it fulfils one or more of the following criteria:",
+      "text": "With regard to DNS service providers, an incident shall be considered significant under Article 3(1)(g), where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4188,7 +4290,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art5-UN1",
+      "text_sha256": "f74e0e6cd101e1e838385f22995e715a51b11c7fc330d247510a1ed408748f8b"
     },
     {
       "id": "article-Art6-UN1",
@@ -4200,7 +4304,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to TLD name registries",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to TLD name registries, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to TLD name registries, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4225,7 +4329,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art6-UN1",
+      "text_sha256": "12573064fcd87f39870253c0ba890699a75988221755c07f30ebfe49c66dffd0"
     },
     {
       "id": "article-Art7-UN1",
@@ -4237,7 +4343,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to cloud computing service providers",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to cloud computing service providers, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to cloud computing service providers, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4273,7 +4379,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art7-UN1",
+      "text_sha256": "16c801f0e3fcc571d1cc5f0be6fd7b4b4f5bad3bacafbaf7a2cdc3e39872f69d"
     },
     {
       "id": "article-Art8-UN1",
@@ -4285,7 +4393,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to data centre service providers",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to data centre service providers, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to data centre service providers, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4310,7 +4418,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art8-UN1",
+      "text_sha256": "3a4554a70e74b6a699f324fdac1cadb669b16dfc9eed5020a8d1594f67f43e07"
     },
     {
       "id": "article-Art9-UN1",
@@ -4322,7 +4432,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to content delivery network providers",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to content delivery network providers, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to content delivery network providers, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4358,7 +4468,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art9-UN1",
+      "text_sha256": "1a7709a50d2c71859b3828adae576af067683a042f984d77cf62d58801f70f06"
     },
     {
       "id": "article-Art10-UN1",
@@ -4370,7 +4482,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to managed service providers and managed security service providers",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to managed service providers and managed security service providers, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to managed service providers and managed security service providers, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4406,7 +4518,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art10-UN1",
+      "text_sha256": "fe3cf942fa43affc7d8cb5b88b0fd5d81c63f8538f5eac4ab258ebe7e6f48d6f"
     },
     {
       "id": "article-Art11-UN1",
@@ -4418,7 +4532,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to providers of online marketplaces",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to providers of online marketplaces, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to providers of online marketplaces, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4443,7 +4557,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art11-UN1",
+      "text_sha256": "45b8355b9ee70594c3202fd45e6b6c10ca7de7f513d91c2eedf03365206a84b8"
     },
     {
       "id": "article-Art12-UN1",
@@ -4455,7 +4571,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to providers of online search engines",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to providers of online search engines, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to providers of online search engines, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4480,7 +4596,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art12-UN1",
+      "text_sha256": "a7305631b26921ad30e8baaa20a4a7a9c24e3274e835245f2c17d0ca40e08c5e"
     },
     {
       "id": "article-Art13-UN1",
@@ -4492,7 +4610,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to providers of social networking services platforms",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to providers of social networking services platforms, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to providers of social networking services platforms, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4517,7 +4635,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art13-UN1",
+      "text_sha256": "3b189ca0bd7dbea0200e9a767a015e4c86dda5e0d83e78d5b265dc09ab385a6a"
     },
     {
       "id": "article-Art14-UN1",
@@ -4529,7 +4649,7 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Significant incidents with regard to trust service providers",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "With regard to trust service providers, an incident shall be considered significant under Article\u00a03(1)(g) where it fulfils one or more of the following criteria:",
+      "text": "With regard to trust service providers, an incident shall be considered significant under Article 3(1)(g) where it fulfils one or more of the following criteria:",
       "outbound_relations": [],
       "inbound_relations": [
         {
@@ -4587,7 +4707,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_target_uri": null,
           "akn4eu_ancestry": []
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R2690/article-Art14-UN1",
+      "text_sha256": "05fccfa990e683545023baccd865ba59b0a9834eeacf358c0b7d1f4eefe4f8e8"
     },
     {
       "id": "article-Art15-UN1",
@@ -4599,9 +4721,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Repeal",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "Commission Implementing Regulation (EU)\u00a02018/151\u00a0 ( 4 )  is repealed.",
+      "text": "Commission Implementing Regulation (EU) 2018/151  ( 4 )  is repealed.",
       "outbound_relations": [],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R2690/article-Art15-UN1",
+      "text_sha256": "94954fda272d52de31022e329847bf8987959b5f65d55f0bd147a83cdeeed29b"
     },
     {
       "id": "article-Art16-UN1",
@@ -4615,7 +4739,9 @@ The repository licence covers only original selection, structure and analysis. I
       "ancestry": [],
       "text": "This Regulation shall enter into force on the twentieth day following that of its publication in the  Official Journal of the European Union .",
       "outbound_relations": [],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R2690/article-Art16-UN1",
+      "text_sha256": "424b5d7d19803253651b173411510f9ea0d28905ea6f0545655eb32225c4abce"
     },
     {
       "id": "article-Art16-UN2",
@@ -4629,7 +4755,9 @@ The repository licence covers only original selection, structure and analysis. I
       "ancestry": [],
       "text": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
       "outbound_relations": [],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R2690/article-Art16-UN2",
+      "text_sha256": "3fb7f41a0649729ad489ad66e3ac9942605ae3740fa85930e13388da56aba270"
     },
     {
       "id": "article-Art16-UN3",
@@ -4641,9 +4769,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_heading": "Entry into force and application",
       "akn4eu_sub_units": [],
       "ancestry": [],
-      "text": "Done at Brussels, 17\u00a0October 2024.",
+      "text": "Done at Brussels, 17 October 2024.",
       "outbound_relations": [],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R2690/article-Art16-UN3",
+      "text_sha256": "fa2bb3a366ff9bc79cab16a179802af3e79bbfca8e94a2d2354c8cc9d797cfb3"
     }
   ],
   "annex_points": [
@@ -4652,7 +4782,7 @@ The repository licence covers only original selection, structure and analysis. I
       "type": "annex_point",
       "point": "1",
       "parent_point": null,
-      "title": "Policy on the security of network and information systems (Article\u00a021(2), point (a) of Directive (EU)\u00a02022/2555)",
+      "title": "Policy on the security of network and information systems (Article 21(2), point (a) of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "a",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -4671,7 +4801,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Policy on the security of network and information systems (Article\u00a021(2), point (a) of Directive (EU)\u00a02022/2555)"
+      "text": "Policy on the security of network and information systems (Article 21(2), point (a) of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point1",
+      "text_sha256": "8647b719c438b1df05de851986255d5bbf21122a7ac881d3176b78a699b6cb8d"
     },
     {
       "id": "annex-Point1-1",
@@ -4696,7 +4828,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (a) of Directive (EU)\u00a02022/2555, the policy on the security of network and information systems shall:\n\nset out the relevant entities\u2019 approach to managing the security of their network and information systems;\n\nbe appropriate to and complementary with the relevant entities\u2019 business strategy and objectives;\n\nset out network and information security objectives;\n\ninclude a commitment to continual improvement of the security of network and information systems;\n\ninclude a commitment to provide the appropriate resources needed for its implementation, including the necessary staff, financial resources, processes, tools and technologies;\n\nbe communicated to and acknowledged by relevant employees and relevant interested external parties;\n\nlay down roles and responsibilities pursuant to point 1.2;\n\nlist the documentation to be kept and the duration of retention of the documentation;\n\nlist the topic-specific policies;\n\nlay down indicators and measures to monitor its implementation and the current status of relevant entities\u2019 maturity level of network and information security;\n\nindicate the date of the formal approval by the management bodies of the relevant entities (the \u2018management bodies\u2019).\n\nThe network and information system security policy shall be reviewed and, where appropriate, updated by management bodies at least annually and when significant incidents or significant changes to operations or risks occur. The result of the reviews shall be documented."
+      "text": "For the purpose of Article 21(2), point (a) of Directive (EU) 2022/2555, the policy on the security of network and information systems shall:\n\nset out the relevant entities’ approach to managing the security of their network and information systems;\n\nbe appropriate to and complementary with the relevant entities’ business strategy and objectives;\n\nset out network and information security objectives;\n\ninclude a commitment to continual improvement of the security of network and information systems;\n\ninclude a commitment to provide the appropriate resources needed for its implementation, including the necessary staff, financial resources, processes, tools and technologies;\n\nbe communicated to and acknowledged by relevant employees and relevant interested external parties;\n\nlay down roles and responsibilities pursuant to point 1.2;\n\nlist the documentation to be kept and the duration of retention of the documentation;\n\nlist the topic-specific policies;\n\nlay down indicators and measures to monitor its implementation and the current status of relevant entities’ maturity level of network and information security;\n\nindicate the date of the formal approval by the management bodies of the relevant entities (the ‘management bodies’).\n\nThe network and information system security policy shall be reviewed and, where appropriate, updated by management bodies at least annually and when significant incidents or significant changes to operations or risks occur. The result of the reviews shall be documented.",
+      "canonical_ref": "celex:32024R2690/annex-Point1-1",
+      "text_sha256": "ffd110a03f7bae87e3aef1ff0b5b75e209629c1218fae3530c79c11241358852"
     },
     {
       "id": "annex-Point1-2",
@@ -4721,14 +4855,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "As part of their policy on the security of network and information systems referred to in point 1.1, the relevant entities shall lay down responsibilities and authorities for network and information system security and assign them to roles, allocate them according to the relevant entities\u2019 needs, and communicate them to the management bodies.\n\nThe relevant entities shall require all personnel and third parties to apply network and information system security in accordance with the established network and information security policy, topic-specific policies and procedures of the relevant entities.\n\nAt least one person shall report directly to the management bodies on matters of network and information system security.\n\nDepending on the size of the relevant entities, network and information system security shall be covered by dedicated roles or duties carried out in addition to existing roles.\n\nConflicting duties and conflicting areas of responsibility shall be segregated, where applicable.\n\nRoles, responsibilities and authorities shall be reviewed and, where appropriate, updated by management bodies at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "As part of their policy on the security of network and information systems referred to in point 1.1, the relevant entities shall lay down responsibilities and authorities for network and information system security and assign them to roles, allocate them according to the relevant entities’ needs, and communicate them to the management bodies.\n\nThe relevant entities shall require all personnel and third parties to apply network and information system security in accordance with the established network and information security policy, topic-specific policies and procedures of the relevant entities.\n\nAt least one person shall report directly to the management bodies on matters of network and information system security.\n\nDepending on the size of the relevant entities, network and information system security shall be covered by dedicated roles or duties carried out in addition to existing roles.\n\nConflicting duties and conflicting areas of responsibility shall be segregated, where applicable.\n\nRoles, responsibilities and authorities shall be reviewed and, where appropriate, updated by management bodies at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point1-2",
+      "text_sha256": "07cfb9b60902e6846aab780cffa347ddf1e4cccdbd7f4a7f229b32ba0c9daf36"
     },
     {
       "id": "annex-Point2",
       "type": "annex_point",
       "point": "2",
       "parent_point": null,
-      "title": "Risk management policy (Article\u00a021(2), point (a) of Directive (EU)\u00a02022/2555)",
+      "title": "Risk management policy (Article 21(2), point (a) of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "a",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -4747,7 +4883,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Risk management policy (Article\u00a021(2), point (a) of Directive (EU)\u00a02022/2555)"
+      "text": "Risk management policy (Article 21(2), point (a) of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point2",
+      "text_sha256": "d634d81e317ec74aab4984b2aff43361e2703a5db98c69b4476e078b39c9731c"
     },
     {
       "id": "annex-Point2-1",
@@ -4772,7 +4910,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (a) of Directive (EU)\u00a02022/2555, the relevant entities shall establish and maintain an appropriate risk management framework to identify and address the risks posed to the security of network and information systems. The relevant entities shall perform and document risk assessments and, based on the results, establish, implement and monitor a risk treatment plan. Risk assessment results and residual risks shall be accepted by management bodies or, where applicable, by persons who are accountable and have the authority to manage risks, provided that the relevant entities ensure adequate reporting to the management bodies.\n\nFor the purpose of point 2.1.1, the relevant entities shall establish procedures for identification, analysis, assessment and treatment of risks (\u2018cybersecurity risk management process\u2019). The cybersecurity risk management process shall be an integral part of the relevant entities\u2019 overall risk management process, where applicable. As part of the cybersecurity risk management process, the relevant entities shall:\n\nfollow a risk management methodology;\n\nestablish the risk tolerance level in accordance with the risk appetite of the relevant entities;\n\nestablish and maintain relevant risk criteria;\n\nin line with an all-hazards approach, identify and document the risks posed to the security of network and information systems, in particular in relation to third parties and risks that could lead to disruptions in the availability, integrity, authenticity and confidentiality of the network and information systems, including the identification of single point of failures;\n\nanalyse the risks posed to the security of network and information systems, including threat, likelihood, impact, and risk level, taking into account cyber threat intelligence and vulnerabilities;\n\nevaluate the identified risks based on the risk criteria;\n\nidentify and prioritise appropriate risk treatment options and measures;\n\ncontinuously monitor the implementation of the risk treatment measures;\n\nidentify who is responsible for implementing the risk treatment measures and when they should be implemented;\n\ndocument the chosen risk treatment measures in a risk treatment plan and the reasons justifying the acceptance of residual risks in a comprehensible manner.\n\nWhen identifying and prioritising appropriate risk treatment options and measures, the relevant entities shall take into account the risk assessment results, the results of the procedure to assess the effectiveness of cybersecurity risk-management measures, the cost of implementation in relation to the expected benefit, the asset classification referred to in point 12.1, and the business impact analysis referred to in point 4.1.3.\n\nThe relevant entities shall review and, where appropriate, update the risk assessment results and the risk treatment plan at planned intervals and at least annually, and when significant changes to operations or risks or significant incidents occur."
+      "text": "For the purpose of Article 21(2), point (a) of Directive (EU) 2022/2555, the relevant entities shall establish and maintain an appropriate risk management framework to identify and address the risks posed to the security of network and information systems. The relevant entities shall perform and document risk assessments and, based on the results, establish, implement and monitor a risk treatment plan. Risk assessment results and residual risks shall be accepted by management bodies or, where applicable, by persons who are accountable and have the authority to manage risks, provided that the relevant entities ensure adequate reporting to the management bodies.\n\nFor the purpose of point 2.1.1, the relevant entities shall establish procedures for identification, analysis, assessment and treatment of risks (‘cybersecurity risk management process’). The cybersecurity risk management process shall be an integral part of the relevant entities’ overall risk management process, where applicable. As part of the cybersecurity risk management process, the relevant entities shall:\n\nfollow a risk management methodology;\n\nestablish the risk tolerance level in accordance with the risk appetite of the relevant entities;\n\nestablish and maintain relevant risk criteria;\n\nin line with an all-hazards approach, identify and document the risks posed to the security of network and information systems, in particular in relation to third parties and risks that could lead to disruptions in the availability, integrity, authenticity and confidentiality of the network and information systems, including the identification of single point of failures;\n\nanalyse the risks posed to the security of network and information systems, including threat, likelihood, impact, and risk level, taking into account cyber threat intelligence and vulnerabilities;\n\nevaluate the identified risks based on the risk criteria;\n\nidentify and prioritise appropriate risk treatment options and measures;\n\ncontinuously monitor the implementation of the risk treatment measures;\n\nidentify who is responsible for implementing the risk treatment measures and when they should be implemented;\n\ndocument the chosen risk treatment measures in a risk treatment plan and the reasons justifying the acceptance of residual risks in a comprehensible manner.\n\nWhen identifying and prioritising appropriate risk treatment options and measures, the relevant entities shall take into account the risk assessment results, the results of the procedure to assess the effectiveness of cybersecurity risk-management measures, the cost of implementation in relation to the expected benefit, the asset classification referred to in point 12.1, and the business impact analysis referred to in point 4.1.3.\n\nThe relevant entities shall review and, where appropriate, update the risk assessment results and the risk treatment plan at planned intervals and at least annually, and when significant changes to operations or risks or significant incidents occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point2-1",
+      "text_sha256": "8865284d97ac633c72e466e334d59e9911cb24b2b2aeaa702206e2bd0bc5bf7d"
     },
     {
       "id": "annex-Point2-2",
@@ -4797,7 +4937,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall regularly review the compliance with their policies on network and information system security, topic-specific policies, rules, and standards. The management bodies shall be informed of the status of network and information security on the basis of the compliance reviews by means of regular reporting.\n\nThe relevant entities shall put in place an effective compliance reporting system which shall be appropriate to their structures, operating environments and threat landscapes. The compliance reporting system shall be capable to provide to the management bodies an informed view of the current state of the relevant entities\u2019 management of risks.\n\nThe relevant entities shall perform the compliance monitoring at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "The relevant entities shall regularly review the compliance with their policies on network and information system security, topic-specific policies, rules, and standards. The management bodies shall be informed of the status of network and information security on the basis of the compliance reviews by means of regular reporting.\n\nThe relevant entities shall put in place an effective compliance reporting system which shall be appropriate to their structures, operating environments and threat landscapes. The compliance reporting system shall be capable to provide to the management bodies an informed view of the current state of the relevant entities’ management of risks.\n\nThe relevant entities shall perform the compliance monitoring at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point2-2",
+      "text_sha256": "d71d54f159c3b56b7be6fac6f1f4bc3d54eb9a67c36fb7e99814f9450018b29c"
     },
     {
       "id": "annex-Point2-3",
@@ -4822,14 +4964,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall review independently their approach to managing network and information system security and its implementation including people, processes and technologies.\n\nThe relevant entities shall develop and maintain processes to conduct independent reviews which shall be carried out by individuals with appropriate audit competence. Where the independent review is conducted by staff members of the relevant entity, the persons conducting the reviews shall not be in the line of authority of the personnel of the area under review. If the size of the relevant entities does not allow such separation of line of authority, the relevant entities shall put in place alternative measures to guarantee the impartiality of the reviews.\n\nThe results of the independent reviews, including the results from the compliance monitoring pursuant to point 2.2 and the monitoring and measurement pursuant to point 7, shall be reported to the management bodies. Corrective actions shall be taken or residual risk accepted according to the relevant entities\u2019 risk acceptance criteria.\n\nThe independent reviews shall take place at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "The relevant entities shall review independently their approach to managing network and information system security and its implementation including people, processes and technologies.\n\nThe relevant entities shall develop and maintain processes to conduct independent reviews which shall be carried out by individuals with appropriate audit competence. Where the independent review is conducted by staff members of the relevant entity, the persons conducting the reviews shall not be in the line of authority of the personnel of the area under review. If the size of the relevant entities does not allow such separation of line of authority, the relevant entities shall put in place alternative measures to guarantee the impartiality of the reviews.\n\nThe results of the independent reviews, including the results from the compliance monitoring pursuant to point 2.2 and the monitoring and measurement pursuant to point 7, shall be reported to the management bodies. Corrective actions shall be taken or residual risk accepted according to the relevant entities’ risk acceptance criteria.\n\nThe independent reviews shall take place at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point2-3",
+      "text_sha256": "099c5a4e8c9491838b8462b3070ff9a534bc21df6a75ae678526a828d5ee8e4c"
     },
     {
       "id": "annex-Point3",
       "type": "annex_point",
       "point": "3",
       "parent_point": null,
-      "title": "Incident handling (Article\u00a021(2), point (b), of Directive (EU)\u00a02022/2555)",
+      "title": "Incident handling (Article 21(2), point (b), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "b",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -4848,7 +4992,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Incident handling (Article\u00a021(2), point (b), of Directive (EU)\u00a02022/2555)"
+      "text": "Incident handling (Article 21(2), point (b), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point3",
+      "text_sha256": "95543235b52446d39359f6f0c7036ca6f34dad5d7a8396c0befece4054544e49"
     },
     {
       "id": "annex-Point3-1",
@@ -4873,7 +5019,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (b) of Directive (EU)\u00a02022/2555, the relevant entities shall establish and implement an incident handling policy laying down the roles, responsibilities, and procedures for detecting, analysing, containing or responding to, recovering from, documenting and reporting of incidents in a timely manner.\n\nThe policy referred to in point 3.1.1 shall be coherent with the business continuity and disaster recovery plan referred to in point 4.1. The policy shall include:\n\na categorisation system for incidents that is consistent with the event assessment and classification carried out pursuant to point 3.4.1;\n\neffective communication plans including for escalation and reporting;\n\nassignment of roles to detect and appropriately respond to incidents to competent employees;\n\ndocuments to be used in the course of incident detection and response such as incident response manuals, escalation charts, contact lists and templates.\n\nThe roles, responsibilities and procedures laid down in the policy shall be tested and reviewed and, where appropriate, updated at planned intervals and after significant incidents or significant changes to operations or risks."
+      "text": "For the purpose of Article 21(2), point (b) of Directive (EU) 2022/2555, the relevant entities shall establish and implement an incident handling policy laying down the roles, responsibilities, and procedures for detecting, analysing, containing or responding to, recovering from, documenting and reporting of incidents in a timely manner.\n\nThe policy referred to in point 3.1.1 shall be coherent with the business continuity and disaster recovery plan referred to in point 4.1. The policy shall include:\n\na categorisation system for incidents that is consistent with the event assessment and classification carried out pursuant to point 3.4.1;\n\neffective communication plans including for escalation and reporting;\n\nassignment of roles to detect and appropriately respond to incidents to competent employees;\n\ndocuments to be used in the course of incident detection and response such as incident response manuals, escalation charts, contact lists and templates.\n\nThe roles, responsibilities and procedures laid down in the policy shall be tested and reviewed and, where appropriate, updated at planned intervals and after significant incidents or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point3-1",
+      "text_sha256": "d8c8c8e4a149de281178511427f1c2b1c6866a89ffb8a2c1a567f2383a5b1381"
     },
     {
       "id": "annex-Point3-2",
@@ -4898,7 +5046,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall lay down procedures and use tools to monitor and log activities on their network and information systems to detect events that could be considered as incidents and respond accordingly to mitigate the impact.\n\nTo the extent feasible, monitoring shall be automated and carried out either continuously or in periodic intervals, subject to business capabilities. The relevant entities shall implement their monitoring activities in a way which minimises false positives and false negatives.\n\nBased on the procedures referred to in point 3.2.1, the relevant entities shall maintain, document, and review logs. The relevant entities shall establish a list of assets to be subject to logging based on the results of the risk assessment carried out pursuant to point 2.1. Where appropriate, logs shall include:\n\nrelevant outbound and inbound network traffic;\n\ncreation, modification or deletion of users of the relevant entities\u2019 network and information systems and extension of the permissions;\n\naccess to systems and applications;\n\nauthentication-related events;\n\nall privileged access to systems and applications, and activities performed by administrative accounts;\n\naccess or changes to critical configuration and backup files;\n\nevent logs and logs from security tools, such as antivirus, intrusion detection systems or firewalls;\n\nuse of system resources, as well as their performance;\n\nphysical access to facilities;\n\naccess to and use of their network equipment and devices;\n\nactivation, stopping and pausing of the various logs;\n\nenvironmental events.\n\nThe logs shall be regularly reviewed for any unusual or unwanted trends. Where appropriate, the relevant entities shall lay down appropriate values for alarm thresholds. If the laid down values for alarm threshold are exceeded, an alarm shall be triggered, where appropriate, automatically. The relevant entities shall ensure that, in case of an alarm, a qualified and appropriate response is initiated in a timely manner.\n\nThe relevant entities shall maintain and back up logs for a predefined period and shall protect them from unauthorised access or changes.\n\nTo the extent feasible, the relevant entities shall ensure that all systems have synchronised time sources to be able to correlate logs between systems for event assessment. The relevant entities shall establish and keep a list of all assets that are being logged and ensure that monitoring and logging systems are redundant. The availability of the monitoring and logging systems shall be monitored independent of the systems they are monitoring.\n\nThe procedures as well as the list of assets that are being logged shall be reviewed and, where appropriate, updated at regular intervals and after significant incidents."
+      "text": "The relevant entities shall lay down procedures and use tools to monitor and log activities on their network and information systems to detect events that could be considered as incidents and respond accordingly to mitigate the impact.\n\nTo the extent feasible, monitoring shall be automated and carried out either continuously or in periodic intervals, subject to business capabilities. The relevant entities shall implement their monitoring activities in a way which minimises false positives and false negatives.\n\nBased on the procedures referred to in point 3.2.1, the relevant entities shall maintain, document, and review logs. The relevant entities shall establish a list of assets to be subject to logging based on the results of the risk assessment carried out pursuant to point 2.1. Where appropriate, logs shall include:\n\nrelevant outbound and inbound network traffic;\n\ncreation, modification or deletion of users of the relevant entities’ network and information systems and extension of the permissions;\n\naccess to systems and applications;\n\nauthentication-related events;\n\nall privileged access to systems and applications, and activities performed by administrative accounts;\n\naccess or changes to critical configuration and backup files;\n\nevent logs and logs from security tools, such as antivirus, intrusion detection systems or firewalls;\n\nuse of system resources, as well as their performance;\n\nphysical access to facilities;\n\naccess to and use of their network equipment and devices;\n\nactivation, stopping and pausing of the various logs;\n\nenvironmental events.\n\nThe logs shall be regularly reviewed for any unusual or unwanted trends. Where appropriate, the relevant entities shall lay down appropriate values for alarm thresholds. If the laid down values for alarm threshold are exceeded, an alarm shall be triggered, where appropriate, automatically. The relevant entities shall ensure that, in case of an alarm, a qualified and appropriate response is initiated in a timely manner.\n\nThe relevant entities shall maintain and back up logs for a predefined period and shall protect them from unauthorised access or changes.\n\nTo the extent feasible, the relevant entities shall ensure that all systems have synchronised time sources to be able to correlate logs between systems for event assessment. The relevant entities shall establish and keep a list of all assets that are being logged and ensure that monitoring and logging systems are redundant. The availability of the monitoring and logging systems shall be monitored independent of the systems they are monitoring.\n\nThe procedures as well as the list of assets that are being logged shall be reviewed and, where appropriate, updated at regular intervals and after significant incidents.",
+      "canonical_ref": "celex:32024R2690/annex-Point3-2",
+      "text_sha256": "6d2804054950451a9179a9a716d022e7ee9738be366e4776e2a753cd28e5e5ca"
     },
     {
       "id": "annex-Point3-3",
@@ -4923,7 +5073,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall put in place a simple mechanism allowing their employees, suppliers, and customers to report suspicious events.\n\nThe relevant entities shall, where appropriate, communicate the event reporting mechanism to their suppliers and customers, and shall regularly train their employees how to use the mechanism."
+      "text": "The relevant entities shall put in place a simple mechanism allowing their employees, suppliers, and customers to report suspicious events.\n\nThe relevant entities shall, where appropriate, communicate the event reporting mechanism to their suppliers and customers, and shall regularly train their employees how to use the mechanism.",
+      "canonical_ref": "celex:32024R2690/annex-Point3-3",
+      "text_sha256": "8e6018a7fc78664b0a17f2fdfe58247710b3348452d55ae300d835271e646ba5"
     },
     {
       "id": "annex-Point3-4",
@@ -4948,7 +5100,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall assess suspicious events to determine whether they constitute incidents and, if so, determine their nature and severity.\n\nFor the purpose of point 3.4.1, the relevant entities shall act in the following manner:\n\ncarry out the assessment based on predefined criteria laid down in advance, and on a triage to determine prioritisation of incident containment and eradication;\n\nassess the existence of recurring incidents as referred to in Article\u00a04 of this Regulation on a quarterly basis;\n\nreview the appropriate logs for the purposes of event assessment and classification;\n\nput in place a process for log correlation and analysis, and\n\nreassess and reclassify events in case of new information becoming available or after analysis of previously available information."
+      "text": "The relevant entities shall assess suspicious events to determine whether they constitute incidents and, if so, determine their nature and severity.\n\nFor the purpose of point 3.4.1, the relevant entities shall act in the following manner:\n\ncarry out the assessment based on predefined criteria laid down in advance, and on a triage to determine prioritisation of incident containment and eradication;\n\nassess the existence of recurring incidents as referred to in Article 4 of this Regulation on a quarterly basis;\n\nreview the appropriate logs for the purposes of event assessment and classification;\n\nput in place a process for log correlation and analysis, and\n\nreassess and reclassify events in case of new information becoming available or after analysis of previously available information.",
+      "canonical_ref": "celex:32024R2690/annex-Point3-4",
+      "text_sha256": "6e91e911d34a67533db6ca36996ea41f6d7c9c68a7b55f65eae7532bfae54d1d"
     },
     {
       "id": "annex-Point3-5",
@@ -4973,7 +5127,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall respond to incidents in accordance with documented procedures and in a timely manner.\n\nThe incident response procedures shall include the following stages:\n\nincident containment, to prevent the consequences of the incident from spreading;\n\neradication, to prevent the incident from continuing or reappearing,\n\nrecovery from the incident, where necessary.\n\nThe relevant entities shall establish communication plans and procedures:\n\nwith the Computer Security Incident Response Teams (CSIRTs) or, where applicable, the competent authorities, related to incident notification;\n\nfor communication among staff members of the relevant entity, and for communication with relevant stakeholders external to the relevant entity.\n\nThe relevant entities shall log incident response activities in accordance with the procedures referred to in point 3.2.1, and record evidence.\n\nThe relevant entities shall test at planned intervals their incident response procedures."
+      "text": "The relevant entities shall respond to incidents in accordance with documented procedures and in a timely manner.\n\nThe incident response procedures shall include the following stages:\n\nincident containment, to prevent the consequences of the incident from spreading;\n\neradication, to prevent the incident from continuing or reappearing,\n\nrecovery from the incident, where necessary.\n\nThe relevant entities shall establish communication plans and procedures:\n\nwith the Computer Security Incident Response Teams (CSIRTs) or, where applicable, the competent authorities, related to incident notification;\n\nfor communication among staff members of the relevant entity, and for communication with relevant stakeholders external to the relevant entity.\n\nThe relevant entities shall log incident response activities in accordance with the procedures referred to in point 3.2.1, and record evidence.\n\nThe relevant entities shall test at planned intervals their incident response procedures.",
+      "canonical_ref": "celex:32024R2690/annex-Point3-5",
+      "text_sha256": "2860a669c4c45cc1bee8d653610359c4847d5c2e07a1531f7c54d0bf61f8d712"
     },
     {
       "id": "annex-Point3-6",
@@ -4998,14 +5154,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "Where appropriate, the relevant entities shall carry out post-incident reviews after recovery from incidents. The post-incident reviews shall identify, where possible, the root cause of the incident and result in documented lessons learned to reduce the occurrence and consequences of future incidents.\n\nThe relevant entities shall ensure that post-incident reviews contribute to improving their approach to network and information security, to risk treatment measures, and to incident handling, detection and response procedures.\n\nThe relevant entities shall review at planned intervals if incidents led to post-incident reviews."
+      "text": "Where appropriate, the relevant entities shall carry out post-incident reviews after recovery from incidents. The post-incident reviews shall identify, where possible, the root cause of the incident and result in documented lessons learned to reduce the occurrence and consequences of future incidents.\n\nThe relevant entities shall ensure that post-incident reviews contribute to improving their approach to network and information security, to risk treatment measures, and to incident handling, detection and response procedures.\n\nThe relevant entities shall review at planned intervals if incidents led to post-incident reviews.",
+      "canonical_ref": "celex:32024R2690/annex-Point3-6",
+      "text_sha256": "3c0d5f7900b3e52d6bac24d8d566853efba0642947463786244607fbaa6fa669"
     },
     {
       "id": "annex-Point4",
       "type": "annex_point",
       "point": "4",
       "parent_point": null,
-      "title": "Business continuity and crisis management (Article\u00a021(2), point (c), of Directive (EU)\u00a02022/2555)",
+      "title": "Business continuity and crisis management (Article 21(2), point (c), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "c",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5024,7 +5182,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Business continuity and crisis management (Article\u00a021(2), point (c), of Directive (EU)\u00a02022/2555)"
+      "text": "Business continuity and crisis management (Article 21(2), point (c), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point4",
+      "text_sha256": "40bf79d86610cfb075030974bbdee0d4ed6878e25d2128cb4d7b5a76db172456"
     },
     {
       "id": "annex-Point4-1",
@@ -5049,7 +5209,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (c) of Directive (EU)\u00a02022/2555, the relevant entities shall lay down and maintain a business continuity and disaster recovery plan to apply in the case of incidents.\n\nThe relevant entities\u2019 operations shall be restored according to the business continuity and disaster recovery plan. The plan shall be based on the results of the risk assessment carried out pursuant to point 2.1 and shall include, where appropriate, the following:\n\npurpose, scope and audience;\n\nroles and responsibilities;\n\nkey contacts and (internal and external) communication channels;\n\nconditions for plan activation and deactivation;\n\norder of recovery for operations;\n\nrecovery plans for specific operations, including recovery objectives;\n\nrequired resources, including backups and redundancies;\n\nrestoring and resuming activities from temporary measures.\n\nThe relevant entities shall carry out a business impact analysis to assess the potential impact of severe disruptions to their business operations and shall, based on the results of the business impact analysis, establish continuity requirements for the network and information systems.\n\nThe business continuity plan and disaster recovery plan shall be tested, reviewed and, where appropriate, updated at planned intervals and following significant incidents or significant changes to operations or risks. The relevant entities shall ensure that the plans incorporate lessons learnt from such tests."
+      "text": "For the purpose of Article 21(2), point (c) of Directive (EU) 2022/2555, the relevant entities shall lay down and maintain a business continuity and disaster recovery plan to apply in the case of incidents.\n\nThe relevant entities’ operations shall be restored according to the business continuity and disaster recovery plan. The plan shall be based on the results of the risk assessment carried out pursuant to point 2.1 and shall include, where appropriate, the following:\n\npurpose, scope and audience;\n\nroles and responsibilities;\n\nkey contacts and (internal and external) communication channels;\n\nconditions for plan activation and deactivation;\n\norder of recovery for operations;\n\nrecovery plans for specific operations, including recovery objectives;\n\nrequired resources, including backups and redundancies;\n\nrestoring and resuming activities from temporary measures.\n\nThe relevant entities shall carry out a business impact analysis to assess the potential impact of severe disruptions to their business operations and shall, based on the results of the business impact analysis, establish continuity requirements for the network and information systems.\n\nThe business continuity plan and disaster recovery plan shall be tested, reviewed and, where appropriate, updated at planned intervals and following significant incidents or significant changes to operations or risks. The relevant entities shall ensure that the plans incorporate lessons learnt from such tests.",
+      "canonical_ref": "celex:32024R2690/annex-Point4-1",
+      "text_sha256": "582ce334ba34e32267df7a455e9dce211738a185af914dc13a9ecf85c360c34e"
     },
     {
       "id": "annex-Point4-2",
@@ -5074,7 +5236,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall maintain backup copies of data and provide sufficient available resources, including facilities, network and information systems and staff, to ensure an appropriate level of redundancy.\n\nBased on the results of the risk assessment carried out pursuant to point 2.1 and the business continuity plan, the relevant entities shall lay down backup plans which include the following:\n\nrecovery times;\n\nassurance that backup copies are complete and accurate, including configuration data and data stored in cloud computing service environment;\n\nstoring backup copies (online or offline) in a safe location or locations, which are not in the same network as the system, and are at sufficient distance to escape any damage from a disaster at the main site;\n\nappropriate physical and logical access controls to backup copies, in accordance with the asset classification level;\n\nrestoring data from backup copies;\n\nretention periods based on business and regulatory requirements.\n\nThe relevant entities shall perform regular integrity checks on the backup copies.\n\nBased on the results of the risk assessment carried out pursuant to point 2.1 and the business continuity plan, the relevant entities shall ensure sufficient availability of resources by at least partial redundancy of the following:\n\nnetwork and information systems;\n\nassets, including facilities, equipment and supplies;\n\npersonnel with the necessary responsibility, authority and competence;\n\nappropriate communication channels.\n\nWhere appropriate, the relevant entities shall ensure that monitoring and adjustment of resources, including facilities, systems and personnel, is duly informed by backup and redundancy requirements.\n\nThe relevant entities shall carry out regular testing of the recovery of backup copies and redundancies to ensure that, in recovery conditions, they can be relied upon and cover the copies, processes and knowledge to perform an effective recovery. The relevant entities shall document the results of the tests and, where needed, take corrective action."
+      "text": "The relevant entities shall maintain backup copies of data and provide sufficient available resources, including facilities, network and information systems and staff, to ensure an appropriate level of redundancy.\n\nBased on the results of the risk assessment carried out pursuant to point 2.1 and the business continuity plan, the relevant entities shall lay down backup plans which include the following:\n\nrecovery times;\n\nassurance that backup copies are complete and accurate, including configuration data and data stored in cloud computing service environment;\n\nstoring backup copies (online or offline) in a safe location or locations, which are not in the same network as the system, and are at sufficient distance to escape any damage from a disaster at the main site;\n\nappropriate physical and logical access controls to backup copies, in accordance with the asset classification level;\n\nrestoring data from backup copies;\n\nretention periods based on business and regulatory requirements.\n\nThe relevant entities shall perform regular integrity checks on the backup copies.\n\nBased on the results of the risk assessment carried out pursuant to point 2.1 and the business continuity plan, the relevant entities shall ensure sufficient availability of resources by at least partial redundancy of the following:\n\nnetwork and information systems;\n\nassets, including facilities, equipment and supplies;\n\npersonnel with the necessary responsibility, authority and competence;\n\nappropriate communication channels.\n\nWhere appropriate, the relevant entities shall ensure that monitoring and adjustment of resources, including facilities, systems and personnel, is duly informed by backup and redundancy requirements.\n\nThe relevant entities shall carry out regular testing of the recovery of backup copies and redundancies to ensure that, in recovery conditions, they can be relied upon and cover the copies, processes and knowledge to perform an effective recovery. The relevant entities shall document the results of the tests and, where needed, take corrective action.",
+      "canonical_ref": "celex:32024R2690/annex-Point4-2",
+      "text_sha256": "68d699eb398d976e1e52d9a4d2f218d785b1c991c287c26822c9ef37b7eba43d"
     },
     {
       "id": "annex-Point4-3",
@@ -5099,14 +5263,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall put in place a process for crisis management.\n\nThe relevant entities shall ensure that the crisis management process addresses at least the following elements:\n\nroles and responsibilities for personnel and, where appropriate, suppliers and service providers, specifying the allocation of roles in crisis situations, including specific steps to follow;\n\nappropriate communication means between the relevant entities and relevant competent authorities;\n\napplication of appropriate measures to ensure the maintenance of network and information system security in crisis situations.\n\nFor the purpose of point (b), the flow of information between the relevant entities and relevant competent authorities shall include both obligatory communications, such as incident reports and related timelines, and non-obligatory communications.\n\nThe relevant entities shall implement a process for managing and making use of information received from the CSIRTs or, where applicable, the competent authorities, concerning incidents, vulnerabilities, threats or possible mitigation measures.\n\nThe relevant entities shall test, review and, where appropriate, update the crisis management plan on a regular basis or following significant incidents or significant changes to operations or risks."
+      "text": "The relevant entities shall put in place a process for crisis management.\n\nThe relevant entities shall ensure that the crisis management process addresses at least the following elements:\n\nroles and responsibilities for personnel and, where appropriate, suppliers and service providers, specifying the allocation of roles in crisis situations, including specific steps to follow;\n\nappropriate communication means between the relevant entities and relevant competent authorities;\n\napplication of appropriate measures to ensure the maintenance of network and information system security in crisis situations.\n\nFor the purpose of point (b), the flow of information between the relevant entities and relevant competent authorities shall include both obligatory communications, such as incident reports and related timelines, and non-obligatory communications.\n\nThe relevant entities shall implement a process for managing and making use of information received from the CSIRTs or, where applicable, the competent authorities, concerning incidents, vulnerabilities, threats or possible mitigation measures.\n\nThe relevant entities shall test, review and, where appropriate, update the crisis management plan on a regular basis or following significant incidents or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point4-3",
+      "text_sha256": "3774387511a0c450952fca134768140d85eba7f34193eadc024b2b0eff337b59"
     },
     {
       "id": "annex-Point5",
       "type": "annex_point",
       "point": "5",
       "parent_point": null,
-      "title": "Supply chain security (Article\u00a021(2), point (d), of Directive (EU)\u00a02022/2555)",
+      "title": "Supply chain security (Article 21(2), point (d), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "d",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5125,7 +5291,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Supply chain security (Article\u00a021(2), point (d), of Directive (EU)\u00a02022/2555)"
+      "text": "Supply chain security (Article 21(2), point (d), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point5",
+      "text_sha256": "628b19b1e9de570431d2801b77e8519ffe7fef6ffd2cdb0d4f60d2b394fbe2d0"
     },
     {
       "id": "annex-Point5-1",
@@ -5150,7 +5318,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (d) of Directive (EU)\u00a02022/2555, the relevant entities shall establish, implement and apply a supply chain security policy which governs the relations with their direct suppliers and service providers in order to mitigate the identified risks to the security of network and information systems. In the supply chain security policy, the relevant entities shall identify their role in the supply chain and communicate it to their direct suppliers and service providers.\n\nAs part of the supply chain security policy referred to in point 5.1.1, the relevant entities shall lay down criteria to select and contract suppliers and service providers. Those criteria shall include the following:\n\nthe cybersecurity practices of the suppliers and service providers, including their secure development procedures;\n\nthe ability of the suppliers and service providers to meet cybersecurity specifications set by the relevant entities;\n\nthe overall quality and resilience of ICT products and ICT services and the cybersecurity risk-management measures embedded in them, including the risks and classification level of the ICT products and ICT services;\n\nthe ability of the relevant entities to diversify sources of supply and limit vendor lock-in, where applicable.\n\nWhen establishing their supply chain security policy, relevant entities shall take into account the results of the coordinated security risk assessments of critical supply chains carried out in accordance with Article\u00a022(1) of Directive (EU)\u00a02022/2555, where applicable.\n\nBased on the supply chain security policy and taking into account the results of the risk assessment carried out in accordance with point 2.1 of this Annex, the relevant entities shall ensure that their contracts with the suppliers and service providers specify, where appropriate through service level agreements, the following, where appropriate:\n\ncybersecurity requirements for the suppliers or service providers, including requirements as regards the security in acquisition of ICT services or ICT products set out in point 6.1;\n\nrequirements regarding awareness, skills and training, and where appropriate certifications, required from the suppliers\u2019 or service providers\u2019 employees;\n\nrequirements regarding the verification of the background of the suppliers\u2019 and service providers\u2019 employees;\n\nan obligation on suppliers and service providers to notify, without undue delay, the relevant entities of incidents that present a risk to the security of the network and information systems of those entities;\n\nthe right to audit or right to receive audit reports;\n\nan obligation on suppliers and service providers to handle vulnerabilities that present a risk to the security of the network and information systems of the relevant entities;\n\nrequirements regarding subcontracting and, where the relevant entities allow subcontracting, cybersecurity requirements for subcontractors in accordance with the cybersecurity requirements referred to in point (a);\n\nobligations on the suppliers and service providers at the termination of the contract, such as retrieval and disposal of the information obtained by the suppliers and service providers in the exercise of their tasks.\n\nThe relevant entities shall take into account the elements referred to in point 5.1.2 and\u00a05.1.3 as part of the selection process of new suppliers and service providers, as well as part of the procurement process referred to in point 6.1.\n\nThe relevant entities shall review the supply chain security policy, and monitor, evaluate and, where necessary, act upon changes in the cybersecurity practices of suppliers and service providers, at planned intervals and when significant changes to operations or risks or significant incidents related to the provision of ICT services or having impact on the security of the ICT products from suppliers and service providers occur.\n\nFor the purpose of point 5.1.6, the relevant entities shall:\n\nregularly monitor reports on the implementation of the service level agreements, where applicable;\n\nreview incidents related to ICT products and ICT services from suppliers and service providers;\n\nassess the need for unscheduled reviews and document the findings in a comprehensible manner;\n\nanalyse the risks presented by changes related to ICT products and ICT services from suppliers and service providers and, where appropriate, take mitigating measures in a timely manner."
+      "text": "For the purpose of Article 21(2), point (d) of Directive (EU) 2022/2555, the relevant entities shall establish, implement and apply a supply chain security policy which governs the relations with their direct suppliers and service providers in order to mitigate the identified risks to the security of network and information systems. In the supply chain security policy, the relevant entities shall identify their role in the supply chain and communicate it to their direct suppliers and service providers.\n\nAs part of the supply chain security policy referred to in point 5.1.1, the relevant entities shall lay down criteria to select and contract suppliers and service providers. Those criteria shall include the following:\n\nthe cybersecurity practices of the suppliers and service providers, including their secure development procedures;\n\nthe ability of the suppliers and service providers to meet cybersecurity specifications set by the relevant entities;\n\nthe overall quality and resilience of ICT products and ICT services and the cybersecurity risk-management measures embedded in them, including the risks and classification level of the ICT products and ICT services;\n\nthe ability of the relevant entities to diversify sources of supply and limit vendor lock-in, where applicable.\n\nWhen establishing their supply chain security policy, relevant entities shall take into account the results of the coordinated security risk assessments of critical supply chains carried out in accordance with Article 22(1) of Directive (EU) 2022/2555, where applicable.\n\nBased on the supply chain security policy and taking into account the results of the risk assessment carried out in accordance with point 2.1 of this Annex, the relevant entities shall ensure that their contracts with the suppliers and service providers specify, where appropriate through service level agreements, the following, where appropriate:\n\ncybersecurity requirements for the suppliers or service providers, including requirements as regards the security in acquisition of ICT services or ICT products set out in point 6.1;\n\nrequirements regarding awareness, skills and training, and where appropriate certifications, required from the suppliers’ or service providers’ employees;\n\nrequirements regarding the verification of the background of the suppliers’ and service providers’ employees;\n\nan obligation on suppliers and service providers to notify, without undue delay, the relevant entities of incidents that present a risk to the security of the network and information systems of those entities;\n\nthe right to audit or right to receive audit reports;\n\nan obligation on suppliers and service providers to handle vulnerabilities that present a risk to the security of the network and information systems of the relevant entities;\n\nrequirements regarding subcontracting and, where the relevant entities allow subcontracting, cybersecurity requirements for subcontractors in accordance with the cybersecurity requirements referred to in point (a);\n\nobligations on the suppliers and service providers at the termination of the contract, such as retrieval and disposal of the information obtained by the suppliers and service providers in the exercise of their tasks.\n\nThe relevant entities shall take into account the elements referred to in point 5.1.2 and 5.1.3 as part of the selection process of new suppliers and service providers, as well as part of the procurement process referred to in point 6.1.\n\nThe relevant entities shall review the supply chain security policy, and monitor, evaluate and, where necessary, act upon changes in the cybersecurity practices of suppliers and service providers, at planned intervals and when significant changes to operations or risks or significant incidents related to the provision of ICT services or having impact on the security of the ICT products from suppliers and service providers occur.\n\nFor the purpose of point 5.1.6, the relevant entities shall:\n\nregularly monitor reports on the implementation of the service level agreements, where applicable;\n\nreview incidents related to ICT products and ICT services from suppliers and service providers;\n\nassess the need for unscheduled reviews and document the findings in a comprehensible manner;\n\nanalyse the risks presented by changes related to ICT products and ICT services from suppliers and service providers and, where appropriate, take mitigating measures in a timely manner.",
+      "canonical_ref": "celex:32024R2690/annex-Point5-1",
+      "text_sha256": "4fdb725677e05275a233df5602aa9694cbc9b45fd9c6314913384c563cdf34d0"
     },
     {
       "id": "annex-Point5-2",
@@ -5175,14 +5345,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall maintain and keep up to date a registry of their direct suppliers and service providers, including:\n\ncontact points for each direct supplier and service provider;\n\na list of ICT products, ICT services, and ICT processes provided by the direct supplier or service provider to the relevant entities."
+      "text": "The relevant entities shall maintain and keep up to date a registry of their direct suppliers and service providers, including:\n\ncontact points for each direct supplier and service provider;\n\na list of ICT products, ICT services, and ICT processes provided by the direct supplier or service provider to the relevant entities.",
+      "canonical_ref": "celex:32024R2690/annex-Point5-2",
+      "text_sha256": "2c2434d4eeb1a0311af92484e168f792e9710912d67bc8f554cbb4a3aa9d269b"
     },
     {
       "id": "annex-Point6",
       "type": "annex_point",
       "point": "6",
       "parent_point": null,
-      "title": "Security in network and information systems acquisition, development and maintenance (Article\u00a021(2), point (e), of Directive (EU)\u00a02022/2555)",
+      "title": "Security in network and information systems acquisition, development and maintenance (Article 21(2), point (e), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "e",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5201,7 +5373,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Security in network and information systems acquisition, development and maintenance (Article\u00a021(2), point (e), of Directive (EU)\u00a02022/2555)"
+      "text": "Security in network and information systems acquisition, development and maintenance (Article 21(2), point (e), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point6",
+      "text_sha256": "bc3f80dd2d0fac3a35dc763253d0b7e4d594b601c7f7ca1d05d8cc833207f788"
     },
     {
       "id": "annex-Point6-1",
@@ -5226,7 +5400,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (e) of Directive (EU)\u00a02022/2555, the relevant entities shall set and implement processes to manage risks stemming from the acquisition of ICT services or ICT products for components that are critical for the relevant entities\u2019 security of network and information systems, based on the risk assessment carried out pursuant to point 2.1, from suppliers or service providers throughout their life cycle.\n\nFor the purpose of point 6.1.1, the processes referred to in point 6.1.1 shall include:\n\nsecurity requirements to apply to the ICT services or ICT products to be acquired;\n\nrequirements regarding security updates throughout the entire lifetime of the ICT services or ICT products, or replacement after the end of the support period;\n\ninformation describing the hardware and software components used in the ICT services or ICT products;\n\ninformation describing the implemented cybersecurity functions of the ICT services or ICT products and the configuration required for their secure operation;\n\nassurance that the ICT services or ICT products comply with the security requirements according to point (a);\n\nmethods for validating that the delivered ICT services or ICT products are compliant to the stated security requirements, as well as documentation of the results of the validation.\n\nThe relevant entities shall review and, where appropriate, update the processes at planned intervals and when significant incidents occur."
+      "text": "For the purpose of Article 21(2), point (e) of Directive (EU) 2022/2555, the relevant entities shall set and implement processes to manage risks stemming from the acquisition of ICT services or ICT products for components that are critical for the relevant entities’ security of network and information systems, based on the risk assessment carried out pursuant to point 2.1, from suppliers or service providers throughout their life cycle.\n\nFor the purpose of point 6.1.1, the processes referred to in point 6.1.1 shall include:\n\nsecurity requirements to apply to the ICT services or ICT products to be acquired;\n\nrequirements regarding security updates throughout the entire lifetime of the ICT services or ICT products, or replacement after the end of the support period;\n\ninformation describing the hardware and software components used in the ICT services or ICT products;\n\ninformation describing the implemented cybersecurity functions of the ICT services or ICT products and the configuration required for their secure operation;\n\nassurance that the ICT services or ICT products comply with the security requirements according to point (a);\n\nmethods for validating that the delivered ICT services or ICT products are compliant to the stated security requirements, as well as documentation of the results of the validation.\n\nThe relevant entities shall review and, where appropriate, update the processes at planned intervals and when significant incidents occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-1",
+      "text_sha256": "9b1257ad1105ef3c08309ccce68bf95c8c85d60737b9284f01f3999adc71ec65"
     },
     {
       "id": "annex-Point6-2",
@@ -5251,7 +5427,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "Before developing a network and information system, including software, the relevant entities shall lay down rules for the secure development of network and information systems and apply them when developing network and information systems in-house, or when outsourcing the development of network and information systems. The rules shall cover all development phases, including specification, design, development, implementation and testing.\n\nFor the purpose of point 6.2.1, the relevant entities shall:\n\ncarry out an analysis of security requirements at the specification and design phases of any development or acquisition project undertaken by the relevant entities or on behalf of those entities;\n\napply principles for engineering secure systems and secure coding principles to any information system development activities such as promoting cybersecurity-by-design, zero-trust architectures;\n\nlay down security requirements regarding development environments;\n\nestablish and implement security testing processes in the development life cycle;\n\nappropriately select, protect and manage security test data;\n\nsanitise and anonymise testing data according to the risk assessment carried out pursuant to point 2.1.\n\nFor outsourced development of network and information systems, the relevant entities shall also apply the policies and procedures referred to in points 5 and\u00a06.1.\n\nThe relevant entities shall review and, where necessary, update their secure development rules at planned intervals."
+      "text": "Before developing a network and information system, including software, the relevant entities shall lay down rules for the secure development of network and information systems and apply them when developing network and information systems in-house, or when outsourcing the development of network and information systems. The rules shall cover all development phases, including specification, design, development, implementation and testing.\n\nFor the purpose of point 6.2.1, the relevant entities shall:\n\ncarry out an analysis of security requirements at the specification and design phases of any development or acquisition project undertaken by the relevant entities or on behalf of those entities;\n\napply principles for engineering secure systems and secure coding principles to any information system development activities such as promoting cybersecurity-by-design, zero-trust architectures;\n\nlay down security requirements regarding development environments;\n\nestablish and implement security testing processes in the development life cycle;\n\nappropriately select, protect and manage security test data;\n\nsanitise and anonymise testing data according to the risk assessment carried out pursuant to point 2.1.\n\nFor outsourced development of network and information systems, the relevant entities shall also apply the policies and procedures referred to in points 5 and 6.1.\n\nThe relevant entities shall review and, where necessary, update their secure development rules at planned intervals.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-2",
+      "text_sha256": "506ebb70a1478c9aefc02dcd094ea041116c8e66f3e8e90ec9dbdf73cac5274f"
     },
     {
       "id": "annex-Point6-3",
@@ -5276,7 +5454,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall take the appropriate measures to establish, document, implement, and monitor configurations, including security configurations of hardware, software, services and networks.\n\nFor the purpose of point 6.3.1, the relevant entities shall:\n\nlay down and ensure security in configurations for their hardware, software, services and networks;\n\nlay down and implement processes and tools to enforce the laid down secure configurations for hardware, software, services and networks, for newly installed systems as well as for systems in operation over their lifetime.\n\nThe relevant entities shall review and, where appropriate, update configurations at planned intervals or when significant incidents or significant changes to operations or risks occur."
+      "text": "The relevant entities shall take the appropriate measures to establish, document, implement, and monitor configurations, including security configurations of hardware, software, services and networks.\n\nFor the purpose of point 6.3.1, the relevant entities shall:\n\nlay down and ensure security in configurations for their hardware, software, services and networks;\n\nlay down and implement processes and tools to enforce the laid down secure configurations for hardware, software, services and networks, for newly installed systems as well as for systems in operation over their lifetime.\n\nThe relevant entities shall review and, where appropriate, update configurations at planned intervals or when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-3",
+      "text_sha256": "d4d2be5f064b84da8672daafbd903752dd6c94548b83bbe9e97e741b060208d1"
     },
     {
       "id": "annex-Point6-4",
@@ -5301,7 +5481,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall apply change management procedures to control changes of network and information systems. Where applicable, the procedures shall be consistent with the relevant entities\u2019 general policies concerning change management.\n\nThe procedures referred to in point 6.4.1 shall be applied for releases, modifications and emergency changes of any software and hardware in operation and changes to the configuration. The procedures shall ensure that those changes are documented and, based on the risk assessment carried out pursuant to point 2.1, tested and assessed in view of the potential impact before being implemented.\n\nIn the event that the regular change management procedures could not be followed due to an emergency, the relevant entities shall document the result of the change, and the explanation for why the procedures could not be followed.\n\nThe relevant entities shall review and, where appropriate, update the procedures at planned intervals and when significant incidents or significant changes to operations or risks."
+      "text": "The relevant entities shall apply change management procedures to control changes of network and information systems. Where applicable, the procedures shall be consistent with the relevant entities’ general policies concerning change management.\n\nThe procedures referred to in point 6.4.1 shall be applied for releases, modifications and emergency changes of any software and hardware in operation and changes to the configuration. The procedures shall ensure that those changes are documented and, based on the risk assessment carried out pursuant to point 2.1, tested and assessed in view of the potential impact before being implemented.\n\nIn the event that the regular change management procedures could not be followed due to an emergency, the relevant entities shall document the result of the change, and the explanation for why the procedures could not be followed.\n\nThe relevant entities shall review and, where appropriate, update the procedures at planned intervals and when significant incidents or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-4",
+      "text_sha256": "7c6acb92c5ee6be68bc2c8bb249cd6adb83db44bcacc8505f7088cb692e16ae1"
     },
     {
       "id": "annex-Point6-5",
@@ -5326,7 +5508,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall establish, implement and apply a policy and procedures for security testing.\n\nThe relevant entities shall:\n\nestablish, based on the risk assessment carried out pursuant to point 2.1, the need, scope, frequency and type of security tests;\n\ncarry out security tests according to a documented test methodology, covering the components identified as relevant for secure operation in a risk analysis;\n\ndocument the type, scope, time and results of the tests, including assessment of criticality and mitigating actions for each finding;\n\napply mitigating actions in case of critical findings.\n\nThe relevant entities shall review and, where appropriate, update their security testing policies at planned intervals."
+      "text": "The relevant entities shall establish, implement and apply a policy and procedures for security testing.\n\nThe relevant entities shall:\n\nestablish, based on the risk assessment carried out pursuant to point 2.1, the need, scope, frequency and type of security tests;\n\ncarry out security tests according to a documented test methodology, covering the components identified as relevant for secure operation in a risk analysis;\n\ndocument the type, scope, time and results of the tests, including assessment of criticality and mitigating actions for each finding;\n\napply mitigating actions in case of critical findings.\n\nThe relevant entities shall review and, where appropriate, update their security testing policies at planned intervals.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-5",
+      "text_sha256": "4bfcf28d910422bdfd678f6b0e8e4c197a38c04214ec06792bb743d99f15880e"
     },
     {
       "id": "annex-Point6-6",
@@ -5351,7 +5535,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall specify and apply procedures, coherent with the change management procedures referred to in point 6.4.1 as well as with vulnerability management, risk management and other relevant management procedures, for ensuring that:\n\nsecurity patches are applied within a reasonable time after they become available;\n\nsecurity patches are tested before being applied in production systems;\n\nsecurity patches come from trusted sources and are checked for integrity;\n\nadditional measures are implemented and residual risks are accepted in cases where a patch is not available or not applied pursuant to point 6.6.2.\n\nBy way of derogation from point 6.6.1(a), the relevant entities may choose not to apply security patches when the disadvantages of applying the security patches outweigh the cybersecurity benefits. The relevant entities shall duly document and substantiate the reasons for any such decision."
+      "text": "The relevant entities shall specify and apply procedures, coherent with the change management procedures referred to in point 6.4.1 as well as with vulnerability management, risk management and other relevant management procedures, for ensuring that:\n\nsecurity patches are applied within a reasonable time after they become available;\n\nsecurity patches are tested before being applied in production systems;\n\nsecurity patches come from trusted sources and are checked for integrity;\n\nadditional measures are implemented and residual risks are accepted in cases where a patch is not available or not applied pursuant to point 6.6.2.\n\nBy way of derogation from point 6.6.1(a), the relevant entities may choose not to apply security patches when the disadvantages of applying the security patches outweigh the cybersecurity benefits. The relevant entities shall duly document and substantiate the reasons for any such decision.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-6",
+      "text_sha256": "e898422da97fa2f8268511ec76fc480629ef902f8fe1dc1e7da32401d8a8ec72"
     },
     {
       "id": "annex-Point6-7",
@@ -5376,7 +5562,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall take the appropriate measures to protect their network and information systems from cyber threats.\n\nFor the purpose of point 6.7.1, the relevant entities shall:\n\ndocument the architecture of the network in a comprehensible and up to date manner;\n\ndetermine and apply controls to protect the relevant entities\u2019 internal network domains from unauthorised access;\n\nconfigure controls to prevent accesses and network communication not required for the operation of the relevant entities;\n\ndetermine and apply controls for remote access to network and information systems, including access by service providers;\n\nnot use systems used for administration of the security policy implementation for other purposes;\n\nexplicitly forbid or deactivate unneeded connections and services;\n\nwhere appropriate, exclusively allow access to the relevant entities\u2019 network and information systems by devices authorised by those entities;\n\nallow connections of service providers only after an authorisation request and for a set time period, such as the duration of a maintenance operation;\n\nestablish communication between distinct systems only through trusted channels that are isolated using logical, cryptographic or physical separation from other communication channels and provide assured identification of their end points and protection of the channel data from modification or disclosure;\n\nadopt an implementation plan for the full transition towards latest generation network layer communication protocols in a secure, appropriate and gradual way and establish measures to accelerate such transition;\n\nadopt an implementation plan for the deployment of internationally agreed and interoperable modern e-mail communications standards to secure e-mail communications to mitigate vulnerabilities linked to e-mail-related threats and establish measures to accelerate such deployment;\n\napply best practices for the security of the DNS, and for Internet routing security and routing hygiene of traffic originating from and destined to the network.\n\nThe relevant entities shall review and, where appropriate, update these measures at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "The relevant entities shall take the appropriate measures to protect their network and information systems from cyber threats.\n\nFor the purpose of point 6.7.1, the relevant entities shall:\n\ndocument the architecture of the network in a comprehensible and up to date manner;\n\ndetermine and apply controls to protect the relevant entities’ internal network domains from unauthorised access;\n\nconfigure controls to prevent accesses and network communication not required for the operation of the relevant entities;\n\ndetermine and apply controls for remote access to network and information systems, including access by service providers;\n\nnot use systems used for administration of the security policy implementation for other purposes;\n\nexplicitly forbid or deactivate unneeded connections and services;\n\nwhere appropriate, exclusively allow access to the relevant entities’ network and information systems by devices authorised by those entities;\n\nallow connections of service providers only after an authorisation request and for a set time period, such as the duration of a maintenance operation;\n\nestablish communication between distinct systems only through trusted channels that are isolated using logical, cryptographic or physical separation from other communication channels and provide assured identification of their end points and protection of the channel data from modification or disclosure;\n\nadopt an implementation plan for the full transition towards latest generation network layer communication protocols in a secure, appropriate and gradual way and establish measures to accelerate such transition;\n\nadopt an implementation plan for the deployment of internationally agreed and interoperable modern e-mail communications standards to secure e-mail communications to mitigate vulnerabilities linked to e-mail-related threats and establish measures to accelerate such deployment;\n\napply best practices for the security of the DNS, and for Internet routing security and routing hygiene of traffic originating from and destined to the network.\n\nThe relevant entities shall review and, where appropriate, update these measures at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-7",
+      "text_sha256": "93acf0e7a82c834ef409bead2a2d8ce8f9ee108cd5cddb82ccabfcdbac270f0c"
     },
     {
       "id": "annex-Point6-8",
@@ -5401,7 +5589,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall segment systems into networks or zones in accordance with the results of the risk assessment referred to in point 2.1. They shall segment their systems and networks from third parties\u2019 systems and networks.\n\nFor that purpose, the relevant entities shall:\n\nconsider the functional, logical and physical relationship, including location, between trustworthy systems and services;\n\ngrant access to a network or zone based on an assessment of its security requirements;\n\nkeep systems that are critical to the relevant entities operation or to safety in secured zones;\n\ndeploy a demilitarised zone within their communication networks to ensure secure communication originating from or destined to their networks;\n\nrestrict access and communications between and within zones to those necessary for the operation of the relevant entities or for safety;\n\nseparate the dedicated network for administration of network and information systems from the relevant entities\u2019 operational network;\n\nsegregate network administration channels from other network traffic;\n\nseparate the production systems for the relevant entities\u2019 services from systems used in development and testing, including backups.\n\nThe relevant entities shall review and, where appropriate, update network segmentation at planned intervals and when significant incidents or significant changes to operations or risks."
+      "text": "The relevant entities shall segment systems into networks or zones in accordance with the results of the risk assessment referred to in point 2.1. They shall segment their systems and networks from third parties’ systems and networks.\n\nFor that purpose, the relevant entities shall:\n\nconsider the functional, logical and physical relationship, including location, between trustworthy systems and services;\n\ngrant access to a network or zone based on an assessment of its security requirements;\n\nkeep systems that are critical to the relevant entities operation or to safety in secured zones;\n\ndeploy a demilitarised zone within their communication networks to ensure secure communication originating from or destined to their networks;\n\nrestrict access and communications between and within zones to those necessary for the operation of the relevant entities or for safety;\n\nseparate the dedicated network for administration of network and information systems from the relevant entities’ operational network;\n\nsegregate network administration channels from other network traffic;\n\nseparate the production systems for the relevant entities’ services from systems used in development and testing, including backups.\n\nThe relevant entities shall review and, where appropriate, update network segmentation at planned intervals and when significant incidents or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-8",
+      "text_sha256": "57f56321a0525b55e460da787b672e9c4a31205882c9dae8fad060aaecf85cb8"
     },
     {
       "id": "annex-Point6-9",
@@ -5426,7 +5616,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall protect their network and information systems against malicious and unauthorised software.\n\nFor that purpose, the relevant entities shall in particular implement measures that detect or prevent the use of malicious or unauthorised software. The relevant entities shall, where appropriate, ensure that their network and information systems are equipped with detection and response software, which is updated regularly in accordance with the risk assessment carried out pursuant to point 2.1 and the contractual agreements with the providers."
+      "text": "The relevant entities shall protect their network and information systems against malicious and unauthorised software.\n\nFor that purpose, the relevant entities shall in particular implement measures that detect or prevent the use of malicious or unauthorised software. The relevant entities shall, where appropriate, ensure that their network and information systems are equipped with detection and response software, which is updated regularly in accordance with the risk assessment carried out pursuant to point 2.1 and the contractual agreements with the providers.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-9",
+      "text_sha256": "ad024508f4b3f5e47f79952b76b8ba7aeb2b8e62172dee63bcffe532d95024ba"
     },
     {
       "id": "annex-Point6-10",
@@ -5451,14 +5643,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall obtain information about technical vulnerabilities in their network and information systems, evaluate their exposure to such vulnerabilities, and take appropriate measures to manage the vulnerabilities.\n\nFor the purpose of point 6.10.1, the relevant entities shall:\n\nmonitor information about vulnerabilities through appropriate channels, such as announcements of CSIRTs, competent authorities or information provided by suppliers or service providers;\n\nperform, where appropriate, vulnerability scans, and record evidence of the results of the scans, at planned intervals;\n\naddress, without undue delay, vulnerabilities identified by the relevant entities as critical to their operations;\n\nensure that their vulnerability handling is compatible with their change management, security patch management, risk management and incident management procedures;\n\nlay down a procedure for disclosing vulnerabilities in accordance with the applicable national coordinated vulnerability disclosure policy.\n\nWhen justified by the potential impact of the vulnerability, the relevant entities shall create and implement a plan to mitigate the vulnerability. In other cases, the relevant entities shall document and substantiate the reason why the vulnerability does not require remediation.\n\nThe relevant entities shall review and, where appropriate, update at planned intervals the channels they use for monitoring vulnerability information."
+      "text": "The relevant entities shall obtain information about technical vulnerabilities in their network and information systems, evaluate their exposure to such vulnerabilities, and take appropriate measures to manage the vulnerabilities.\n\nFor the purpose of point 6.10.1, the relevant entities shall:\n\nmonitor information about vulnerabilities through appropriate channels, such as announcements of CSIRTs, competent authorities or information provided by suppliers or service providers;\n\nperform, where appropriate, vulnerability scans, and record evidence of the results of the scans, at planned intervals;\n\naddress, without undue delay, vulnerabilities identified by the relevant entities as critical to their operations;\n\nensure that their vulnerability handling is compatible with their change management, security patch management, risk management and incident management procedures;\n\nlay down a procedure for disclosing vulnerabilities in accordance with the applicable national coordinated vulnerability disclosure policy.\n\nWhen justified by the potential impact of the vulnerability, the relevant entities shall create and implement a plan to mitigate the vulnerability. In other cases, the relevant entities shall document and substantiate the reason why the vulnerability does not require remediation.\n\nThe relevant entities shall review and, where appropriate, update at planned intervals the channels they use for monitoring vulnerability information.",
+      "canonical_ref": "celex:32024R2690/annex-Point6-10",
+      "text_sha256": "e021e06b1f52043ab6552ed0a0d061a638c39b1398ccfce80a7b449b178aaa3c"
     },
     {
       "id": "annex-Point7",
       "type": "annex_point",
       "point": "7",
       "parent_point": null,
-      "title": "Policies and procedures to assess the effectiveness of cybersecurity risk-management measures (Article\u00a021(2), point (f), of Directive (EU)\u00a02022/2555)",
+      "title": "Policies and procedures to assess the effectiveness of cybersecurity risk-management measures (Article 21(2), point (f), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "f",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5477,14 +5671,16 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Policies and procedures to assess the effectiveness of cybersecurity risk-management measures (Article\u00a021(2), point (f), of Directive (EU)\u00a02022/2555)"
+      "text": "Policies and procedures to assess the effectiveness of cybersecurity risk-management measures (Article 21(2), point (f), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point7",
+      "text_sha256": "75c7a9673f7029a9250fc37aae19db7d40b3b7345491322119928261900c2227"
     },
     {
       "id": "annex-Point8",
       "type": "annex_point",
       "point": "8",
       "parent_point": null,
-      "title": "Basic cyber hygiene practices and security training (Article\u00a021(2), point (g), of Directive (EU)\u00a02022/2555)",
+      "title": "Basic cyber hygiene practices and security training (Article 21(2), point (g), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "g",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5503,7 +5699,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Basic cyber hygiene practices and security training (Article\u00a021(2), point (g), of Directive (EU)\u00a02022/2555)"
+      "text": "Basic cyber hygiene practices and security training (Article 21(2), point (g), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point8",
+      "text_sha256": "eb391bd85ff1c08026c95242329db7bccb48a7f8132b905602927f91f7178fce"
     },
     {
       "id": "annex-Point8-1",
@@ -5528,7 +5726,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (g) of Directive (EU)\u00a02022/2555, the relevant entities shall ensure that their employees, including members of management bodies, as well as direct suppliers and service providers are aware of risks, are informed of the importance of cybersecurity and apply cyber hygiene practices.\n\nFor the purpose of point 8.1.1, the relevant entities shall offer to their employees, including members of management bodies, as well as to direct suppliers and service providers where appropriate in accordance with point 5.1.4, an awareness raising programme, which shall:\n\nbe scheduled over time, so that the activities are repeated and cover new employees;\n\nbe established in line with the network and information security policy, topic-specific policies and relevant procedures on network and information security;\n\ncover relevant cyber threats, the cybersecurity risk-management measures in place, contact points and resources for additional information and advice on cybersecurity matters, as well as cyber hygiene practices for users.\n\nThe awareness raising programme shall, where appropriate, be tested in terms of effectiveness. The awareness raising programme shall be updated and offered at planned intervals taking into account changes in cyber hygiene practices, and the current threat landscape and risks posed to the relevant entities."
+      "text": "For the purpose of Article 21(2), point (g) of Directive (EU) 2022/2555, the relevant entities shall ensure that their employees, including members of management bodies, as well as direct suppliers and service providers are aware of risks, are informed of the importance of cybersecurity and apply cyber hygiene practices.\n\nFor the purpose of point 8.1.1, the relevant entities shall offer to their employees, including members of management bodies, as well as to direct suppliers and service providers where appropriate in accordance with point 5.1.4, an awareness raising programme, which shall:\n\nbe scheduled over time, so that the activities are repeated and cover new employees;\n\nbe established in line with the network and information security policy, topic-specific policies and relevant procedures on network and information security;\n\ncover relevant cyber threats, the cybersecurity risk-management measures in place, contact points and resources for additional information and advice on cybersecurity matters, as well as cyber hygiene practices for users.\n\nThe awareness raising programme shall, where appropriate, be tested in terms of effectiveness. The awareness raising programme shall be updated and offered at planned intervals taking into account changes in cyber hygiene practices, and the current threat landscape and risks posed to the relevant entities.",
+      "canonical_ref": "celex:32024R2690/annex-Point8-1",
+      "text_sha256": "06b0d2b1bdd8217d701720e9ed128f60d1c9032e8e1b32b45c2a4cf2ae8d780b"
     },
     {
       "id": "annex-Point8-2",
@@ -5553,14 +5753,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall identify employees, whose roles require security relevant skill sets and expertise, and ensure that they receive regular training on network and information system security.\n\nThe relevant entities shall establish, implement and apply a training program in line with the network and information security policy, topic-specific policies and other relevant procedures on network and information security which lays down the training needs for certain roles and positions based on criteria.\n\nThe training referred to in point 8.2.1 shall be relevant to the job function of the employee and its effectiveness shall be assessed. Training shall take into consideration security measures in place and cover the following:\n\ninstructions regarding the secure configuration and operation of the network and information systems, including mobile devices;\n\nbriefing on known cyber threats;\n\ntraining of the behaviour when security-relevant events occur.\n\nThe relevant entities shall apply training to staff members who transfer to new positions or roles which require security relevant skill sets and expertise.\n\nThe program shall be updated and run periodically taking into account applicable policies and rules, assigned roles, responsibilities, as well as known cyber threats and technological developments."
+      "text": "The relevant entities shall identify employees, whose roles require security relevant skill sets and expertise, and ensure that they receive regular training on network and information system security.\n\nThe relevant entities shall establish, implement and apply a training program in line with the network and information security policy, topic-specific policies and other relevant procedures on network and information security which lays down the training needs for certain roles and positions based on criteria.\n\nThe training referred to in point 8.2.1 shall be relevant to the job function of the employee and its effectiveness shall be assessed. Training shall take into consideration security measures in place and cover the following:\n\ninstructions regarding the secure configuration and operation of the network and information systems, including mobile devices;\n\nbriefing on known cyber threats;\n\ntraining of the behaviour when security-relevant events occur.\n\nThe relevant entities shall apply training to staff members who transfer to new positions or roles which require security relevant skill sets and expertise.\n\nThe program shall be updated and run periodically taking into account applicable policies and rules, assigned roles, responsibilities, as well as known cyber threats and technological developments.",
+      "canonical_ref": "celex:32024R2690/annex-Point8-2",
+      "text_sha256": "1076b302d2574c2ab9143b1be2166a2262adfd4a6a503eff1395ce2b2bda01a0"
     },
     {
       "id": "annex-Point9",
       "type": "annex_point",
       "point": "9",
       "parent_point": null,
-      "title": "Cryptography (Article\u00a021(2), point (h), of Directive (EU)\u00a02022/2555)",
+      "title": "Cryptography (Article 21(2), point (h), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "h",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5579,14 +5781,16 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Cryptography (Article\u00a021(2), point (h), of Directive (EU)\u00a02022/2555)"
+      "text": "Cryptography (Article 21(2), point (h), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point9",
+      "text_sha256": "e3ec077eab0fd678760c5ba7f9563dfa1ce1cbbcdd45a97a7c71349759a8674f"
     },
     {
       "id": "annex-Point10",
       "type": "annex_point",
       "point": "10",
       "parent_point": null,
-      "title": "Human resources security (Article\u00a021(2), point (i), of Directive (EU)\u00a02022/2555)",
+      "title": "Human resources security (Article 21(2), point (i), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "i",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5605,7 +5809,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Human resources security (Article\u00a021(2), point (i), of Directive (EU)\u00a02022/2555)"
+      "text": "Human resources security (Article 21(2), point (i), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point10",
+      "text_sha256": "5b333d67ce89488c594cc53964d820226e38417eac305073f32e286d42fe279a"
     },
     {
       "id": "annex-Point10-1",
@@ -5630,7 +5836,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (i) of Directive (EU)\u00a02022/2555, the relevant entities shall ensure that their employees and direct suppliers and service providers, wherever applicable, understand and commit to their security responsibilities, as appropriate for the offered services and the job and in line with the relevant entities\u2019 policy on the security of network and information systems.\n\nThe requirement referred to in point 10.1.1 shall include the following:\n\nmechanisms to ensure that all employees, direct suppliers and service providers, wherever applicable, understand and follow the standard cyber hygiene practices that the relevant entities apply pursuant to point 8.1;\n\nmechanisms to ensure that all users with administrative or privileged access are aware of and act in accordance with their roles, responsibilities and authorities;\n\nmechanisms to ensure that members of management bodies understand and act in accordance with their role, responsibilities and authorities regarding network and information system security;\n\nmechanisms for hiring personnel qualified for the respective roles, such as reference checks, vetting procedures, validation of certifications, or written tests.\n\nThe relevant entities shall review the assignment of personnel to specific roles as referred to in point 1.2, as well as their commitment of human resources in that regard, at planned intervals and at least annually. They shall updatethe assignment where necessary."
+      "text": "For the purpose of Article 21(2), point (i) of Directive (EU) 2022/2555, the relevant entities shall ensure that their employees and direct suppliers and service providers, wherever applicable, understand and commit to their security responsibilities, as appropriate for the offered services and the job and in line with the relevant entities’ policy on the security of network and information systems.\n\nThe requirement referred to in point 10.1.1 shall include the following:\n\nmechanisms to ensure that all employees, direct suppliers and service providers, wherever applicable, understand and follow the standard cyber hygiene practices that the relevant entities apply pursuant to point 8.1;\n\nmechanisms to ensure that all users with administrative or privileged access are aware of and act in accordance with their roles, responsibilities and authorities;\n\nmechanisms to ensure that members of management bodies understand and act in accordance with their role, responsibilities and authorities regarding network and information system security;\n\nmechanisms for hiring personnel qualified for the respective roles, such as reference checks, vetting procedures, validation of certifications, or written tests.\n\nThe relevant entities shall review the assignment of personnel to specific roles as referred to in point 1.2, as well as their commitment of human resources in that regard, at planned intervals and at least annually. They shall updatethe assignment where necessary.",
+      "canonical_ref": "celex:32024R2690/annex-Point10-1",
+      "text_sha256": "191bbb7b93395594856f78e9d9b953fb9a6cbbc5198e687d49ed85a5db044947"
     },
     {
       "id": "annex-Point10-2",
@@ -5655,7 +5863,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall ensure to the extent feasible verification of the background of their employees, and where applicable of direct suppliers and service providers in accordance with point 5.1.4, if necessary for their role, responsibilities and authorisations.\n\nFor the purpose of point 10.2.1, the relevant entities shall:\n\nput in place criteria, which set out which roles, responsibilities and authorities shall only be exercised by persons whose background has been verified;\n\nensure that verification referred to in point 10.2.1 is performed on these persons before they start exercising these roles, responsibilities and authorities, which shall take into consideration the applicable laws, regulations, and ethics in proportion to the business requirements, the asset classification as referred to in point 12.1 and the network and information systems to be accessed, and the perceived risks.\n\nThe relevant entities shall review and, where appropriate, update the policy at planned intervals and update it where necessary."
+      "text": "The relevant entities shall ensure to the extent feasible verification of the background of their employees, and where applicable of direct suppliers and service providers in accordance with point 5.1.4, if necessary for their role, responsibilities and authorisations.\n\nFor the purpose of point 10.2.1, the relevant entities shall:\n\nput in place criteria, which set out which roles, responsibilities and authorities shall only be exercised by persons whose background has been verified;\n\nensure that verification referred to in point 10.2.1 is performed on these persons before they start exercising these roles, responsibilities and authorities, which shall take into consideration the applicable laws, regulations, and ethics in proportion to the business requirements, the asset classification as referred to in point 12.1 and the network and information systems to be accessed, and the perceived risks.\n\nThe relevant entities shall review and, where appropriate, update the policy at planned intervals and update it where necessary.",
+      "canonical_ref": "celex:32024R2690/annex-Point10-2",
+      "text_sha256": "d5790dd81811f67b0b15fbf0d16a66880254249210ad91e373e02708593af32c"
     },
     {
       "id": "annex-Point10-3",
@@ -5680,7 +5890,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall ensure that network and information system security responsibilities and duties that remain valid after termination or change of employment of their employees are contractually defined and enforced.\n\nFor the purpose of point 10.3.1, the relevant entities shall include in the individual\u2019s terms and conditions of employment, contract or agreement the responsibilities and duties that are still valid after termination of employment or contract, such as confidentiality clauses."
+      "text": "The relevant entities shall ensure that network and information system security responsibilities and duties that remain valid after termination or change of employment of their employees are contractually defined and enforced.\n\nFor the purpose of point 10.3.1, the relevant entities shall include in the individual’s terms and conditions of employment, contract or agreement the responsibilities and duties that are still valid after termination of employment or contract, such as confidentiality clauses.",
+      "canonical_ref": "celex:32024R2690/annex-Point10-3",
+      "text_sha256": "8d99299886177b16f266124d449f06b5d0b3694f31d8beaebd6926e3d69d57dd"
     },
     {
       "id": "annex-Point10-4",
@@ -5705,14 +5917,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall establish, communicate and maintain a disciplinary process for handling violations of network and information system security policies. The process shall take into consideration relevant legal, statutory, contractual and business requirements.\n\nThe relevant entities shall review and, where appropriate, update the disciplinary process at planned intervals, and when necessary due to legal changes or significant changes to operations or risks."
+      "text": "The relevant entities shall establish, communicate and maintain a disciplinary process for handling violations of network and information system security policies. The process shall take into consideration relevant legal, statutory, contractual and business requirements.\n\nThe relevant entities shall review and, where appropriate, update the disciplinary process at planned intervals, and when necessary due to legal changes or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point10-4",
+      "text_sha256": "31335b9b4d4c5aa700a384dda87fb87453e82f19b382a9c8c64a3bf6a8e52bb3"
     },
     {
       "id": "annex-Point11",
       "type": "annex_point",
       "point": "11",
       "parent_point": null,
-      "title": "Access control (Article\u00a021(2), points (i) and (j), of Directive (EU)\u00a02022/2555)",
+      "title": "Access control (Article 21(2), points (i) and (j), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": null,
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5731,7 +5945,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Access control (Article\u00a021(2), points (i) and (j), of Directive (EU)\u00a02022/2555)"
+      "text": "Access control (Article 21(2), points (i) and (j), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point11",
+      "text_sha256": "8d152cfa0f3657fc6012d8e9588e010d87852dc299811877e36860c9477949be"
     },
     {
       "id": "annex-Point11-1",
@@ -5756,7 +5972,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (i) of Directive (EU)\u00a02022/2555, the relevant entities shall establish, document and implement logical and physical access control policies for the access to their network and information systems, based on business requirements as well as network and information system security requirements.\n\nThe policies referred to in point 11.1.1. shall:\n\naddress access by persons, including staff, visitors, and external entities such as suppliers and service providers;\n\naddress access by network and information systems;\n\nensure that access is only granted to users that have been adequately authenticated.\n\nThe relevant entities shall review and, where appropriate, update the policies at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "For the purpose of Article 21(2), point (i) of Directive (EU) 2022/2555, the relevant entities shall establish, document and implement logical and physical access control policies for the access to their network and information systems, based on business requirements as well as network and information system security requirements.\n\nThe policies referred to in point 11.1.1. shall:\n\naddress access by persons, including staff, visitors, and external entities such as suppliers and service providers;\n\naddress access by network and information systems;\n\nensure that access is only granted to users that have been adequately authenticated.\n\nThe relevant entities shall review and, where appropriate, update the policies at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-1",
+      "text_sha256": "e63cfe2a502f2e971f814e67475a8fd01ff0da1fe4f232d572d3157f646c7d07"
     },
     {
       "id": "annex-Point11-2",
@@ -5781,7 +5999,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall provide, modify, remove and document access rights to network and information systems in accordance with the access control policy referred to in point 11.1.\n\nThe relevant entities shall:\n\nassign and revoke access rights based on the principles of need-to-know, least privilege and separation of duties;\n\nensure that access rights are modified accordingly upon termination or change of employment;\n\nensure that access to network and information systems is authorised by the relevant persons;\n\nensure that access rights appropriately address third-party access, such as visitors, suppliers and service providers, in particular by limiting access rights in scope and in duration;\n\nmaintain a register of access rights granted;\n\napply logging to the management of access rights.\n\nThe relevant entities shall review access rights at planned intervals and shall modify them based on organisational changes. The relevant entities shall document the results of the review including the necessary changes of access rights."
+      "text": "The relevant entities shall provide, modify, remove and document access rights to network and information systems in accordance with the access control policy referred to in point 11.1.\n\nThe relevant entities shall:\n\nassign and revoke access rights based on the principles of need-to-know, least privilege and separation of duties;\n\nensure that access rights are modified accordingly upon termination or change of employment;\n\nensure that access to network and information systems is authorised by the relevant persons;\n\nensure that access rights appropriately address third-party access, such as visitors, suppliers and service providers, in particular by limiting access rights in scope and in duration;\n\nmaintain a register of access rights granted;\n\napply logging to the management of access rights.\n\nThe relevant entities shall review access rights at planned intervals and shall modify them based on organisational changes. The relevant entities shall document the results of the review including the necessary changes of access rights.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-2",
+      "text_sha256": "e3b12d2e2884a252e536ebd06c9aa79ae1fbbd1b557a0fb1283db9a4fddaa040"
     },
     {
       "id": "annex-Point11-3",
@@ -5806,7 +6026,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall maintain policies for management of privileged accounts and system administration accounts as part of the access control policy referred to in point 11.1.\n\nThe policies referred to in point 11.3.1 shall:\n\nestablish strong identification, authentication such as multi-factor authentication, and authorisation procedures for privileged accounts and system administration accounts;\n\nset up specific accounts to be used for system administration operations exclusively, such as installation, configuration, management or maintenance;\n\nindividualise and restrict system administration privileges to the highest extent possible,\n\nprovide that system administration accounts are only used to connect to system administration systems.\n\nThe relevant entities shall review access rights of privileged accounts and system administration accounts at planned intervals and be modified based on organisational changes, and shall document the results of the review, including the necessary changes of access rights."
+      "text": "The relevant entities shall maintain policies for management of privileged accounts and system administration accounts as part of the access control policy referred to in point 11.1.\n\nThe policies referred to in point 11.3.1 shall:\n\nestablish strong identification, authentication such as multi-factor authentication, and authorisation procedures for privileged accounts and system administration accounts;\n\nset up specific accounts to be used for system administration operations exclusively, such as installation, configuration, management or maintenance;\n\nindividualise and restrict system administration privileges to the highest extent possible,\n\nprovide that system administration accounts are only used to connect to system administration systems.\n\nThe relevant entities shall review access rights of privileged accounts and system administration accounts at planned intervals and be modified based on organisational changes, and shall document the results of the review, including the necessary changes of access rights.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-3",
+      "text_sha256": "b69839e826bd89670ea2d0a5060e5ffbdb6e6f00b96efaa13013bd1b5f8009c5"
     },
     {
       "id": "annex-Point11-4",
@@ -5831,7 +6053,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall restrict and control the use of system administration systems in accordance with the access control policy referred to in point 11.1.\n\nFor that purpose, the relevant entities shall:\n\nonly use system administration systems for system administration purposes, and not for any other operations;\n\nseparate logically such systems from application software not used for system administrative purposes,\n\nprotect access to system administration systems through authentication and encryption."
+      "text": "The relevant entities shall restrict and control the use of system administration systems in accordance with the access control policy referred to in point 11.1.\n\nFor that purpose, the relevant entities shall:\n\nonly use system administration systems for system administration purposes, and not for any other operations;\n\nseparate logically such systems from application software not used for system administrative purposes,\n\nprotect access to system administration systems through authentication and encryption.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-4",
+      "text_sha256": "819406115d9a999be8d1598343c40e26584152a9148c7e290b4b0ba2d1e0ab8a"
     },
     {
       "id": "annex-Point11-5",
@@ -5856,7 +6080,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall manage the full life cycle of identities of network and information systems and their users.\n\nFor that purpose, the relevant entities shall:\n\nset up unique identities for network and information systems and their users;\n\nlink the identity of users to a single person;\n\nensure oversight of identities of network and information systems;\n\napply logging to the management of identities.\n\nThe relevant entities shall only permit identities assigned to multiple persons, such as shared identities, where they are necessary for business or operational reasons and are subject to an explicit approval process and documentation. The relevant entities shall take identities assigned to multiple persons into account in the cybersecurity risk management framework referred to in point 2.1.\n\nThe relevant entities shall regularly review the identities for network and information systems and their users and, if no longer needed, deactivate them without delay."
+      "text": "The relevant entities shall manage the full life cycle of identities of network and information systems and their users.\n\nFor that purpose, the relevant entities shall:\n\nset up unique identities for network and information systems and their users;\n\nlink the identity of users to a single person;\n\nensure oversight of identities of network and information systems;\n\napply logging to the management of identities.\n\nThe relevant entities shall only permit identities assigned to multiple persons, such as shared identities, where they are necessary for business or operational reasons and are subject to an explicit approval process and documentation. The relevant entities shall take identities assigned to multiple persons into account in the cybersecurity risk management framework referred to in point 2.1.\n\nThe relevant entities shall regularly review the identities for network and information systems and their users and, if no longer needed, deactivate them without delay.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-5",
+      "text_sha256": "d0edd405e569c1ef8c41db557efc399c762db9992e864ff9f86795413d1b33fc"
     },
     {
       "id": "annex-Point11-6",
@@ -5881,7 +6107,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall implement secure authentication procedures and technologies based on access restrictions and the policy on access control.\n\nFor that purpose, the relevant entities shall:\n\nensure the strength of authentication is appropriate to the classification of the asset to be accessed;\n\ncontrol the allocation to users and management of secret authentication information by a process that ensures the confidentiality of the information, including advising personnel on appropriate handling of authentication information;\n\nrequire the change of authentication credentials initially, at predefined intervals and upon suspicion that the credentials were compromised;\n\nrequire the reset of authentication credentials and the blocking of users after a predefined number of unsuccessful log-in attempts;\n\nterminate inactive sessions after a predefined period of inactivity; and\n\nrequire separate credentials to access privileged access or administrative accounts.\n\nThe relevant entities shall to the extent feasible use state-of-the-art authentication methods, in accordance with the associated assessed risk and the classification of the asset to be accessed, and unique authentication information.\n\nThe relevant entities shall review the authentication procedures and technologies at planned intervals."
+      "text": "The relevant entities shall implement secure authentication procedures and technologies based on access restrictions and the policy on access control.\n\nFor that purpose, the relevant entities shall:\n\nensure the strength of authentication is appropriate to the classification of the asset to be accessed;\n\ncontrol the allocation to users and management of secret authentication information by a process that ensures the confidentiality of the information, including advising personnel on appropriate handling of authentication information;\n\nrequire the change of authentication credentials initially, at predefined intervals and upon suspicion that the credentials were compromised;\n\nrequire the reset of authentication credentials and the blocking of users after a predefined number of unsuccessful log-in attempts;\n\nterminate inactive sessions after a predefined period of inactivity; and\n\nrequire separate credentials to access privileged access or administrative accounts.\n\nThe relevant entities shall to the extent feasible use state-of-the-art authentication methods, in accordance with the associated assessed risk and the classification of the asset to be accessed, and unique authentication information.\n\nThe relevant entities shall review the authentication procedures and technologies at planned intervals.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-6",
+      "text_sha256": "c1cbe64bc4bf4c75db074bd3d7340db25446366e7aaa6fea1a33e810823297d8"
     },
     {
       "id": "annex-Point11-7",
@@ -5906,14 +6134,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall ensure that users are authenticated by multiple authentication factors or continuous authentication mechanisms for accessing the relevant entities\u2019 network and information systems, where appropriate, in accordance with the classification of the asset to be accessed.\n\nThe relevant entities shall ensure that the strength of authentication is appropriate for the classification of the asset to be accessed."
+      "text": "The relevant entities shall ensure that users are authenticated by multiple authentication factors or continuous authentication mechanisms for accessing the relevant entities’ network and information systems, where appropriate, in accordance with the classification of the asset to be accessed.\n\nThe relevant entities shall ensure that the strength of authentication is appropriate for the classification of the asset to be accessed.",
+      "canonical_ref": "celex:32024R2690/annex-Point11-7",
+      "text_sha256": "ab7a8d33ff515456788619493dadec82c91947ef4ff4408e7075a38e0614a4d6"
     },
     {
       "id": "annex-Point12",
       "type": "annex_point",
       "point": "12",
       "parent_point": null,
-      "title": "Asset management (Article\u00a021(2), point (i), of Directive (EU)\u00a02022/2555)",
+      "title": "Asset management (Article 21(2), point (i), of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": "i",
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -5932,7 +6162,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Asset management (Article\u00a021(2), point (i), of Directive (EU)\u00a02022/2555)"
+      "text": "Asset management (Article 21(2), point (i), of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point12",
+      "text_sha256": "db72ecb0e3dd2cc30f1097bab759234652384bf0d6644a7c6f3dc74df4397fb0"
     },
     {
       "id": "annex-Point12-1",
@@ -5957,7 +6189,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2), point (i) of Directive (EU)\u00a02022/2555, the relevant entities shall lay down classification levels of all assets, including information, in scope of their network and information systems for the level of protection required.\n\nFor the purpose of point 12.1.1, the relevant entities shall:\n\nlay down a system of classification levels for assets;\n\nassociate all assets with a classification level, based on confidentiality, integrity, authenticity and availability requirements, to indicate the protection required according to their sensitivity, criticality, risk and business value;\n\nalign the availability requirements of the assets with the delivery and recovery objectives set out in their business continuity and disaster recovery plans.\n\nThe relevant entities shall conduct periodic reviews of the classification levels of assets and update them, where appropriate."
+      "text": "For the purpose of Article 21(2), point (i) of Directive (EU) 2022/2555, the relevant entities shall lay down classification levels of all assets, including information, in scope of their network and information systems for the level of protection required.\n\nFor the purpose of point 12.1.1, the relevant entities shall:\n\nlay down a system of classification levels for assets;\n\nassociate all assets with a classification level, based on confidentiality, integrity, authenticity and availability requirements, to indicate the protection required according to their sensitivity, criticality, risk and business value;\n\nalign the availability requirements of the assets with the delivery and recovery objectives set out in their business continuity and disaster recovery plans.\n\nThe relevant entities shall conduct periodic reviews of the classification levels of assets and update them, where appropriate.",
+      "canonical_ref": "celex:32024R2690/annex-Point12-1",
+      "text_sha256": "2bde1cce85549a86da0b16f6b7e51319322c3692b8331be4ad5da0fea7e6cf60"
     },
     {
       "id": "annex-Point12-2",
@@ -5982,7 +6216,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall establish, implement and apply a policy for the proper handling of assets, including information, in accordance with their network and information security policy, and shall communicate the policy on proper handling of assets to anyone who uses or handles assets.\n\nThe policy shall:\n\ncover the entire life cycle of the assets, including acquisition, use, storage, transportation and disposal;\n\nprovide rules on the safe use, safe storage, safe transport, and the irretrievable deletion and destruction of the assets;\n\nprovide that the transfer shall take place in a secure manner, in accordance with the type of asset to be transferred.\n\nThe relevant entities shall review and, where appropriate, update the policy at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "The relevant entities shall establish, implement and apply a policy for the proper handling of assets, including information, in accordance with their network and information security policy, and shall communicate the policy on proper handling of assets to anyone who uses or handles assets.\n\nThe policy shall:\n\ncover the entire life cycle of the assets, including acquisition, use, storage, transportation and disposal;\n\nprovide rules on the safe use, safe storage, safe transport, and the irretrievable deletion and destruction of the assets;\n\nprovide that the transfer shall take place in a secure manner, in accordance with the type of asset to be transferred.\n\nThe relevant entities shall review and, where appropriate, update the policy at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point12-2",
+      "text_sha256": "498846acb6cf25ae8b9848bee410bd481cfa9b0c46976108b9c746fd0ab7151b"
     },
     {
       "id": "annex-Point12-3",
@@ -6007,7 +6243,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall establish, implement and apply a policy on the management of removable storage media and communicate it to their employees and third parties who handle removable storage media at the relevant entities\u2019 premises or other locations where the removable media is connected to the relevant entities\u2019 network and information systems.\n\nThe policy shall:\n\nprovide for a technical prohibition of the connection of removable media unless there is an organisational reason for their use;\n\nprovide for disabling self-execution from such media and scanning the media for malicious code before they are used on the relevant entities\u2019 systems;\n\nprovide measures for controlling and protecting portable storage devices containing data while in transit and in storage;\n\nwhere appropriate, provide measures for the use of cryptographic techniques to protect data on removable storage media.\n\nThe relevant entities shall review and, where appropriate, update the policy at planned intervals and when significant incidents or significant changes to operations or risks occur."
+      "text": "The relevant entities shall establish, implement and apply a policy on the management of removable storage media and communicate it to their employees and third parties who handle removable storage media at the relevant entities’ premises or other locations where the removable media is connected to the relevant entities’ network and information systems.\n\nThe policy shall:\n\nprovide for a technical prohibition of the connection of removable media unless there is an organisational reason for their use;\n\nprovide for disabling self-execution from such media and scanning the media for malicious code before they are used on the relevant entities’ systems;\n\nprovide measures for controlling and protecting portable storage devices containing data while in transit and in storage;\n\nwhere appropriate, provide measures for the use of cryptographic techniques to protect data on removable storage media.\n\nThe relevant entities shall review and, where appropriate, update the policy at planned intervals and when significant incidents or significant changes to operations or risks occur.",
+      "canonical_ref": "celex:32024R2690/annex-Point12-3",
+      "text_sha256": "fdf1c0790f0cd5eb7e3f51a181e7d4683034e39334255d3b0be4cf0c8a7c87a0"
     },
     {
       "id": "annex-Point12-4",
@@ -6032,7 +6270,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall develop and maintain a complete, accurate, up-to-date and consistent inventory of their assets. They shall record changes to the entries in the inventory in a traceable manner.\n\nThe granularity of the inventory of the assets shall be at a level appropriate for the needs of the relevant entities. The inventory shall include the following:\n\nthe list of operations and services and their description,\n\nthe list of network and information systems and other associated assets supporting the relevant entities\u2019 operations and services.\n\nThe relevant entities shall regularly review and update the inventory and their assets and document the history of changes."
+      "text": "The relevant entities shall develop and maintain a complete, accurate, up-to-date and consistent inventory of their assets. They shall record changes to the entries in the inventory in a traceable manner.\n\nThe granularity of the inventory of the assets shall be at a level appropriate for the needs of the relevant entities. The inventory shall include the following:\n\nthe list of operations and services and their description,\n\nthe list of network and information systems and other associated assets supporting the relevant entities’ operations and services.\n\nThe relevant entities shall regularly review and update the inventory and their assets and document the history of changes.",
+      "canonical_ref": "celex:32024R2690/annex-Point12-4",
+      "text_sha256": "1ab8370bd8a2340791de17522790364fbd02ff8bf526b58cccb844dd9a95f0a0"
     },
     {
       "id": "annex-Point12-5",
@@ -6057,14 +6297,16 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "The relevant entities shall establish, implement and apply procedures which ensure that their assets which are under custody of personnel are deposited, returned or deleted upon termination of employment, and shall document the deposit, return and deletion of those assets. Where the deposit, return or deletion of assets is not possible, the relevant entities shall ensure that the assets can no longer access the relevant entities\u2019 network and information systems in accordance with point 12.2.2."
+      "text": "The relevant entities shall establish, implement and apply procedures which ensure that their assets which are under custody of personnel are deposited, returned or deleted upon termination of employment, and shall document the deposit, return and deletion of those assets. Where the deposit, return or deletion of assets is not possible, the relevant entities shall ensure that the assets can no longer access the relevant entities’ network and information systems in accordance with point 12.2.2.",
+      "canonical_ref": "celex:32024R2690/annex-Point12-5",
+      "text_sha256": "f2781dc041a5d7990f4bf89e4f2a7f41d6dc02829562706ad53c10028582ddcd"
     },
     {
       "id": "annex-Point13",
       "type": "annex_point",
       "point": "13",
       "parent_point": null,
-      "title": "Environmental and physical security (Article\u00a021(2), points (c), (e) and (i) of Directive (EU)\u00a02022/2555)",
+      "title": "Environmental and physical security (Article 21(2), points (c), (e) and (i) of Directive (EU) 2022/2555)",
       "nis2_article_21_2_point": null,
       "akn4eu_headerofannex_ref": "ANNEX I",
       "akn4eu_annex_element": "level",
@@ -6083,7 +6325,9 @@ The repository licence covers only original selection, structure and analysis. I
           "akn4eu_ancestry": []
         }
       ],
-      "text": "Environmental and physical security (Article\u00a021(2), points (c), (e) and (i) of Directive (EU)\u00a02022/2555)"
+      "text": "Environmental and physical security (Article 21(2), points (c), (e) and (i) of Directive (EU) 2022/2555)",
+      "canonical_ref": "celex:32024R2690/annex-Point13",
+      "text_sha256": "df3925fdbfd3565e4978fccabfd262d7598caf1e141172ab8bb430eb6c13d005"
     },
     {
       "id": "annex-Point13-1",
@@ -6108,7 +6352,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2)(c) of Directive (EU)\u00a02022/2555, the relevant entities shall prevent loss, damage or compromise of network and information systems or interruption to their operations due to the failure and disruption of supporting utilities.\n\nFor that purpose, the relevant entities shall, where appropriate:\n\nprotect facilities from power failures and other disruptions caused by failures in supporting utilities such as electricity, telecommunications, water supply, gas, sewage, ventilation and air conditioning;\n\nconsider the use of redundancy in utilities services;\n\nprotect utility services for electricity and telecommunications, which transport data or supply network and information systems, against interception and damage;\n\nmonitor the utility services referred to in point (c) and report to the competent internal or external personnel events outside the minimum and maximum control thresholds referred to in point 13.2.2(b) affecting the utility services;\n\nconclude contracts for the emergency supply with corresponding services, such as for the fuel for emergency power supply;\n\nensure continuous effectiveness, monitor, maintain and test the supply of the network and information systems necessary for the operation of the service offered, in particular the electricity, temperature and humidity control, telecommunications and Internet connection.\n\nThe relevant entities shall test, review and, where appropriate, update the protection measures on a regular basis or following significant incidents or significant changes to operations or risks."
+      "text": "For the purpose of Article 21(2)(c) of Directive (EU) 2022/2555, the relevant entities shall prevent loss, damage or compromise of network and information systems or interruption to their operations due to the failure and disruption of supporting utilities.\n\nFor that purpose, the relevant entities shall, where appropriate:\n\nprotect facilities from power failures and other disruptions caused by failures in supporting utilities such as electricity, telecommunications, water supply, gas, sewage, ventilation and air conditioning;\n\nconsider the use of redundancy in utilities services;\n\nprotect utility services for electricity and telecommunications, which transport data or supply network and information systems, against interception and damage;\n\nmonitor the utility services referred to in point (c) and report to the competent internal or external personnel events outside the minimum and maximum control thresholds referred to in point 13.2.2(b) affecting the utility services;\n\nconclude contracts for the emergency supply with corresponding services, such as for the fuel for emergency power supply;\n\nensure continuous effectiveness, monitor, maintain and test the supply of the network and information systems necessary for the operation of the service offered, in particular the electricity, temperature and humidity control, telecommunications and Internet connection.\n\nThe relevant entities shall test, review and, where appropriate, update the protection measures on a regular basis or following significant incidents or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point13-1",
+      "text_sha256": "b972dba2a30e9ada3740a78ab7135294311e71d150e41f4eddac6d638d8913d3"
     },
     {
       "id": "annex-Point13-2",
@@ -6133,7 +6379,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2)(e) of Directive (EU)\u00a02022/2555, the relevant entities shall prevent or reduce the consequences of events originating from physical and environmental threats, such as natural disasters and other intentional or unintentional threats, based on the results of the risk assessment carried out pursuant to point 2.1.\n\nFor that purpose, the relevant entities shall, where appropriate:\n\ndesign and implement protection measures against physical and environmental threats;\n\ndetermine minimum and maximum control thresholds for physical and environmental threats;\n\nmonitor environmental parameters and report to the competent internal or external personnel events outside the minimum and maximum control thresholds referred to in point (b).\n\nThe relevant entities shall test, review and, where appropriate, update the protection measures against physical and environmental threats on a regular basis or following significant incidents or significant changes to operations or risks."
+      "text": "For the purpose of Article 21(2)(e) of Directive (EU) 2022/2555, the relevant entities shall prevent or reduce the consequences of events originating from physical and environmental threats, such as natural disasters and other intentional or unintentional threats, based on the results of the risk assessment carried out pursuant to point 2.1.\n\nFor that purpose, the relevant entities shall, where appropriate:\n\ndesign and implement protection measures against physical and environmental threats;\n\ndetermine minimum and maximum control thresholds for physical and environmental threats;\n\nmonitor environmental parameters and report to the competent internal or external personnel events outside the minimum and maximum control thresholds referred to in point (b).\n\nThe relevant entities shall test, review and, where appropriate, update the protection measures against physical and environmental threats on a regular basis or following significant incidents or significant changes to operations or risks.",
+      "canonical_ref": "celex:32024R2690/annex-Point13-2",
+      "text_sha256": "ae32cd3086fc1288dcfed1bb3c9ef9bb6c1f4a755d87233a9ccd5b4706c4ddda"
     },
     {
       "id": "annex-Point13-3",
@@ -6158,7 +6406,9 @@ The repository licence covers only original selection, structure and analysis. I
         }
       ],
       "inbound_relations": [],
-      "text": "For the purpose of Article\u00a021(2)(i) of Directive (EU)\u00a02022/2555, the relevant entities shall prevent and monitor unauthorised physical access, damage and interference to their network and information systems.\n\nFor that purpose, the relevant entities shall:\n\non the basis of the risk assessment carried out pursuant to point 2.1, lay down and use security perimeters to protect areas where network and information systems and other associated assets are located;\n\nprotect the areas referred to in point (a) by appropriate entry controls and access points;\n\ndesign and implement physical security for offices, rooms and facilities,\n\ncontinuously monitor their premises for unauthorised physical access.\n\nThe relevant entities shall test, review and, where appropriate, update the physical access control measures on a regular basis or following significant incidents or significant changes to operations or risks.\n\nELI: http://data.europa.eu/eli/reg_impl/2024/2690/oj\n\nISSN 1977-0677 (electronic edition)"
+      "text": "For the purpose of Article 21(2)(i) of Directive (EU) 2022/2555, the relevant entities shall prevent and monitor unauthorised physical access, damage and interference to their network and information systems.\n\nFor that purpose, the relevant entities shall:\n\non the basis of the risk assessment carried out pursuant to point 2.1, lay down and use security perimeters to protect areas where network and information systems and other associated assets are located;\n\nprotect the areas referred to in point (a) by appropriate entry controls and access points;\n\ndesign and implement physical security for offices, rooms and facilities,\n\ncontinuously monitor their premises for unauthorised physical access.\n\nThe relevant entities shall test, review and, where appropriate, update the physical access control measures on a regular basis or following significant incidents or significant changes to operations or risks.\n\nELI: http://data.europa.eu/eli/reg_impl/2024/2690/oj\n\nISSN 1977-0677 (electronic edition)",
+      "canonical_ref": "celex:32024R2690/annex-Point13-3",
+      "text_sha256": "ced8d4675eecff6b7de004c224768b8247b97a7a8d5e8c95f9adfb4ab1bc34bc"
     }
   ],
   "canonical_edges": [
@@ -6174,7 +6424,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art1-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-1__article-Art1-UN1__provides_guidance_for"
+      "edge_id": "recital-1__article-Art1-UN1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-1",
+      "target_canonical_ref": "celex:32024R2690/article-Art1-UN1"
     },
     {
       "confidence": "high",
@@ -6188,7 +6440,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art14-UN1__applies_to"
+      "edge_id": "recital-2__article-Art14-UN1__applies_to",
+      "source_canonical_ref": "celex:32024R2690/recital-2",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
@@ -6202,7 +6456,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point1",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point1__refines"
+      "edge_id": "recital-3__annex-Point1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point1"
     },
     {
       "confidence": "high",
@@ -6216,7 +6472,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point2",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point2__refines"
+      "edge_id": "recital-3__annex-Point2__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2"
     },
     {
       "confidence": "high",
@@ -6230,7 +6488,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point3__refines"
+      "edge_id": "recital-3__annex-Point3__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -6244,7 +6504,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point4",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point4__refines"
+      "edge_id": "recital-3__annex-Point4__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point4"
     },
     {
       "confidence": "high",
@@ -6258,7 +6520,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point5",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point5__refines"
+      "edge_id": "recital-3__annex-Point5__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point5"
     },
     {
       "confidence": "high",
@@ -6272,7 +6536,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point6__refines"
+      "edge_id": "recital-3__annex-Point6__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -6286,7 +6552,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point7",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point7__refines"
+      "edge_id": "recital-3__annex-Point7__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point7"
     },
     {
       "confidence": "high",
@@ -6300,7 +6568,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point8",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point8__refines"
+      "edge_id": "recital-3__annex-Point8__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point8"
     },
     {
       "confidence": "high",
@@ -6314,7 +6584,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point9",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point9__refines"
+      "edge_id": "recital-3__annex-Point9__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point9"
     },
     {
       "confidence": "high",
@@ -6328,7 +6600,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point10",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point10__refines"
+      "edge_id": "recital-3__annex-Point10__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10"
     },
     {
       "confidence": "high",
@@ -6342,7 +6616,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point11__refines"
+      "edge_id": "recital-3__annex-Point11__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -6356,7 +6632,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point12__refines"
+      "edge_id": "recital-3__annex-Point12__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -6370,7 +6648,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point13",
       "target_type": "annex_point",
-      "edge_id": "recital-3__annex-Point13__refines"
+      "edge_id": "recital-3__annex-Point13__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13"
     },
     {
       "confidence": "high",
@@ -6384,7 +6664,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art2-Para2",
       "target_type": "article_paragraph",
-      "edge_id": "recital-4__article-Art2-Para2__provides_guidance_for"
+      "edge_id": "recital-4__article-Art2-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-4",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para2"
     },
     {
       "confidence": "high",
@@ -6398,7 +6680,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art2-Para2",
       "target_type": "article_paragraph",
-      "edge_id": "recital-5__article-Art2-Para2__expands"
+      "edge_id": "recital-5__article-Art2-Para2__expands",
+      "source_canonical_ref": "celex:32024R2690/recital-5",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para2"
     },
     {
       "confidence": "high",
@@ -6412,7 +6696,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art2-Para2",
       "target_type": "article_paragraph",
-      "edge_id": "recital-6__article-Art2-Para2__concretizes"
+      "edge_id": "recital-6__article-Art2-Para2__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-6",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para2"
     },
     {
       "confidence": "high",
@@ -6424,9 +6710,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-7",
       "source_type": "recital",
-      "target": "annex-Point2.1",
+      "target": "annex-Point2-1",
       "target_type": "annex_point",
-      "edge_id": "recital-7__annex-Point2.1__provides_guidance_for"
+      "edge_id": "recital-7__annex-Point2-1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-7",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2-1"
     },
     {
       "confidence": "high",
@@ -6438,9 +6726,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-8",
       "source_type": "recital",
-      "target": "annex-Point6.7",
+      "target": "annex-Point6-7",
       "target_type": "annex_point",
-      "edge_id": "recital-8__annex-Point6.7__concretizes"
+      "edge_id": "recital-8__annex-Point6-7__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-8",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6-7"
     },
     {
       "confidence": "high",
@@ -6452,9 +6742,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-9",
       "source_type": "recital",
-      "target": "annex-Point1.1",
+      "target": "annex-Point1-1",
       "target_type": "annex_point",
-      "edge_id": "recital-9__annex-Point1.1__concretizes"
+      "edge_id": "recital-9__annex-Point1-1__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-9",
+      "target_canonical_ref": "celex:32024R2690/annex-Point1-1"
     },
     {
       "confidence": "high",
@@ -6468,7 +6760,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point1",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point1__defines"
+      "edge_id": "recital-10__annex-Point1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point1"
     },
     {
       "confidence": "high",
@@ -6482,7 +6776,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point2",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point2__defines"
+      "edge_id": "recital-10__annex-Point2__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2"
     },
     {
       "confidence": "high",
@@ -6496,7 +6792,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point3__defines"
+      "edge_id": "recital-10__annex-Point3__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -6510,7 +6808,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point4",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point4__defines"
+      "edge_id": "recital-10__annex-Point4__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point4"
     },
     {
       "confidence": "high",
@@ -6524,7 +6824,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point5",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point5__defines"
+      "edge_id": "recital-10__annex-Point5__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point5"
     },
     {
       "confidence": "high",
@@ -6538,7 +6840,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point6__defines"
+      "edge_id": "recital-10__annex-Point6__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -6552,7 +6856,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point7",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point7__defines"
+      "edge_id": "recital-10__annex-Point7__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point7"
     },
     {
       "confidence": "high",
@@ -6566,7 +6872,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point8",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point8__defines"
+      "edge_id": "recital-10__annex-Point8__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point8"
     },
     {
       "confidence": "high",
@@ -6580,7 +6888,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point9",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point9__defines"
+      "edge_id": "recital-10__annex-Point9__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point9"
     },
     {
       "confidence": "high",
@@ -6594,7 +6904,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point10",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point10__defines"
+      "edge_id": "recital-10__annex-Point10__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10"
     },
     {
       "confidence": "high",
@@ -6608,7 +6920,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point11__defines"
+      "edge_id": "recital-10__annex-Point11__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -6622,7 +6936,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point12__defines"
+      "edge_id": "recital-10__annex-Point12__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -6636,7 +6952,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point13",
       "target_type": "annex_point",
-      "edge_id": "recital-10__annex-Point13__defines"
+      "edge_id": "recital-10__annex-Point13__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13"
     },
     {
       "confidence": "high",
@@ -6648,9 +6966,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-11",
       "source_type": "recital",
-      "target": "annex-Point2.1",
+      "target": "annex-Point2-1",
       "target_type": "annex_point",
-      "edge_id": "recital-11__annex-Point2.1__concretizes"
+      "edge_id": "recital-11__annex-Point2-1__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-11",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2-1"
     },
     {
       "confidence": "high",
@@ -6662,9 +6982,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-12",
       "source_type": "recital",
-      "target": "annex-Point3.2",
+      "target": "annex-Point3-2",
       "target_type": "annex_point",
-      "edge_id": "recital-12__annex-Point3.2__concretizes"
+      "edge_id": "recital-12__annex-Point3-2__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-12",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3-2"
     },
     {
       "confidence": "high",
@@ -6676,9 +6998,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-13",
       "source_type": "recital",
-      "target": "annex-Point4.1",
+      "target": "annex-Point4-1",
       "target_type": "annex_point",
-      "edge_id": "recital-13__annex-Point4.1__concretizes"
+      "edge_id": "recital-13__annex-Point4-1__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-13",
+      "target_canonical_ref": "celex:32024R2690/annex-Point4-1"
     },
     {
       "confidence": "high",
@@ -6690,9 +7014,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-14",
       "source_type": "recital",
-      "target": "annex-Point5.1",
+      "target": "annex-Point5-1",
       "target_type": "annex_point",
-      "edge_id": "recital-14__annex-Point5.1__concretizes"
+      "edge_id": "recital-14__annex-Point5-1__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-14",
+      "target_canonical_ref": "celex:32024R2690/annex-Point5-1"
     },
     {
       "confidence": "high",
@@ -6704,9 +7030,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-15",
       "source_type": "recital",
-      "target": "annex-Point6.5",
+      "target": "annex-Point6-5",
       "target_type": "annex_point",
-      "edge_id": "recital-15__annex-Point6.5__refines"
+      "edge_id": "recital-15__annex-Point6-5__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-15",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6-5"
     },
     {
       "confidence": "high",
@@ -6718,9 +7046,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-16",
       "source_type": "recital",
-      "target": "annex-Point6.6",
+      "target": "annex-Point6-6",
       "target_type": "annex_point",
-      "edge_id": "recital-16__annex-Point6.6__refines"
+      "edge_id": "recital-16__annex-Point6-6__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-16",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6-6"
     },
     {
       "confidence": "high",
@@ -6732,9 +7062,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-17",
       "source_type": "recital",
-      "target": "annex-Point6.1",
+      "target": "annex-Point6-1",
       "target_type": "annex_point",
-      "edge_id": "recital-17__annex-Point6.1__refines"
+      "edge_id": "recital-17__annex-Point6-1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-17",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6-1"
     },
     {
       "confidence": "high",
@@ -6746,9 +7078,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-18",
       "source_type": "recital",
-      "target": "annex-Point6.7",
+      "target": "annex-Point6-7",
       "target_type": "annex_point",
-      "edge_id": "recital-18__annex-Point6.7__refines"
+      "edge_id": "recital-18__annex-Point6-7__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-18",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6-7"
     },
     {
       "confidence": "high",
@@ -6760,9 +7094,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-19",
       "source_type": "recital",
-      "target": "annex-Point6.9",
+      "target": "annex-Point6-9",
       "target_type": "annex_point",
-      "edge_id": "recital-19__annex-Point6.9__refines"
+      "edge_id": "recital-19__annex-Point6-9__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-19",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6-9"
     },
     {
       "confidence": "high",
@@ -6774,9 +7110,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-20",
       "source_type": "recital",
-      "target": "annex-Point8.1",
+      "target": "annex-Point8-1",
       "target_type": "annex_point",
-      "edge_id": "recital-20__annex-Point8.1__refines"
+      "edge_id": "recital-20__annex-Point8-1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-20",
+      "target_canonical_ref": "celex:32024R2690/annex-Point8-1"
     },
     {
       "confidence": "high",
@@ -6788,9 +7126,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-21",
       "source_type": "recital",
-      "target": "annex-Point11.1",
+      "target": "annex-Point11-1",
       "target_type": "annex_point",
-      "edge_id": "recital-21__annex-Point11.1__refines"
+      "edge_id": "recital-21__annex-Point11-1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-21",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11-1"
     },
     {
       "confidence": "high",
@@ -6802,9 +7142,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-22",
       "source_type": "recital",
-      "target": "annex-Point10.1",
+      "target": "annex-Point10-1",
       "target_type": "annex_point",
-      "edge_id": "recital-22__annex-Point10.1__refines"
+      "edge_id": "recital-22__annex-Point10-1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-22",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10-1"
     },
     {
       "confidence": "high",
@@ -6816,9 +7158,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-22",
       "source_type": "recital",
-      "target": "annex-Point10.2",
+      "target": "annex-Point10-2",
       "target_type": "annex_point",
-      "edge_id": "recital-22__annex-Point10.2__refines"
+      "edge_id": "recital-22__annex-Point10-2__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-22",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10-2"
     },
     {
       "confidence": "high",
@@ -6830,9 +7174,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-22",
       "source_type": "recital",
-      "target": "annex-Point10.4",
+      "target": "annex-Point10-4",
       "target_type": "annex_point",
-      "edge_id": "recital-22__annex-Point10.4__refines"
+      "edge_id": "recital-22__annex-Point10-4__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-22",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10-4"
     },
     {
       "confidence": "high",
@@ -6844,9 +7190,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-23",
       "source_type": "recital",
-      "target": "annex-Point11.7",
+      "target": "annex-Point11-7",
       "target_type": "annex_point",
-      "edge_id": "recital-23__annex-Point11.7__refines"
+      "edge_id": "recital-23__annex-Point11-7__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-23",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11-7"
     },
     {
       "confidence": "high",
@@ -6860,7 +7208,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "recital-24__annex-Point12__refines"
+      "edge_id": "recital-24__annex-Point12__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-24",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -6872,9 +7222,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-25",
       "source_type": "recital",
-      "target": "annex-Point12.1",
+      "target": "annex-Point12-1",
       "target_type": "annex_point",
-      "edge_id": "recital-25__annex-Point12.1__refines"
+      "edge_id": "recital-25__annex-Point12-1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-25",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12-1"
     },
     {
       "confidence": "high",
@@ -6886,9 +7238,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-25",
       "source_type": "recital",
-      "target": "annex-Point12.2",
+      "target": "annex-Point12-2",
       "target_type": "annex_point",
-      "edge_id": "recital-25__annex-Point12.2__refines"
+      "edge_id": "recital-25__annex-Point12-2__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-25",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12-2"
     },
     {
       "confidence": "high",
@@ -6900,9 +7254,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-26",
       "source_type": "recital",
-      "target": "annex-Point12.4",
+      "target": "annex-Point12-4",
       "target_type": "annex_point",
-      "edge_id": "recital-26__annex-Point12.4__refines"
+      "edge_id": "recital-26__annex-Point12-4__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-26",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12-4"
     },
     {
       "confidence": "high",
@@ -6914,9 +7270,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-27",
       "source_type": "recital",
-      "target": "annex-Point1.2",
+      "target": "annex-Point1-2",
       "target_type": "annex_point",
-      "edge_id": "recital-27__annex-Point1.2__refines"
+      "edge_id": "recital-27__annex-Point1-2__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-27",
+      "target_canonical_ref": "celex:32024R2690/annex-Point1-2"
     },
     {
       "confidence": "high",
@@ -6930,7 +7288,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "annex-Point13",
       "target_type": "annex_point",
-      "edge_id": "recital-28__annex-Point13__refines"
+      "edge_id": "recital-28__annex-Point13__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-28",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13"
     },
     {
       "confidence": "high",
@@ -6942,9 +7302,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-28",
       "source_type": "recital",
-      "target": "annex-Point13.1",
+      "target": "annex-Point13-1",
       "target_type": "annex_point",
-      "edge_id": "recital-28__annex-Point13.1__refines"
+      "edge_id": "recital-28__annex-Point13-1__refines",
+      "source_canonical_ref": "celex:32024R2690/recital-28",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13-1"
     },
     {
       "confidence": "high",
@@ -6956,9 +7318,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-29",
       "source_type": "recital",
-      "target": "annex-Point13.2",
+      "target": "annex-Point13-2",
       "target_type": "annex_point",
-      "edge_id": "recital-29__annex-Point13.2__concretizes"
+      "edge_id": "recital-29__annex-Point13-2__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-29",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13-2"
     },
     {
       "confidence": "high",
@@ -6972,7 +7336,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-30__article-Art3-Para1__concretizes"
+      "edge_id": "recital-30__article-Art3-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R2690/recital-30",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -6986,7 +7352,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-30__article-Art3-Para1__qualifies"
+      "edge_id": "recital-30__article-Art3-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R2690/recital-30",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7000,7 +7368,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-31__article-Art3-Para1__provides_guidance_for"
+      "edge_id": "recital-31__article-Art3-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-31",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7012,9 +7382,11 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_ancestry": [],
       "source": "recital-31",
       "source_type": "recital",
-      "target": "annex-Point3.4",
+      "target": "annex-Point3-4",
       "target_type": "annex_point",
-      "edge_id": "recital-31__annex-Point3.4__provides_guidance_for"
+      "edge_id": "recital-31__annex-Point3-4__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-31",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3-4"
     },
     {
       "confidence": "high",
@@ -7028,7 +7400,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-32__article-Art3-Para1__provides_guidance_for"
+      "edge_id": "recital-32__article-Art3-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-32",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7042,7 +7416,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para3",
       "target_type": "article_paragraph",
-      "edge_id": "recital-32__article-Art3-Para3__provides_guidance_for"
+      "edge_id": "recital-32__article-Art3-Para3__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-32",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para3"
     },
     {
       "confidence": "high",
@@ -7056,7 +7432,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-32__article-Art14-UN1__provides_guidance_for"
+      "edge_id": "recital-32__article-Art14-UN1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-32",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
@@ -7070,7 +7448,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para2",
       "target_type": "article_paragraph",
-      "edge_id": "recital-33__article-Art3-Para2__provides_guidance_for"
+      "edge_id": "recital-33__article-Art3-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-33",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para2"
     },
     {
       "confidence": "high",
@@ -7084,7 +7464,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art3-Para1__provides_guidance_for"
+      "edge_id": "recital-34__article-Art3-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7098,7 +7480,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art5-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art5-UN1__defines"
+      "edge_id": "recital-34__article-Art5-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art5-UN1"
     },
     {
       "confidence": "high",
@@ -7112,7 +7496,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art6-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art6-UN1__defines"
+      "edge_id": "recital-34__article-Art6-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art6-UN1"
     },
     {
       "confidence": "high",
@@ -7126,7 +7512,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art7-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art7-UN1__defines"
+      "edge_id": "recital-34__article-Art7-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art7-UN1"
     },
     {
       "confidence": "high",
@@ -7140,7 +7528,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art9-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art9-UN1__defines"
+      "edge_id": "recital-34__article-Art9-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art9-UN1"
     },
     {
       "confidence": "high",
@@ -7154,7 +7544,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art10-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art10-UN1__defines"
+      "edge_id": "recital-34__article-Art10-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art10-UN1"
     },
     {
       "confidence": "high",
@@ -7168,7 +7560,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-34__article-Art14-UN1__defines"
+      "edge_id": "recital-34__article-Art14-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
@@ -7182,7 +7576,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art3-Para1__provides_guidance_for"
+      "edge_id": "recital-35__article-Art3-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7196,7 +7592,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art5-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art5-UN1__defines"
+      "edge_id": "recital-35__article-Art5-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art5-UN1"
     },
     {
       "confidence": "high",
@@ -7210,7 +7608,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art6-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art6-UN1__defines"
+      "edge_id": "recital-35__article-Art6-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art6-UN1"
     },
     {
       "confidence": "high",
@@ -7224,7 +7624,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art7-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art7-UN1__defines"
+      "edge_id": "recital-35__article-Art7-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art7-UN1"
     },
     {
       "confidence": "high",
@@ -7238,7 +7640,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art8-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art8-UN1__defines"
+      "edge_id": "recital-35__article-Art8-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art8-UN1"
     },
     {
       "confidence": "high",
@@ -7252,7 +7656,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art9-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art9-UN1__defines"
+      "edge_id": "recital-35__article-Art9-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art9-UN1"
     },
     {
       "confidence": "high",
@@ -7266,7 +7672,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art10-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art10-UN1__defines"
+      "edge_id": "recital-35__article-Art10-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art10-UN1"
     },
     {
       "confidence": "high",
@@ -7280,7 +7688,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art11-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art11-UN1__defines"
+      "edge_id": "recital-35__article-Art11-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art11-UN1"
     },
     {
       "confidence": "high",
@@ -7294,7 +7704,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art12-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art12-UN1__defines"
+      "edge_id": "recital-35__article-Art12-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art12-UN1"
     },
     {
       "confidence": "high",
@@ -7308,7 +7720,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art13-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art13-UN1__defines"
+      "edge_id": "recital-35__article-Art13-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art13-UN1"
     },
     {
       "confidence": "high",
@@ -7322,7 +7736,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-35__article-Art14-UN1__defines"
+      "edge_id": "recital-35__article-Art14-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
@@ -7336,7 +7752,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-36__article-Art3-Para1__defines"
+      "edge_id": "recital-36__article-Art3-Para1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-36",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7350,7 +7768,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art4-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-36__article-Art4-UN1__provides_guidance_for"
+      "edge_id": "recital-36__article-Art4-UN1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-36",
+      "target_canonical_ref": "celex:32024R2690/article-Art4-UN1"
     },
     {
       "confidence": "high",
@@ -7364,11 +7784,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-37__article-Art3-Para1__provides_guidance_for"
+      "edge_id": "recital-37__article-Art3-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-37",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Defines 'limited availability' as used in the significance criteria under Article 3(1) \u2014 slower than average response times or partial loss of service functionality, with reference to objective criteria based on average response times.",
+      "reasoning": "Defines 'limited availability' as used in the significance criteria under Article 3(1) — slower than average response times or partial loss of service functionality, with reference to objective criteria based on average response times.",
       "relation": "defines",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7378,7 +7800,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art3-Para1__defines"
+      "edge_id": "recital-38__article-Art3-Para1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7392,7 +7816,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art7-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art7-UN1__defines"
+      "edge_id": "recital-38__article-Art7-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art7-UN1"
     },
     {
       "confidence": "high",
@@ -7406,7 +7832,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art8-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art8-UN1__defines"
+      "edge_id": "recital-38__article-Art8-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art8-UN1"
     },
     {
       "confidence": "high",
@@ -7420,7 +7848,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art9-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art9-UN1__defines"
+      "edge_id": "recital-38__article-Art9-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art9-UN1"
     },
     {
       "confidence": "high",
@@ -7434,7 +7864,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art10-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art10-UN1__defines"
+      "edge_id": "recital-38__article-Art10-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art10-UN1"
     },
     {
       "confidence": "high",
@@ -7448,7 +7880,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art11-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art11-UN1__defines"
+      "edge_id": "recital-38__article-Art11-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art11-UN1"
     },
     {
       "confidence": "high",
@@ -7462,7 +7896,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art12-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art12-UN1__defines"
+      "edge_id": "recital-38__article-Art12-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art12-UN1"
     },
     {
       "confidence": "high",
@@ -7476,7 +7912,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art13-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art13-UN1__defines"
+      "edge_id": "recital-38__article-Art13-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art13-UN1"
     },
     {
       "confidence": "high",
@@ -7490,7 +7928,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-38__article-Art14-UN1__defines"
+      "edge_id": "recital-38__article-Art14-UN1__defines",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
@@ -7504,7 +7944,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-39__article-Art3-Para1__provides_guidance_for"
+      "edge_id": "recital-39__article-Art3-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-39",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7518,7 +7960,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "article-Art4-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "recital-40__article-Art4-UN1__provides_guidance_for"
+      "edge_id": "recital-40__article-Art4-UN1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R2690/recital-40",
+      "target_canonical_ref": "celex:32024R2690/article-Art4-UN1"
     },
     {
       "confidence": "high",
@@ -7532,7 +7976,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-2",
       "target_type": "recital",
-      "edge_id": "recital-1__recital-2__provides_context_for"
+      "edge_id": "recital-1__recital-2__provides_context_for",
+      "source_canonical_ref": "celex:32024R2690/recital-1",
+      "target_canonical_ref": "celex:32024R2690/recital-2"
     },
     {
       "confidence": "high",
@@ -7546,7 +7992,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-4",
       "target_type": "recital",
-      "edge_id": "recital-3__recital-4__provides_context_for"
+      "edge_id": "recital-3__recital-4__provides_context_for",
+      "source_canonical_ref": "celex:32024R2690/recital-3",
+      "target_canonical_ref": "celex:32024R2690/recital-4"
     },
     {
       "confidence": "high",
@@ -7560,11 +8008,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-5",
       "target_type": "recital",
-      "edge_id": "recital-4__recital-5__builds_on"
+      "edge_id": "recital-4__recital-5__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-4",
+      "target_canonical_ref": "celex:32024R2690/recital-5"
     },
     {
       "confidence": "high",
-      "reasoning": "R8 describes technical network security measures (protocols, email, DNS). R9 builds on this by moving to the governance layer \u2014 policies on information system security and access control \u2014 which complement and operationalize the technical measures in R8.",
+      "reasoning": "R8 describes technical network security measures (protocols, email, DNS). R9 builds on this by moving to the governance layer — policies on information system security and access control — which complement and operationalize the technical measures in R8.",
       "relation": "builds_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7574,7 +8024,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-9",
       "target_type": "recital",
-      "edge_id": "recital-8__recital-9__builds_on"
+      "edge_id": "recital-8__recital-9__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-8",
+      "target_canonical_ref": "celex:32024R2690/recital-9"
     },
     {
       "confidence": "high",
@@ -7588,7 +8040,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-10",
       "target_type": "recital",
-      "edge_id": "recital-9__recital-10__builds_on"
+      "edge_id": "recital-9__recital-10__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-9",
+      "target_canonical_ref": "celex:32024R2690/recital-10"
     },
     {
       "confidence": "high",
@@ -7602,7 +8056,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-12",
       "target_type": "recital",
-      "edge_id": "recital-11__recital-12__builds_on"
+      "edge_id": "recital-11__recital-12__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-11",
+      "target_canonical_ref": "celex:32024R2690/recital-12"
     },
     {
       "confidence": "high",
@@ -7616,11 +8072,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-14",
       "target_type": "recital",
-      "edge_id": "recital-11__recital-14__builds_on"
+      "edge_id": "recital-11__recital-14__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-11",
+      "target_canonical_ref": "celex:32024R2690/recital-14"
     },
     {
       "confidence": "high",
-      "reasoning": "R25 (asset classification by type, sensitivity, risk level) builds directly on R24 (asset management framework) \u2014 classification is a core component that extends the asset management concept established in R24.",
+      "reasoning": "R25 (asset classification by type, sensitivity, risk level) builds directly on R24 (asset management framework) — classification is a core component that extends the asset management concept established in R24.",
       "relation": "builds_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7630,11 +8088,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-24",
       "target_type": "recital",
-      "edge_id": "recital-25__recital-24__builds_on"
+      "edge_id": "recital-25__recital-24__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-25",
+      "target_canonical_ref": "celex:32024R2690/recital-24"
     },
     {
       "confidence": "high",
-      "reasoning": "R26 (asset inventory granularity and attributes) builds on R24 (asset management) \u2014 the inventory is a concrete implementation component of the broader asset management framework established in R24.",
+      "reasoning": "R26 (asset inventory granularity and attributes) builds on R24 (asset management) — the inventory is a concrete implementation component of the broader asset management framework established in R24.",
       "relation": "builds_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7644,11 +8104,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-24",
       "target_type": "recital",
-      "edge_id": "recital-26__recital-24__builds_on"
+      "edge_id": "recital-26__recital-24__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-26",
+      "target_canonical_ref": "celex:32024R2690/recital-24"
     },
     {
       "confidence": "high",
-      "reasoning": "R26 (asset inventory including unique identifier, owner, classification) builds on R25 (asset classification) \u2014 the inventory incorporates the classification scheme defined in R25 as one of its attributes.",
+      "reasoning": "R26 (asset inventory including unique identifier, owner, classification) builds on R25 (asset classification) — the inventory incorporates the classification scheme defined in R25 as one of its attributes.",
       "relation": "builds_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7658,11 +8120,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-25",
       "target_type": "recital",
-      "edge_id": "recital-26__recital-25__builds_on"
+      "edge_id": "recital-26__recital-25__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-26",
+      "target_canonical_ref": "celex:32024R2690/recital-25"
     },
     {
       "confidence": "high",
-      "reasoning": "R23 (multi-factor authentication) builds on R21 (access control policy) \u2014 MFA is a specific, strengthened access control mechanism that extends the general access control framework established in R21, particularly for remote and high-privilege access scenarios.",
+      "reasoning": "R23 (multi-factor authentication) builds on R21 (access control policy) — MFA is a specific, strengthened access control mechanism that extends the general access control framework established in R21, particularly for remote and high-privilege access scenarios.",
       "relation": "builds_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7672,11 +8136,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-21",
       "target_type": "recital",
-      "edge_id": "recital-23__recital-21__builds_on"
+      "edge_id": "recital-23__recital-21__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-23",
+      "target_canonical_ref": "celex:32024R2690/recital-21"
     },
     {
       "confidence": "high",
-      "reasoning": "R28 (all-hazards approach covering physical and environmental threats) provides the conceptual framework and context for R29 (specific physical protection measures against fire, flood, power failures) \u2014 the all-hazards approach establishes that physical threats must be addressed, which R29 then details with concrete protection measures.",
+      "reasoning": "R28 (all-hazards approach covering physical and environmental threats) provides the conceptual framework and context for R29 (specific physical protection measures against fire, flood, power failures) — the all-hazards approach establishes that physical threats must be addressed, which R29 then details with concrete protection measures.",
       "relation": "provides_context_for",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -7686,7 +8152,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-29",
       "target_type": "recital",
-      "edge_id": "recital-28__recital-29__provides_context_for"
+      "edge_id": "recital-28__recital-29__provides_context_for",
+      "source_canonical_ref": "celex:32024R2690/recital-28",
+      "target_canonical_ref": "celex:32024R2690/recital-29"
     },
     {
       "confidence": "high",
@@ -7700,7 +8168,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-31__recital-30__builds_on"
+      "edge_id": "recital-31__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-31",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7714,7 +8184,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-32__recital-30__builds_on"
+      "edge_id": "recital-32__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-32",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7728,7 +8200,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-33__recital-30__qualifies"
+      "edge_id": "recital-33__recital-30__qualifies",
+      "source_canonical_ref": "celex:32024R2690/recital-33",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7742,7 +8216,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-34__recital-30__builds_on"
+      "edge_id": "recital-34__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-34",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7756,7 +8232,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-35__recital-30__builds_on"
+      "edge_id": "recital-35__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7770,7 +8248,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-34",
       "target_type": "recital",
-      "edge_id": "recital-35__recital-34__builds_on"
+      "edge_id": "recital-35__recital-34__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-35",
+      "target_canonical_ref": "celex:32024R2690/recital-34"
     },
     {
       "confidence": "high",
@@ -7784,7 +8264,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-36__recital-30__builds_on"
+      "edge_id": "recital-36__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-36",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7798,7 +8280,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-37__recital-30__builds_on"
+      "edge_id": "recital-37__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-37",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7812,7 +8296,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-38__recital-30__builds_on"
+      "edge_id": "recital-38__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7826,7 +8312,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-39__recital-30__builds_on"
+      "edge_id": "recital-39__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-39",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7840,7 +8328,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-30",
       "target_type": "recital",
-      "edge_id": "recital-40__recital-30__builds_on"
+      "edge_id": "recital-40__recital-30__builds_on",
+      "source_canonical_ref": "celex:32024R2690/recital-40",
+      "target_canonical_ref": "celex:32024R2690/recital-30"
     },
     {
       "confidence": "high",
@@ -7854,7 +8344,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "recital",
       "target": "recital-35",
       "target_type": "recital",
-      "edge_id": "recital-38__recital-35__contrasts_with"
+      "edge_id": "recital-38__recital-35__contrasts_with",
+      "source_canonical_ref": "celex:32024R2690/recital-38",
+      "target_canonical_ref": "celex:32024R2690/recital-35"
     },
     {
       "confidence": "high",
@@ -7868,7 +8360,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art2-Para2__article-Art2-Para1__depends_on"
+      "edge_id": "article-Art2-Para2__article-Art2-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art2-Para2",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -7882,7 +8376,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para2__article-Art3-Para1__excludes"
+      "edge_id": "article-Art3-Para2__article-Art3-Para1__excludes",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para2",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7896,7 +8392,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art4-UN1__article-Art3-Para1__qualifies"
+      "edge_id": "article-Art4-UN1__article-Art3-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R2690/article-Art4-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7910,7 +8408,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art1-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art2-Para1__article-Art1-UN1__depends_on"
+      "edge_id": "article-Art2-Para1__article-Art1-UN1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art2-Para1",
+      "target_canonical_ref": "celex:32024R2690/article-Art1-UN1"
     },
     {
       "confidence": "high",
@@ -7924,7 +8424,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art1-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para1__article-Art1-UN1__depends_on"
+      "edge_id": "article-Art3-Para1__article-Art1-UN1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para1",
+      "target_canonical_ref": "celex:32024R2690/article-Art1-UN1"
     },
     {
       "confidence": "high",
@@ -7938,7 +8440,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art5-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art5-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art5-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7952,7 +8456,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art6-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art6-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7966,7 +8472,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art7-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art7-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art7-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7980,7 +8488,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art8-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art8-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art8-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -7994,7 +8504,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art9-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art9-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art9-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8008,7 +8520,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art10-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art10-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art10-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8022,7 +8536,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art11-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art11-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art11-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8036,7 +8552,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art12-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art12-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art12-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8050,7 +8568,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art13-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art13-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art13-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8064,7 +8584,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art14-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art14-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art14-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8078,7 +8600,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art7-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art7-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art7-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art7-UN1"
     },
     {
       "confidence": "high",
@@ -8092,7 +8616,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art9-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art9-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art9-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art9-UN1"
     },
     {
       "confidence": "high",
@@ -8106,7 +8632,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art10-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art10-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art10-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art10-UN1"
     },
     {
       "confidence": "high",
@@ -8120,7 +8648,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art11-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art11-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art11-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art11-UN1"
     },
     {
       "confidence": "high",
@@ -8134,7 +8664,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art12-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art12-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art12-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art12-UN1"
     },
     {
       "confidence": "high",
@@ -8148,7 +8680,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art13-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art13-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art13-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art13-UN1"
     },
     {
       "confidence": "high",
@@ -8162,11 +8696,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art14-UN1__references"
+      "edge_id": "article-Art3-Para3__article-Art14-UN1__references",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art2P2 requires entities to 'ensure a level of security appropriate to the risks' \u2014 this general risk-proportionality requirement depends on the specific technical and methodological measures enumerated in Art2P1. The appropriate security level is achieved by implementing the measures listed in P1.",
+      "reasoning": "Art2P2 requires entities to 'ensure a level of security appropriate to the risks' — this general risk-proportionality requirement depends on the specific technical and methodological measures enumerated in Art2P1. The appropriate security level is achieved by implementing the measures listed in P1.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8176,11 +8712,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art2-Para2__article-Art2-Para1__depends_on__2"
+      "edge_id": "article-Art2-Para2__article-Art2-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art2-Para2",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art3P2 (scheduled interruptions of service and planned maintenance) qualifies Art3P1 (general significant incident criteria) by excluding planned/scheduled events from the significant incident definition \u2014 it narrows the scope of what counts as a significant incident.",
+      "reasoning": "Art3P2 (scheduled interruptions of service and planned maintenance) qualifies Art3P1 (general significant incident criteria) by excluding planned/scheduled events from the significant incident definition — it narrows the scope of what counts as a significant incident.",
       "relation": "qualifies",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8190,11 +8728,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para2__article-Art3-Para1__qualifies"
+      "edge_id": "article-Art3-Para2__article-Art3-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para2",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art3P3 (methodology for counting users impacted by an incident) qualifies Art3P1 (significant incident criteria) by specifying how the user-impact threshold should be calculated \u2014 it refines the measurement methodology for applying the criteria in P1.",
+      "reasoning": "Art3P3 (methodology for counting users impacted by an incident) qualifies Art3P1 (significant incident criteria) by specifying how the user-impact threshold should be calculated — it refines the measurement methodology for applying the criteria in P1.",
       "relation": "qualifies",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8204,11 +8744,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art3-Para1__qualifies"
+      "edge_id": "article-Art3-Para3__article-Art3-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art4 (recurring incidents that individually are not significant but collectively may be) qualifies Art3P1 (significant incident criteria) by adding a special case where individually non-significant incidents can become significant through recurrence \u2014 it extends and qualifies the individual-incident-based criteria in P1.",
+      "reasoning": "Art4 (recurring incidents that individually are not significant but collectively may be) qualifies Art3P1 (significant incident criteria) by adding a special case where individually non-significant incidents can become significant through recurrence — it extends and qualifies the individual-incident-based criteria in P1.",
       "relation": "qualifies",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8218,11 +8760,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art4-UN1__article-Art3-Para1__qualifies__2"
+      "edge_id": "article-Art4-UN1__article-Art3-Para1__qualifies__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art4-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art5 (significant incidents for DNS service providers) depends on Art3P1 (general significant incident criteria) \u2014 the DNS-specific criteria in Art5 build upon and apply the general framework established in Art3P1 to the DNS service provider entity type.",
+      "reasoning": "Art5 (significant incidents for DNS service providers) depends on Art3P1 (general significant incident criteria) — the DNS-specific criteria in Art5 build upon and apply the general framework established in Art3P1 to the DNS service provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8232,11 +8776,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art5-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art5-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art5-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art6 (significant incidents for TLD name registries) depends on Art3P1 (general significant incident criteria) \u2014 the TLD-specific criteria in Art6 build upon and apply the general framework established in Art3P1 to the TLD name registry entity type.",
+      "reasoning": "Art6 (significant incidents for TLD name registries) depends on Art3P1 (general significant incident criteria) — the TLD-specific criteria in Art6 build upon and apply the general framework established in Art3P1 to the TLD name registry entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8246,11 +8792,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art6-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art6-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art7 (significant incidents for cloud computing service providers) depends on Art3P1 (general significant incident criteria) \u2014 the cloud-specific criteria in Art7 build upon and apply the general framework established in Art3P1 to the cloud computing service provider entity type.",
+      "reasoning": "Art7 (significant incidents for cloud computing service providers) depends on Art3P1 (general significant incident criteria) — the cloud-specific criteria in Art7 build upon and apply the general framework established in Art3P1 to the cloud computing service provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8260,11 +8808,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art7-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art7-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art7-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art8 (significant incidents for data centre service providers) depends on Art3P1 (general significant incident criteria) \u2014 the data-centre-specific criteria in Art8 build upon and apply the general framework established in Art3P1 to the data centre service provider entity type.",
+      "reasoning": "Art8 (significant incidents for data centre service providers) depends on Art3P1 (general significant incident criteria) — the data-centre-specific criteria in Art8 build upon and apply the general framework established in Art3P1 to the data centre service provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8274,11 +8824,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art8-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art8-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art8-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art9 (significant incidents for content delivery network providers) depends on Art3P1 (general significant incident criteria) \u2014 the CDN-specific criteria in Art9 build upon and apply the general framework established in Art3P1 to the CDN provider entity type.",
+      "reasoning": "Art9 (significant incidents for content delivery network providers) depends on Art3P1 (general significant incident criteria) — the CDN-specific criteria in Art9 build upon and apply the general framework established in Art3P1 to the CDN provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8288,11 +8840,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art9-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art9-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art9-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art10 (significant incidents for managed service providers and managed security service providers) depends on Art3P1 (general significant incident criteria) \u2014 the MSP-specific criteria in Art10 build upon and apply the general framework established in Art3P1 to the MSP entity type.",
+      "reasoning": "Art10 (significant incidents for managed service providers and managed security service providers) depends on Art3P1 (general significant incident criteria) — the MSP-specific criteria in Art10 build upon and apply the general framework established in Art3P1 to the MSP entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8302,11 +8856,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art10-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art10-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art10-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art11 (significant incidents for providers of online marketplaces) depends on Art3P1 (general significant incident criteria) \u2014 the online-marketplace-specific criteria in Art11 build upon and apply the general framework established in Art3P1 to the online marketplace provider entity type.",
+      "reasoning": "Art11 (significant incidents for providers of online marketplaces) depends on Art3P1 (general significant incident criteria) — the online-marketplace-specific criteria in Art11 build upon and apply the general framework established in Art3P1 to the online marketplace provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8316,11 +8872,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art11-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art11-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art11-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art12 (significant incidents for providers of online search engines) depends on Art3P1 (general significant incident criteria) \u2014 the search-engine-specific criteria in Art12 build upon and apply the general framework established in Art3P1 to the online search engine provider entity type.",
+      "reasoning": "Art12 (significant incidents for providers of online search engines) depends on Art3P1 (general significant incident criteria) — the search-engine-specific criteria in Art12 build upon and apply the general framework established in Art3P1 to the online search engine provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8330,11 +8888,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art12-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art12-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art12-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art13 (significant incidents for providers of social networking services platforms) depends on Art3P1 (general significant incident criteria) \u2014 the social-network-specific criteria in Art13 build upon and apply the general framework established in Art3P1 to the social networking service provider entity type.",
+      "reasoning": "Art13 (significant incidents for providers of social networking services platforms) depends on Art3P1 (general significant incident criteria) — the social-network-specific criteria in Art13 build upon and apply the general framework established in Art3P1 to the social networking service provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8344,11 +8904,13 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art13-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art13-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art13-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
-      "reasoning": "Art14 (significant incidents for trust service providers) depends on Art3P1 (general significant incident criteria) \u2014 the trust-service-specific criteria in Art14 build upon and apply the general framework established in Art3P1 to the trust service provider entity type.",
+      "reasoning": "Art14 (significant incidents for trust service providers) depends on Art3P1 (general significant incident criteria) — the trust-service-specific criteria in Art14 build upon and apply the general framework established in Art3P1 to the trust service provider entity type.",
       "relation": "depends_on",
       "akn4eu_source_refers_to": null,
       "akn4eu_target_refers_to": null,
@@ -8358,7 +8920,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art14-UN1__article-Art3-Para1__depends_on__2"
+      "edge_id": "article-Art14-UN1__article-Art3-Para1__depends_on__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art14-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8372,7 +8936,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para2__article-Art3-Para1__excludes__2"
+      "edge_id": "article-Art3-Para2__article-Art3-Para1__excludes__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para2",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8386,7 +8952,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art3-Para1__qualifies__2"
+      "edge_id": "article-Art3-Para3__article-Art3-Para1__qualifies__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8400,7 +8968,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art4-UN1__article-Art3-Para1__depends_on"
+      "edge_id": "article-Art4-UN1__article-Art3-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R2690/article-Art4-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8414,7 +8984,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art5-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art5-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art5-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8428,7 +9000,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art6-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art6-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8442,7 +9016,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art7-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art7-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art7-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8456,7 +9032,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art8-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art8-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art8-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8470,7 +9048,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art9-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art9-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art9-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8484,7 +9064,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art10-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art10-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art10-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8498,7 +9080,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art11-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art11-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art11-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8512,7 +9096,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art12-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art12-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art12-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8526,7 +9112,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art13-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art13-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art13-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8540,7 +9128,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art3-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art14-UN1__article-Art3-Para1__depends_on__3"
+      "edge_id": "article-Art14-UN1__article-Art3-Para1__depends_on__3",
+      "source_canonical_ref": "celex:32024R2690/article-Art14-UN1",
+      "target_canonical_ref": "celex:32024R2690/article-Art3-Para1"
     },
     {
       "confidence": "high",
@@ -8554,7 +9144,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art7-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art7-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art7-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art7-UN1"
     },
     {
       "confidence": "high",
@@ -8568,7 +9160,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art9-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art9-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art9-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art9-UN1"
     },
     {
       "confidence": "high",
@@ -8582,7 +9176,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art10-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art10-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art10-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art10-UN1"
     },
     {
       "confidence": "high",
@@ -8596,7 +9192,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art11-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art11-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art11-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art11-UN1"
     },
     {
       "confidence": "high",
@@ -8610,7 +9208,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art12-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art12-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art12-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art12-UN1"
     },
     {
       "confidence": "high",
@@ -8624,7 +9224,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art13-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art13-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art13-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art13-UN1"
     },
     {
       "confidence": "high",
@@ -8638,7 +9240,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "article_paragraph",
       "target": "article-Art14-UN1",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art3-Para3__article-Art14-UN1__references__2"
+      "edge_id": "article-Art3-Para3__article-Art14-UN1__references__2",
+      "source_canonical_ref": "celex:32024R2690/article-Art3-Para3",
+      "target_canonical_ref": "celex:32024R2690/article-Art14-UN1"
     },
     {
       "confidence": "high",
@@ -8648,11 +9252,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point1.1",
+      "source": "annex-Point1-1",
       "source_type": "annex_point",
       "target": "annex-Point1",
       "target_type": "annex_point",
-      "edge_id": "annex-Point1.1__annex-Point1__part_of"
+      "edge_id": "annex-Point1-1__annex-Point1__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point1-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point1"
     },
     {
       "confidence": "high",
@@ -8662,11 +9268,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point1.2",
+      "source": "annex-Point1-2",
       "source_type": "annex_point",
       "target": "annex-Point1",
       "target_type": "annex_point",
-      "edge_id": "annex-Point1.2__annex-Point1__part_of"
+      "edge_id": "annex-Point1-2__annex-Point1__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point1-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point1"
     },
     {
       "confidence": "high",
@@ -8676,11 +9284,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point2.1",
+      "source": "annex-Point2-1",
       "source_type": "annex_point",
       "target": "annex-Point2",
       "target_type": "annex_point",
-      "edge_id": "annex-Point2.1__annex-Point2__part_of"
+      "edge_id": "annex-Point2-1__annex-Point2__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point2-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2"
     },
     {
       "confidence": "high",
@@ -8690,11 +9300,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point2.2",
+      "source": "annex-Point2-2",
       "source_type": "annex_point",
       "target": "annex-Point2",
       "target_type": "annex_point",
-      "edge_id": "annex-Point2.2__annex-Point2__part_of"
+      "edge_id": "annex-Point2-2__annex-Point2__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point2-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2"
     },
     {
       "confidence": "high",
@@ -8704,11 +9316,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point2.3",
+      "source": "annex-Point2-3",
       "source_type": "annex_point",
       "target": "annex-Point2",
       "target_type": "annex_point",
-      "edge_id": "annex-Point2.3__annex-Point2__part_of"
+      "edge_id": "annex-Point2-3__annex-Point2__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point2-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point2"
     },
     {
       "confidence": "high",
@@ -8718,11 +9332,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point3.1",
+      "source": "annex-Point3-1",
       "source_type": "annex_point",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "annex-Point3.1__annex-Point3__part_of"
+      "edge_id": "annex-Point3-1__annex-Point3__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -8732,11 +9348,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point3.2",
+      "source": "annex-Point3-2",
       "source_type": "annex_point",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "annex-Point3.2__annex-Point3__part_of"
+      "edge_id": "annex-Point3-2__annex-Point3__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -8746,11 +9364,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point3.3",
+      "source": "annex-Point3-3",
       "source_type": "annex_point",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "annex-Point3.3__annex-Point3__part_of"
+      "edge_id": "annex-Point3-3__annex-Point3__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -8760,11 +9380,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point3.4",
+      "source": "annex-Point3-4",
       "source_type": "annex_point",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "annex-Point3.4__annex-Point3__part_of"
+      "edge_id": "annex-Point3-4__annex-Point3__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3-4",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -8774,11 +9396,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point3.5",
+      "source": "annex-Point3-5",
       "source_type": "annex_point",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "annex-Point3.5__annex-Point3__part_of"
+      "edge_id": "annex-Point3-5__annex-Point3__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3-5",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -8788,11 +9412,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point3.6",
+      "source": "annex-Point3-6",
       "source_type": "annex_point",
       "target": "annex-Point3",
       "target_type": "annex_point",
-      "edge_id": "annex-Point3.6__annex-Point3__part_of"
+      "edge_id": "annex-Point3-6__annex-Point3__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3-6",
+      "target_canonical_ref": "celex:32024R2690/annex-Point3"
     },
     {
       "confidence": "high",
@@ -8802,11 +9428,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point4.1",
+      "source": "annex-Point4-1",
       "source_type": "annex_point",
       "target": "annex-Point4",
       "target_type": "annex_point",
-      "edge_id": "annex-Point4.1__annex-Point4__part_of"
+      "edge_id": "annex-Point4-1__annex-Point4__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point4-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point4"
     },
     {
       "confidence": "high",
@@ -8816,11 +9444,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point4.2",
+      "source": "annex-Point4-2",
       "source_type": "annex_point",
       "target": "annex-Point4",
       "target_type": "annex_point",
-      "edge_id": "annex-Point4.2__annex-Point4__part_of"
+      "edge_id": "annex-Point4-2__annex-Point4__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point4-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point4"
     },
     {
       "confidence": "high",
@@ -8830,11 +9460,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point4.3",
+      "source": "annex-Point4-3",
       "source_type": "annex_point",
       "target": "annex-Point4",
       "target_type": "annex_point",
-      "edge_id": "annex-Point4.3__annex-Point4__part_of"
+      "edge_id": "annex-Point4-3__annex-Point4__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point4-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point4"
     },
     {
       "confidence": "high",
@@ -8844,11 +9476,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point5.1",
+      "source": "annex-Point5-1",
       "source_type": "annex_point",
       "target": "annex-Point5",
       "target_type": "annex_point",
-      "edge_id": "annex-Point5.1__annex-Point5__part_of"
+      "edge_id": "annex-Point5-1__annex-Point5__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point5-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point5"
     },
     {
       "confidence": "high",
@@ -8858,11 +9492,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point5.2",
+      "source": "annex-Point5-2",
       "source_type": "annex_point",
       "target": "annex-Point5",
       "target_type": "annex_point",
-      "edge_id": "annex-Point5.2__annex-Point5__part_of"
+      "edge_id": "annex-Point5-2__annex-Point5__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point5-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point5"
     },
     {
       "confidence": "high",
@@ -8872,11 +9508,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.1",
+      "source": "annex-Point6-1",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.1__annex-Point6__part_of"
+      "edge_id": "annex-Point6-1__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8886,11 +9524,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.2",
+      "source": "annex-Point6-2",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.2__annex-Point6__part_of"
+      "edge_id": "annex-Point6-2__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8900,11 +9540,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.3",
+      "source": "annex-Point6-3",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.3__annex-Point6__part_of"
+      "edge_id": "annex-Point6-3__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8914,11 +9556,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.4",
+      "source": "annex-Point6-4",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.4__annex-Point6__part_of"
+      "edge_id": "annex-Point6-4__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-4",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8928,11 +9572,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.5",
+      "source": "annex-Point6-5",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.5__annex-Point6__part_of"
+      "edge_id": "annex-Point6-5__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-5",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8942,11 +9588,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.6",
+      "source": "annex-Point6-6",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.6__annex-Point6__part_of"
+      "edge_id": "annex-Point6-6__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-6",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8956,11 +9604,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.7",
+      "source": "annex-Point6-7",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.7__annex-Point6__part_of"
+      "edge_id": "annex-Point6-7__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-7",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8970,11 +9620,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.8",
+      "source": "annex-Point6-8",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.8__annex-Point6__part_of"
+      "edge_id": "annex-Point6-8__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-8",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8984,11 +9636,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.9",
+      "source": "annex-Point6-9",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.9__annex-Point6__part_of"
+      "edge_id": "annex-Point6-9__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-9",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -8998,11 +9652,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point6.10",
+      "source": "annex-Point6-10",
       "source_type": "annex_point",
       "target": "annex-Point6",
       "target_type": "annex_point",
-      "edge_id": "annex-Point6.10__annex-Point6__part_of"
+      "edge_id": "annex-Point6-10__annex-Point6__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6-10",
+      "target_canonical_ref": "celex:32024R2690/annex-Point6"
     },
     {
       "confidence": "high",
@@ -9012,11 +9668,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point8.1",
+      "source": "annex-Point8-1",
       "source_type": "annex_point",
       "target": "annex-Point8",
       "target_type": "annex_point",
-      "edge_id": "annex-Point8.1__annex-Point8__part_of"
+      "edge_id": "annex-Point8-1__annex-Point8__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point8-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point8"
     },
     {
       "confidence": "high",
@@ -9026,11 +9684,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point8.2",
+      "source": "annex-Point8-2",
       "source_type": "annex_point",
       "target": "annex-Point8",
       "target_type": "annex_point",
-      "edge_id": "annex-Point8.2__annex-Point8__part_of"
+      "edge_id": "annex-Point8-2__annex-Point8__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point8-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point8"
     },
     {
       "confidence": "high",
@@ -9040,11 +9700,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point10.1",
+      "source": "annex-Point10-1",
       "source_type": "annex_point",
       "target": "annex-Point10",
       "target_type": "annex_point",
-      "edge_id": "annex-Point10.1__annex-Point10__part_of"
+      "edge_id": "annex-Point10-1__annex-Point10__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point10-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10"
     },
     {
       "confidence": "high",
@@ -9054,11 +9716,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point10.2",
+      "source": "annex-Point10-2",
       "source_type": "annex_point",
       "target": "annex-Point10",
       "target_type": "annex_point",
-      "edge_id": "annex-Point10.2__annex-Point10__part_of"
+      "edge_id": "annex-Point10-2__annex-Point10__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point10-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10"
     },
     {
       "confidence": "high",
@@ -9068,11 +9732,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point10.3",
+      "source": "annex-Point10-3",
       "source_type": "annex_point",
       "target": "annex-Point10",
       "target_type": "annex_point",
-      "edge_id": "annex-Point10.3__annex-Point10__part_of"
+      "edge_id": "annex-Point10-3__annex-Point10__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point10-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10"
     },
     {
       "confidence": "high",
@@ -9082,11 +9748,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point10.4",
+      "source": "annex-Point10-4",
       "source_type": "annex_point",
       "target": "annex-Point10",
       "target_type": "annex_point",
-      "edge_id": "annex-Point10.4__annex-Point10__part_of"
+      "edge_id": "annex-Point10-4__annex-Point10__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point10-4",
+      "target_canonical_ref": "celex:32024R2690/annex-Point10"
     },
     {
       "confidence": "high",
@@ -9096,11 +9764,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.1",
+      "source": "annex-Point11-1",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.1__annex-Point11__part_of"
+      "edge_id": "annex-Point11-1__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9110,11 +9780,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.2",
+      "source": "annex-Point11-2",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.2__annex-Point11__part_of"
+      "edge_id": "annex-Point11-2__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9124,11 +9796,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.3",
+      "source": "annex-Point11-3",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.3__annex-Point11__part_of"
+      "edge_id": "annex-Point11-3__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9138,11 +9812,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.4",
+      "source": "annex-Point11-4",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.4__annex-Point11__part_of"
+      "edge_id": "annex-Point11-4__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-4",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9152,11 +9828,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.5",
+      "source": "annex-Point11-5",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.5__annex-Point11__part_of"
+      "edge_id": "annex-Point11-5__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-5",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9166,11 +9844,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.6",
+      "source": "annex-Point11-6",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.6__annex-Point11__part_of"
+      "edge_id": "annex-Point11-6__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-6",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9180,11 +9860,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point11.7",
+      "source": "annex-Point11-7",
       "source_type": "annex_point",
       "target": "annex-Point11",
       "target_type": "annex_point",
-      "edge_id": "annex-Point11.7__annex-Point11__part_of"
+      "edge_id": "annex-Point11-7__annex-Point11__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11-7",
+      "target_canonical_ref": "celex:32024R2690/annex-Point11"
     },
     {
       "confidence": "high",
@@ -9194,11 +9876,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point12.1",
+      "source": "annex-Point12-1",
       "source_type": "annex_point",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "annex-Point12.1__annex-Point12__part_of"
+      "edge_id": "annex-Point12-1__annex-Point12__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point12-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -9208,11 +9892,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point12.2",
+      "source": "annex-Point12-2",
       "source_type": "annex_point",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "annex-Point12.2__annex-Point12__part_of"
+      "edge_id": "annex-Point12-2__annex-Point12__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point12-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -9222,11 +9908,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point12.3",
+      "source": "annex-Point12-3",
       "source_type": "annex_point",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "annex-Point12.3__annex-Point12__part_of"
+      "edge_id": "annex-Point12-3__annex-Point12__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point12-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -9236,11 +9924,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point12.4",
+      "source": "annex-Point12-4",
       "source_type": "annex_point",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "annex-Point12.4__annex-Point12__part_of"
+      "edge_id": "annex-Point12-4__annex-Point12__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point12-4",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -9250,11 +9940,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point12.5",
+      "source": "annex-Point12-5",
       "source_type": "annex_point",
       "target": "annex-Point12",
       "target_type": "annex_point",
-      "edge_id": "annex-Point12.5__annex-Point12__part_of"
+      "edge_id": "annex-Point12-5__annex-Point12__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point12-5",
+      "target_canonical_ref": "celex:32024R2690/annex-Point12"
     },
     {
       "confidence": "high",
@@ -9264,11 +9956,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point13.1",
+      "source": "annex-Point13-1",
       "source_type": "annex_point",
       "target": "annex-Point13",
       "target_type": "annex_point",
-      "edge_id": "annex-Point13.1__annex-Point13__part_of"
+      "edge_id": "annex-Point13-1__annex-Point13__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point13-1",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13"
     },
     {
       "confidence": "high",
@@ -9278,11 +9972,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point13.2",
+      "source": "annex-Point13-2",
       "source_type": "annex_point",
       "target": "annex-Point13",
       "target_type": "annex_point",
-      "edge_id": "annex-Point13.2__annex-Point13__part_of"
+      "edge_id": "annex-Point13-2__annex-Point13__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point13-2",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13"
     },
     {
       "confidence": "high",
@@ -9292,11 +9988,13 @@ The repository licence covers only original selection, structure and analysis. I
       "akn4eu_target_refers_to": null,
       "akn4eu_target_uri": null,
       "akn4eu_ancestry": [],
-      "source": "annex-Point13.3",
+      "source": "annex-Point13-3",
       "source_type": "annex_point",
       "target": "annex-Point13",
       "target_type": "annex_point",
-      "edge_id": "annex-Point13.3__annex-Point13__part_of"
+      "edge_id": "annex-Point13-3__annex-Point13__part_of",
+      "source_canonical_ref": "celex:32024R2690/annex-Point13-3",
+      "target_canonical_ref": "celex:32024R2690/annex-Point13"
     },
     {
       "confidence": "high",
@@ -9310,7 +10008,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point1__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point1__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point1",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9324,7 +10024,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point2__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point2__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point2",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9338,7 +10040,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point3__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point3__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point3",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9352,7 +10056,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point4__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point4__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point4",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9366,7 +10072,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point5__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point5__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point5",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9380,7 +10088,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point6__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point6__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point6",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9394,7 +10104,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point7__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point7__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point7",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9408,7 +10120,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point8__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point8__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point8",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9422,7 +10136,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point9__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point9__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point9",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9436,7 +10152,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point10__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point10__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point10",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9450,7 +10168,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point11__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point11__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point11",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9464,7 +10184,9 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point12__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point12__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point12",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     },
     {
       "confidence": "high",
@@ -9478,9 +10200,44 @@ The repository licence covers only original selection, structure and analysis. I
       "source_type": "annex_point",
       "target": "article-Art2-Para1",
       "target_type": "article_paragraph",
-      "edge_id": "annex-Point13__article-Art2-Para1__gives_effect_to"
+      "edge_id": "annex-Point13__article-Art2-Para1__gives_effect_to",
+      "source_canonical_ref": "celex:32024R2690/annex-Point13",
+      "target_canonical_ref": "celex:32024R2690/article-Art2-Para1"
     }
   ],
-  "case_law": []
+  "case_law": [],
+  "schema": "akn4eu/legal-mapping@1.0.0",
+  "contract_profile": "legacy_syntax_only",
+  "migration": {
+    "mode": "syntax_only",
+    "source_path": "2024-10-18_EU_Commission_NIS2_Implementing_Regulation_2024-2690_recital_article_annex_mapping.md",
+    "source_schema": null,
+    "semantic_enrichment_performed": false,
+    "preservation": {
+      "pass": true,
+      "node_count_before": 125,
+      "node_count_after": 125,
+      "node_occurrence_count_before": 125,
+      "node_occurrence_count_after": 125,
+      "duplicate_node_occurrences_before": 0,
+      "duplicate_node_occurrences_after": 0,
+      "edge_count_before": 237,
+      "edge_count_after": 237,
+      "nodes_added": 0,
+      "nodes_removed": 0,
+      "edges_added": 0,
+      "edges_removed": 0,
+      "relations_reclassified": 0,
+      "endpoints_changed": 0,
+      "semantic_fields_authored": 0,
+      "verbatim_and_existing_fields_preserved": true
+    },
+    "integrity": {
+      "preserved_semantics_sha256": "9e05f5606656c98a6b069a480855534f807fde9fcfcf2afbb533fa8387f63a46",
+      "migrated_payload_sha256": "f7b8c987cf48347f58c15c1d66f2e86af83607679292258e3961553b7c1e8e5c",
+      "source_artifact_sha256": "2b9bd051210ff784053664ff92f3e01407242caa5dbd314bd640e722b30a7f0c",
+      "markdown_wrapper_sha256": "8a23f18a7e76e7087c548f5a6f72508dc584cdce0462c09cc5f9192f069d3b93"
+    }
+  }
 }
 ```
