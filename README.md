@@ -20,6 +20,19 @@ Each mapping is published as a Progressive Disclosure-compatible Markdown file w
 
 This repository does not publish canonical AKN4EU XML. Its Markdown and JSON format is an additional practitioner-oriented layer designed for review, AI use and later graph ingestion.
 
+## Artifact standards and transition rule
+
+The repository contains two deliberately different artifact profiles. They share stable document and node references so that cross-document relations can address both profiles, but they do not claim the same internal completeness.
+
+| Profile | Scope | Purpose and limits |
+|---|---|---|
+| `legacy_syntax_only` | GDPR, DORA, Delegated Regulation (EU) 2024/1774, the AI Act and Implementing Regulation (EU) 2024/2690 | A one-time, preservation-bound normalization of mappings created before the current contract. Existing nodes, legal text, relation meaning, reasoning and confidence are retained. This profile is supported for reading, graph import and cross-document linking, but it is not a template for a new ingest. |
+| `native_full` | The Cyber Resilience Act baseline and every newly ingested instrument from that transition onward | The binding current standard. New artifacts must use `akn4eu/legal-mapping@1.0.0`, declare the `eu-legal-to-json` producer, target `aura-legal-ontology@1.3.0-review-integrated` and schema-contract `0.2.0`, and pass the executable pre-publication validator. They include the full evidence, integrity, provenance, projection and QA structures required by the current pipeline. |
+
+The Cyber Resilience Act is the transition artifact: it establishes the baseline for `native_full`. All later work, including the planned EU Digital Omnibus mapping, must use `native_full`; `legacy_syntax_only` must never be selected for a new document merely because it is simpler.
+
+Legacy artifacts are not silently regenerated or semantically upgraded. A later correction requires a separately authorised, evidence-bound repair with a declared delta and complete re-validation. Official EUR-Lex and Official Journal sources remain authoritative for every profile.
+
 ## Relation model
 
 The graph distinguishes the legal function, source role and direction of a relation instead of treating every cross-reference as equivalent. Internal legislation relations and judicial relations use separate vocabularies.
