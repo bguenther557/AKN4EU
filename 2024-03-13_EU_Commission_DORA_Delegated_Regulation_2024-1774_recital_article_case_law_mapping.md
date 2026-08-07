@@ -84,7 +84,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-1 explains the proportionality rationale for article-Art1-Para1 by tying ICT requirements to entity size, structure, complexity and corresponding ICT risk."
+          "reasoning": "recital-1 explains the proportionality rationale for article-Art1-Para1 by tying ICT requirements to entity size, structure, complexity and corresponding ICT risk.",
+          "source_canonical_ref": "celex:32024R1774/recital-1",
+          "target_canonical_ref": "celex:32024R1774/article-Art1-Para1"
         }
       ],
       "inbound_relations": [
@@ -96,9 +98,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-2 expressly proceeds 'for the same reason' from recital-1's proportionality rationale and develops that rationale into flexibility and documentation reuse."
+          "reasoning": "recital-2 expressly proceeds 'for the same reason' from recital-1's proportionality rationale and develops that rationale into flexibility and documentation reuse.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/recital-1"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-1",
+      "text_sha256": "60bdf836fae2b01089bd3480647414a17e76ac59a678d5a75de7da83c94d64e6"
     },
     {
       "id": "recital-2",
@@ -117,7 +123,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 expressly lists vulnerability management among the technical implementation procedures that article-Art10-Para1 requires financial entities to establish."
+          "reasoning": "recital-2 expressly lists vulnerability management among the technical implementation procedures that article-Art10-Para1 requires financial entities to establish.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para1"
         },
         {
           "edge_id": "recital-2__article-Art10-Para3__provides_guidance_for",
@@ -127,7 +135,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 separately names patch management as a necessary technical procedure, directly explaining the obligation in article-Art10-Para3."
+          "reasoning": "recital-2 separately names patch management as a necessary technical procedure, directly explaining the obligation in article-Art10-Para3.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para3"
         },
         {
           "edge_id": "recital-2__article-Art11-Para1__provides_guidance_for",
@@ -137,7 +147,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 identifies data and system security as a technical implementation area, which is the precise procedure created by article-Art11-Para1."
+          "reasoning": "recital-2 identifies data and system security as a technical implementation area, which is the precise procedure created by article-Art11-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art11-Para1"
         },
         {
           "edge_id": "recital-2__article-Art12-Para1__provides_guidance_for",
@@ -147,7 +159,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 expressly includes logging among necessary technical procedures, supplying the policy rationale for article-Art12-Para1's logging obligation."
+          "reasoning": "recital-2 expressly includes logging among necessary technical procedures, supplying the policy rationale for article-Art12-Para1's logging obligation.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art12-Para1"
         },
         {
           "edge_id": "recital-2__article-Art2-Para2__provides_guidance_for",
@@ -157,7 +171,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 guides application of article-Art2-Para2 by allowing existing documentation to satisfy documentation duties and by explaining why only essential policy elements require dedicated documentation."
+          "reasoning": "recital-2 guides application of article-Art2-Para2 by allowing existing documentation to satisfy documentation duties and by explaining why only essential policy elements require dedicated documentation.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-2__article-Art9-Para1__provides_guidance_for",
@@ -167,7 +183,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 expressly identifies capacity and performance management as a technical procedure domain, providing the rationale for the procedure mandated by article-Art9-Para1."
+          "reasoning": "recital-2 expressly identifies capacity and performance management as a technical procedure domain, providing the rationale for the procedure mandated by article-Art9-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
         },
         {
           "edge_id": "recital-2__recital-1__builds_on",
@@ -177,7 +195,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-2 expressly proceeds 'for the same reason' from recital-1's proportionality rationale and develops that rationale into flexibility and documentation reuse."
+          "reasoning": "recital-2 expressly proceeds 'for the same reason' from recital-1's proportionality rationale and develops that rationale into flexibility and documentation reuse.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/recital-1"
         }
       ],
       "inbound_relations": [
@@ -189,7 +209,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-26 builds_on recital-2 by turning recital-2’s flexibility and essential-policy premise into the simplified-framework rule that entities maintain one high-level information security policy proportionate to scale and risk."
+          "reasoning": "recital-26 builds_on recital-2 by turning recital-2’s flexibility and essential-policy premise into the simplified-framework rule that entities maintain one high-level information security policy proportionate to scale and risk.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/recital-2"
         },
         {
           "edge_id": "recital-6__recital-2__builds_on",
@@ -199,7 +221,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-6 builds on recital-2's leading-practice and standards principle by explaining its continuing importance in an evolving ICT-risk landscape."
+          "reasoning": "recital-6 builds on recital-2's leading-practice and standards principle by explaining its continuing importance in an evolving ICT-risk landscape.",
+          "source_canonical_ref": "celex:32024R1774/recital-6",
+          "target_canonical_ref": "celex:32024R1774/recital-2"
         },
         {
           "edge_id": "recital-7__recital-2__builds_on",
@@ -209,9 +233,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-7 builds on recital-2's identification of technical procedure domains by explaining the operational purposes of asset, capacity and ICT-operations controls."
+          "reasoning": "recital-7 builds on recital-2's identification of technical procedure domains by explaining the operational purposes of asset, capacity and ICT-operations controls.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/recital-2"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-2",
+      "text_sha256": "71cf4ad9ff5e68f4e5cb6733380944be64de7b36ac01fec290d29269ab7a2e0a"
     },
     {
       "id": "recital-3",
@@ -230,7 +258,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-3 explains why article-Art2-Para2 requires maintained ICT-security roles and responsibilities and consequences for staff non-compliance."
+          "reasoning": "recital-3 explains why article-Art2-Para2 requires maintained ICT-security roles and responsibilities and consequences for staff non-compliance.",
+          "source_canonical_ref": "celex:32024R1774/recital-3",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         }
       ],
       "inbound_relations": [
@@ -242,7 +272,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "recital-4 qualifies recital-3's general assignment of ICT roles by requiring segregation of duties where needed to avoid conflicts of interest."
+          "reasoning": "recital-4 qualifies recital-3's general assignment of ICT roles by requiring segregation of duties where needed to avoid conflicts of interest.",
+          "source_canonical_ref": "celex:32024R1774/recital-4",
+          "target_canonical_ref": "celex:32024R1774/recital-3"
         },
         {
           "edge_id": "recital-5__recital-3__qualifies",
@@ -252,9 +284,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "recital-5 qualifies recital-3's requirement for non-compliance consequences by creating an exception when another policy or procedure already states them."
+          "reasoning": "recital-5 qualifies recital-3's requirement for non-compliance consequences by creating an exception when another policy or procedure already states them.",
+          "source_canonical_ref": "celex:32024R1774/recital-5",
+          "target_canonical_ref": "celex:32024R1774/recital-3"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-3",
+      "text_sha256": "4ff432740e2386237e0dad58aaef5eba42e57a9120fd30c1462ca3644b4c0eed"
     },
     {
       "id": "recital-4",
@@ -273,7 +309,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-4 supplies the conflict-of-interest rationale for the segregation-of-duties arrangements mandated in article-Art2-Para2."
+          "reasoning": "recital-4 supplies the conflict-of-interest rationale for the segregation-of-duties arrangements mandated in article-Art2-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-4",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-4__recital-3__qualifies",
@@ -283,10 +321,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "recital-4 qualifies recital-3's general assignment of ICT roles by requiring segregation of duties where needed to avoid conflicts of interest."
+          "reasoning": "recital-4 qualifies recital-3's general assignment of ICT roles by requiring segregation of duties where needed to avoid conflicts of interest.",
+          "source_canonical_ref": "celex:32024R1774/recital-4",
+          "target_canonical_ref": "celex:32024R1774/recital-3"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-4",
+      "text_sha256": "c47710e80fb437074f5b38f555f403f9dc72fff2a36133d9c377a76156266968"
     },
     {
       "id": "recital-5",
@@ -305,7 +347,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-5 limits article-Art2-Para2's non-compliance provision by confirming that a dedicated provision is unnecessary when another policy or procedure already contains it."
+          "reasoning": "recital-5 limits article-Art2-Para2's non-compliance provision by confirming that a dedicated provision is unnecessary when another policy or procedure already contains it.",
+          "source_canonical_ref": "celex:32024R1774/recital-5",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-5__recital-3__qualifies",
@@ -315,10 +359,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "recital-5 qualifies recital-3's requirement for non-compliance consequences by creating an exception when another policy or procedure already states them."
+          "reasoning": "recital-5 qualifies recital-3's requirement for non-compliance consequences by creating an exception when another policy or procedure already states them.",
+          "source_canonical_ref": "celex:32024R1774/recital-5",
+          "target_canonical_ref": "celex:32024R1774/recital-3"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-5",
+      "text_sha256": "41aeaf3ebfa3b017262f0b00171ea7a2f0c7b072440e28c86f4ec1103abe0909"
     },
     {
       "id": "recital-6",
@@ -337,7 +385,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-6 explains that evolving ICT risk requires leading practices and applicable standards, guiding the corresponding standards and material-change criteria in article-Art2-Para2."
+          "reasoning": "recital-6 explains that evolving ICT risk requires leading practices and applicable standards, guiding the corresponding standards and material-change criteria in article-Art2-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-6",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-6__recital-2__builds_on",
@@ -347,10 +397,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-6 builds on recital-2's leading-practice and standards principle by explaining its continuing importance in an evolving ICT-risk landscape."
+          "reasoning": "recital-6 builds on recital-2's leading-practice and standards principle by explaining its continuing importance in an evolving ICT-risk landscape.",
+          "source_canonical_ref": "celex:32024R1774/recital-6",
+          "target_canonical_ref": "celex:32024R1774/recital-2"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-6",
+      "text_sha256": "3abbb297f6dd4ca669830e5d21bca27efaca555193987fa17c87dbcad25317c9"
     },
     {
       "id": "recital-7",
@@ -369,7 +423,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 links operational, asset and capacity controls to network security, intrusion safeguards and data protection, explaining the common outcomes required by article-Art2-Para1."
+          "reasoning": "recital-7 links operational, asset and capacity controls to network security, intrusion safeguards and data protection, explaining the common outcomes required by article-Art2-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para1"
         },
         {
           "edge_id": "recital-7__article-Art4-Para1__provides_guidance_for",
@@ -379,7 +435,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 expressly identifies development and implementation of an ICT asset-management policy as necessary for digital operational resilience, explaining the obligation in article-Art4-Para1."
+          "reasoning": "recital-7 expressly identifies development and implementation of an ICT asset-management policy as necessary for digital operational resilience, explaining the obligation in article-Art4-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para1"
         },
         {
           "edge_id": "recital-7__article-Art4-Para2__provides_guidance_for",
@@ -389,7 +447,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 explains lifecycle monitoring as the purpose of ICT asset management, directly guiding the lifecycle-management content of article-Art4-Para2."
+          "reasoning": "recital-7 explains lifecycle monitoring as the purpose of ICT asset management, directly guiding the lifecycle-management content of article-Art4-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para2"
         },
         {
           "edge_id": "recital-7__article-Art8-Para1__provides_guidance_for",
@@ -399,7 +459,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 describes effective and smooth day-to-day ICT operation as the objective of the operational policies and procedures required by article-Art8-Para1."
+          "reasoning": "recital-7 describes effective and smooth day-to-day ICT operation as the objective of the operational policies and procedures required by article-Art8-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para1"
         },
         {
           "edge_id": "recital-7__article-Art9-Para1__provides_guidance_for",
@@ -409,7 +471,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 explains that capacity and performance management should optimise ICT operations and meet business and security objectives, guiding article-Art9-Para1."
+          "reasoning": "recital-7 explains that capacity and performance management should optimise ICT operations and meet business and security objectives, guiding article-Art9-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
         },
         {
           "edge_id": "recital-7__recital-2__builds_on",
@@ -419,7 +483,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-7 builds on recital-2's identification of technical procedure domains by explaining the operational purposes of asset, capacity and ICT-operations controls."
+          "reasoning": "recital-7 builds on recital-2's identification of technical procedure domains by explaining the operational purposes of asset, capacity and ICT-operations controls.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/recital-2"
         }
       ],
       "inbound_relations": [
@@ -431,9 +497,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-8 builds on recital-7's lifecycle-based asset-management rationale by addressing the specific legacy-system risk created when third-party support expires."
+          "reasoning": "recital-8 builds on recital-7's lifecycle-based asset-management rationale by addressing the specific legacy-system risk created when third-party support expires.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/recital-7"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-7",
+      "text_sha256": "2fa938d9ccd9049648ba3e51137ed391feb28b6a814961014a1b03fdeea853e6"
     },
     {
       "id": "recital-8",
@@ -452,7 +522,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-8 explains the legacy-system risk purpose of recording and monitoring support end-dates, directly guiding the support-date records in article-Art4-Para2."
+          "reasoning": "recital-8 explains the legacy-system risk purpose of recording and monitoring support end-dates, directly guiding the support-date records in article-Art4-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para2"
         },
         {
           "edge_id": "recital-8__article-Art5-Para2__provides_guidance_for",
@@ -462,7 +534,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-8 prioritises business-critical assets by the impact of confidentiality, integrity and availability loss, guiding the criticality assessment criteria in article-Art5-Para2."
+          "reasoning": "recital-8 prioritises business-critical assets by the impact of confidentiality, integrity and availability loss, guiding the criticality assessment criteria in article-Art5-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/article-Art5-Para2"
         },
         {
           "edge_id": "recital-8__article-Art8-Para2__provides_guidance_for",
@@ -472,7 +546,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-8 identifies support expiry monitoring as a means to manage legacy-system risk, providing application guidance for the legacy-system control required by article-Art8-Para2."
+          "reasoning": "recital-8 identifies support expiry monitoring as a means to manage legacy-system risk, providing application guidance for the legacy-system control required by article-Art8-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         },
         {
           "edge_id": "recital-8__recital-7__builds_on",
@@ -482,10 +558,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-8 builds on recital-7's lifecycle-based asset-management rationale by addressing the specific legacy-system risk created when third-party support expires."
+          "reasoning": "recital-8 builds on recital-7's lifecycle-based asset-management rationale by addressing the specific legacy-system risk created when third-party support expires.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/recital-7"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-8",
+      "text_sha256": "93f2380791b5687e32e01a0fbfbe116a84e71ddec492f5a019964e6c9f354705"
     },
     {
       "id": "recital-9",
@@ -504,7 +584,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-9 concretizes article-Art6-Para2 by linking the encryption policy to approved data classification and ICT risk assessment, distinguishing data at rest, in transit and in use, and explaining the equivalent safeguards required when in-use encryption is infeasible."
+          "reasoning": "recital-9 concretizes article-Art6-Para2 by linking the encryption policy to approved data classification and ICT risk assessment, distinguishing data at rest, in transit and in use, and explaining the equivalent safeguards required when in-use encryption is infeasible.",
+          "source_canonical_ref": "celex:32024R1774/recital-9",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
         },
         {
           "edge_id": "recital-9__article-Art6-Para3__provides_guidance_for",
@@ -514,7 +596,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-9 provides guidance for article-Art6-Para3 by explaining why cryptographic techniques must track leading practices and standards and why a flexible combination of risk mitigation and monitoring is needed when the most reliable techniques cannot be used."
+          "reasoning": "recital-9 provides guidance for article-Art6-Para3 by explaining why cryptographic techniques must track leading practices and standards and why a flexible combination of risk mitigation and monitoring is needed when the most reliable techniques cannot be used.",
+          "source_canonical_ref": "celex:32024R1774/recital-9",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para3"
         },
         {
           "edge_id": "recital-9__article-Art6-Para4__provides_guidance_for",
@@ -524,10 +608,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-9 provides guidance for article-Art6-Para4 by identifying rapid cryptanalysis developments, including quantum-related threats, as the reason to update cryptographic technology or adopt compensating mitigation and monitoring measures."
+          "reasoning": "recital-9 provides guidance for article-Art6-Para4 by identifying rapid cryptanalysis developments, including quantum-related threats, as the reason to update cryptographic technology or adopt compensating mitigation and monitoring measures.",
+          "source_canonical_ref": "celex:32024R1774/recital-9",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para4"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-9",
+      "text_sha256": "68c20ad089da68913f9a1a4b3740d808fd0b395a3cfd5796dd2875e66ff5b709"
     },
     {
       "id": "recital-10",
@@ -546,10 +634,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-10 provides guidance for article-Art8-Para2 by explaining the security purpose of separating production from development, testing and other non-production environments and the exceptional justification and approval required for testing in production."
+          "reasoning": "recital-10 provides guidance for article-Art8-Para2 by explaining the security purpose of separating production from development, testing and other non-production environments and the exceptional justification and approval required for testing in production.",
+          "source_canonical_ref": "celex:32024R1774/recital-10",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-10",
+      "text_sha256": "68ade9e8534047b9bd00333da35bc0a888a23832a1dea6fdd7a000a254fab66f"
     },
     {
       "id": "recital-11",
@@ -568,7 +660,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-11 concretizes article-Art10-Para2 by requiring reliable vulnerability information, automated monitoring, remediation, and verification that ICT third-party service providers promptly investigate and address vulnerabilities in supplied services."
+          "reasoning": "recital-11 concretizes article-Art10-Para2 by requiring reliable vulnerability information, automated monitoring, remediation, and verification that ICT third-party service providers promptly investigate and address vulnerabilities in supplied services.",
+          "source_canonical_ref": "celex:32024R1774/recital-11",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
         }
       ],
       "inbound_relations": [
@@ -580,9 +674,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-12 builds on recital-11 by presenting controlled patch testing and deployment as the remediation step for the vulnerabilities that recital-11 requires financial entities and their ICT providers to identify and address."
+          "reasoning": "recital-12 builds on recital-11 by presenting controlled patch testing and deployment as the remediation step for the vulnerabilities that recital-11 requires financial entities and their ICT providers to identify and address.",
+          "source_canonical_ref": "celex:32024R1774/recital-12",
+          "target_canonical_ref": "celex:32024R1774/recital-11"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-11",
+      "text_sha256": "7b1e3467693f7d4aab3ade9f3b656f348b69a556ceb6d04cc01c96548001229a"
     },
     {
       "id": "recital-12",
@@ -601,7 +699,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-12 provides guidance for article-Art10-Para4 by explaining that patches should be tested and deployed in a controlled environment so that identified vulnerabilities are remedied without creating operational disruption."
+          "reasoning": "recital-12 provides guidance for article-Art10-Para4 by explaining that patches should be tested and deployed in a controlled environment so that identified vulnerabilities are remedied without creating operational disruption.",
+          "source_canonical_ref": "celex:32024R1774/recital-12",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para4"
         },
         {
           "edge_id": "recital-12__recital-11__builds_on",
@@ -611,10 +711,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-12 builds on recital-11 by presenting controlled patch testing and deployment as the remediation step for the vulnerabilities that recital-11 requires financial entities and their ICT providers to identify and address."
+          "reasoning": "recital-12 builds on recital-11 by presenting controlled patch testing and deployment as the remediation step for the vulnerabilities that recital-11 requires financial entities and their ICT providers to identify and address.",
+          "source_canonical_ref": "celex:32024R1774/recital-12",
+          "target_canonical_ref": "celex:32024R1774/recital-11"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-12",
+      "text_sha256": "027377e13073495c75f265c744f1a55c1eb3eea2df34b390768c950ab81a68fb"
     },
     {
       "id": "recital-13",
@@ -633,10 +737,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-13 provides guidance for the responsible-disclosure procedure in article-Art10-Para2 by identifying severity, stakeholder impact, and the readiness of a fix or mitigation as factors for communicating ICT vulnerabilities."
+          "reasoning": "recital-13 provides guidance for the responsible-disclosure procedure in article-Art10-Para2 by identifying severity, stakeholder impact, and the readiness of a fix or mitigation as factors for communicating ICT vulnerabilities.",
+          "source_canonical_ref": "celex:32024R1774/recital-13",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-13",
+      "text_sha256": "be2bcfff3475600150214be86e8f9ec83ea97192a8a45af4ed6c11af09a90e1e"
     },
     {
       "id": "recital-14",
@@ -655,7 +763,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-14 concretizes article-Art20-Para1 by explaining that unique identification must cover both individuals and systems so that user access rights can be assigned without exposing the entity to unauthorised access and untraceable activity."
+          "reasoning": "recital-14 concretizes article-Art20-Para1 by explaining that unique identification must cover both individuals and systems so that user access rights can be assigned without exposing the entity to unauthorised access and untraceable activity.",
+          "source_canonical_ref": "celex:32024R1774/recital-14",
+          "target_canonical_ref": "celex:32024R1774/article-Art20-Para1"
         },
         {
           "edge_id": "recital-14__article-Art21-Para1__restricts",
@@ -665,10 +775,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-14 restricts article-Art21-Para1 by clarifying that generic or shared accounts are exceptional and may be used only under specified circumstances while preserving accountability for every action performed through them."
+          "reasoning": "recital-14 restricts article-Art21-Para1 by clarifying that generic or shared accounts are exceptional and may be used only under specified circumstances while preserving accountability for every action performed through them.",
+          "source_canonical_ref": "celex:32024R1774/recital-14",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-14",
+      "text_sha256": "f821c5dea1db293af1b0249700ad8c9ef69d6debb9f833518c209d5091039eaf"
     },
     {
       "id": "recital-15",
@@ -687,7 +801,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-15 concretizes article-Art15-Para2 by identifying acquisition, maintenance, development and change of ICT systems as project-management subject matter regardless of the methodology selected by the financial entity."
+          "reasoning": "recital-15 concretizes article-Art15-Para2 by identifying acquisition, maintenance, development and change of ICT systems as project-management subject matter regardless of the methodology selected by the financial entity.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para2"
         },
         {
           "edge_id": "recital-15__article-Art15-Para3__provides_guidance_for",
@@ -697,7 +813,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-15 provides guidance for article-Art15-Para3 by requiring project testing methods suited to the entity, applied on a risk basis, while preserving a secure, reliable and resilient ICT environment."
+          "reasoning": "recital-15 provides guidance for article-Art15-Para3 by requiring project testing methods suited to the entity, applied on a risk basis, while preserving a secure, reliable and resilient ICT environment.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para3"
         },
         {
           "edge_id": "recital-15__article-Art15-Para4__concretizes",
@@ -707,7 +825,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-15 concretizes article-Art15-Para4 by explaining that staff from business areas or roles affected by an ICT project must supply the information and expertise needed for secure implementation."
+          "reasoning": "recital-15 concretizes article-Art15-Para4 by explaining that staff from business areas or roles affected by an ICT project must supply the information and expertise needed for secure implementation.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para4"
         },
         {
           "edge_id": "recital-15__article-Art15-Para5__provides_guidance_for",
@@ -717,7 +837,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-15 provides guidance for article-Art15-Para5 by linking management-body reporting to projects affecting critical or important functions and by tying report frequency and detail to each project’s importance and size."
+          "reasoning": "recital-15 provides guidance for article-Art15-Para5 by linking management-body reporting to projects affecting critical or important functions and by tying report frequency and detail to each project’s importance and size.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para5"
         }
       ],
       "inbound_relations": [
@@ -729,9 +851,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-17 builds on recital-15 because recital-15 places ICT changes within project management and testing, while recital-17 develops that change strand into dedicated approval-separation, transition, quality, and fall-back controls."
+          "reasoning": "recital-17 builds on recital-15 because recital-15 places ICT changes within project management and testing, while recital-17 develops that change strand into dedicated approval-separation, transition, quality, and fall-back controls.",
+          "source_canonical_ref": "celex:32024R1774/recital-17",
+          "target_canonical_ref": "celex:32024R1774/recital-15"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-15",
+      "text_sha256": "0c7fdb6a6fc4ad9038e1fc751bcdaab65760ce45d71918f38273ba63aa61eae1"
     },
     {
       "id": "recital-16",
@@ -750,7 +876,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-16 concretizes article-Art16-Para3 by requiring source-code review through both static and dynamic testing to reveal vulnerabilities and security gaps and to assess software integrity before operational use."
+          "reasoning": "recital-16 concretizes article-Art16-Para3 by requiring source-code review through both static and dynamic testing to reveal vulnerabilities and security gaps and to assess software integrity before operational use.",
+          "source_canonical_ref": "celex:32024R1774/recital-16",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
         },
         {
           "edge_id": "recital-16__article-Art16-Para4__concretizes",
@@ -760,7 +888,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-16 concretizes article-Art16-Para4 by explaining that acquired or developed software packages must undergo ICT security testing so that they can be integrated securely into the existing ICT environment."
+          "reasoning": "recital-16 concretizes article-Art16-Para4 by explaining that acquired or developed software packages must undergo ICT security testing so that they can be integrated securely into the existing ICT environment.",
+          "source_canonical_ref": "celex:32024R1774/recital-16",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para4"
         },
         {
           "edge_id": "recital-16__article-Art16-Para8__provides_guidance_for",
@@ -770,10 +900,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-16 provides guidance for article-Art16-Para8 by specifying that review should cover acquired software, including proprietary software and, where feasible, source code supplied by ICT third-party service providers."
+          "reasoning": "recital-16 provides guidance for article-Art16-Para8 by specifying that review should cover acquired software, including proprietary software and, where feasible, source code supplied by ICT third-party service providers.",
+          "source_canonical_ref": "celex:32024R1774/recital-16",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para8"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-16",
+      "text_sha256": "5a71432f8800a0e1684e2841b3f3c44802439ddafc3c0f9b284f20070a34d8c4"
     },
     {
       "id": "recital-17",
@@ -792,7 +926,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-17 concretizes article-Art17-Para1 by explaining why change-security verification, separation of approval from request and implementation, assigned roles, controlled testing, quality assurance, and fall-back responsibilities are required to contain confidentiality, integrity, availability, and disruption risks."
+          "reasoning": "recital-17 concretizes article-Art17-Para1 by explaining why change-security verification, separation of approval from request and implementation, assigned roles, controlled testing, quality assurance, and fall-back responsibilities are required to contain confidentiality, integrity, availability, and disruption risks.",
+          "source_canonical_ref": "celex:32024R1774/recital-17",
+          "target_canonical_ref": "celex:32024R1774/article-Art17-Para1"
         },
         {
           "edge_id": "recital-17__recital-15__builds_on",
@@ -802,7 +938,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-17 builds on recital-15 because recital-15 places ICT changes within project management and testing, while recital-17 develops that change strand into dedicated approval-separation, transition, quality, and fall-back controls."
+          "reasoning": "recital-17 builds on recital-15 because recital-15 places ICT changes within project management and testing, while recital-17 develops that change strand into dedicated approval-separation, transition, quality, and fall-back controls.",
+          "source_canonical_ref": "celex:32024R1774/recital-17",
+          "target_canonical_ref": "celex:32024R1774/recital-15"
         }
       ],
       "inbound_relations": [
@@ -814,9 +952,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-22 builds on recital-17 by expressly making the ICT change-management process developed in recital-17 an input to the design of the ICT business continuity policy."
+          "reasoning": "recital-22 builds on recital-17 by expressly making the ICT change-management process developed in recital-17 an input to the design of the ICT business continuity policy.",
+          "source_canonical_ref": "celex:32024R1774/recital-22",
+          "target_canonical_ref": "celex:32024R1774/recital-17"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-17",
+      "text_sha256": "bfa3b5bb88f1734731451cfe028479815faffd4d5493b815ac4d7e179778cc4d"
     },
     {
       "id": "recital-18",
@@ -835,7 +977,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-18 concretizes article-Art22-Para1 by identifying the incident-policy functions implemented there: an end-to-end management process, internal and external coordination contacts, and detailed analysis of significant or recurring incidents and patterns."
+          "reasoning": "recital-18 concretizes article-Art22-Para1 by identifying the incident-policy functions implemented there: an end-to-end management process, internal and external coordination contacts, and detailed analysis of significant or recurring incidents and patterns.",
+          "source_canonical_ref": "celex:32024R1774/recital-18",
+          "target_canonical_ref": "celex:32024R1774/article-Art22-Para1"
         }
       ],
       "inbound_relations": [
@@ -847,7 +991,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-19 builds on recital-18 by developing the detection phase of recital-18's incident-management process into concrete internal, log, external, and ICT-provider information sources with assigned responsibilities."
+          "reasoning": "recital-19 builds on recital-18 by developing the detection phase of recital-18's incident-management process into concrete internal, log, external, and ICT-provider information sources with assigned responsibilities.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         },
         {
           "edge_id": "recital-20__recital-18__builds_on",
@@ -857,7 +1003,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-20 builds on recital-18 by adding evidence retention and a calibrated retention period to the incident-policy and incident-management process introduced in recital-18."
+          "reasoning": "recital-20 builds on recital-18 by adding evidence retention and a calibrated retention period to the incident-policy and incident-management process introduced in recital-18.",
+          "source_canonical_ref": "celex:32024R1774/recital-20",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         },
         {
           "edge_id": "recital-21__recital-18__builds_on",
@@ -867,7 +1015,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-21 builds on recital-18 by specifying how trigger criteria are to operate within the detection and response phases of the incident-management process established in recital-18."
+          "reasoning": "recital-21 builds on recital-18 by specifying how trigger criteria are to operate within the detection and response phases of the incident-management process established in recital-18.",
+          "source_canonical_ref": "celex:32024R1774/recital-21",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         },
         {
           "edge_id": "recital-22__recital-18__builds_on",
@@ -877,9 +1027,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-22 builds on recital-18 by expressly incorporating ICT-related incident management and its communication dimension into the ICT business continuity policy."
+          "reasoning": "recital-22 builds on recital-18 by expressly incorporating ICT-related incident management and its communication dimension into the ICT business continuity policy.",
+          "source_canonical_ref": "celex:32024R1774/recital-22",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-18",
+      "text_sha256": "1350d270a2b20dcb417ab3a2550e241556cec06b16840136f754106ef1bb2e09"
     },
     {
       "id": "recital-19",
@@ -898,7 +1052,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-19 concretizes article-Art23-Para1 by tying that paragraph's clear-role requirement specifically to responsibility for collecting, monitoring, and analysing information used to detect anomalous activities early and effectively."
+          "reasoning": "recital-19 concretizes article-Art23-Para1 by tying that paragraph's clear-role requirement specifically to responsibility for collecting, monitoring, and analysing information used to detect anomalous activities early and effectively.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para1"
         },
         {
           "edge_id": "recital-19__article-Art23-Para2__concretizes",
@@ -908,7 +1064,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-19 concretizes article-Art23-Para2 by explaining that its detection mechanism must combine logs with reports from internal functions, external information, and incident notices from ICT third-party providers rather than relying on logs alone."
+          "reasoning": "recital-19 concretizes article-Art23-Para2 by explaining that its detection mechanism must combine logs with reports from internal functions, external information, and incident notices from ICT third-party providers rather than relying on logs alone.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
         },
         {
           "edge_id": "recital-19__recital-18__builds_on",
@@ -918,7 +1076,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-19 builds on recital-18 by developing the detection phase of recital-18's incident-management process into concrete internal, log, external, and ICT-provider information sources with assigned responsibilities."
+          "reasoning": "recital-19 builds on recital-18 by developing the detection phase of recital-18's incident-management process into concrete internal, log, external, and ICT-provider information sources with assigned responsibilities.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         },
         {
           "edge_id": "recital-19__recital-30__provides_context_for",
@@ -928,10 +1088,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "provides_context_for",
           "confidence": "high",
-          "reasoning": "recital-19 provides context for recital-30 because its incident-detection data collection is the concrete setting in which recital-30 reiterates full data-protection application and uses data minimisation for incident detection as its example."
+          "reasoning": "recital-19 provides context for recital-30 because its incident-detection data collection is the concrete setting in which recital-30 reiterates full data-protection application and uses data minimisation for incident detection as its example.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/recital-30"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-19",
+      "text_sha256": "5a53840714ddd1cefdcce252e6819cc06389691fd0b8518e16a5c9e9ca9b4a47"
     },
     {
       "id": "recital-20",
@@ -950,7 +1114,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-20 concretizes the evidence-retention duty in article-Art22-Para1 by explaining that its period must balance effective incident detection against regulatory burden while reflecting data criticality and Union-law retention requirements."
+          "reasoning": "recital-20 concretizes the evidence-retention duty in article-Art22-Para1 by explaining that its period must balance effective incident detection against regulatory burden while reflecting data criticality and Union-law retention requirements.",
+          "source_canonical_ref": "celex:32024R1774/recital-20",
+          "target_canonical_ref": "celex:32024R1774/article-Art22-Para1"
         },
         {
           "edge_id": "recital-20__recital-18__builds_on",
@@ -960,10 +1126,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-20 builds on recital-18 by adding evidence retention and a calibrated retention period to the incident-policy and incident-management process introduced in recital-18."
+          "reasoning": "recital-20 builds on recital-18 by adding evidence retention and a calibrated retention period to the incident-policy and incident-management process introduced in recital-18.",
+          "source_canonical_ref": "celex:32024R1774/recital-20",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-20",
+      "text_sha256": "d79ffa3b870a70d97a15b42759ed28b1b6e07142b7114d93a6a4d9ed39ef0416"
     },
     {
       "id": "recital-21",
@@ -982,7 +1152,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-21 provides guidance for article-Art23-Para5 by clarifying that every listed trigger criterion must be considered, but that the list is non-exhaustive and the listed circumstances need not occur simultaneously."
+          "reasoning": "recital-21 provides guidance for article-Art23-Para5 by clarifying that every listed trigger criterion must be considered, but that the list is non-exhaustive and the listed circumstances need not occur simultaneously.",
+          "source_canonical_ref": "celex:32024R1774/recital-21",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para5"
         },
         {
           "edge_id": "recital-21__article-Art23-Para6__provides_guidance_for",
@@ -992,7 +1164,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-21 provides guidance for article-Art23-Para6 by explaining that the criticality assessment concerns the importance of the affected ICT services when deciding whether to trigger incident detection and response."
+          "reasoning": "recital-21 provides guidance for article-Art23-Para6 by explaining that the criticality assessment concerns the importance of the affected ICT services when deciding whether to trigger incident detection and response.",
+          "source_canonical_ref": "celex:32024R1774/recital-21",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para6"
         },
         {
           "edge_id": "recital-21__recital-18__builds_on",
@@ -1002,10 +1176,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-21 builds on recital-18 by specifying how trigger criteria are to operate within the detection and response phases of the incident-management process established in recital-18."
+          "reasoning": "recital-21 builds on recital-18 by specifying how trigger criteria are to operate within the detection and response phases of the incident-management process established in recital-18.",
+          "source_canonical_ref": "celex:32024R1774/recital-21",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-21",
+      "text_sha256": "6aeb9289bb0deb0e38aa7035bf8ea38e9bb7ef1b1a255c20d516675b0db62c07"
     },
     {
       "id": "recital-22",
@@ -1024,7 +1202,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-22 provides guidance for article-Art24-Para1 by requiring the ICT business continuity policy assembled under that paragraph to integrate incident management, communication, change management, and ICT third-party-provider risk considerations."
+          "reasoning": "recital-22 provides guidance for article-Art24-Para1 by requiring the ICT business continuity policy assembled under that paragraph to integrate incident management, communication, change management, and ICT third-party-provider risk considerations.",
+          "source_canonical_ref": "celex:32024R1774/recital-22",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         },
         {
           "edge_id": "recital-22__recital-17__builds_on",
@@ -1034,7 +1214,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-22 builds on recital-17 by expressly making the ICT change-management process developed in recital-17 an input to the design of the ICT business continuity policy."
+          "reasoning": "recital-22 builds on recital-17 by expressly making the ICT change-management process developed in recital-17 an input to the design of the ICT business continuity policy.",
+          "source_canonical_ref": "celex:32024R1774/recital-22",
+          "target_canonical_ref": "celex:32024R1774/recital-17"
         },
         {
           "edge_id": "recital-22__recital-18__builds_on",
@@ -1044,7 +1226,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-22 builds on recital-18 by expressly incorporating ICT-related incident management and its communication dimension into the ICT business continuity policy."
+          "reasoning": "recital-22 builds on recital-18 by expressly incorporating ICT-related incident management and its communication dimension into the ICT business continuity policy.",
+          "source_canonical_ref": "celex:32024R1774/recital-22",
+          "target_canonical_ref": "celex:32024R1774/recital-18"
         }
       ],
       "inbound_relations": [
@@ -1056,9 +1240,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-23 builds on recital-22 by moving from the components to be integrated into an ICT business continuity policy to the scenarios used to implement response and recovery plans and test continuity plans."
+          "reasoning": "recital-23 builds on recital-22 by moving from the components to be integrated into an ICT business continuity policy to the scenarios used to implement response and recovery plans and test continuity plans.",
+          "source_canonical_ref": "celex:32024R1774/recital-23",
+          "target_canonical_ref": "celex:32024R1774/recital-22"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-22",
+      "text_sha256": "4e6d78761ceac5f1a6bd7c7671d48308d9f4e0f0e6ed177d51c55121e4eb6d22"
     },
     {
       "id": "recital-23",
@@ -1077,7 +1265,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-23 provides guidance for article-Art25-Para2 by explaining the purpose of severe-but-plausible scenario testing and of switchover tests: verify redundant capacity, backups, and facilities over a sufficient period and restore normal operation to the recovery objectives."
+          "reasoning": "recital-23 provides guidance for article-Art25-Para2 by explaining the purpose of severe-but-plausible scenario testing and of switchover tests: verify redundant capacity, backups, and facilities over a sufficient period and restore normal operation to the recovery objectives.",
+          "source_canonical_ref": "celex:32024R1774/recital-23",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
         },
         {
           "edge_id": "recital-23__article-Art26-Para2__provides_guidance_for",
@@ -1087,7 +1277,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-23 provides guidance for article-Art26-Para2 by directing entities to assess the relevance and plausibility of the response-and-recovery scenarios listed there and to consider whether alternative scenarios are needed."
+          "reasoning": "recital-23 provides guidance for article-Art26-Para2 by directing entities to assess the relevance and plausibility of the response-and-recovery scenarios listed there and to consider whether alternative scenarios are needed.",
+          "source_canonical_ref": "celex:32024R1774/recital-23",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
         },
         {
           "edge_id": "recital-23__recital-22__builds_on",
@@ -1097,10 +1289,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-23 builds on recital-22 by moving from the components to be integrated into an ICT business continuity policy to the scenarios used to implement response and recovery plans and test continuity plans."
+          "reasoning": "recital-23 builds on recital-22 by moving from the components to be integrated into an ICT business continuity policy to the scenarios used to implement response and recovery plans and test continuity plans.",
+          "source_canonical_ref": "celex:32024R1774/recital-23",
+          "target_canonical_ref": "celex:32024R1774/recital-22"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-23",
+      "text_sha256": "ef5613c3c48e3d7d4a13f7704d352dab288c308c16daf02be98c34f0b9503f5b"
     },
     {
       "id": "recital-24",
@@ -1119,7 +1315,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains why article-Art16-Para2 adds sector-specific ICT-system testing participation for central counterparties and central securities depositories: the RTS builds project-management controls on the operational-risk rules already applicable to those infrastructures."
+          "reasoning": "recital-24 explains why article-Art16-Para2 adds sector-specific ICT-system testing participation for central counterparties and central securities depositories: the RTS builds project-management controls on the operational-risk rules already applicable to those infrastructures.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "recital-24__article-Art17-Para2__provides_guidance_for",
@@ -1129,7 +1327,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 supplies the sectoral rationale for article-Art17-Para2, whose stringent post-change testing duties specifically address central counterparties and central securities depositories under the ICT change-management requirements."
+          "reasoning": "recital-24 supplies the sectoral rationale for article-Art17-Para2, whose stringent post-change testing duties specifically address central counterparties and central securities depositories under the ICT change-management requirements.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art17-Para2"
         },
         {
           "edge_id": "recital-24__article-Art24-Para2__provides_guidance_for",
@@ -1139,7 +1339,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains the legislative basis for the central-counterparty-specific continuity requirements in article-Art24-Para2 by stating that the RTS builds on operational-risk rules already applicable to central counterparties."
+          "reasoning": "recital-24 explains the legislative basis for the central-counterparty-specific continuity requirements in article-Art24-Para2 by stating that the RTS builds on operational-risk rules already applicable to central counterparties.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para2"
         },
         {
           "edge_id": "recital-24__article-Art24-Para3__provides_guidance_for",
@@ -1149,7 +1351,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains the legislative basis for the central-securities-depository-specific continuity requirements in article-Art24-Para3 by linking the RTS to pre-existing operational-risk rules for those depositories."
+          "reasoning": "recital-24 explains the legislative basis for the central-securities-depository-specific continuity requirements in article-Art24-Para3 by linking the RTS to pre-existing operational-risk rules for those depositories.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para3"
         },
         {
           "edge_id": "recital-24__article-Art24-Para4__provides_guidance_for",
@@ -1159,7 +1363,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains why article-Art24-Para4 preserves trading-venue-specific recovery and data-loss requirements within the RTS business-continuity framework."
+          "reasoning": "recital-24 explains why article-Art24-Para4 preserves trading-venue-specific recovery and data-loss requirements within the RTS business-continuity framework.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para4"
         },
         {
           "edge_id": "recital-24__article-Art25-Para3__provides_guidance_for",
@@ -1169,7 +1375,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para3, which supplements general continuity-plan testing with participation duties tailored to central counterparties."
+          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para3, which supplements general continuity-plan testing with participation duties tailored to central counterparties.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para3"
         },
         {
           "edge_id": "recital-24__article-Art25-Para4__provides_guidance_for",
@@ -1179,10 +1387,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para4, which supplements continuity-plan testing with participants and infrastructures relevant specifically to central securities depositories."
+          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para4, which supplements continuity-plan testing with participants and infrastructures relevant specifically to central securities depositories.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para4"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-24",
+      "text_sha256": "53f7595e53165604201b7b231e6b718e482a17d4b35ef761ca94810e1693f823"
     },
     {
       "id": "recital-25",
@@ -1201,10 +1413,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-25 explains the processing and transmission rationale for article-Art27-Para1 requiring the DORA Article 6(5) ICT-risk-framework review report to be submitted in a searchable electronic format."
+          "reasoning": "recital-25 explains the processing and transmission rationale for article-Art27-Para1 requiring the DORA Article 6(5) ICT-risk-framework review report to be submitted in a searchable electronic format.",
+          "source_canonical_ref": "celex:32024R1774/recital-25",
+          "target_canonical_ref": "celex:32024R1774/article-Art27-Para1"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-25",
+      "text_sha256": "8e1a5c2d610be350729d61573ac1469ee4e50d8fe6700eafe2ee9b78196f5264"
     },
     {
       "id": "recital-26",
@@ -1223,7 +1439,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-26 guides application of article-Art1-Para1 by explaining that scale, risk, size and complexity justify limiting the simplified ICT risk management framework to the minimum controls needed to protect data and services."
+          "reasoning": "recital-26 guides application of article-Art1-Para1 by explaining that scale, risk, size and complexity justify limiting the simplified ICT risk management framework to the minimum controls needed to protect data and services.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art1-Para1"
         },
         {
           "edge_id": "recital-26__article-Art28-Para1__concretizes",
@@ -1233,7 +1451,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-26 concretizes article-Art28-Para1 by identifying an internal governance and control framework as the organisational basis for effective and sound ICT risk management by simplified-framework entities."
+          "reasoning": "recital-26 concretizes article-Art28-Para1 by identifying an internal governance and control framework as the organisational basis for effective and sound ICT risk management by simplified-framework entities.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "recital-26__article-Art28-Para2__concretizes",
@@ -1243,7 +1463,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-26 concretizes the clear-responsibility element of article-Art28-Para2 by requiring governance arrangements with unambiguous responsibilities for the simplified ICT risk management framework."
+          "reasoning": "recital-26 concretizes the clear-responsibility element of article-Art28-Para2 by requiring governance arrangements with unambiguous responsibilities for the simplified ICT risk management framework.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para2"
         },
         {
           "edge_id": "recital-26__article-Art29-Para1__concretizes",
@@ -1253,7 +1475,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-26 directly concretizes article-Art29-Para1: simplified-framework entities use one information security policy containing high-level rules that protect confidentiality, integrity, availability and authenticity."
+          "reasoning": "recital-26 directly concretizes article-Art29-Para1: simplified-framework entities use one information security policy containing high-level rules that protect confidentiality, integrity, availability and authenticity.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art29-Para1"
         },
         {
           "edge_id": "recital-26__recital-2__builds_on",
@@ -1263,10 +1487,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-26 builds_on recital-2 by turning recital-2’s flexibility and essential-policy premise into the simplified-framework rule that entities maintain one high-level information security policy proportionate to scale and risk."
+          "reasoning": "recital-26 builds_on recital-2 by turning recital-2’s flexibility and essential-policy premise into the simplified-framework rule that entities maintain one high-level information security policy proportionate to scale and risk.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/recital-2"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-26",
+      "text_sha256": "620c9347d31afb418532cbc041288280bf0f5685884d04c4f764fab300e9d326"
     },
     {
       "id": "recital-27",
@@ -1277,7 +1505,9 @@ The repository licence covers only original selection, structure and analysis. I
       ],
       "text": "The provisions of this Regulation relate to the area of the ICT risk management framework, by detailing specific elements applicable to the financial entities in accordance with Article 15 of Regulation (EU) 2022/2554 and by designing the simplified ICT risk management framework for the financial entities set out in Article 16(1) of that Regulation. To ensure coherence between the ordinary and the simplified ICT risk management framework, and considering that those provisions should become applicable at the same time, it is appropriate to include those provisions in a single legislative act.",
       "outbound_relations": [],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-27",
+      "text_sha256": "e65622cd3277d903cdeba990d1e1f6c08e7665b0258180abe1169c39f2da59cc"
     },
     {
       "id": "recital-28",
@@ -1297,9 +1527,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-29 builds_on recital-28: recital-28 identifies the ESAs’ draft regulatory technical standards, while recital-29 records the Joint Committee consultation, cost-benefit analysis and stakeholder advice for that same draft."
+          "reasoning": "recital-29 builds_on recital-28: recital-28 identifies the ESAs’ draft regulatory technical standards, while recital-29 records the Joint Committee consultation, cost-benefit analysis and stakeholder advice for that same draft.",
+          "source_canonical_ref": "celex:32024R1774/recital-29",
+          "target_canonical_ref": "celex:32024R1774/recital-28"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-28",
+      "text_sha256": "874dc015eff2126ed07d620584476736f5102da93a191d328bc2eefbfd305ac0"
     },
     {
       "id": "recital-29",
@@ -1318,10 +1552,14 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "builds_on",
           "confidence": "high",
-          "reasoning": "recital-29 builds_on recital-28: recital-28 identifies the ESAs’ draft regulatory technical standards, while recital-29 records the Joint Committee consultation, cost-benefit analysis and stakeholder advice for that same draft."
+          "reasoning": "recital-29 builds_on recital-28: recital-28 identifies the ESAs’ draft regulatory technical standards, while recital-29 records the Joint Committee consultation, cost-benefit analysis and stakeholder advice for that same draft.",
+          "source_canonical_ref": "celex:32024R1774/recital-29",
+          "target_canonical_ref": "celex:32024R1774/recital-28"
         }
       ],
-      "inbound_relations": []
+      "inbound_relations": [],
+      "canonical_ref": "celex:32024R1774/recital-29",
+      "text_sha256": "42ee2be3cd2f119489c92589f5f5017e8b8d77068a329275535ea605097856d3"
     },
     {
       "id": "recital-30",
@@ -1340,7 +1578,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-30 restricts the collection and analysis required by article-Art23-Para2: where incident-detection information is personal data, the Union data-protection regime and data-minimisation principle continue to apply."
+          "reasoning": "recital-30 restricts the collection and analysis required by article-Art23-Para2: where incident-detection information is personal data, the Union data-protection regime and data-minimisation principle continue to apply.",
+          "source_canonical_ref": "celex:32024R1774/recital-30",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
         },
         {
           "edge_id": "recital-30__article-Art34-Para1__restricts",
@@ -1350,7 +1590,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-30 restricts the anomalous-activity monitoring and security-information measures in article-Art34-Para1 by requiring any personal-data processing for incident detection to comply fully with Union data-protection law and data minimisation."
+          "reasoning": "recital-30 restricts the anomalous-activity monitoring and security-information measures in article-Art34-Para1 by requiring any personal-data processing for incident detection to comply fully with Union data-protection law and data minimisation.",
+          "source_canonical_ref": "celex:32024R1774/recital-30",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         }
       ],
       "inbound_relations": [
@@ -1362,9 +1604,13 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "recital",
           "relation": "provides_context_for",
           "confidence": "high",
-          "reasoning": "recital-19 provides context for recital-30 because its incident-detection data collection is the concrete setting in which recital-30 reiterates full data-protection application and uses data minimisation for incident detection as its example."
+          "reasoning": "recital-19 provides context for recital-30 because its incident-detection data collection is the concrete setting in which recital-30 reiterates full data-protection application and uses data minimisation for incident detection as its example.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/recital-30"
         }
-      ]
+      ],
+      "canonical_ref": "celex:32024R1774/recital-30",
+      "text_sha256": "9c752752272670ac759a67563ddc4668b31cab2ce1780d5c5f73a4ccde4176ad"
     },
     {
       "id": "article-Art1-Para1",
@@ -1440,7 +1686,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-1 explains the proportionality rationale for article-Art1-Para1 by tying ICT requirements to entity size, structure, complexity and corresponding ICT risk."
+          "reasoning": "recital-1 explains the proportionality rationale for article-Art1-Para1 by tying ICT requirements to entity size, structure, complexity and corresponding ICT risk.",
+          "source_canonical_ref": "celex:32024R1774/recital-1",
+          "target_canonical_ref": "celex:32024R1774/article-Art1-Para1"
         },
         {
           "edge_id": "recital-26__article-Art1-Para1__provides_guidance_for",
@@ -1450,7 +1698,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-26 guides application of article-Art1-Para1 by explaining that scale, risk, size and complexity justify limiting the simplified ICT risk management framework to the minimum controls needed to protect data and services."
+          "reasoning": "recital-26 guides application of article-Art1-Para1 by explaining that scale, risk, size and complexity justify limiting the simplified ICT risk management framework to the minimum controls needed to protect data and services.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art1-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -1461,7 +1711,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 567
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art1-Para1",
+      "text_sha256": "bfa6a9f3590b1b0197dabaac0d2c7d6f172d3ed76bdee2b5d9d66402f5b40132"
     },
     {
       "id": "article-Art2-Para1",
@@ -1529,7 +1781,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art2-Para2 expressly applies its governance and content requirements to the ICT security policies established under article-Art2-Para1."
+          "reasoning": "article-Art2-Para2 expressly applies its governance and content requirements to the ICT security policies established under article-Art2-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art2-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para1"
         },
         {
           "edge_id": "recital-7__article-Art2-Para1__provides_guidance_for",
@@ -1539,7 +1793,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 links operational, asset and capacity controls to network security, intrusion safeguards and data protection, explaining the common outcomes required by article-Art2-Para1."
+          "reasoning": "recital-7 links operational, asset and capacity controls to network security, intrusion safeguards and data protection, explaining the common outcomes required by article-Art2-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -1550,7 +1806,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 668
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art2-Para1",
+      "text_sha256": "b9486d74985bc95eb4b5cc650dca45156a6837a53f72f59e6c7380b09e89999d"
     },
     {
       "id": "article-Art2-Para2",
@@ -1717,7 +1975,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art2-Para2 expressly applies its governance and content requirements to the ICT security policies established under article-Art2-Para1."
+          "reasoning": "article-Art2-Para2 expressly applies its governance and content requirements to the ICT security policies established under article-Art2-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art2-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para1"
         }
       ],
       "inbound_relations": [
@@ -1729,7 +1989,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 guides application of article-Art2-Para2 by allowing existing documentation to satisfy documentation duties and by explaining why only essential policy elements require dedicated documentation."
+          "reasoning": "recital-2 guides application of article-Art2-Para2 by allowing existing documentation to satisfy documentation duties and by explaining why only essential policy elements require dedicated documentation.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-3__article-Art2-Para2__provides_guidance_for",
@@ -1739,7 +2001,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-3 explains why article-Art2-Para2 requires maintained ICT-security roles and responsibilities and consequences for staff non-compliance."
+          "reasoning": "recital-3 explains why article-Art2-Para2 requires maintained ICT-security roles and responsibilities and consequences for staff non-compliance.",
+          "source_canonical_ref": "celex:32024R1774/recital-3",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-4__article-Art2-Para2__provides_guidance_for",
@@ -1749,7 +2013,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-4 supplies the conflict-of-interest rationale for the segregation-of-duties arrangements mandated in article-Art2-Para2."
+          "reasoning": "recital-4 supplies the conflict-of-interest rationale for the segregation-of-duties arrangements mandated in article-Art2-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-4",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-5__article-Art2-Para2__restricts",
@@ -1759,7 +2025,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-5 limits article-Art2-Para2's non-compliance provision by confirming that a dedicated provision is unnecessary when another policy or procedure already contains it."
+          "reasoning": "recital-5 limits article-Art2-Para2's non-compliance provision by confirming that a dedicated provision is unnecessary when another policy or procedure already contains it.",
+          "source_canonical_ref": "celex:32024R1774/recital-5",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         },
         {
           "edge_id": "recital-6__article-Art2-Para2__provides_guidance_for",
@@ -1769,7 +2037,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-6 explains that evolving ICT risk requires leading practices and applicable standards, guiding the corresponding standards and material-change criteria in article-Art2-Para2."
+          "reasoning": "recital-6 explains that evolving ICT risk requires leading practices and applicable standards, guiding the corresponding standards and material-change criteria in article-Art2-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-6",
+          "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -1780,7 +2050,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 727
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art2-Para2",
+      "text_sha256": "59e1e2155a4ebee695037ee90d688c86588a5c40cffa0f1df5c7828854e0677b"
     },
     {
       "id": "article-Art3-Para1",
@@ -2038,7 +2310,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art11-Para2 conditions use of removable data-storage devices on residual ICT risk remaining within the risk-tolerance level established in article-Art3-Para1, first subparagraph, point (a)."
+          "reasoning": "article-Art11-Para2 conditions use of removable data-storage devices on residual ICT risk remaining within the risk-tolerance level established in article-Art3-Para1, first subparagraph, point (a).",
+          "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art3-Para1"
         },
         {
           "edge_id": "article-Art25-Para1__article-Art3-Para1__references",
@@ -2048,7 +2322,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art25-Para1 expressly requires continuity-plan testing to take account of the ICT risk assessment in article-Art3-Para1, point (b), which defines the assessment procedure and methodology."
+          "reasoning": "article-Art25-Para1 expressly requires continuity-plan testing to take account of the ICT risk assessment in article-Art3-Para1, point (b), which defines the assessment procedure and methodology.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art3-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2065,7 +2341,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1217
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art3-Para1",
+      "text_sha256": "abfa2c8af7faedc7c244d27acf845fd4cf9b79b909bc2fad20974c816b3cceac"
     },
     {
       "id": "article-Art4-Para1",
@@ -2092,7 +2370,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art4-Para2 defines the mandatory contents of the ICT asset-management policy that article-Art4-Para1 requires financial entities to establish."
+          "reasoning": "article-Art4-Para2 defines the mandatory contents of the ICT asset-management policy that article-Art4-Para1 requires financial entities to establish.",
+          "source_canonical_ref": "celex:32024R1774/article-Art4-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para1"
         },
         {
           "edge_id": "recital-7__article-Art4-Para1__provides_guidance_for",
@@ -2102,7 +2382,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 expressly identifies development and implementation of an ICT asset-management policy as necessary for digital operational resilience, explaining the obligation in article-Art4-Para1."
+          "reasoning": "recital-7 expressly identifies development and implementation of an ICT asset-management policy as necessary for digital operational resilience, explaining the obligation in article-Art4-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2113,7 +2395,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1279
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art4-Para1",
+      "text_sha256": "fc42d037a8cc3d61905e670e1923a7f6ebd2115e23a43c65ce281d4640183839"
     },
     {
       "id": "article-Art4-Para2",
@@ -2260,7 +2544,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art4-Para2 defines the mandatory contents of the ICT asset-management policy that article-Art4-Para1 requires financial entities to establish."
+          "reasoning": "article-Art4-Para2 defines the mandatory contents of the ICT asset-management policy that article-Art4-Para1 requires financial entities to establish.",
+          "source_canonical_ref": "celex:32024R1774/article-Art4-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para1"
         }
       ],
       "inbound_relations": [
@@ -2272,7 +2558,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 explains lifecycle monitoring as the purpose of ICT asset management, directly guiding the lifecycle-management content of article-Art4-Para2."
+          "reasoning": "recital-7 explains lifecycle monitoring as the purpose of ICT asset management, directly guiding the lifecycle-management content of article-Art4-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para2"
         },
         {
           "edge_id": "recital-8__article-Art4-Para2__provides_guidance_for",
@@ -2282,7 +2570,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-8 explains the legacy-system risk purpose of recording and monitoring support end-dates, directly guiding the support-date records in article-Art4-Para2."
+          "reasoning": "recital-8 explains the legacy-system risk purpose of recording and monitoring support end-dates, directly guiding the support-date records in article-Art4-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/article-Art4-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2293,7 +2583,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1282
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art4-Para2",
+      "text_sha256": "574a7e18019f24830980102faf9b242e142ef3e78e76d1df5cb23c78369a32d6"
     },
     {
       "id": "article-Art5-Para1",
@@ -2320,7 +2612,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art5-Para2 supplies the criticality-assessment criteria for the ICT asset-management procedure created by article-Art5-Para1."
+          "reasoning": "article-Art5-Para2 supplies the criticality-assessment criteria for the ICT asset-management procedure created by article-Art5-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art5-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art5-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2331,7 +2625,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1459
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art5-Para1",
+      "text_sha256": "db75b2ef5af1c113c79cfda9f8955117687d290b8ab108b656946f3f38348eb8"
     },
     {
       "id": "article-Art5-Para2",
@@ -2378,7 +2674,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art5-Para2 supplies the criticality-assessment criteria for the ICT asset-management procedure created by article-Art5-Para1."
+          "reasoning": "article-Art5-Para2 supplies the criticality-assessment criteria for the ICT asset-management procedure created by article-Art5-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art5-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art5-Para1"
         }
       ],
       "inbound_relations": [
@@ -2390,7 +2688,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-8 prioritises business-critical assets by the impact of confidentiality, integrity and availability loss, guiding the criticality assessment criteria in article-Art5-Para2."
+          "reasoning": "recital-8 prioritises business-critical assets by the impact of confidentiality, integrity and availability loss, guiding the criticality assessment criteria in article-Art5-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/article-Art5-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2401,7 +2701,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1462
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art5-Para2",
+      "text_sha256": "ec522e034aa494daa4b52eda3ba341aed881911c421f919b739a3d627acc3698"
     },
     {
       "id": "article-Art6-Para1",
@@ -2428,7 +2730,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para2 prescribes the design and rules of the encryption and cryptographic-controls policy mandated by article-Art6-Para1."
+          "reasoning": "article-Art6-Para2 prescribes the design and rules of the encryption and cryptographic-controls policy mandated by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         },
         {
           "edge_id": "article-Art6-Para3__article-Art6-Para1__depends_on",
@@ -2438,7 +2742,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para3 adds technique-selection and mitigation criteria to the cryptographic-controls policy established by article-Art6-Para1."
+          "reasoning": "article-Art6-Para3 adds technique-selection and mitigation criteria to the cryptographic-controls policy established by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         },
         {
           "edge_id": "article-Art6-Para4__article-Art6-Para1__depends_on",
@@ -2448,7 +2754,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para4 requires technology-update provisions within the encryption and cryptographic-controls policy mandated by article-Art6-Para1."
+          "reasoning": "article-Art6-Para4 requires technology-update provisions within the encryption and cryptographic-controls policy mandated by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         },
         {
           "edge_id": "article-Art6-Para5__article-Art6-Para1__depends_on",
@@ -2458,7 +2766,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para5 places recording and explanation duties inside the cryptographic-controls policy first required by article-Art6-Para1."
+          "reasoning": "article-Art6-Para5 places recording and explanation duties inside the cryptographic-controls policy first required by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2469,7 +2779,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1511
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art6-Para1",
+      "text_sha256": "453c2abed8d3e61ea341378a6f9fd8ef3b32a478a973ce995425026643a1528a"
     },
     {
       "id": "article-Art6-Para2",
@@ -2536,7 +2848,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para2 prescribes the design and rules of the encryption and cryptographic-controls policy mandated by article-Art6-Para1."
+          "reasoning": "article-Art6-Para2 prescribes the design and rules of the encryption and cryptographic-controls policy mandated by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         },
         {
           "edge_id": "article-Art6-Para2__article-Art7-Para1__references",
@@ -2546,7 +2860,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art6-Para2 refers cryptographic-key management to Article 7, and article-Art7-Para1 is the narrow paragraph specifying whole-lifecycle key management."
+          "reasoning": "article-Art6-Para2 refers cryptographic-key management to Article 7, and article-Art7-Para1 is the narrow paragraph specifying whole-lifecycle key management.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art7-Para1"
         },
         {
           "edge_id": "article-Art6-Para2__article-Art7-Para2__references",
@@ -2556,7 +2872,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art6-Para2's express Article 7 reference includes protection of cryptographic keys, which article-Art7-Para2 specifically regulates throughout the key lifecycle."
+          "reasoning": "article-Art6-Para2's express Article 7 reference includes protection of cryptographic keys, which article-Art7-Para2 specifically regulates throughout the key lifecycle.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art7-Para2"
         }
       ],
       "inbound_relations": [
@@ -2568,7 +2886,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art13-Para1 expressly requires network-connection encryption to take account of the encryption of network connections governed by article-Art6-Para2."
+          "reasoning": "article-Art13-Para1 expressly requires network-connection encryption to take account of the encryption of network connections governed by article-Art6-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art13-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
         },
         {
           "edge_id": "article-Art7-Para1__article-Art6-Para2__depends_on",
@@ -2578,7 +2898,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art7-Para1 expressly makes its whole-lifecycle key requirements part of the cryptographic-key management policy specified in article-Art6-Para2 point (d)."
+          "reasoning": "article-Art7-Para1 expressly makes its whole-lifecycle key requirements part of the cryptographic-key management policy specified in article-Art6-Para2 point (d).",
+          "source_canonical_ref": "celex:32024R1774/article-Art7-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
         },
         {
           "edge_id": "recital-9__article-Art6-Para2__concretizes",
@@ -2588,7 +2910,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-9 concretizes article-Art6-Para2 by linking the encryption policy to approved data classification and ICT risk assessment, distinguishing data at rest, in transit and in use, and explaining the equivalent safeguards required when in-use encryption is infeasible."
+          "reasoning": "recital-9 concretizes article-Art6-Para2 by linking the encryption policy to approved data classification and ICT risk assessment, distinguishing data at rest, in transit and in use, and explaining the equivalent safeguards required when in-use encryption is infeasible.",
+          "source_canonical_ref": "celex:32024R1774/recital-9",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2605,7 +2929,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1571
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art6-Para2",
+      "text_sha256": "004428d9ee2c854d80d5f8cb2df2c6a1ba03f3325bb1d23682d01a41c1c9584d"
     },
     {
       "id": "article-Art6-Para3",
@@ -2631,7 +2957,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para3 adds technique-selection and mitigation criteria to the cryptographic-controls policy established by article-Art6-Para1."
+          "reasoning": "article-Art6-Para3 adds technique-selection and mitigation criteria to the cryptographic-controls policy established by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         }
       ],
       "inbound_relations": [
@@ -2643,7 +2971,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para5 expressly requires records for mitigation and monitoring measures adopted under article-Art6-Para3 when leading practices or reliable techniques cannot be followed."
+          "reasoning": "article-Art6-Para5 expressly requires records for mitigation and monitoring measures adopted under article-Art6-Para3 when leading practices or reliable techniques cannot be followed.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para3"
         },
         {
           "edge_id": "recital-9__article-Art6-Para3__provides_guidance_for",
@@ -2653,7 +2983,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-9 provides guidance for article-Art6-Para3 by explaining why cryptographic techniques must track leading practices and standards and why a flexible combination of risk mitigation and monitoring is needed when the most reliable techniques cannot be used."
+          "reasoning": "recital-9 provides guidance for article-Art6-Para3 by explaining why cryptographic techniques must track leading practices and standards and why a flexible combination of risk mitigation and monitoring is needed when the most reliable techniques cannot be used.",
+          "source_canonical_ref": "celex:32024R1774/recital-9",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2664,7 +2996,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1574
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art6-Para3",
+      "text_sha256": "f9a8d8969a61542c78f687a7ed16aafc2b59b89f3693a07dbc4af26268f89f96"
     },
     {
       "id": "article-Art6-Para4",
@@ -2690,7 +3024,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art6-Para4 expressly invokes article-Art10-Para2 point (a) when requiring awareness-driven updates that keep cryptographic technology resilient to cyber threats."
+          "reasoning": "article-Art6-Para4 expressly invokes article-Art10-Para2 point (a) when requiring awareness-driven updates that keep cryptographic technology resilient to cyber threats.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
         },
         {
           "edge_id": "article-Art6-Para4__article-Art6-Para1__depends_on",
@@ -2700,7 +3036,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para4 requires technology-update provisions within the encryption and cryptographic-controls policy mandated by article-Art6-Para1."
+          "reasoning": "article-Art6-Para4 requires technology-update provisions within the encryption and cryptographic-controls policy mandated by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         }
       ],
       "inbound_relations": [
@@ -2712,7 +3050,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para5 expressly requires a reasoned record of the mitigation and monitoring measures adopted under article-Art6-Para4 when cryptographic technology cannot be updated."
+          "reasoning": "article-Art6-Para5 expressly requires a reasoned record of the mitigation and monitoring measures adopted under article-Art6-Para4 when cryptographic technology cannot be updated.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para4"
         },
         {
           "edge_id": "recital-9__article-Art6-Para4__provides_guidance_for",
@@ -2722,7 +3062,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-9 provides guidance for article-Art6-Para4 by identifying rapid cryptanalysis developments, including quantum-related threats, as the reason to update cryptographic technology or adopt compensating mitigation and monitoring measures."
+          "reasoning": "recital-9 provides guidance for article-Art6-Para4 by identifying rapid cryptanalysis developments, including quantum-related threats, as the reason to update cryptographic technology or adopt compensating mitigation and monitoring measures.",
+          "source_canonical_ref": "celex:32024R1774/recital-9",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2733,7 +3075,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1577
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art6-Para4",
+      "text_sha256": "e4f4ed84b5316e89cf13cd44dfd09611f7e2380089f2feaafb83ab7413739280"
     },
     {
       "id": "article-Art6-Para5",
@@ -2759,7 +3103,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para5 places recording and explanation duties inside the cryptographic-controls policy first required by article-Art6-Para1."
+          "reasoning": "article-Art6-Para5 places recording and explanation duties inside the cryptographic-controls policy first required by article-Art6-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
         },
         {
           "edge_id": "article-Art6-Para5__article-Art6-Para3__depends_on",
@@ -2769,7 +3115,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para5 expressly requires records for mitigation and monitoring measures adopted under article-Art6-Para3 when leading practices or reliable techniques cannot be followed."
+          "reasoning": "article-Art6-Para5 expressly requires records for mitigation and monitoring measures adopted under article-Art6-Para3 when leading practices or reliable techniques cannot be followed.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para3"
         },
         {
           "edge_id": "article-Art6-Para5__article-Art6-Para4__depends_on",
@@ -2779,7 +3127,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art6-Para5 expressly requires a reasoned record of the mitigation and monitoring measures adopted under article-Art6-Para4 when cryptographic technology cannot be updated."
+          "reasoning": "article-Art6-Para5 expressly requires a reasoned record of the mitigation and monitoring measures adopted under article-Art6-Para4 when cryptographic technology cannot be updated.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para4"
         }
       ],
       "inbound_relations": [],
@@ -2791,7 +3141,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1580
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art6-Para5",
+      "text_sha256": "977390b6873faaa9974fc46b393e35f5cbb0c5b3c78c88313132220fc45a0f4b"
     },
     {
       "id": "article-Art7-Para1",
@@ -2817,7 +3169,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art7-Para1 expressly makes its whole-lifecycle key requirements part of the cryptographic-key management policy specified in article-Art6-Para2 point (d)."
+          "reasoning": "article-Art7-Para1 expressly makes its whole-lifecycle key requirements part of the cryptographic-key management policy specified in article-Art6-Para2 point (d).",
+          "source_canonical_ref": "celex:32024R1774/article-Art7-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
         }
       ],
       "inbound_relations": [
@@ -2829,7 +3183,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art6-Para2 refers cryptographic-key management to Article 7, and article-Art7-Para1 is the narrow paragraph specifying whole-lifecycle key management."
+          "reasoning": "article-Art6-Para2 refers cryptographic-key management to Article 7, and article-Art7-Para1 is the narrow paragraph specifying whole-lifecycle key management.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art7-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2840,7 +3196,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1589
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art7-Para1",
+      "text_sha256": "8140cdf663bc07abea985c12c5d10b79c34d21053afe5b669cc5843ea35e9288"
     },
     {
       "id": "article-Art7-Para2",
@@ -2867,7 +3225,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art6-Para2's express Article 7 reference includes protection of cryptographic keys, which article-Art7-Para2 specifically regulates throughout the key lifecycle."
+          "reasoning": "article-Art6-Para2's express Article 7 reference includes protection of cryptographic keys, which article-Art7-Para2 specifically regulates throughout the key lifecycle.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art7-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -2878,7 +3238,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1592
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art7-Para2",
+      "text_sha256": "5a97d1c57be14e03b4e5aaa9214e0cac74f8e80755ea688abc734ef15addf443"
     },
     {
       "id": "article-Art7-Para3",
@@ -2905,7 +3267,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1595
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art7-Para3",
+      "text_sha256": "6e98a6aeb3125aa36a8ab9b1389c1bd2f9d4397d6445096a2e3d4985fb2448ba"
     },
     {
       "id": "article-Art7-Para4",
@@ -2932,7 +3296,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1598
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art7-Para4",
+      "text_sha256": "4aa85b0a81b7f4d83eab98e6df5f7bf7561480a5d5da2f4dd531a9b98254a728"
     },
     {
       "id": "article-Art7-Para5",
@@ -2959,7 +3325,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1601
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art7-Para5",
+      "text_sha256": "077759c5f64a089626c76b3a7ec3e0fa0487ecff010900c628af52267af7bad2"
     },
     {
       "id": "article-Art8-Para1",
@@ -2986,7 +3354,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art8-Para2 prescribes the required operational, monitoring and error-handling contents of the ICT-operations policies created by article-Art8-Para1."
+          "reasoning": "article-Art8-Para2 prescribes the required operational, monitoring and error-handling contents of the ICT-operations policies created by article-Art8-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para1"
         },
         {
           "edge_id": "recital-7__article-Art8-Para1__provides_guidance_for",
@@ -2996,7 +3366,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 describes effective and smooth day-to-day ICT operation as the objective of the operational policies and procedures required by article-Art8-Para1."
+          "reasoning": "recital-7 describes effective and smooth day-to-day ICT operation as the objective of the operational policies and procedures required by article-Art8-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3007,7 +3379,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1622
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art8-Para1",
+      "text_sha256": "af742524194def427c71d3df3dd89df8598306adaa6e734e30a70413e3b2b71a"
     },
     {
       "id": "article-Art8-Para2",
@@ -3194,7 +3568,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art8-Para2 expressly applies the segregation requirement in article-Art13-Para1 point (a) to all components of separated production and non-production environments."
+          "reasoning": "article-Art8-Para2 expressly applies the segregation requirement in article-Art13-Para1 point (a) to all components of separated production and non-production environments.",
+          "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art13-Para1"
         },
         {
           "edge_id": "article-Art8-Para2__article-Art16-Para6__references",
@@ -3204,7 +3580,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art8-Para2 expressly uses article-Art16-Para6 as the approval and limited-duration standard for testing in production environments."
+          "reasoning": "article-Art8-Para2 expressly uses article-Art16-Para6 as the approval and limited-duration standard for testing in production environments.",
+          "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para6"
         },
         {
           "edge_id": "article-Art8-Para2__article-Art8-Para1__depends_on",
@@ -3214,7 +3592,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art8-Para2 prescribes the required operational, monitoring and error-handling contents of the ICT-operations policies created by article-Art8-Para1."
+          "reasoning": "article-Art8-Para2 prescribes the required operational, monitoring and error-handling contents of the ICT-operations policies created by article-Art8-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para1"
         }
       ],
       "inbound_relations": [
@@ -3226,7 +3606,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art10-Para4 expressly refers patch and update testing and deployment to the production and non-production testing controls in article-Art8-Para2 points (b)(v) to (vii)."
+          "reasoning": "article-Art10-Para4 expressly refers patch and update testing and deployment to the production and non-production testing controls in article-Art8-Para2 points (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art10-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         },
         {
           "edge_id": "article-Art16-Para2__article-Art8-Para2__references",
@@ -3236,7 +3618,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para2 expressly requires pre-use and post-maintenance ICT-system testing to follow the production-separation and testing controls in article-Art8-Para2, point (b)(v) to (vii)."
+          "reasoning": "article-Art16-Para2 expressly requires pre-use and post-maintenance ICT-system testing to follow the production-separation and testing controls in article-Art8-Para2, point (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         },
         {
           "edge_id": "article-Art16-Para3__article-Art8-Para2__references",
@@ -3246,7 +3630,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para3 expressly subjects security testing for internet-exposed systems and applications to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii)."
+          "reasoning": "article-Art16-Para3 expressly subjects security testing for internet-exposed systems and applications to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         },
         {
           "edge_id": "article-Art16-Para4__article-Art8-Para2__references",
@@ -3256,7 +3642,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para4 expressly subjects software-package security testing to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii)."
+          "reasoning": "article-Art16-Para4 expressly subjects software-package security testing to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         },
         {
           "edge_id": "recital-10__article-Art8-Para2__provides_guidance_for",
@@ -3266,7 +3654,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-10 provides guidance for article-Art8-Para2 by explaining the security purpose of separating production from development, testing and other non-production environments and the exceptional justification and approval required for testing in production."
+          "reasoning": "recital-10 provides guidance for article-Art8-Para2 by explaining the security purpose of separating production from development, testing and other non-production environments and the exceptional justification and approval required for testing in production.",
+          "source_canonical_ref": "celex:32024R1774/recital-10",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         },
         {
           "edge_id": "recital-8__article-Art8-Para2__provides_guidance_for",
@@ -3276,7 +3666,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-8 identifies support expiry monitoring as a means to manage legacy-system risk, providing application guidance for the legacy-system control required by article-Art8-Para2."
+          "reasoning": "recital-8 identifies support expiry monitoring as a means to manage legacy-system risk, providing application guidance for the legacy-system control required by article-Art8-Para2.",
+          "source_canonical_ref": "celex:32024R1774/recital-8",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3299,7 +3691,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1851
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art8-Para2",
+      "text_sha256": "6f870132e78b73fa7f1c4c58b62a14d7a9f42279f77cb27c4d20a8b3c3924f02"
     },
     {
       "id": "article-Art9-Para1",
@@ -3387,7 +3781,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art9-Para2 adds system-specific proportional measures to the capacity and performance management procedures required by article-Art9-Para1."
+          "reasoning": "article-Art9-Para2 adds system-specific proportional measures to the capacity and performance management procedures required by article-Art9-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art9-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
         },
         {
           "edge_id": "recital-2__article-Art9-Para1__provides_guidance_for",
@@ -3397,7 +3793,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 expressly identifies capacity and performance management as a technical procedure domain, providing the rationale for the procedure mandated by article-Art9-Para1."
+          "reasoning": "recital-2 expressly identifies capacity and performance management as a technical procedure domain, providing the rationale for the procedure mandated by article-Art9-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
         },
         {
           "edge_id": "recital-7__article-Art9-Para1__provides_guidance_for",
@@ -3407,7 +3805,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-7 explains that capacity and performance management should optimise ICT operations and meet business and security objectives, guiding article-Art9-Para1."
+          "reasoning": "recital-7 explains that capacity and performance management should optimise ICT operations and meet business and security objectives, guiding article-Art9-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-7",
+          "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3418,7 +3818,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1860
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art9-Para1",
+      "text_sha256": "df1230c74ca1d7336404d617d934a75ad02614819e74f77bfa42c5abda0cd9da"
     },
     {
       "id": "article-Art9-Para2",
@@ -3444,7 +3846,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art9-Para2 adds system-specific proportional measures to the capacity and performance management procedures required by article-Art9-Para1."
+          "reasoning": "article-Art9-Para2 adds system-specific proportional measures to the capacity and performance management procedures required by article-Art9-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art9-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
         }
       ],
       "inbound_relations": [],
@@ -3456,7 +3860,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1947
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art9-Para2",
+      "text_sha256": "0659d3dbfada2af1efbc0fc68cd204dfcf281aaceb77c3b9dd96a6e8ff6e1f29"
     },
     {
       "id": "article-Art10-Para1",
@@ -3483,7 +3889,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art10-Para2 enumerates the scanning, third-party, remediation and recording controls for the vulnerability-management procedures mandated by article-Art10-Para1."
+          "reasoning": "article-Art10-Para2 enumerates the scanning, third-party, remediation and recording controls for the vulnerability-management procedures mandated by article-Art10-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art10-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para1"
         },
         {
           "edge_id": "recital-2__article-Art10-Para1__provides_guidance_for",
@@ -3493,7 +3901,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 expressly lists vulnerability management among the technical implementation procedures that article-Art10-Para1 requires financial entities to establish."
+          "reasoning": "recital-2 expressly lists vulnerability management among the technical implementation procedures that article-Art10-Para1 requires financial entities to establish.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3504,7 +3914,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 1956
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art10-Para1",
+      "text_sha256": "193319c7e67f6246fdf8da71cae0faaf4f4e8fa55f07bfda109854a4eff16be8"
     },
     {
       "id": "article-Art10-Para2",
@@ -3651,7 +4063,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art10-Para2 enumerates the scanning, third-party, remediation and recording controls for the vulnerability-management procedures mandated by article-Art10-Para1."
+          "reasoning": "article-Art10-Para2 enumerates the scanning, third-party, remediation and recording controls for the vulnerability-management procedures mandated by article-Art10-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art10-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para1"
         }
       ],
       "inbound_relations": [
@@ -3663,7 +4077,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art6-Para4 expressly invokes article-Art10-Para2 point (a) when requiring awareness-driven updates that keep cryptographic technology resilient to cyber threats."
+          "reasoning": "article-Art6-Para4 expressly invokes article-Art10-Para2 point (a) when requiring awareness-driven updates that keep cryptographic technology resilient to cyber threats.",
+          "source_canonical_ref": "celex:32024R1774/article-Art6-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
         },
         {
           "edge_id": "recital-11__article-Art10-Para2__concretizes",
@@ -3673,7 +4089,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-11 concretizes article-Art10-Para2 by requiring reliable vulnerability information, automated monitoring, remediation, and verification that ICT third-party service providers promptly investigate and address vulnerabilities in supplied services."
+          "reasoning": "recital-11 concretizes article-Art10-Para2 by requiring reliable vulnerability information, automated monitoring, remediation, and verification that ICT third-party service providers promptly investigate and address vulnerabilities in supplied services.",
+          "source_canonical_ref": "celex:32024R1774/recital-11",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
         },
         {
           "edge_id": "recital-13__article-Art10-Para2__provides_guidance_for",
@@ -3683,7 +4101,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-13 provides guidance for the responsible-disclosure procedure in article-Art10-Para2 by identifying severity, stakeholder impact, and the readiness of a fix or mitigation as factors for communicating ICT vulnerabilities."
+          "reasoning": "recital-13 provides guidance for the responsible-disclosure procedure in article-Art10-Para2 by identifying severity, stakeholder impact, and the readiness of a fix or mitigation as factors for communicating ICT vulnerabilities.",
+          "source_canonical_ref": "celex:32024R1774/recital-13",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3718,7 +4138,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2131
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art10-Para2",
+      "text_sha256": "395d127757b42d60898ace7dcc2b70d95a77b06e67bcd61916775fa76a494d26"
     },
     {
       "id": "article-Art10-Para3",
@@ -3745,7 +4167,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art10-Para4 sets the evaluation, emergency, testing, deployment and deadline requirements for the patch-management procedures established by article-Art10-Para3."
+          "reasoning": "article-Art10-Para4 sets the evaluation, emergency, testing, deployment and deadline requirements for the patch-management procedures established by article-Art10-Para3.",
+          "source_canonical_ref": "celex:32024R1774/article-Art10-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para3"
         },
         {
           "edge_id": "recital-2__article-Art10-Para3__provides_guidance_for",
@@ -3755,7 +4179,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 separately names patch management as a necessary technical procedure, directly explaining the obligation in article-Art10-Para3."
+          "reasoning": "recital-2 separately names patch management as a necessary technical procedure, directly explaining the obligation in article-Art10-Para3.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3766,7 +4192,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2134
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art10-Para3",
+      "text_sha256": "327ef7ac1889001ec0a002eee748c79bb96dc3b30cc78417ac6ad77c06215089"
     },
     {
       "id": "article-Art10-Para4",
@@ -3833,7 +4261,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art10-Para4 sets the evaluation, emergency, testing, deployment and deadline requirements for the patch-management procedures established by article-Art10-Para3."
+          "reasoning": "article-Art10-Para4 sets the evaluation, emergency, testing, deployment and deadline requirements for the patch-management procedures established by article-Art10-Para3.",
+          "source_canonical_ref": "celex:32024R1774/article-Art10-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para3"
         },
         {
           "edge_id": "article-Art10-Para4__article-Art8-Para2__references",
@@ -3843,7 +4273,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art10-Para4 expressly refers patch and update testing and deployment to the production and non-production testing controls in article-Art8-Para2 points (b)(v) to (vii)."
+          "reasoning": "article-Art10-Para4 expressly refers patch and update testing and deployment to the production and non-production testing controls in article-Art8-Para2 points (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art10-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         }
       ],
       "inbound_relations": [
@@ -3855,7 +4287,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-12 provides guidance for article-Art10-Para4 by explaining that patches should be tested and deployed in a controlled environment so that identified vulnerabilities are remedied without creating operational disruption."
+          "reasoning": "recital-12 provides guidance for article-Art10-Para4 by explaining that patches should be tested and deployed in a controlled environment so that identified vulnerabilities are remedied without creating operational disruption.",
+          "source_canonical_ref": "celex:32024R1774/recital-12",
+          "target_canonical_ref": "celex:32024R1774/article-Art10-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3866,7 +4300,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2137
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art10-Para4",
+      "text_sha256": "e04e7410fb13d3fbfa9f93cb45e6f6cb88318097221d61a45cb368bc8c32c423"
     },
     {
       "id": "article-Art11-Para1",
@@ -3893,7 +4329,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art11-Para2 expressly takes the data and system security procedure established by article-Art11-Para1 as the procedure whose mandatory security elements it enumerates."
+          "reasoning": "article-Art11-Para2 expressly takes the data and system security procedure established by article-Art11-Para1 as the procedure whose mandatory security elements it enumerates.",
+          "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art11-Para1"
         },
         {
           "edge_id": "recital-2__article-Art11-Para1__provides_guidance_for",
@@ -3903,7 +4341,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 identifies data and system security as a technical implementation area, which is the precise procedure created by article-Art11-Para1."
+          "reasoning": "recital-2 identifies data and system security as a technical implementation area, which is the precise procedure created by article-Art11-Para1.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art11-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -3914,7 +4354,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2202
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art11-Para1",
+      "text_sha256": "ffe4e2810ae4bf18a1e45f654b43ae7d0643b4f623ee4913970bc0970da5ddb3"
     },
     {
       "id": "article-Art11-Para2",
@@ -4121,7 +4563,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art11-Para2 expressly takes the data and system security procedure established by article-Art11-Para1 as the procedure whose mandatory security elements it enumerates."
+          "reasoning": "article-Art11-Para2 expressly takes the data and system security procedure established by article-Art11-Para1 as the procedure whose mandatory security elements it enumerates.",
+          "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art11-Para1"
         },
         {
           "edge_id": "article-Art11-Para2__article-Art21-Para1__references",
@@ -4131,7 +4575,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art11-Para2 expressly imports the access restrictions laid down in article-Art21-Para1 as an element supporting the protection requirements attached to each data-classification level."
+          "reasoning": "article-Art11-Para2 expressly imports the access restrictions laid down in article-Art21-Para1 as an element supporting the protection requirements attached to each data-classification level.",
+          "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         },
         {
           "edge_id": "article-Art11-Para2__article-Art3-Para1__references",
@@ -4141,7 +4587,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art11-Para2 conditions use of removable data-storage devices on residual ICT risk remaining within the risk-tolerance level established in article-Art3-Para1, first subparagraph, point (a)."
+          "reasoning": "article-Art11-Para2 conditions use of removable data-storage devices on residual ICT risk remaining within the risk-tolerance level established in article-Art3-Para1, first subparagraph, point (a).",
+          "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art3-Para1"
         }
       ],
       "inbound_relations": [],
@@ -4165,7 +4613,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2403
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art11-Para2",
+      "text_sha256": "f3c05de0936f8f8b0bea658f0b4035a250aee33fd95f42b93547885c471a8d19"
     },
     {
       "id": "article-Art12-Para1",
@@ -4192,7 +4642,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art12-Para2 expressly specifies the mandatory contents of the logging procedures, protocols and tools that article-Art12-Para1 requires financial entities to establish."
+          "reasoning": "article-Art12-Para2 expressly specifies the mandatory contents of the logging procedures, protocols and tools that article-Art12-Para1 requires financial entities to establish.",
+          "source_canonical_ref": "celex:32024R1774/article-Art12-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art12-Para1"
         },
         {
           "edge_id": "recital-2__article-Art12-Para1__provides_guidance_for",
@@ -4202,7 +4654,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-2 expressly includes logging among necessary technical procedures, supplying the policy rationale for article-Art12-Para1's logging obligation."
+          "reasoning": "recital-2 expressly includes logging among necessary technical procedures, supplying the policy rationale for article-Art12-Para1's logging obligation.",
+          "source_canonical_ref": "celex:32024R1774/recital-2",
+          "target_canonical_ref": "celex:32024R1774/article-Art12-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4213,7 +4667,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2468
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art12-Para1",
+      "text_sha256": "ecd1a5116ef8280f30a5c18e5c036264f7adc21b8c146a7ad652f3903973978a"
     },
     {
       "id": "article-Art12-Para2",
@@ -4350,7 +4806,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art12-Para2 expressly specifies the mandatory contents of the logging procedures, protocols and tools that article-Art12-Para1 requires financial entities to establish."
+          "reasoning": "article-Art12-Para2 expressly specifies the mandatory contents of the logging procedures, protocols and tools that article-Art12-Para1 requires financial entities to establish.",
+          "source_canonical_ref": "celex:32024R1774/article-Art12-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art12-Para1"
         },
         {
           "edge_id": "article-Art12-Para2__article-Art21-Para1__references",
@@ -4360,7 +4818,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art12-Para2 expressly requires logs for logical and physical access-control events governed by article-Art21-Para1."
+          "reasoning": "article-Art12-Para2 expressly requires logs for logical and physical access-control events governed by article-Art21-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art12-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         }
       ],
       "inbound_relations": [
@@ -4372,7 +4832,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art23-Para2 expressly includes logs collected under Article 12 among its detection inputs, and article-Art12-Para2 is the narrow target specifying the events, retention, protection, and handling requirements for those logs."
+          "reasoning": "article-Art23-Para2 expressly includes logs collected under Article 12 among its detection inputs, and article-Art12-Para2 is the narrow target specifying the events, retention, protection, and handling requirements for those logs.",
+          "source_canonical_ref": "celex:32024R1774/article-Art23-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art12-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4389,7 +4851,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2626
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art12-Para2",
+      "text_sha256": "10d4c476733e50a485cdeb031325a4b2e28b4db0f6a6fe56b81d3981d9b866b1"
     },
     {
       "id": "article-Art13-Para1",
@@ -4596,7 +5060,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art13-Para1 expressly requires network-connection encryption to take account of the encryption of network connections governed by article-Art6-Para2."
+          "reasoning": "article-Art13-Para1 expressly requires network-connection encryption to take account of the encryption of network connections governed by article-Art6-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art13-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
         }
       ],
       "inbound_relations": [
@@ -4608,7 +5074,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art8-Para2 expressly applies the segregation requirement in article-Art13-Para1 point (a) to all components of separated production and non-production environments."
+          "reasoning": "article-Art8-Para2 expressly applies the segregation requirement in article-Art13-Para1 point (a) to all components of separated production and non-production environments.",
+          "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art13-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4625,7 +5093,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2899
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art13-Para1",
+      "text_sha256": "5a0c5331b456d082d9e11d65272c3a3222067b945978874bab10e0fec3d64a9c"
     },
     {
       "id": "article-Art14-Para1",
@@ -4683,7 +5153,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art14-Para2 expressly requires the information-in-transit policies and controls established by article-Art14-Para1 to be designed from the approved data classification and ICT risk assessment."
+          "reasoning": "article-Art14-Para2 expressly requires the information-in-transit policies and controls established by article-Art14-Para1 to be designed from the approved data classification and ICT risk assessment.",
+          "source_canonical_ref": "celex:32024R1774/article-Art14-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art14-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4694,7 +5166,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2907
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art14-Para1",
+      "text_sha256": "916a5f1962a4ee08490dc750b2ab86ad72d2b4e98460f8d341aa92d729126d09"
     },
     {
       "id": "article-Art14-Para2",
@@ -4720,7 +5194,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art14-Para2 expressly requires the information-in-transit policies and controls established by article-Art14-Para1 to be designed from the approved data classification and ICT risk assessment."
+          "reasoning": "article-Art14-Para2 expressly requires the information-in-transit policies and controls established by article-Art14-Para1 to be designed from the approved data classification and ICT risk assessment.",
+          "source_canonical_ref": "celex:32024R1774/article-Art14-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art14-Para1"
         }
       ],
       "inbound_relations": [],
@@ -4732,7 +5208,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2952
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art14-Para2",
+      "text_sha256": "3271c373dc7e70ce7ed582dd5be06087d2cff89a4a0a846a03c3d1458975d417"
     },
     {
       "id": "article-Art15-Para1",
@@ -4759,7 +5237,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para2 expressly defines the acquisition, maintenance and development projects that must be covered by the ICT project-management policy required in article-Art15-Para1."
+          "reasoning": "article-Art15-Para2 expressly defines the acquisition, maintenance and development projects that must be covered by the ICT project-management policy required in article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         },
         {
           "edge_id": "article-Art15-Para3__article-Art15-Para1__depends_on",
@@ -4769,7 +5249,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para3 expressly enumerates the governance, planning, risk, change and testing contents of the ICT project-management policy required by article-Art15-Para1."
+          "reasoning": "article-Art15-Para3 expressly enumerates the governance, planning, risk, change and testing contents of the ICT project-management policy required by article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         },
         {
           "edge_id": "article-Art15-Para4__article-Art15-Para1__depends_on",
@@ -4779,7 +5261,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para4 expressly adds business-area information and expertise as a secure-implementation requirement of the ICT project-management policy established in article-Art15-Para1."
+          "reasoning": "article-Art15-Para4 expressly adds business-area information and expertise as a secure-implementation requirement of the ICT project-management policy established in article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         },
         {
           "edge_id": "article-Art15-Para5__article-Art15-Para1__depends_on",
@@ -4789,7 +5273,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para5 expressly makes reporting on critical or important ICT projects and their risks a requirement of the project-management policy established in article-Art15-Para1."
+          "reasoning": "article-Art15-Para5 expressly makes reporting on critical or important ICT projects and their risks a requirement of the project-management policy established in article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4800,7 +5286,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2973
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art15-Para1",
+      "text_sha256": "2b9c76e57b7daab3a5b6dec04cc5363d7ce15f40860d106957fc160a05a0981b"
     },
     {
       "id": "article-Art15-Para2",
@@ -4826,7 +5314,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para2 expressly defines the acquisition, maintenance and development projects that must be covered by the ICT project-management policy required in article-Art15-Para1."
+          "reasoning": "article-Art15-Para2 expressly defines the acquisition, maintenance and development projects that must be covered by the ICT project-management policy required in article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         }
       ],
       "inbound_relations": [
@@ -4838,7 +5328,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-15 concretizes article-Art15-Para2 by identifying acquisition, maintenance, development and change of ICT systems as project-management subject matter regardless of the methodology selected by the financial entity."
+          "reasoning": "recital-15 concretizes article-Art15-Para2 by identifying acquisition, maintenance, development and change of ICT systems as project-management subject matter regardless of the methodology selected by the financial entity.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4849,7 +5341,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2976
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art15-Para2",
+      "text_sha256": "fa395dbff845ef177b01e5377c25afb9244e0b30744646b226edf2def82ee7c5"
     },
     {
       "id": "article-Art15-Para3",
@@ -4946,7 +5440,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para3 expressly enumerates the governance, planning, risk, change and testing contents of the ICT project-management policy required by article-Art15-Para1."
+          "reasoning": "article-Art15-Para3 expressly enumerates the governance, planning, risk, change and testing contents of the ICT project-management policy required by article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         }
       ],
       "inbound_relations": [
@@ -4958,7 +5454,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art15-Para5 expressly bases management-body reporting on the ICT project risk assessment required by article-Art15-Para3, point (d)."
+          "reasoning": "article-Art15-Para5 expressly bases management-body reporting on the ICT project risk assessment required by article-Art15-Para3, point (d).",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para3"
         },
         {
           "edge_id": "recital-15__article-Art15-Para3__provides_guidance_for",
@@ -4968,7 +5466,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-15 provides guidance for article-Art15-Para3 by requiring project testing methods suited to the entity, applied on a risk basis, while preserving a secure, reliable and resilient ICT environment."
+          "reasoning": "recital-15 provides guidance for article-Art15-Para3 by requiring project testing methods suited to the entity, applied on a risk basis, while preserving a secure, reliable and resilient ICT environment.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -4979,7 +5479,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 2979
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art15-Para3",
+      "text_sha256": "6fc853b1508ee56979e02dbf337f408dffaf099e8eb30a25efb93530a2a4ee57"
     },
     {
       "id": "article-Art15-Para4",
@@ -5005,7 +5507,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para4 expressly adds business-area information and expertise as a secure-implementation requirement of the ICT project-management policy established in article-Art15-Para1."
+          "reasoning": "article-Art15-Para4 expressly adds business-area information and expertise as a secure-implementation requirement of the ICT project-management policy established in article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         }
       ],
       "inbound_relations": [
@@ -5017,7 +5521,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-15 concretizes article-Art15-Para4 by explaining that staff from business areas or roles affected by an ICT project must supply the information and expertise needed for secure implementation."
+          "reasoning": "recital-15 concretizes article-Art15-Para4 by explaining that staff from business areas or roles affected by an ICT project must supply the information and expertise needed for secure implementation.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5028,7 +5534,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3080
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art15-Para4",
+      "text_sha256": "21f586c3214f09294d14e0ca6ee4473ca4865278ef1c68185ce6d6cbafb22744"
     },
     {
       "id": "article-Art15-Para5",
@@ -5075,7 +5583,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art15-Para5 expressly makes reporting on critical or important ICT projects and their risks a requirement of the project-management policy established in article-Art15-Para1."
+          "reasoning": "article-Art15-Para5 expressly makes reporting on critical or important ICT projects and their risks a requirement of the project-management policy established in article-Art15-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
         },
         {
           "edge_id": "article-Art15-Para5__article-Art15-Para3__references",
@@ -5085,7 +5595,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art15-Para5 expressly bases management-body reporting on the ICT project risk assessment required by article-Art15-Para3, point (d)."
+          "reasoning": "article-Art15-Para5 expressly bases management-body reporting on the ICT project risk assessment required by article-Art15-Para3, point (d).",
+          "source_canonical_ref": "celex:32024R1774/article-Art15-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para3"
         }
       ],
       "inbound_relations": [
@@ -5097,7 +5609,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-15 provides guidance for article-Art15-Para5 by linking management-body reporting to projects affecting critical or important functions and by tying report frequency and detail to each project’s importance and size."
+          "reasoning": "recital-15 provides guidance for article-Art15-Para5 by linking management-body reporting to projects affecting critical or important functions and by tying report frequency and detail to each project’s importance and size.",
+          "source_canonical_ref": "celex:32024R1774/recital-15",
+          "target_canonical_ref": "celex:32024R1774/article-Art15-Para5"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5108,7 +5622,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3083
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art15-Para5",
+      "text_sha256": "c30a21737385f99c77d33a49f10ff794fef71a2e4474a29ddbcaf87b2f55bacd"
     },
     {
       "id": "article-Art16-Para1",
@@ -5186,7 +5702,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the acquisition, development and maintenance policy duty in article-Art16-Para1 to ICT systems developed or managed by users outside the ICT function, subject to a risk-based approach."
+          "reasoning": "article-Art16-Para9 expressly extends the acquisition, development and maintenance policy duty in article-Art16-Para1 to ICT systems developed or managed by users outside the ICT function, subject to a risk-based approach.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5197,7 +5715,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3120
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para1",
+      "text_sha256": "bc91b53c25dcdaf6af35aea52a56f903eabb1f4c81d8c3e1aa3426fabf521dc6"
     },
     {
       "id": "article-Art16-Para2",
@@ -5304,7 +5824,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para2 expressly requires pre-use and post-maintenance ICT-system testing to follow the production-separation and testing controls in article-Art8-Para2, point (b)(v) to (vii)."
+          "reasoning": "article-Art16-Para2 expressly requires pre-use and post-maintenance ICT-system testing to follow the production-separation and testing controls in article-Art8-Para2, point (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         }
       ],
       "inbound_relations": [
@@ -5316,7 +5838,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para3 expressly makes source-code review and the resulting vulnerability action plan part of the acquisition, development and maintenance testing procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para3 expressly makes source-code review and the resulting vulnerability action plan part of the acquisition, development and maintenance testing procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para4__article-Art16-Para2__depends_on",
@@ -5326,7 +5850,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para4 expressly adds integration-phase security testing of software packages to the testing procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para4 expressly adds integration-phase security testing of software packages to the testing procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para5__article-Art16-Para2__depends_on",
@@ -5336,7 +5862,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para5 expressly makes anonymisation, pseudonymisation or randomisation of production data and protection of non-production data part of the testing procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para5 expressly makes anonymisation, pseudonymisation or randomisation of production data and protection of non-production data part of the testing procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para6__article-Art16-Para2__depends_on",
@@ -5346,7 +5874,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para6 expressly places its tightly controlled production-data testing exception within the acquisition, development and maintenance procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para6 expressly places its tightly controlled production-data testing exception within the acquisition, development and maintenance procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para7__article-Art16-Para2__depends_on",
@@ -5356,7 +5886,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para7 expressly adds controls protecting source-code integrity, including code developed by ICT third-party providers, to the procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para7 expressly adds controls protecting source-code integrity, including code developed by ICT third-party providers, to the procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para7",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para8__article-Art16-Para2__depends_on",
@@ -5366,7 +5898,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para8 expressly makes pre-deployment analysis and testing of proprietary, third-party and open-source software part of the procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para8 expressly makes pre-deployment analysis and testing of proprietary, third-party and open-source software part of the procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para8",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para2__depends_on",
@@ -5376,7 +5910,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the pre-use and post-maintenance testing and approval procedure in article-Art16-Para2 to ICT systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the pre-use and post-maintenance testing and approval procedure in article-Art16-Para2 to ICT systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "recital-24__article-Art16-Para2__provides_guidance_for",
@@ -5386,7 +5922,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains why article-Art16-Para2 adds sector-specific ICT-system testing participation for central counterparties and central securities depositories: the RTS builds project-management controls on the operational-risk rules already applicable to those infrastructures."
+          "reasoning": "recital-24 explains why article-Art16-Para2 adds sector-specific ICT-system testing participation for central counterparties and central securities depositories: the RTS builds project-management controls on the operational-risk rules already applicable to those infrastructures.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5409,7 +5947,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3237
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para2",
+      "text_sha256": "049244fed44d97d65f70d31d3ed1c195acf85d1750eeaced1733cd7f090f3ef0"
     },
     {
       "id": "article-Art16-Para3",
@@ -5466,7 +6006,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para3 expressly makes source-code review and the resulting vulnerability action plan part of the acquisition, development and maintenance testing procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para3 expressly makes source-code review and the resulting vulnerability action plan part of the acquisition, development and maintenance testing procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para3__article-Art8-Para2__references",
@@ -5476,7 +6018,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para3 expressly subjects security testing for internet-exposed systems and applications to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii)."
+          "reasoning": "article-Art16-Para3 expressly subjects security testing for internet-exposed systems and applications to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         }
       ],
       "inbound_relations": [
@@ -5488,7 +6032,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para8 expressly requires proprietary, third-party and open-source software to be analysed and tested according to the static and dynamic source-code review regime in article-Art16-Para3."
+          "reasoning": "article-Art16-Para8 expressly requires proprietary, third-party and open-source software to be analysed and tested according to the static and dynamic source-code review regime in article-Art16-Para3.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para8",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para3__depends_on",
@@ -5498,7 +6044,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the source-code review, vulnerability analysis and remediation regime in article-Art16-Para3 to user-developed or user-managed ICT systems."
+          "reasoning": "article-Art16-Para9 expressly extends the source-code review, vulnerability analysis and remediation regime in article-Art16-Para3 to user-developed or user-managed ICT systems.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
         },
         {
           "edge_id": "recital-16__article-Art16-Para3__concretizes",
@@ -5508,7 +6056,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-16 concretizes article-Art16-Para3 by requiring source-code review through both static and dynamic testing to reveal vulnerabilities and security gaps and to assess software integrity before operational use."
+          "reasoning": "recital-16 concretizes article-Art16-Para3 by requiring source-code review through both static and dynamic testing to reveal vulnerabilities and security gaps and to assess software integrity before operational use.",
+          "source_canonical_ref": "celex:32024R1774/recital-16",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5519,7 +6069,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3310
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para3",
+      "text_sha256": "70db7c69e85106a1e85cdca3a5aa889c50b8b289887abd84d6c63621a49f2915"
     },
     {
       "id": "article-Art16-Para4",
@@ -5545,7 +6097,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para4 expressly adds integration-phase security testing of software packages to the testing procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para4 expressly adds integration-phase security testing of software packages to the testing procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para4__article-Art8-Para2__references",
@@ -5555,7 +6109,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para4 expressly subjects software-package security testing to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii)."
+          "reasoning": "article-Art16-Para4 expressly subjects software-package security testing to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii).",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
         }
       ],
       "inbound_relations": [
@@ -5567,7 +6123,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the integration-phase software-package security testing required by article-Art16-Para4 to ICT systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the integration-phase software-package security testing required by article-Art16-Para4 to ICT systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para4"
         },
         {
           "edge_id": "recital-16__article-Art16-Para4__concretizes",
@@ -5577,7 +6135,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-16 concretizes article-Art16-Para4 by explaining that acquired or developed software packages must undergo ICT security testing so that they can be integrated securely into the existing ICT environment."
+          "reasoning": "recital-16 concretizes article-Art16-Para4 by explaining that acquired or developed software packages must undergo ICT security testing so that they can be integrated securely into the existing ICT environment.",
+          "source_canonical_ref": "celex:32024R1774/recital-16",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5588,7 +6148,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3355
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para4",
+      "text_sha256": "6507384d24e371d28563751dae67f9cf69dab55153a7e4fda6011faaad1999f6"
     },
     {
       "id": "article-Art16-Para5",
@@ -5635,7 +6197,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para5 expressly makes anonymisation, pseudonymisation or randomisation of production data and protection of non-production data part of the testing procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para5 expressly makes anonymisation, pseudonymisation or randomisation of production data and protection of non-production data part of the testing procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         }
       ],
       "inbound_relations": [
@@ -5647,7 +6211,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art16-Para6 expressly derogates from article-Art16-Para5 by permitting production data for specific testing occasions only for limited periods, after approval and with reporting to the ICT risk-management function."
+          "reasoning": "article-Art16-Para6 expressly derogates from article-Art16-Para5 by permitting production data for specific testing occasions only for limited periods, after approval and with reporting to the ICT risk-management function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para5"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para5__depends_on",
@@ -5657,7 +6223,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the non-production data safeguards in article-Art16-Para5 to ICT systems developed or managed by users outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the non-production data safeguards in article-Art16-Para5 to ICT systems developed or managed by users outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para5"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5668,7 +6236,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3358
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para5",
+      "text_sha256": "6d5a132c7e5f4ea70c653899a90b45d5ba1d69c5262fa75b0ab1b85cb1da590d"
     },
     {
       "id": "article-Art16-Para6",
@@ -5694,7 +6264,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para6 expressly places its tightly controlled production-data testing exception within the acquisition, development and maintenance procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para6 expressly places its tightly controlled production-data testing exception within the acquisition, development and maintenance procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para6__article-Art16-Para5__qualifies",
@@ -5704,7 +6276,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art16-Para6 expressly derogates from article-Art16-Para5 by permitting production data for specific testing occasions only for limited periods, after approval and with reporting to the ICT risk-management function."
+          "reasoning": "article-Art16-Para6 expressly derogates from article-Art16-Para5 by permitting production data for specific testing occasions only for limited periods, after approval and with reporting to the ICT risk-management function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para5"
         }
       ],
       "inbound_relations": [
@@ -5716,7 +6290,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the limited and approved production-data testing exception in article-Art16-Para6 to ICT systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the limited and approved production-data testing exception in article-Art16-Para6 to ICT systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para6"
         },
         {
           "edge_id": "article-Art8-Para2__article-Art16-Para6__references",
@@ -5726,7 +6302,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art8-Para2 expressly uses article-Art16-Para6 as the approval and limited-duration standard for testing in production environments."
+          "reasoning": "article-Art8-Para2 expressly uses article-Art16-Para6 as the approval and limited-duration standard for testing in production environments.",
+          "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para6"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5737,7 +6315,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3389
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para6",
+      "text_sha256": "622ef38436b253725cf84d67ca5f2165249ebde4c31219221becf765ab7dbab2"
     },
     {
       "id": "article-Art16-Para7",
@@ -5763,7 +6343,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para7 expressly adds controls protecting source-code integrity, including code developed by ICT third-party providers, to the procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para7 expressly adds controls protecting source-code integrity, including code developed by ICT third-party providers, to the procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para7",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         }
       ],
       "inbound_relations": [
@@ -5775,7 +6357,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the source-code integrity controls in article-Art16-Para7 to ICT systems developed or managed by users outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the source-code integrity controls in article-Art16-Para7 to ICT systems developed or managed by users outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para7"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5786,7 +6370,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3392
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para7",
+      "text_sha256": "3911aa1d910d48389320eecc1be13fb2888a4b14c83144a4183b2a69ba8f20be"
     },
     {
       "id": "article-Art16-Para8",
@@ -5812,7 +6398,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para8 expressly makes pre-deployment analysis and testing of proprietary, third-party and open-source software part of the procedure established in article-Art16-Para2."
+          "reasoning": "article-Art16-Para8 expressly makes pre-deployment analysis and testing of proprietary, third-party and open-source software part of the procedure established in article-Art16-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para8",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para8__article-Art16-Para3__references",
@@ -5822,7 +6410,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art16-Para8 expressly requires proprietary, third-party and open-source software to be analysed and tested according to the static and dynamic source-code review regime in article-Art16-Para3."
+          "reasoning": "article-Art16-Para8 expressly requires proprietary, third-party and open-source software to be analysed and tested according to the static and dynamic source-code review regime in article-Art16-Para3.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para8",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
         }
       ],
       "inbound_relations": [
@@ -5834,7 +6424,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the pre-deployment proprietary, third-party and open-source analysis required by article-Art16-Para8 to systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the pre-deployment proprietary, third-party and open-source analysis required by article-Art16-Para8 to systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para8"
         },
         {
           "edge_id": "recital-16__article-Art16-Para8__provides_guidance_for",
@@ -5844,7 +6436,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-16 provides guidance for article-Art16-Para8 by specifying that review should cover acquired software, including proprietary software and, where feasible, source code supplied by ICT third-party service providers."
+          "reasoning": "recital-16 provides guidance for article-Art16-Para8 by specifying that review should cover acquired software, including proprietary software and, where feasible, source code supplied by ICT third-party service providers.",
+          "source_canonical_ref": "celex:32024R1774/recital-16",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para8"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -5855,7 +6449,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3395
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para8",
+      "text_sha256": "2330c9ed873b24efea619740761c432d9ba5f38b98d59d6f24584730dacbdd27"
     },
     {
       "id": "article-Art16-Para9",
@@ -5881,7 +6477,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the acquisition, development and maintenance policy duty in article-Art16-Para1 to ICT systems developed or managed by users outside the ICT function, subject to a risk-based approach."
+          "reasoning": "article-Art16-Para9 expressly extends the acquisition, development and maintenance policy duty in article-Art16-Para1 to ICT systems developed or managed by users outside the ICT function, subject to a risk-based approach.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para1"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para2__depends_on",
@@ -5891,7 +6489,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the pre-use and post-maintenance testing and approval procedure in article-Art16-Para2 to ICT systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the pre-use and post-maintenance testing and approval procedure in article-Art16-Para2 to ICT systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para3__depends_on",
@@ -5901,7 +6501,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the source-code review, vulnerability analysis and remediation regime in article-Art16-Para3 to user-developed or user-managed ICT systems."
+          "reasoning": "article-Art16-Para9 expressly extends the source-code review, vulnerability analysis and remediation regime in article-Art16-Para3 to user-developed or user-managed ICT systems.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para4__depends_on",
@@ -5911,7 +6513,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the integration-phase software-package security testing required by article-Art16-Para4 to ICT systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the integration-phase software-package security testing required by article-Art16-Para4 to ICT systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para4"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para5__depends_on",
@@ -5921,7 +6525,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the non-production data safeguards in article-Art16-Para5 to ICT systems developed or managed by users outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the non-production data safeguards in article-Art16-Para5 to ICT systems developed or managed by users outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para5"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para6__depends_on",
@@ -5931,7 +6537,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the limited and approved production-data testing exception in article-Art16-Para6 to ICT systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the limited and approved production-data testing exception in article-Art16-Para6 to ICT systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para6"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para7__depends_on",
@@ -5941,7 +6549,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the source-code integrity controls in article-Art16-Para7 to ICT systems developed or managed by users outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the source-code integrity controls in article-Art16-Para7 to ICT systems developed or managed by users outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para7"
         },
         {
           "edge_id": "article-Art16-Para9__article-Art16-Para8__depends_on",
@@ -5951,7 +6561,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art16-Para9 expressly extends the pre-deployment proprietary, third-party and open-source analysis required by article-Art16-Para8 to systems developed or managed outside the ICT function."
+          "reasoning": "article-Art16-Para9 expressly extends the pre-deployment proprietary, third-party and open-source analysis required by article-Art16-Para8 to systems developed or managed outside the ICT function.",
+          "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+          "target_canonical_ref": "celex:32024R1774/article-Art16-Para8"
         }
       ],
       "inbound_relations": [],
@@ -5963,7 +6575,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3398
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "text_sha256": "8f944f443d079b3a27b0f082f3fd7337431048ed5326e6064658fe247f62dda8"
     },
     {
       "id": "article-Art17-Para1",
@@ -6141,7 +6755,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-17 concretizes article-Art17-Para1 by explaining why change-security verification, separation of approval from request and implementation, assigned roles, controlled testing, quality assurance, and fall-back responsibilities are required to contain confidentiality, integrity, availability, and disruption risks."
+          "reasoning": "recital-17 concretizes article-Art17-Para1 by explaining why change-security verification, separation of approval from request and implementation, assigned roles, controlled testing, quality assurance, and fall-back responsibilities are required to contain confidentiality, integrity, availability, and disruption risks.",
+          "source_canonical_ref": "celex:32024R1774/recital-17",
+          "target_canonical_ref": "celex:32024R1774/article-Art17-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -6152,7 +6768,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3407
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art17-Para1",
+      "text_sha256": "eb24d56e323776e1048161ff636cb918ddd01de9a3f3637b311832608e53b3af"
     },
     {
       "id": "article-Art17-Para2",
@@ -6260,7 +6878,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 supplies the sectoral rationale for article-Art17-Para2, whose stringent post-change testing duties specifically address central counterparties and central securities depositories under the ICT change-management requirements."
+          "reasoning": "recital-24 supplies the sectoral rationale for article-Art17-Para2, whose stringent post-change testing duties specifically address central counterparties and central securities depositories under the ICT change-management requirements.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art17-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -6283,7 +6903,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3664
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art17-Para2",
+      "text_sha256": "705f8b0539ddf0ad8f1406851886050d1e12b9116719b41d1a4a7f8b4250d84b"
     },
     {
       "id": "article-Art18-Para1",
@@ -6310,7 +6932,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art18-Para2 expressly enumerates the access, environmental, asset-protection and clear-desk controls that the physical and environmental security policy established in article-Art18-Para1 must contain."
+          "reasoning": "article-Art18-Para2 expressly enumerates the access, environmental, asset-protection and clear-desk controls that the physical and environmental security policy established in article-Art18-Para1 must contain.",
+          "source_canonical_ref": "celex:32024R1774/article-Art18-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art18-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -6321,7 +6945,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3748
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art18-Para1",
+      "text_sha256": "4ad9a000fe4d6a7135aaa98a40193f3cd2856fab148cbcb20557c56fffc41623"
     },
     {
       "id": "article-Art18-Para2",
@@ -6418,7 +7044,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art18-Para2 expressly enumerates the access, environmental, asset-protection and clear-desk controls that the physical and environmental security policy established in article-Art18-Para1 must contain."
+          "reasoning": "article-Art18-Para2 expressly enumerates the access, environmental, asset-protection and clear-desk controls that the physical and environmental security policy established in article-Art18-Para1 must contain.",
+          "source_canonical_ref": "celex:32024R1774/article-Art18-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art18-Para1"
         },
         {
           "edge_id": "article-Art18-Para2__article-Art21-Para1__references",
@@ -6428,7 +7056,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art18-Para2 expressly imports the physical access-management controls in article-Art21-Para1, point (g), into the physical and environmental security policy."
+          "reasoning": "article-Art18-Para2 expressly imports the physical access-management controls in article-Art21-Para1, point (g), into the physical and environmental security policy.",
+          "source_canonical_ref": "celex:32024R1774/article-Art18-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         }
       ],
       "inbound_relations": [],
@@ -6452,7 +7082,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3851
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art18-Para2",
+      "text_sha256": "e4e08deb82acbf417dfa90216b46f03a49f118a1d4e531adae552f12178296a1"
     },
     {
       "id": "article-Art19-Para1",
@@ -6529,7 +7161,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3872
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art19-Para1",
+      "text_sha256": "b252c36d18070f0d63ef8bd0790d1ba404e9d037f5676e59aff8a7cfc5f6df77"
     },
     {
       "id": "article-Art20-Para1",
@@ -6554,7 +7188,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art20-Para1 expressly makes unique identification and authentication the prerequisite for assigning user access rights under article-Art21-Para1."
+          "reasoning": "article-Art20-Para1 expressly makes unique identification and authentication the prerequisite for assigning user access rights under article-Art21-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art20-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         }
       ],
       "inbound_relations": [
@@ -6566,7 +7202,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art20-Para2 expressly specifies the unique-account and identity-lifecycle contents of the identity-management policies and procedures established in article-Art20-Para1."
+          "reasoning": "article-Art20-Para2 expressly specifies the unique-account and identity-lifecycle contents of the identity-management policies and procedures established in article-Art20-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art20-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art20-Para1"
         },
         {
           "edge_id": "recital-14__article-Art20-Para1__concretizes",
@@ -6576,7 +7214,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-14 concretizes article-Art20-Para1 by explaining that unique identification must cover both individuals and systems so that user access rights can be assigned without exposing the entity to unauthorised access and untraceable activity."
+          "reasoning": "recital-14 concretizes article-Art20-Para1 by explaining that unique identification must cover both individuals and systems so that user access rights can be assigned without exposing the entity to unauthorised access and untraceable activity.",
+          "source_canonical_ref": "celex:32024R1774/recital-14",
+          "target_canonical_ref": "celex:32024R1774/article-Art20-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -6587,7 +7227,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3951
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art20-Para1",
+      "text_sha256": "39a5af33448d2e0390e86c442d0cabb0bf2d7d7c240c393ab0c4ac732affd616"
     },
     {
       "id": "article-Art20-Para2",
@@ -6633,7 +7275,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art20-Para2 expressly specifies the unique-account and identity-lifecycle contents of the identity-management policies and procedures established in article-Art20-Para1."
+          "reasoning": "article-Art20-Para2 expressly specifies the unique-account and identity-lifecycle contents of the identity-management policies and procedures established in article-Art20-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art20-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art20-Para1"
         },
         {
           "edge_id": "article-Art20-Para2__article-Art21-Para1__references",
@@ -6643,7 +7287,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art20-Para2 expressly references article-Art21-Para1 through a without-prejudice clause that preserves the exceptional generic and shared-account regime in point (c) while imposing the one-identity-to-one-account rule."
+          "reasoning": "article-Art20-Para2 expressly references article-Art21-Para1 through a without-prejudice clause that preserves the exceptional generic and shared-account regime in point (c) while imposing the one-identity-to-one-account rule.",
+          "source_canonical_ref": "celex:32024R1774/article-Art20-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         }
       ],
       "inbound_relations": [],
@@ -6667,7 +7313,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 3984
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art20-Para2",
+      "text_sha256": "fa535d8d3852bd613dc2060092cf94149bb23aa38ff460b60703808d358ba3e9"
     },
     {
       "id": "article-Art21-Para1",
@@ -6864,7 +7512,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art11-Para2 expressly imports the access restrictions laid down in article-Art21-Para1 as an element supporting the protection requirements attached to each data-classification level."
+          "reasoning": "article-Art11-Para2 expressly imports the access restrictions laid down in article-Art21-Para1 as an element supporting the protection requirements attached to each data-classification level.",
+          "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         },
         {
           "edge_id": "article-Art12-Para2__article-Art21-Para1__references",
@@ -6874,7 +7524,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art12-Para2 expressly requires logs for logical and physical access-control events governed by article-Art21-Para1."
+          "reasoning": "article-Art12-Para2 expressly requires logs for logical and physical access-control events governed by article-Art21-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art12-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         },
         {
           "edge_id": "article-Art18-Para2__article-Art21-Para1__references",
@@ -6884,7 +7536,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art18-Para2 expressly imports the physical access-management controls in article-Art21-Para1, point (g), into the physical and environmental security policy."
+          "reasoning": "article-Art18-Para2 expressly imports the physical access-management controls in article-Art21-Para1, point (g), into the physical and environmental security policy.",
+          "source_canonical_ref": "celex:32024R1774/article-Art18-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         },
         {
           "edge_id": "article-Art20-Para1__article-Art21-Para1__references",
@@ -6894,7 +7548,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art20-Para1 expressly makes unique identification and authentication the prerequisite for assigning user access rights under article-Art21-Para1."
+          "reasoning": "article-Art20-Para1 expressly makes unique identification and authentication the prerequisite for assigning user access rights under article-Art21-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art20-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         },
         {
           "edge_id": "article-Art20-Para2__article-Art21-Para1__references",
@@ -6904,7 +7560,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art20-Para2 expressly references article-Art21-Para1 through a without-prejudice clause that preserves the exceptional generic and shared-account regime in point (c) while imposing the one-identity-to-one-account rule."
+          "reasoning": "article-Art20-Para2 expressly references article-Art21-Para1 through a without-prejudice clause that preserves the exceptional generic and shared-account regime in point (c) while imposing the one-identity-to-one-account rule.",
+          "source_canonical_ref": "celex:32024R1774/article-Art20-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         },
         {
           "edge_id": "recital-14__article-Art21-Para1__restricts",
@@ -6914,7 +7572,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-14 restricts article-Art21-Para1 by clarifying that generic or shared accounts are exceptional and may be used only under specified circumstances while preserving accountability for every action performed through them."
+          "reasoning": "recital-14 restricts article-Art21-Para1 by clarifying that generic or shared accounts are exceptional and may be used only under specified circumstances while preserving accountability for every action performed through them.",
+          "source_canonical_ref": "celex:32024R1774/recital-14",
+          "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -6949,7 +7609,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4234
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art21-Para1",
+      "text_sha256": "a2abaf2c7573bc8d97cbfb2ddcee773cb1d50a5e31a2cc4a80f2a1ba86beb010"
     },
     {
       "id": "article-Art22-Para1",
@@ -7055,7 +7717,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art22-Para1 expressly requires its incident-policy mechanisms to enable prompt anomalous-activity detection in accordance with Article 23; article-Art23-Para2 is the narrow paragraph that defines that prompt-detection mechanism and its capabilities."
+          "reasoning": "article-Art22-Para1 expressly requires its incident-policy mechanisms to enable prompt anomalous-activity detection in accordance with Article 23; article-Art23-Para2 is the narrow paragraph that defines that prompt-detection mechanism and its capabilities.",
+          "source_canonical_ref": "celex:32024R1774/article-Art22-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
         }
       ],
       "inbound_relations": [
@@ -7067,7 +7731,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-18 concretizes article-Art22-Para1 by identifying the incident-policy functions implemented there: an end-to-end management process, internal and external coordination contacts, and detailed analysis of significant or recurring incidents and patterns."
+          "reasoning": "recital-18 concretizes article-Art22-Para1 by identifying the incident-policy functions implemented there: an end-to-end management process, internal and external coordination contacts, and detailed analysis of significant or recurring incidents and patterns.",
+          "source_canonical_ref": "celex:32024R1774/recital-18",
+          "target_canonical_ref": "celex:32024R1774/article-Art22-Para1"
         },
         {
           "edge_id": "recital-20__article-Art22-Para1__concretizes",
@@ -7077,7 +7743,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-20 concretizes the evidence-retention duty in article-Art22-Para1 by explaining that its period must balance effective incident detection against regulatory burden while reflecting data criticality and Union-law retention requirements."
+          "reasoning": "recital-20 concretizes the evidence-retention duty in article-Art22-Para1 by explaining that its period must balance effective incident detection against regulatory burden while reflecting data criticality and Union-law retention requirements.",
+          "source_canonical_ref": "celex:32024R1774/recital-20",
+          "target_canonical_ref": "celex:32024R1774/article-Art22-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7094,7 +7762,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4367
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art22-Para1",
+      "text_sha256": "ecab46ac6336591d1ea9698dae1ceb9403235485ca8c3d40b7923ba810272d34"
     },
     {
       "id": "article-Art23-Para1",
@@ -7120,7 +7790,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-19 concretizes article-Art23-Para1 by tying that paragraph's clear-role requirement specifically to responsibility for collecting, monitoring, and analysing information used to detect anomalous activities early and effectively."
+          "reasoning": "recital-19 concretizes article-Art23-Para1 by tying that paragraph's clear-role requirement specifically to responsibility for collecting, monitoring, and analysing information used to detect anomalous activities early and effectively.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7131,7 +7803,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4375
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art23-Para1",
+      "text_sha256": "615b879b4eb3761afbd4d4c146407c12455ec4cff5a64deb0e4c18a093c16f4c"
     },
     {
       "id": "article-Art23-Para2",
@@ -7227,7 +7901,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art23-Para2 expressly includes logs collected under Article 12 among its detection inputs, and article-Art12-Para2 is the narrow target specifying the events, retention, protection, and handling requirements for those logs."
+          "reasoning": "article-Art23-Para2 expressly includes logs collected under Article 12 among its detection inputs, and article-Art12-Para2 is the narrow target specifying the events, retention, protection, and handling requirements for those logs.",
+          "source_canonical_ref": "celex:32024R1774/article-Art23-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art12-Para2"
         }
       ],
       "inbound_relations": [
@@ -7239,7 +7915,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art22-Para1 expressly requires its incident-policy mechanisms to enable prompt anomalous-activity detection in accordance with Article 23; article-Art23-Para2 is the narrow paragraph that defines that prompt-detection mechanism and its capabilities."
+          "reasoning": "article-Art22-Para1 expressly requires its incident-policy mechanisms to enable prompt anomalous-activity detection in accordance with Article 23; article-Art23-Para2 is the narrow paragraph that defines that prompt-detection mechanism and its capabilities.",
+          "source_canonical_ref": "celex:32024R1774/article-Art22-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
         },
         {
           "edge_id": "recital-19__article-Art23-Para2__concretizes",
@@ -7249,7 +7927,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-19 concretizes article-Art23-Para2 by explaining that its detection mechanism must combine logs with reports from internal functions, external information, and incident notices from ICT third-party providers rather than relying on logs alone."
+          "reasoning": "recital-19 concretizes article-Art23-Para2 by explaining that its detection mechanism must combine logs with reports from internal functions, external information, and incident notices from ICT third-party providers rather than relying on logs alone.",
+          "source_canonical_ref": "celex:32024R1774/recital-19",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
         },
         {
           "edge_id": "recital-30__article-Art23-Para2__restricts",
@@ -7259,7 +7939,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-30 restricts the collection and analysis required by article-Art23-Para2: where incident-detection information is personal data, the Union data-protection regime and data-minimisation principle continue to apply."
+          "reasoning": "recital-30 restricts the collection and analysis required by article-Art23-Para2: where incident-detection information is personal data, the Union data-protection regime and data-minimisation principle continue to apply.",
+          "source_canonical_ref": "celex:32024R1774/recital-30",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7276,7 +7958,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4477
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art23-Para2",
+      "text_sha256": "7b53a79335e96b562c3d0e8e44b4bf38b53fd253a99cae4281c2058bcbb75ab7"
     },
     {
       "id": "article-Art23-Para3",
@@ -7302,7 +7986,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4480
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art23-Para3",
+      "text_sha256": "40fbb8c560adc59e66513375f87265715c6f493598d296ff1f0c30013b7466cd"
     },
     {
       "id": "article-Art23-Para4",
@@ -7359,7 +8045,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4483
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art23-Para4",
+      "text_sha256": "5da266f850f506d58d2e95d3d91031ae9b8d7f9f9e654ab50e085e4fc3296674"
     },
     {
       "id": "article-Art23-Para5",
@@ -7426,7 +8114,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art23-Para6 expressly operates for the purposes of article-Art23-Para5 and qualifies its four trigger criteria by adding the criticality of the affected services as a required consideration."
+          "reasoning": "article-Art23-Para6 expressly operates for the purposes of article-Art23-Para5 and qualifies its four trigger criteria by adding the criticality of the affected services as a required consideration.",
+          "source_canonical_ref": "celex:32024R1774/article-Art23-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para5"
         },
         {
           "edge_id": "recital-21__article-Art23-Para5__provides_guidance_for",
@@ -7436,7 +8126,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-21 provides guidance for article-Art23-Para5 by clarifying that every listed trigger criterion must be considered, but that the list is non-exhaustive and the listed circumstances need not occur simultaneously."
+          "reasoning": "recital-21 provides guidance for article-Art23-Para5 by clarifying that every listed trigger criterion must be considered, but that the list is non-exhaustive and the listed circumstances need not occur simultaneously.",
+          "source_canonical_ref": "celex:32024R1774/recital-21",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para5"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7447,7 +8139,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4528
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art23-Para5",
+      "text_sha256": "dc22f24f027f00f311ebba724d38d51c137ca4d8c66b8abdb8f1b3ee55de1117"
     },
     {
       "id": "article-Art23-Para6",
@@ -7472,7 +8166,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art23-Para6 expressly operates for the purposes of article-Art23-Para5 and qualifies its four trigger criteria by adding the criticality of the affected services as a required consideration."
+          "reasoning": "article-Art23-Para6 expressly operates for the purposes of article-Art23-Para5 and qualifies its four trigger criteria by adding the criticality of the affected services as a required consideration.",
+          "source_canonical_ref": "celex:32024R1774/article-Art23-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para5"
         }
       ],
       "inbound_relations": [
@@ -7484,7 +8180,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-21 provides guidance for article-Art23-Para6 by explaining that the criticality assessment concerns the importance of the affected ICT services when deciding whether to trigger incident detection and response."
+          "reasoning": "recital-21 provides guidance for article-Art23-Para6 by explaining that the criticality assessment concerns the importance of the affected ICT services when deciding whether to trigger incident detection and response.",
+          "source_canonical_ref": "celex:32024R1774/recital-21",
+          "target_canonical_ref": "celex:32024R1774/article-Art23-Para6"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7495,7 +8193,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4587
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art23-Para6",
+      "text_sha256": "7864e578d082b5426e001d41eff7b796fd639578246ddbf8b8e0d6b0f76d2938"
     },
     {
       "id": "article-Art24-Para1",
@@ -7681,7 +8381,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art24-Para1 expressly places testing and review within Article 25; article-Art25-Para1 is the narrow anchor that subjects ICT business continuity plan testing to the BIA and ICT risk assessment."
+          "reasoning": "article-Art24-Para1 expressly places testing and review within Article 25; article-Art25-Para1 is the narrow anchor that subjects ICT business continuity plan testing to the BIA and ICT risk assessment.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art24-Para1__article-Art26-Para1__references",
@@ -7691,7 +8393,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art24-Para1 expressly places development, testing, and review of ICT response and recovery plans under Article 26, and article-Art26-Para1 is the narrow anchor defining those plans' required content and recovery objectives."
+          "reasoning": "article-Art24-Para1 expressly places development, testing, and review of ICT response and recovery plans under Article 26, and article-Art26-Para1 is the narrow anchor defining those plans' required content and recovery objectives.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         },
         {
           "edge_id": "article-Art24-Para1__article-Art26-Para2__references",
@@ -7701,7 +8405,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art24-Para1 expressly requires business-continuity alignment to potential failure scenarios including those in article-Art26-Para2, the narrow paragraph containing the mandatory response-and-recovery scenario set."
+          "reasoning": "article-Art24-Para1 expressly requires business-continuity alignment to potential failure scenarios including those in article-Art26-Para2, the narrow paragraph containing the mandatory response-and-recovery scenario set.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
         }
       ],
       "inbound_relations": [
@@ -7713,7 +8419,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art24-Para2 expressly adds central-counterparty-specific recovery times, interdependencies, and secondary-site arrangements to the general ICT business continuity policy requirements in article-Art24-Para1."
+          "reasoning": "article-Art24-Para2 expressly adds central-counterparty-specific recovery times, interdependencies, and secondary-site arrangements to the general ICT business continuity policy requirements in article-Art24-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         },
         {
           "edge_id": "article-Art24-Para3__article-Art24-Para1__qualifies",
@@ -7723,7 +8431,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art24-Para3 expressly supplements article-Art24-Para1 for central securities depositories by adding infrastructure interdependencies and a two-hour recovery-time objective."
+          "reasoning": "article-Art24-Para3 expressly supplements article-Art24-Para1 for central securities depositories by adding infrastructure interdependencies and a two-hour recovery-time objective.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         },
         {
           "edge_id": "article-Art24-Para4__article-Art24-Para1__qualifies",
@@ -7733,7 +8443,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art24-Para4 expressly supplements article-Art24-Para1 for trading venues by adding a near-two-hour resumption target and a near-zero maximum data-loss requirement."
+          "reasoning": "article-Art24-Para4 expressly supplements article-Art24-Para1 for trading venues by adding a near-two-hour resumption target and a near-zero maximum data-loss requirement.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         },
         {
           "edge_id": "recital-22__article-Art24-Para1__provides_guidance_for",
@@ -7743,7 +8455,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-22 provides guidance for article-Art24-Para1 by requiring the ICT business continuity policy assembled under that paragraph to integrate incident management, communication, change management, and ICT third-party-provider risk considerations."
+          "reasoning": "recital-22 provides guidance for article-Art24-Para1 by requiring the ICT business continuity policy assembled under that paragraph to integrate incident management, communication, change management, and ICT third-party-provider risk considerations.",
+          "source_canonical_ref": "celex:32024R1774/recital-22",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7754,7 +8468,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4610
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art24-Para1",
+      "text_sha256": "fd8c76bfdf517a3b1eb0bba819e6f81faea7a1ac20d321f1bc5e01f240d9b579"
     },
     {
       "id": "article-Art24-Para2",
@@ -7850,7 +8566,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art24-Para2 expressly adds central-counterparty-specific recovery times, interdependencies, and secondary-site arrangements to the general ICT business continuity policy requirements in article-Art24-Para1."
+          "reasoning": "article-Art24-Para2 expressly adds central-counterparty-specific recovery times, interdependencies, and secondary-site arrangements to the general ICT business continuity policy requirements in article-Art24-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         }
       ],
       "inbound_relations": [
@@ -7862,7 +8580,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains the legislative basis for the central-counterparty-specific continuity requirements in article-Art24-Para2 by stating that the RTS builds on operational-risk rules already applicable to central counterparties."
+          "reasoning": "recital-24 explains the legislative basis for the central-counterparty-specific continuity requirements in article-Art24-Para2 by stating that the RTS builds on operational-risk rules already applicable to central counterparties.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7891,7 +8611,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4938
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art24-Para2",
+      "text_sha256": "97ed3921964e4504b354783d346cf0245c00c01b15c07f93fcd6d46915f158c5"
     },
     {
       "id": "article-Art24-Para3",
@@ -7937,7 +8659,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art24-Para3 expressly supplements article-Art24-Para1 for central securities depositories by adding infrastructure interdependencies and a two-hour recovery-time objective."
+          "reasoning": "article-Art24-Para3 expressly supplements article-Art24-Para1 for central securities depositories by adding infrastructure interdependencies and a two-hour recovery-time objective.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         }
       ],
       "inbound_relations": [
@@ -7949,7 +8673,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains the legislative basis for the central-securities-depository-specific continuity requirements in article-Art24-Para3 by linking the RTS to pre-existing operational-risk rules for those depositories."
+          "reasoning": "recital-24 explains the legislative basis for the central-securities-depository-specific continuity requirements in article-Art24-Para3 by linking the RTS to pre-existing operational-risk rules for those depositories.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -7960,7 +8686,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4941
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art24-Para3",
+      "text_sha256": "8e3d16ed1b037b4f99ced84061da050cd9a9acf6b27869e9527dcb63c2c6ac14"
     },
     {
       "id": "article-Art24-Para4",
@@ -8006,7 +8734,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art24-Para4 expressly supplements article-Art24-Para1 for trading venues by adding a near-two-hour resumption target and a near-zero maximum data-loss requirement."
+          "reasoning": "article-Art24-Para4 expressly supplements article-Art24-Para1 for trading venues by adding a near-two-hour resumption target and a near-zero maximum data-loss requirement.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
         }
       ],
       "inbound_relations": [
@@ -8018,7 +8748,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 explains why article-Art24-Para4 preserves trading-venue-specific recovery and data-loss requirements within the RTS business-continuity framework."
+          "reasoning": "recital-24 explains why article-Art24-Para4 preserves trading-venue-specific recovery and data-loss requirements within the RTS business-continuity framework.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art24-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8029,7 +8761,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 4972
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art24-Para4",
+      "text_sha256": "0c8b470087d68a564c63e134b94cb42757fcfb66076a6a54c00b25caa8a92b1d"
     },
     {
       "id": "article-Art25-Para1",
@@ -8054,7 +8788,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art25-Para1 expressly requires continuity-plan testing to take account of the ICT risk assessment in article-Art3-Para1, point (b), which defines the assessment procedure and methodology."
+          "reasoning": "article-Art25-Para1 expressly requires continuity-plan testing to take account of the ICT risk assessment in article-Art3-Para1, point (b), which defines the assessment procedure and methodology.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art3-Para1"
         }
       ],
       "inbound_relations": [
@@ -8066,7 +8802,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art24-Para1 expressly places testing and review within Article 25; article-Art25-Para1 is the narrow anchor that subjects ICT business continuity plan testing to the BIA and ICT risk assessment."
+          "reasoning": "article-Art24-Para1 expressly places testing and review within Article 25; article-Art25-Para1 is the narrow anchor that subjects ICT business continuity plan testing to the BIA and ICT risk assessment.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para2__article-Art25-Para1__depends_on",
@@ -8076,7 +8814,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para2 repeatedly identifies its subject as the testing of ICT business continuity plans referred to in article-Art25-Para1, so its scenario, switchover, and response requirements depend on that testing obligation."
+          "reasoning": "article-Art25-Para2 repeatedly identifies its subject as the testing of ICT business continuity plans referred to in article-Art25-Para1, so its scenario, switchover, and response requirements depend on that testing obligation.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para3__article-Art25-Para1__depends_on",
@@ -8086,7 +8826,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para3 expressly identifies the plans whose testing must involve clearing members, external providers, and relevant infrastructure institutions as the plans referred to in article-Art25-Para1."
+          "reasoning": "article-Art25-Para3 expressly identifies the plans whose testing must involve clearing members, external providers, and relevant infrastructure institutions as the plans referred to in article-Art25-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para4__article-Art25-Para1__depends_on",
@@ -8096,7 +8838,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para4 expressly identifies the continuity plans whose testing must involve users, utilities, service providers, depositories, and market infrastructures as the plans referred to in article-Art25-Para1."
+          "reasoning": "article-Art25-Para4 expressly identifies the continuity plans whose testing must involve users, utilities, service providers, depositories, and market infrastructures as the plans referred to in article-Art25-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para5__article-Art25-Para1__depends_on",
@@ -8106,7 +8850,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para5 makes documentation, analysis, remediation, and management-body reporting conditional on results of the testing defined in article-Art25-Para1."
+          "reasoning": "article-Art25-Para5 makes documentation, analysis, remediation, and management-body reporting conditional on results of the testing defined in article-Art25-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8117,7 +8863,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5009
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art25-Para1",
+      "text_sha256": "a5c7b969cff9963b208a203b65d109f08b83803fb43b2664dddcb301ce11e574"
     },
     {
       "id": "article-Art25-Para2",
@@ -8193,7 +8941,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para2 repeatedly identifies its subject as the testing of ICT business continuity plans referred to in article-Art25-Para1, so its scenario, switchover, and response requirements depend on that testing obligation."
+          "reasoning": "article-Art25-Para2 repeatedly identifies its subject as the testing of ICT business continuity plans referred to in article-Art25-Para1, so its scenario, switchover, and response requirements depend on that testing obligation.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para2__article-Art26-Para2__references",
@@ -8203,7 +8953,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art25-Para2 expressly requires testing staff, systems, and services against scenarios taken into account under article-Art26-Para2, the paragraph listing response-and-recovery scenarios."
+          "reasoning": "article-Art25-Para2 expressly requires testing staff, systems, and services against scenarios taken into account under article-Art26-Para2, the paragraph listing response-and-recovery scenarios.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
         }
       ],
       "inbound_relations": [
@@ -8215,7 +8967,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art25-Para3 expressly adds central-counterparty participant requirements to the general continuity-plan testing requirements in article-Art25-Para2."
+          "reasoning": "article-Art25-Para3 expressly adds central-counterparty participant requirements to the general continuity-plan testing requirements in article-Art25-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
         },
         {
           "edge_id": "article-Art25-Para4__article-Art25-Para2__qualifies",
@@ -8225,7 +8979,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art25-Para4 expressly adds central-securities-depository participant requirements to the general continuity-plan testing requirements in article-Art25-Para2."
+          "reasoning": "article-Art25-Para4 expressly adds central-securities-depository participant requirements to the general continuity-plan testing requirements in article-Art25-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
         },
         {
           "edge_id": "recital-23__article-Art25-Para2__provides_guidance_for",
@@ -8235,7 +8991,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-23 provides guidance for article-Art25-Para2 by explaining the purpose of severe-but-plausible scenario testing and of switchover tests: verify redundant capacity, backups, and facilities over a sufficient period and restore normal operation to the recovery objectives."
+          "reasoning": "recital-23 provides guidance for article-Art25-Para2 by explaining the purpose of severe-but-plausible scenario testing and of switchover tests: verify redundant capacity, backups, and facilities over a sufficient period and restore normal operation to the recovery objectives.",
+          "source_canonical_ref": "celex:32024R1774/recital-23",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8264,7 +9022,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5085
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art25-Para2",
+      "text_sha256": "5d5b9740e1b5cb9b6080924eaee9ff53dbec934feec9de27bfa5eaaccf303e2d"
     },
     {
       "id": "article-Art25-Para3",
@@ -8320,7 +9080,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para3 expressly identifies the plans whose testing must involve clearing members, external providers, and relevant infrastructure institutions as the plans referred to in article-Art25-Para1."
+          "reasoning": "article-Art25-Para3 expressly identifies the plans whose testing must involve clearing members, external providers, and relevant infrastructure institutions as the plans referred to in article-Art25-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para3__article-Art25-Para2__qualifies",
@@ -8330,7 +9092,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art25-Para3 expressly adds central-counterparty participant requirements to the general continuity-plan testing requirements in article-Art25-Para2."
+          "reasoning": "article-Art25-Para3 expressly adds central-counterparty participant requirements to the general continuity-plan testing requirements in article-Art25-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
         }
       ],
       "inbound_relations": [
@@ -8342,7 +9106,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para3, which supplements general continuity-plan testing with participation duties tailored to central counterparties."
+          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para3, which supplements general continuity-plan testing with participation duties tailored to central counterparties.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8353,7 +9119,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5088
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art25-Para3",
+      "text_sha256": "6738eab8e97e00f8100d36c383dafb701d06c35a7d27b41b17965bb0e8662509"
     },
     {
       "id": "article-Art25-Para4",
@@ -8429,7 +9197,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para4 expressly identifies the continuity plans whose testing must involve users, utilities, service providers, depositories, and market infrastructures as the plans referred to in article-Art25-Para1."
+          "reasoning": "article-Art25-Para4 expressly identifies the continuity plans whose testing must involve users, utilities, service providers, depositories, and market infrastructures as the plans referred to in article-Art25-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         },
         {
           "edge_id": "article-Art25-Para4__article-Art25-Para2__qualifies",
@@ -8439,7 +9209,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art25-Para4 expressly adds central-securities-depository participant requirements to the general continuity-plan testing requirements in article-Art25-Para2."
+          "reasoning": "article-Art25-Para4 expressly adds central-securities-depository participant requirements to the general continuity-plan testing requirements in article-Art25-Para2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
         }
       ],
       "inbound_relations": [
@@ -8451,7 +9223,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para4, which supplements continuity-plan testing with participants and infrastructures relevant specifically to central securities depositories."
+          "reasoning": "recital-24 provides the sectoral context for article-Art25-Para4, which supplements continuity-plan testing with participants and infrastructures relevant specifically to central securities depositories.",
+          "source_canonical_ref": "celex:32024R1774/recital-24",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8462,7 +9236,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5133
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art25-Para4",
+      "text_sha256": "72901c739dda10d9b32d65bf70382fe55fbeb32c441cd1fc7a4745ac2f72653c"
     },
     {
       "id": "article-Art25-Para5",
@@ -8487,7 +9263,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art25-Para5 makes documentation, analysis, remediation, and management-body reporting conditional on results of the testing defined in article-Art25-Para1."
+          "reasoning": "article-Art25-Para5 makes documentation, analysis, remediation, and management-body reporting conditional on results of the testing defined in article-Art25-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
         }
       ],
       "inbound_relations": [],
@@ -8499,7 +9277,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5206
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art25-Para5",
+      "text_sha256": "b32aa9d2048f2c0a9ce3bb9cf1e0a09a8590bbd77be46c4330b97e95149f2b84"
     },
     {
       "id": "article-Art26-Para1",
@@ -8586,7 +9366,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art24-Para1 expressly places development, testing, and review of ICT response and recovery plans under Article 26, and article-Art26-Para1 is the narrow anchor defining those plans' required content and recovery objectives."
+          "reasoning": "article-Art24-Para1 expressly places development, testing, and review of ICT response and recovery plans under Article 26, and article-Art26-Para1 is the narrow anchor defining those plans' required content and recovery objectives.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         },
         {
           "edge_id": "article-Art26-Para2__article-Art26-Para1__depends_on",
@@ -8596,7 +9378,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art26-Para2 expressly applies its mandatory disruption scenarios to the ICT response and recovery plans referred to in article-Art26-Para1."
+          "reasoning": "article-Art26-Para2 expressly applies its mandatory disruption scenarios to the ICT response and recovery plans referred to in article-Art26-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art26-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         },
         {
           "edge_id": "article-Art26-Para3__article-Art26-Para1__qualifies",
@@ -8606,7 +9390,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art26-Para3 qualifies the plans defined in article-Art26-Para1 by requiring alternative options where primary recovery measures may be infeasible in the short term because of cost, risk, logistics, or unforeseen circumstances."
+          "reasoning": "article-Art26-Para3 qualifies the plans defined in article-Art26-Para1 by requiring alternative options where primary recovery measures may be infeasible in the short term because of cost, risk, logistics, or unforeseen circumstances.",
+          "source_canonical_ref": "celex:32024R1774/article-Art26-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         },
         {
           "edge_id": "article-Art26-Para4__article-Art26-Para1__depends_on",
@@ -8616,7 +9402,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art26-Para4 expressly makes third-party-provider continuity measures part of the ICT response and recovery plans referred to in article-Art26-Para1."
+          "reasoning": "article-Art26-Para4 expressly makes third-party-provider continuity measures part of the ICT response and recovery plans referred to in article-Art26-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art26-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8633,7 +9421,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5300
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art26-Para1",
+      "text_sha256": "3714d9fac063337333f6def38ebb9cea2f7371e806f407a73c3ebe8ad31ac267"
     },
     {
       "id": "article-Art26-Para2",
@@ -8749,7 +9539,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art26-Para2 expressly applies its mandatory disruption scenarios to the ICT response and recovery plans referred to in article-Art26-Para1."
+          "reasoning": "article-Art26-Para2 expressly applies its mandatory disruption scenarios to the ICT response and recovery plans referred to in article-Art26-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art26-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         }
       ],
       "inbound_relations": [
@@ -8761,7 +9553,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art24-Para1 expressly requires business-continuity alignment to potential failure scenarios including those in article-Art26-Para2, the narrow paragraph containing the mandatory response-and-recovery scenario set."
+          "reasoning": "article-Art24-Para1 expressly requires business-continuity alignment to potential failure scenarios including those in article-Art26-Para2, the narrow paragraph containing the mandatory response-and-recovery scenario set.",
+          "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
         },
         {
           "edge_id": "article-Art25-Para2__article-Art26-Para2__references",
@@ -8771,7 +9565,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art25-Para2 expressly requires testing staff, systems, and services against scenarios taken into account under article-Art26-Para2, the paragraph listing response-and-recovery scenarios."
+          "reasoning": "article-Art25-Para2 expressly requires testing staff, systems, and services against scenarios taken into account under article-Art26-Para2, the paragraph listing response-and-recovery scenarios.",
+          "source_canonical_ref": "celex:32024R1774/article-Art25-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
         },
         {
           "edge_id": "recital-23__article-Art26-Para2__provides_guidance_for",
@@ -8781,7 +9577,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-23 provides guidance for article-Art26-Para2 by directing entities to assess the relevance and plausibility of the response-and-recovery scenarios listed there and to consider whether alternative scenarios are needed."
+          "reasoning": "recital-23 provides guidance for article-Art26-Para2 by directing entities to assess the relevance and plausibility of the response-and-recovery scenarios listed there and to consider whether alternative scenarios are needed.",
+          "source_canonical_ref": "celex:32024R1774/recital-23",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8792,7 +9590,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5303
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art26-Para2",
+      "text_sha256": "5665b1012a8549331c4e61eb8652abfe11100689f59de722cd875d6135b1527b"
     },
     {
       "id": "article-Art26-Para3",
@@ -8817,7 +9617,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art26-Para3 qualifies the plans defined in article-Art26-Para1 by requiring alternative options where primary recovery measures may be infeasible in the short term because of cost, risk, logistics, or unforeseen circumstances."
+          "reasoning": "article-Art26-Para3 qualifies the plans defined in article-Art26-Para1 by requiring alternative options where primary recovery measures may be infeasible in the short term because of cost, risk, logistics, or unforeseen circumstances.",
+          "source_canonical_ref": "celex:32024R1774/article-Art26-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         }
       ],
       "inbound_relations": [],
@@ -8829,7 +9631,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5432
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art26-Para3",
+      "text_sha256": "5a1dcb31a0a170e55820a878c304852a2bb66f6ee9aa4f6cdd2b530cd14c1e95"
     },
     {
       "id": "article-Art26-Para4",
@@ -8854,7 +9658,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art26-Para4 expressly makes third-party-provider continuity measures part of the ICT response and recovery plans referred to in article-Art26-Para1."
+          "reasoning": "article-Art26-Para4 expressly makes third-party-provider continuity measures part of the ICT response and recovery plans referred to in article-Art26-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art26-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
         }
       ],
       "inbound_relations": [],
@@ -8866,7 +9672,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5435
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art26-Para4",
+      "text_sha256": "ec5f2660ec53025a0d030db4064d967bc61a96e52f82e061082272325fc1bb55"
     },
     {
       "id": "article-Art27-Para1",
@@ -8892,7 +9700,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art27-Para2 defines the mandatory information for the report referred to in article-Art27-Para1 and therefore depends on that paragraph's report and electronic-format obligation."
+          "reasoning": "article-Art27-Para2 defines the mandatory information for the report referred to in article-Art27-Para1 and therefore depends on that paragraph's report and electronic-format obligation.",
+          "source_canonical_ref": "celex:32024R1774/article-Art27-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art27-Para1"
         },
         {
           "edge_id": "recital-25__article-Art27-Para1__provides_guidance_for",
@@ -8902,7 +9712,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "provides_guidance_for",
           "confidence": "high",
-          "reasoning": "recital-25 explains the processing and transmission rationale for article-Art27-Para1 requiring the DORA Article 6(5) ICT-risk-framework review report to be submitted in a searchable electronic format."
+          "reasoning": "recital-25 explains the processing and transmission rationale for article-Art27-Para1 requiring the DORA Article 6(5) ICT-risk-framework review report to be submitted in a searchable electronic format.",
+          "source_canonical_ref": "celex:32024R1774/recital-25",
+          "target_canonical_ref": "celex:32024R1774/article-Art27-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -8913,7 +9725,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5456
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art27-Para1",
+      "text_sha256": "a74292a9c5fd204fdf10fc073389300b77ca190e51049ccc5d0fc5cb42f761f9"
     },
     {
       "id": "article-Art27-Para2",
@@ -9229,7 +10043,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art27-Para2 defines the mandatory information for the report referred to in article-Art27-Para1 and therefore depends on that paragraph's report and electronic-format obligation."
+          "reasoning": "article-Art27-Para2 defines the mandatory information for the report referred to in article-Art27-Para1 and therefore depends on that paragraph's report and electronic-format obligation.",
+          "source_canonical_ref": "celex:32024R1774/article-Art27-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art27-Para1"
         }
       ],
       "inbound_relations": [],
@@ -9253,7 +10069,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5867
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art27-Para2",
+      "text_sha256": "7def705499812a2cf700950de847864e1469b89ebd01e81ce608cfccee0c556c"
     },
     {
       "id": "article-Art28-Para1",
@@ -9279,7 +10097,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para2 expressly applies its management-body duties to the financial entities identified in article-Art28-Para1 and to the simplified framework established there."
+          "reasoning": "article-Art28-Para2 expressly applies its management-body duties to the financial entities identified in article-Art28-Para1 and to the simplified framework established there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "article-Art28-Para3__article-Art28-Para1__depends_on",
@@ -9289,7 +10109,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para3 expressly applies its outsourcing option and retained-responsibility rule to the financial entities referred to in article-Art28-Para1."
+          "reasoning": "article-Art28-Para3 expressly applies its outsourcing option and retained-responsibility rule to the financial entities referred to in article-Art28-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "article-Art28-Para4__article-Art28-Para1__depends_on",
@@ -9299,7 +10121,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para4 expressly applies segregation and independence requirements for control and internal-audit functions to the financial entities referred to in article-Art28-Para1."
+          "reasoning": "article-Art28-Para4 expressly applies segregation and independence requirements for control and internal-audit functions to the financial entities referred to in article-Art28-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "article-Art28-Para5__article-Art28-Para1__depends_on",
@@ -9309,7 +10133,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para5 expressly subjects the simplified ICT risk management framework of the financial entities identified in article-Art28-Para1 to independent, risk-commensurate internal audit."
+          "reasoning": "article-Art28-Para5 expressly subjects the simplified ICT risk management framework of the financial entities identified in article-Art28-Para1 to independent, risk-commensurate internal audit.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "article-Art28-Para6__article-Art28-Para1__depends_on",
@@ -9319,7 +10145,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para6 expressly assigns remediation of critical audit findings to the financial entities referred to in article-Art28-Para1, whose simplified governance framework supplies the rule's scope."
+          "reasoning": "article-Art28-Para6 expressly assigns remediation of critical audit findings to the financial entities referred to in article-Art28-Para1, whose simplified governance framework supplies the rule's scope.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "recital-26__article-Art28-Para1__concretizes",
@@ -9329,7 +10157,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-26 concretizes article-Art28-Para1 by identifying an internal governance and control framework as the organisational basis for effective and sound ICT risk management by simplified-framework entities."
+          "reasoning": "recital-26 concretizes article-Art28-Para1 by identifying an internal governance and control framework as the organisational basis for effective and sound ICT risk management by simplified-framework entities.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -9340,7 +10170,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5896
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art28-Para1",
+      "text_sha256": "7f92057f6a9ead57a572247ed4a8dfeb9ac277666303f2533e2582f6df8c801f"
     },
     {
       "id": "article-Art28-Para2",
@@ -9476,7 +10308,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para2 expressly applies its management-body duties to the financial entities identified in article-Art28-Para1 and to the simplified framework established there."
+          "reasoning": "article-Art28-Para2 expressly applies its management-body duties to the financial entities identified in article-Art28-Para1 and to the simplified framework established there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "article-Art28-Para2__article-Art30-Para1__references",
@@ -9486,7 +10320,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art28-Para2 expressly requires management-body approval and review of the information-asset classification in article-Art30-Para1, which is the narrow paragraph imposing identification and classification duties."
+          "reasoning": "article-Art28-Para2 expressly requires management-body approval and review of the information-asset classification in article-Art30-Para1, which is the narrow paragraph imposing identification and classification duties.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         }
       ],
       "inbound_relations": [
@@ -9498,7 +10334,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-26 concretizes the clear-responsibility element of article-Art28-Para2 by requiring governance arrangements with unambiguous responsibilities for the simplified ICT risk management framework."
+          "reasoning": "recital-26 concretizes the clear-responsibility element of article-Art28-Para2 by requiring governance arrangements with unambiguous responsibilities for the simplified ICT risk management framework.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -9509,7 +10347,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 5899
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art28-Para2",
+      "text_sha256": "855b20aab96e2178be6b60e8ffc1cd0c6c08bd5c7c2187298922da06d6570cdb"
     },
     {
       "id": "article-Art28-Para3",
@@ -9534,7 +10374,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para3 expressly applies its outsourcing option and retained-responsibility rule to the financial entities referred to in article-Art28-Para1."
+          "reasoning": "article-Art28-Para3 expressly applies its outsourcing option and retained-responsibility rule to the financial entities referred to in article-Art28-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         }
       ],
       "inbound_relations": [],
@@ -9546,7 +10388,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6056
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art28-Para3",
+      "text_sha256": "67d80da3fa461b92078aaf75a80c43e3b8cf81b9024d1bfa04b6f957736cf72c"
     },
     {
       "id": "article-Art28-Para4",
@@ -9571,7 +10415,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para4 expressly applies segregation and independence requirements for control and internal-audit functions to the financial entities referred to in article-Art28-Para1."
+          "reasoning": "article-Art28-Para4 expressly applies segregation and independence requirements for control and internal-audit functions to the financial entities referred to in article-Art28-Para1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         }
       ],
       "inbound_relations": [],
@@ -9583,7 +10429,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6059
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art28-Para4",
+      "text_sha256": "ddc601b3ffa2896a66e6856c9c564727cbbff71c197673691e167b9b24e1715e"
     },
     {
       "id": "article-Art28-Para5",
@@ -9608,7 +10456,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para5 expressly subjects the simplified ICT risk management framework of the financial entities identified in article-Art28-Para1 to independent, risk-commensurate internal audit."
+          "reasoning": "article-Art28-Para5 expressly subjects the simplified ICT risk management framework of the financial entities identified in article-Art28-Para1 to independent, risk-commensurate internal audit.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para5",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         }
       ],
       "inbound_relations": [
@@ -9620,7 +10470,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para6 expressly bases timely verification and remediation of critical findings on the audit required by article-Art28-Para5."
+          "reasoning": "article-Art28-Para6 expressly bases timely verification and remediation of critical findings on the audit required by article-Art28-Para5.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para5"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -9631,7 +10483,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6062
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art28-Para5",
+      "text_sha256": "cf151bfcefcede85339ead7afca1c5e499b10687bf6e991d69adbe8ff5282da3"
     },
     {
       "id": "article-Art28-Para6",
@@ -9656,7 +10510,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para6 expressly assigns remediation of critical audit findings to the financial entities referred to in article-Art28-Para1, whose simplified governance framework supplies the rule's scope."
+          "reasoning": "article-Art28-Para6 expressly assigns remediation of critical audit findings to the financial entities referred to in article-Art28-Para1, whose simplified governance framework supplies the rule's scope.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
         },
         {
           "edge_id": "article-Art28-Para6__article-Art28-Para5__depends_on",
@@ -9666,7 +10522,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art28-Para6 expressly bases timely verification and remediation of critical findings on the audit required by article-Art28-Para5."
+          "reasoning": "article-Art28-Para6 expressly bases timely verification and remediation of critical findings on the audit required by article-Art28-Para5.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para6",
+          "target_canonical_ref": "celex:32024R1774/article-Art28-Para5"
         }
       ],
       "inbound_relations": [],
@@ -9678,7 +10536,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6065
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art28-Para6",
+      "text_sha256": "b2545d5cf044d437b212f28ad64468d93786c78457f322b78219520e749023eb"
     },
     {
       "id": "article-Art29-Para1",
@@ -9704,7 +10564,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art29-Para1 because its ICT security measures must be established from the information security policy defined in paragraph 1."
+          "reasoning": "article-Art29-Para2 depends on article-Art29-Para1 because its ICT security measures must be established from the information security policy defined in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art29-Para1"
         },
         {
           "edge_id": "recital-26__article-Art29-Para1__concretizes",
@@ -9714,7 +10576,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "concretizes",
           "confidence": "high",
-          "reasoning": "recital-26 directly concretizes article-Art29-Para1: simplified-framework entities use one information security policy containing high-level rules that protect confidentiality, integrity, availability and authenticity."
+          "reasoning": "recital-26 directly concretizes article-Art29-Para1: simplified-framework entities use one information security policy containing high-level rules that protect confidentiality, integrity, availability and authenticity.",
+          "source_canonical_ref": "celex:32024R1774/recital-26",
+          "target_canonical_ref": "celex:32024R1774/article-Art29-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -9725,7 +10589,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6074
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art29-Para1",
+      "text_sha256": "6d9e895cba5e0c0de53b50bf6d9a8579a3a1934f52e5fafbe24d5d23a9a1d90a"
     },
     {
       "id": "article-Art29-Para2",
@@ -9750,7 +10616,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art29-Para1 because its ICT security measures must be established from the information security policy defined in paragraph 1."
+          "reasoning": "article-Art29-Para2 depends on article-Art29-Para1 because its ICT security measures must be established from the information security policy defined in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art29-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art30-Para1__depends_on",
@@ -9760,7 +10628,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art30-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification, classification and documentation of critical functions, supporting information and ICT assets, and their interdependencies."
+          "reasoning": "article-Art29-Para2 depends on article-Art30-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification, classification and documentation of critical functions, supporting information and ICT assets, and their interdependencies.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art30-Para2__depends_on",
@@ -9770,7 +10640,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art30-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification of critical or important functions supported by ICT third-party service providers."
+          "reasoning": "article-Art29-Para2 depends on article-Art30-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification of critical or important functions supported by ICT third-party service providers.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para2"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art31-Para1__depends_on",
@@ -9780,7 +10652,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s risk-tolerance, risk-assessment, mitigation, effectiveness-monitoring and change-, test- and incident-driven assessment measures."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s risk-tolerance, risk-assessment, mitigation, effectiveness-monitoring and change-, test- and incident-driven assessment measures.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art31-Para2__depends_on",
@@ -9790,7 +10664,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the periodic documented ICT risk assessment calibrated to the entity’s ICT risk profile."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the periodic documented ICT risk assessment calibrated to the entity’s ICT risk profile.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para2"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art31-Para3__depends_on",
@@ -9800,7 +10676,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches continuous monitoring of relevant threats and vulnerabilities and regular review of risk scenarios affecting critical or important functions."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches continuous monitoring of relevant threats and vulnerabilities and regular review of risk scenarios affecting critical or important functions.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para3"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art31-Para4__depends_on",
@@ -9810,7 +10688,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para4 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the alert thresholds and criteria that trigger and initiate ICT-related incident response processes."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para4 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the alert thresholds and criteria that trigger and initiate ICT-related incident response processes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para4"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art32-Para1__depends_on",
@@ -9820,7 +10700,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art32-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches threat- and classification-based physical security measures for ICT assets and accessible information assets."
+          "reasoning": "article-Art29-Para2 depends on article-Art32-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches threat- and classification-based physical security measures for ICT assets and accessible information assets.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art32-Para2__depends_on",
@@ -9830,7 +10712,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art32-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches protection of premises and applicable data centres against unauthorised access, attacks, accidents and environmental hazards."
+          "reasoning": "article-Art29-Para2 depends on article-Art32-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches protection of premises and applicable data centres against unauthorised access, attacks, accidents and environmental hazards.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para2"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art32-Para3__depends_on",
@@ -9840,7 +10724,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art32-Para3 because its express incorporation of all ICT security requirements in Articles 30 to 38 reaches the proportionality constraint linking environmental protection to premises importance and the criticality of operations or ICT systems located there."
+          "reasoning": "article-Art29-Para2 depends on article-Art32-Para3 because its express incorporation of all ICT security requirements in Articles 30 to 38 reaches the proportionality constraint linking environmental protection to premises importance and the criticality of operations or ICT systems located there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para3"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art33-Para1__depends_on",
@@ -9850,7 +10736,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art33-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the logical and physical access-control procedure, including least-privilege, accountability, account-management, authentication and review controls."
+          "reasoning": "article-Art29-Para2 depends on article-Art33-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the logical and physical access-control procedure, including least-privilege, accountability, account-management, authentication and review controls.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art33-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art34-Para1__depends_on",
@@ -9860,7 +10748,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art34-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches ICT-operations controls for asset lifecycle, capacity, vulnerabilities and patches, logging, anomalous activity, cyber threats and information leakage."
+          "reasoning": "article-Art29-Para2 depends on article-Art34-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches ICT-operations controls for asset lifecycle, capacity, vulnerabilities and patches, logging, anomalous activity, cyber threats and information leakage.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art35-Para1__depends_on",
@@ -9870,7 +10760,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art35-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches network and data safeguards covering protection in use, transit and at rest, secure transfer, deletion and disposal, and teleworking and endpoint-device risks."
+          "reasoning": "article-Art29-Para2 depends on article-Art35-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches network and data safeguards covering protection in use, transit and at rest, secure transfer, deletion and disposal, and teleworking and endpoint-device risks.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art35-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art36-Para1__depends_on",
@@ -9880,7 +10772,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art36-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the testing plan that validates their effectiveness and considers identified threats and vulnerabilities."
+          "reasoning": "article-Art29-Para2 depends on article-Art36-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the testing plan that validates their effectiveness and considers identified threats and vulnerabilities.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art36-Para2__depends_on",
@@ -9890,7 +10784,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art36-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches review, assessment and testing of those measures with regard to the overall ICT-asset risk profile."
+          "reasoning": "article-Art29-Para2 depends on article-Art36-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches review, assessment and testing of those measures with regard to the overall ICT-asset risk profile.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para2"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art36-Para3__depends_on",
@@ -9900,7 +10796,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art36-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches monitoring and evaluation of security-test results and prompt updating of measures for systems supporting critical or important functions."
+          "reasoning": "article-Art29-Para2 depends on article-Art36-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches monitoring and evaluation of security-test results and prompt updating of measures for systems supporting critical or important functions.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para3"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art37-Para1__depends_on",
@@ -9910,7 +10808,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art37-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the risk-based procedure and security controls for ICT-system acquisition, development, maintenance, pre-use testing and production changes."
+          "reasoning": "article-Art29-Para2 depends on article-Art37-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the risk-based procedure and security controls for ICT-system acquisition, development, maintenance, pre-use testing and production changes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art37-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art38-Para1__depends_on",
@@ -9920,7 +10820,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art38-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the documented ICT project-management procedure, assigned implementation roles and coverage of every project stage from initiation to closure."
+          "reasoning": "article-Art29-Para2 depends on article-Art38-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the documented ICT project-management procedure, assigned implementation roles and coverage of every project stage from initiation to closure.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art38-Para2__depends_on",
@@ -9930,7 +10832,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art38-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the controlled ICT change-management procedure covering recording, testing, assessment, approval, implementation and verification of changes."
+          "reasoning": "article-Art29-Para2 depends on article-Art38-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the controlled ICT change-management procedure covering recording, testing, assessment, approval, implementation and verification of changes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para2"
         }
       ],
       "inbound_relations": [],
@@ -9948,7 +10852,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6078
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "text_sha256": "cd4eda306e646f6f8bf1e9a864201ab1cf7ed67676a6b8f16f3513f3a7763a10"
     },
     {
       "id": "article-Art30-Para1",
@@ -9974,7 +10880,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art28-Para2 expressly requires management-body approval and review of the information-asset classification in article-Art30-Para1, which is the narrow paragraph imposing identification and classification duties."
+          "reasoning": "article-Art28-Para2 expressly requires management-body approval and review of the information-asset classification in article-Art30-Para1, which is the narrow paragraph imposing identification and classification duties.",
+          "source_canonical_ref": "celex:32024R1774/article-Art28-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art29-Para2__article-Art30-Para1__depends_on",
@@ -9984,7 +10892,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art30-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification, classification and documentation of critical functions, supporting information and ICT assets, and their interdependencies."
+          "reasoning": "article-Art29-Para2 depends on article-Art30-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification, classification and documentation of critical functions, supporting information and ICT assets, and their interdependencies.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art30-Para2__article-Art30-Para1__references",
@@ -9994,7 +10904,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art30-Para2 references article-Art30-Para1 to inherit the paragraph-1 entity scope before adding identification of critical or important functions supported by ICT third-party service providers."
+          "reasoning": "article-Art30-Para2 references article-Art30-Para1 to inherit the paragraph-1 entity scope before adding identification of critical or important functions supported by ICT third-party service providers.",
+          "source_canonical_ref": "celex:32024R1774/article-Art30-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art32-Para1__article-Art30-Para1__depends_on",
@@ -10004,7 +10916,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art32-Para1 depends on article-Art30-Para1 because physical security measures must be designed in accordance with the information-asset and ICT-asset classification established there."
+          "reasoning": "article-Art32-Para1 depends on article-Art30-Para1 because physical security measures must be designed in accordance with the information-asset and ICT-asset classification established there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art32-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art33-Para1__article-Art30-Para1__depends_on",
@@ -10014,7 +10928,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art33-Para1 depends on article-Art30-Para1 because authentication strength under the access-control procedure must be commensurate with the asset classification established in that paragraph."
+          "reasoning": "article-Art33-Para1 depends on article-Art30-Para1 because authentication strength under the access-control procedure must be commensurate with the asset classification established in that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art33-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art34-Para1__article-Art30-Para1__depends_on",
@@ -10024,7 +10940,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art34-Para1 depends on article-Art30-Para1 because the required vulnerability scanning and assessments are calibrated to the asset classification defined in Article 30(1)."
+          "reasoning": "article-Art34-Para1 depends on article-Art30-Para1 because the required vulnerability scanning and assessments are calibrated to the asset classification defined in Article 30(1).",
+          "source_canonical_ref": "celex:32024R1774/article-Art34-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art35-Para1__article-Art30-Para1__depends_on",
@@ -10034,7 +10952,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art35-Para1 depends on article-Art30-Para1 because its data, system and network safeguards must be selected while taking the Article 30(1) asset classification into account."
+          "reasoning": "article-Art35-Para1 depends on article-Art30-Para1 because its data, system and network safeguards must be selected while taking the Article 30(1) asset classification into account.",
+          "source_canonical_ref": "celex:32024R1774/article-Art35-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10045,7 +10965,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6087
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art30-Para1",
+      "text_sha256": "244201c9c24a2c8036468af7e65078859900ad4fa2a0f085536d1bfa4f61d7f2"
     },
     {
       "id": "article-Art30-Para2",
@@ -10070,7 +10992,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art30-Para2 references article-Art30-Para1 to inherit the paragraph-1 entity scope before adding identification of critical or important functions supported by ICT third-party service providers."
+          "reasoning": "article-Art30-Para2 references article-Art30-Para1 to inherit the paragraph-1 entity scope before adding identification of critical or important functions supported by ICT third-party service providers.",
+          "source_canonical_ref": "celex:32024R1774/article-Art30-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         }
       ],
       "inbound_relations": [
@@ -10082,7 +11006,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art30-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification of critical or important functions supported by ICT third-party service providers."
+          "reasoning": "article-Art29-Para2 depends on article-Art30-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification of critical or important functions supported by ICT third-party service providers.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10093,7 +11019,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6090
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art30-Para2",
+      "text_sha256": "78b692974c7d605f258cf36836c77ef2b4bf9e943d5949e026e6a6f18838419a"
     },
     {
       "id": "article-Art31-Para1",
@@ -10170,7 +11098,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s risk-tolerance, risk-assessment, mitigation, effectiveness-monitoring and change-, test- and incident-driven assessment measures."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s risk-tolerance, risk-assessment, mitigation, effectiveness-monitoring and change-, test- and incident-driven assessment measures.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         },
         {
           "edge_id": "article-Art31-Para2__article-Art31-Para1__depends_on",
@@ -10180,7 +11110,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art31-Para2 depends on article-Art31-Para1 because the periodic documented assessment in paragraph 2 is the ICT risk assessment established as part of the paragraph-1 simplified risk framework."
+          "reasoning": "article-Art31-Para2 depends on article-Art31-Para1 because the periodic documented assessment in paragraph 2 is the ICT risk assessment established as part of the paragraph-1 simplified risk framework.",
+          "source_canonical_ref": "celex:32024R1774/article-Art31-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         },
         {
           "edge_id": "article-Art31-Para3__article-Art31-Para1__references",
@@ -10190,7 +11122,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art31-Para3 references article-Art31-Para1 to carry its financial-entity scope into continuous threat and vulnerability monitoring for critical functions and supporting assets."
+          "reasoning": "article-Art31-Para3 references article-Art31-Para1 to carry its financial-entity scope into continuous threat and vulnerability monitoring for critical functions and supporting assets.",
+          "source_canonical_ref": "celex:32024R1774/article-Art31-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         },
         {
           "edge_id": "article-Art31-Para4__article-Art31-Para1__references",
@@ -10200,7 +11134,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art31-Para4 references article-Art31-Para1 to apply alert-threshold and incident-response-trigger duties to the financial entities defined in paragraph 1."
+          "reasoning": "article-Art31-Para4 references article-Art31-Para1 to apply alert-threshold and incident-response-trigger duties to the financial entities defined in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art31-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10211,7 +11147,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6099
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art31-Para1",
+      "text_sha256": "db4a58af966786377b0be77b93606bc6b62e60b17e283847959077c74541ee20"
     },
     {
       "id": "article-Art31-Para2",
@@ -10236,7 +11174,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art31-Para2 depends on article-Art31-Para1 because the periodic documented assessment in paragraph 2 is the ICT risk assessment established as part of the paragraph-1 simplified risk framework."
+          "reasoning": "article-Art31-Para2 depends on article-Art31-Para1 because the periodic documented assessment in paragraph 2 is the ICT risk assessment established as part of the paragraph-1 simplified risk framework.",
+          "source_canonical_ref": "celex:32024R1774/article-Art31-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         }
       ],
       "inbound_relations": [
@@ -10248,7 +11188,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the periodic documented ICT risk assessment calibrated to the entity’s ICT risk profile."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the periodic documented ICT risk assessment calibrated to the entity’s ICT risk profile.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10259,7 +11201,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6172
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art31-Para2",
+      "text_sha256": "cc9d17b010345084a08ce49928d12decabd652870c4e17d9df69cbb033ac805b"
     },
     {
       "id": "article-Art31-Para3",
@@ -10284,7 +11228,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art31-Para3 references article-Art31-Para1 to carry its financial-entity scope into continuous threat and vulnerability monitoring for critical functions and supporting assets."
+          "reasoning": "article-Art31-Para3 references article-Art31-Para1 to carry its financial-entity scope into continuous threat and vulnerability monitoring for critical functions and supporting assets.",
+          "source_canonical_ref": "celex:32024R1774/article-Art31-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         }
       ],
       "inbound_relations": [
@@ -10296,7 +11242,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches continuous monitoring of relevant threats and vulnerabilities and regular review of risk scenarios affecting critical or important functions."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches continuous monitoring of relevant threats and vulnerabilities and regular review of risk scenarios affecting critical or important functions.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para3"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art31-Para3__depends_on",
@@ -10306,7 +11254,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art31-Para3 because its testing plan must consider the threats and vulnerabilities continuously identified under the simplified ICT risk management framework."
+          "reasoning": "article-Art36-Para1 depends on article-Art31-Para3 because its testing plan must consider the threats and vulnerabilities continuously identified under the simplified ICT risk management framework.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10317,7 +11267,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6175
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art31-Para3",
+      "text_sha256": "8e3d84708ee93ddc9ec381bfb58dd089f7f3476e2e14ee4ab5935edaf65a8ada"
     },
     {
       "id": "article-Art31-Para4",
@@ -10342,7 +11294,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art31-Para4 references article-Art31-Para1 to apply alert-threshold and incident-response-trigger duties to the financial entities defined in paragraph 1."
+          "reasoning": "article-Art31-Para4 references article-Art31-Para1 to apply alert-threshold and incident-response-trigger duties to the financial entities defined in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art31-Para4",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
         }
       ],
       "inbound_relations": [
@@ -10354,7 +11308,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art31-Para4 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the alert thresholds and criteria that trigger and initiate ICT-related incident response processes."
+          "reasoning": "article-Art29-Para2 depends on article-Art31-Para4 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the alert thresholds and criteria that trigger and initiate ICT-related incident response processes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para4"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10365,7 +11321,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6178
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art31-Para4",
+      "text_sha256": "1686b0d5b1fbcd3f341c9644a1b57ccc1b3049ca4883dbcfd8235c1cf20266ab"
     },
     {
       "id": "article-Art32-Para1",
@@ -10390,7 +11348,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art32-Para1 depends on article-Art30-Para1 because physical security measures must be designed in accordance with the information-asset and ICT-asset classification established there."
+          "reasoning": "article-Art32-Para1 depends on article-Art30-Para1 because physical security measures must be designed in accordance with the information-asset and ICT-asset classification established there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art32-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         }
       ],
       "inbound_relations": [
@@ -10402,7 +11362,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art32-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches threat- and classification-based physical security measures for ICT assets and accessible information assets."
+          "reasoning": "article-Art29-Para2 depends on article-Art32-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches threat- and classification-based physical security measures for ICT assets and accessible information assets.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para1"
         },
         {
           "edge_id": "article-Art32-Para2__article-Art32-Para1__depends_on",
@@ -10412,7 +11374,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art32-Para2 depends on article-Art32-Para1 because it specifies the premises, data centres, threats and hazards against which the paragraph-1 physical security measures must protect."
+          "reasoning": "article-Art32-Para2 depends on article-Art32-Para1 because it specifies the premises, data centres, threats and hazards against which the paragraph-1 physical security measures must protect.",
+          "source_canonical_ref": "celex:32024R1774/article-Art32-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10423,7 +11387,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6187
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art32-Para1",
+      "text_sha256": "fb129ba6a9c131ee187186597d71f317d0995ea576de4b5ada543a7ef31aefd0"
     },
     {
       "id": "article-Art32-Para2",
@@ -10448,7 +11414,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art32-Para2 depends on article-Art32-Para1 because it specifies the premises, data centres, threats and hazards against which the paragraph-1 physical security measures must protect."
+          "reasoning": "article-Art32-Para2 depends on article-Art32-Para1 because it specifies the premises, data centres, threats and hazards against which the paragraph-1 physical security measures must protect.",
+          "source_canonical_ref": "celex:32024R1774/article-Art32-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para1"
         }
       ],
       "inbound_relations": [
@@ -10460,7 +11428,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art32-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches protection of premises and applicable data centres against unauthorised access, attacks, accidents and environmental hazards."
+          "reasoning": "article-Art29-Para2 depends on article-Art32-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches protection of premises and applicable data centres against unauthorised access, attacks, accidents and environmental hazards.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para2"
         },
         {
           "edge_id": "article-Art32-Para3__article-Art32-Para2__qualifies",
@@ -10470,7 +11440,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art32-Para3 qualifies article-Art32-Para2 by making its environmental-threat protection proportionate to premises importance and the criticality of operations or ICT systems located there."
+          "reasoning": "article-Art32-Para3 qualifies article-Art32-Para2 by making its environmental-threat protection proportionate to premises importance and the criticality of operations or ICT systems located there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art32-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10481,7 +11453,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6190
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art32-Para2",
+      "text_sha256": "b7870e4c5e015e9b7e556366430dd3dad0a6b5cf4ea309d54de8a631812e0795"
     },
     {
       "id": "article-Art32-Para3",
@@ -10506,7 +11480,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "qualifies",
           "confidence": "high",
-          "reasoning": "article-Art32-Para3 qualifies article-Art32-Para2 by making its environmental-threat protection proportionate to premises importance and the criticality of operations or ICT systems located there."
+          "reasoning": "article-Art32-Para3 qualifies article-Art32-Para2 by making its environmental-threat protection proportionate to premises importance and the criticality of operations or ICT systems located there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art32-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para2"
         }
       ],
       "inbound_relations": [
@@ -10518,7 +11494,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art32-Para3 because its express incorporation of all ICT security requirements in Articles 30 to 38 reaches the proportionality constraint linking environmental protection to premises importance and the criticality of operations or ICT systems located there."
+          "reasoning": "article-Art29-Para2 depends on article-Art32-Para3 because its express incorporation of all ICT security requirements in Articles 30 to 38 reaches the proportionality constraint linking environmental protection to premises importance and the criticality of operations or ICT systems located there.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art32-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10529,7 +11507,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6193
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art32-Para3",
+      "text_sha256": "29db983f5102f9524618870688840506836ac42dffcf886149f27bc06d830dc0"
     },
     {
       "id": "article-Art33-Para1",
@@ -10605,7 +11585,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art33-Para1 depends on article-Art30-Para1 because authentication strength under the access-control procedure must be commensurate with the asset classification established in that paragraph."
+          "reasoning": "article-Art33-Para1 depends on article-Art30-Para1 because authentication strength under the access-control procedure must be commensurate with the asset classification established in that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art33-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         },
         {
           "edge_id": "article-Art33-Para1__article-Art34-Para1__references",
@@ -10615,7 +11597,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art33-Para1 references article-Art34-Para1 because privileged, emergency and administrator access assigned under Article 33 must be logged under the Article 34 first-paragraph point-(f) logging control."
+          "reasoning": "article-Art33-Para1 references article-Art34-Para1 because privileged, emergency and administrator access assigned under Article 33 must be logged under the Article 34 first-paragraph point-(f) logging control.",
+          "source_canonical_ref": "celex:32024R1774/article-Art33-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         }
       ],
       "inbound_relations": [
@@ -10627,7 +11611,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art33-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the logical and physical access-control procedure, including least-privilege, accountability, account-management, authentication and review controls."
+          "reasoning": "article-Art29-Para2 depends on article-Art33-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the logical and physical access-control procedure, including least-privilege, accountability, account-management, authentication and review controls.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art33-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art33-Para1__depends_on",
@@ -10637,7 +11623,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art33-Para1 because the security testing plan expressly validates the effectiveness of the access-control measures required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art33-Para1 because the security testing plan expressly validates the effectiveness of the access-control measures required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art33-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10660,7 +11648,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6285
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art33-Para1",
+      "text_sha256": "5840bd0b303bea76d576cfb7cd61cbd3a36b22812e683353f1137d00c863c69f"
     },
     {
       "id": "article-Art34-Para1",
@@ -10776,7 +11766,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art34-Para1 depends on article-Art30-Para1 because the required vulnerability scanning and assessments are calibrated to the asset classification defined in Article 30(1)."
+          "reasoning": "article-Art34-Para1 depends on article-Art30-Para1 because the required vulnerability scanning and assessments are calibrated to the asset classification defined in Article 30(1).",
+          "source_canonical_ref": "celex:32024R1774/article-Art34-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         }
       ],
       "inbound_relations": [
@@ -10788,7 +11780,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art34-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches ICT-operations controls for asset lifecycle, capacity, vulnerabilities and patches, logging, anomalous activity, cyber threats and information leakage."
+          "reasoning": "article-Art29-Para2 depends on article-Art34-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches ICT-operations controls for asset lifecycle, capacity, vulnerabilities and patches, logging, anomalous activity, cyber threats and information leakage.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         },
         {
           "edge_id": "article-Art33-Para1__article-Art34-Para1__references",
@@ -10798,7 +11792,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art33-Para1 references article-Art34-Para1 because privileged, emergency and administrator access assigned under Article 33 must be logged under the Article 34 first-paragraph point-(f) logging control."
+          "reasoning": "article-Art33-Para1 references article-Art34-Para1 because privileged, emergency and administrator access assigned under Article 33 must be logged under the Article 34 first-paragraph point-(f) logging control.",
+          "source_canonical_ref": "celex:32024R1774/article-Art33-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art34-Para1__depends_on",
@@ -10808,7 +11804,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art34-Para1 because the security testing plan expressly validates the effectiveness of the ICT-operations security measures required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art34-Para1 because the security testing plan expressly validates the effectiveness of the ICT-operations security measures required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         },
         {
           "edge_id": "recital-30__article-Art34-Para1__restricts",
@@ -10818,7 +11816,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "restricts",
           "confidence": "high",
-          "reasoning": "recital-30 restricts the anomalous-activity monitoring and security-information measures in article-Art34-Para1 by requiring any personal-data processing for incident detection to comply fully with Union data-protection law and data minimisation."
+          "reasoning": "recital-30 restricts the anomalous-activity monitoring and security-information measures in article-Art34-Para1 by requiring any personal-data processing for incident detection to comply fully with Union data-protection law and data minimisation.",
+          "source_canonical_ref": "celex:32024R1774/recital-30",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10835,7 +11835,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6419
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art34-Para1",
+      "text_sha256": "4e8a50c8a980b98d524b5ae5ba4da924a2d7c71e2214d05cff955fa57ea132b2"
     },
     {
       "id": "article-Art35-Para1",
@@ -10931,7 +11933,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art35-Para1 depends on article-Art30-Para1 because its data, system and network safeguards must be selected while taking the Article 30(1) asset classification into account."
+          "reasoning": "article-Art35-Para1 depends on article-Art30-Para1 because its data, system and network safeguards must be selected while taking the Article 30(1) asset classification into account.",
+          "source_canonical_ref": "celex:32024R1774/article-Art35-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
         }
       ],
       "inbound_relations": [
@@ -10943,7 +11947,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art35-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches network and data safeguards covering protection in use, transit and at rest, secure transfer, deletion and disposal, and teleworking and endpoint-device risks."
+          "reasoning": "article-Art29-Para2 depends on article-Art35-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches network and data safeguards covering protection in use, transit and at rest, secure transfer, deletion and disposal, and teleworking and endpoint-device risks.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art35-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art35-Para1__depends_on",
@@ -10953,7 +11959,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art35-Para1 because the security testing plan expressly validates the effectiveness of the data, system and network safeguards required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art35-Para1 because the security testing plan expressly validates the effectiveness of the data, system and network safeguards required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art35-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -10964,7 +11972,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6426
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art35-Para1",
+      "text_sha256": "1a2ef40595b69bcfa1f5840fd43715db0ae471527ced4302e3827cecccf57f62"
     },
     {
       "id": "article-Art36-Para1",
@@ -10989,7 +11999,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art31-Para3 because its testing plan must consider the threats and vulnerabilities continuously identified under the simplified ICT risk management framework."
+          "reasoning": "article-Art36-Para1 depends on article-Art31-Para3 because its testing plan must consider the threats and vulnerabilities continuously identified under the simplified ICT risk management framework.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art31-Para3"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art33-Para1__depends_on",
@@ -10999,7 +12011,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art33-Para1 because the security testing plan expressly validates the effectiveness of the access-control measures required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art33-Para1 because the security testing plan expressly validates the effectiveness of the access-control measures required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art33-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art34-Para1__depends_on",
@@ -11009,7 +12023,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art34-Para1 because the security testing plan expressly validates the effectiveness of the ICT-operations security measures required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art34-Para1 because the security testing plan expressly validates the effectiveness of the ICT-operations security measures required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art35-Para1__depends_on",
@@ -11019,7 +12035,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art35-Para1 because the security testing plan expressly validates the effectiveness of the data, system and network safeguards required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art35-Para1 because the security testing plan expressly validates the effectiveness of the data, system and network safeguards required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art35-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art37-Para1__depends_on",
@@ -11029,7 +12047,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art37-Para1 because the security testing plan expressly validates the effectiveness of the acquisition, development and maintenance controls required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art37-Para1 because the security testing plan expressly validates the effectiveness of the acquisition, development and maintenance controls required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art37-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art38-Para1__depends_on",
@@ -11039,7 +12059,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art38-Para1 because the security testing plan expressly validates the effectiveness of the ICT project-management procedure required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art38-Para1 because the security testing plan expressly validates the effectiveness of the ICT project-management procedure required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art38-Para2__depends_on",
@@ -11049,7 +12071,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art38-Para2 because the security testing plan expressly validates the effectiveness of the ICT change-management procedure required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art38-Para2 because the security testing plan expressly validates the effectiveness of the ICT change-management procedure required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para2"
         }
       ],
       "inbound_relations": [
@@ -11061,7 +12085,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art36-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the testing plan that validates their effectiveness and considers identified threats and vulnerabilities."
+          "reasoning": "article-Art29-Para2 depends on article-Art36-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the testing plan that validates their effectiveness and considers identified threats and vulnerabilities.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
         },
         {
           "edge_id": "article-Art36-Para2__article-Art36-Para1__depends_on",
@@ -11071,7 +12097,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para2 depends on article-Art36-Para1 because its review, assessment and testing of ICT security measures operationalise the testing plan and entity scope established in paragraph 1."
+          "reasoning": "article-Art36-Para2 depends on article-Art36-Para1 because its review, assessment and testing of ICT security measures operationalise the testing plan and entity scope established in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
         },
         {
           "edge_id": "article-Art36-Para3__article-Art36-Para1__references",
@@ -11081,7 +12109,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art36-Para3 references article-Art36-Para1 to inherit the financial-entity scope and testing-plan context for monitoring and evaluating security-test results."
+          "reasoning": "article-Art36-Para3 references article-Art36-Para1 to inherit the financial-entity scope and testing-plan context for monitoring and evaluating security-test results.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11092,7 +12122,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6532
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "text_sha256": "aae3d4f41b5938adef0b065face54a28266267d55157109712f7b5b4ec3d6ad8"
     },
     {
       "id": "article-Art36-Para2",
@@ -11117,7 +12149,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para2 depends on article-Art36-Para1 because its review, assessment and testing of ICT security measures operationalise the testing plan and entity scope established in paragraph 1."
+          "reasoning": "article-Art36-Para2 depends on article-Art36-Para1 because its review, assessment and testing of ICT security measures operationalise the testing plan and entity scope established in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
         }
       ],
       "inbound_relations": [
@@ -11129,7 +12163,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art36-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches review, assessment and testing of those measures with regard to the overall ICT-asset risk profile."
+          "reasoning": "article-Art29-Para2 depends on article-Art36-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches review, assessment and testing of those measures with regard to the overall ICT-asset risk profile.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para2"
         },
         {
           "edge_id": "article-Art36-Para3__article-Art36-Para2__depends_on",
@@ -11139,7 +12175,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para3 depends on article-Art36-Para2 because the results that paragraph 3 requires entities to evaluate arise from the review, assessment and testing mandated in paragraph 2."
+          "reasoning": "article-Art36-Para3 depends on article-Art36-Para2 because the results that paragraph 3 requires entities to evaluate arise from the review, assessment and testing mandated in paragraph 2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11150,7 +12188,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6535
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art36-Para2",
+      "text_sha256": "ffe538e66946d466308523d05a4e515e90f08dee09f8a466fa3152529b81a22e"
     },
     {
       "id": "article-Art36-Para3",
@@ -11175,7 +12215,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art36-Para3 references article-Art36-Para1 to inherit the financial-entity scope and testing-plan context for monitoring and evaluating security-test results."
+          "reasoning": "article-Art36-Para3 references article-Art36-Para1 to inherit the financial-entity scope and testing-plan context for monitoring and evaluating security-test results.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
         },
         {
           "edge_id": "article-Art36-Para3__article-Art36-Para2__depends_on",
@@ -11185,7 +12227,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para3 depends on article-Art36-Para2 because the results that paragraph 3 requires entities to evaluate arise from the review, assessment and testing mandated in paragraph 2."
+          "reasoning": "article-Art36-Para3 depends on article-Art36-Para2 because the results that paragraph 3 requires entities to evaluate arise from the review, assessment and testing mandated in paragraph 2.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para2"
         }
       ],
       "inbound_relations": [
@@ -11197,7 +12241,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art36-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches monitoring and evaluation of security-test results and prompt updating of measures for systems supporting critical or important functions."
+          "reasoning": "article-Art29-Para2 depends on article-Art36-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches monitoring and evaluation of security-test results and prompt updating of measures for systems supporting critical or important functions.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art36-Para3"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11208,7 +12254,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6538
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art36-Para3",
+      "text_sha256": "f3bf0762b24be7e7299f3a7697f71a841690db54ec155010a7c437ba7a344c45"
     },
     {
       "id": "article-Art37-Para1",
@@ -11265,7 +12313,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art37-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the risk-based procedure and security controls for ICT-system acquisition, development, maintenance, pre-use testing and production changes."
+          "reasoning": "article-Art29-Para2 depends on article-Art37-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the risk-based procedure and security controls for ICT-system acquisition, development, maintenance, pre-use testing and production changes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art37-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art37-Para1__depends_on",
@@ -11275,7 +12325,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art37-Para1 because the security testing plan expressly validates the effectiveness of the acquisition, development and maintenance controls required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art37-Para1 because the security testing plan expressly validates the effectiveness of the acquisition, development and maintenance controls required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art37-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11286,7 +12338,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6546
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art37-Para1",
+      "text_sha256": "ca3f7704d3ce38b7c61700c3b4be51596abc8450e3ce06e95c80aa230de621ae"
     },
     {
       "id": "article-Art38-Para1",
@@ -11312,7 +12366,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art38-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the documented ICT project-management procedure, assigned implementation roles and coverage of every project stage from initiation to closure."
+          "reasoning": "article-Art29-Para2 depends on article-Art38-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the documented ICT project-management procedure, assigned implementation roles and coverage of every project stage from initiation to closure.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art38-Para1__depends_on",
@@ -11322,7 +12378,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art38-Para1 because the security testing plan expressly validates the effectiveness of the ICT project-management procedure required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art38-Para1 because the security testing plan expressly validates the effectiveness of the ICT project-management procedure required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
         },
         {
           "edge_id": "article-Art38-Para2__article-Art38-Para1__references",
@@ -11332,7 +12390,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art38-Para2 references article-Art38-Para1 to inherit its financial-entity scope before imposing the separate controlled ICT change-management procedure."
+          "reasoning": "article-Art38-Para2 references article-Art38-Para1 to inherit its financial-entity scope before imposing the separate controlled ICT change-management procedure.",
+          "source_canonical_ref": "celex:32024R1774/article-Art38-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11343,7 +12403,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6596
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art38-Para1",
+      "text_sha256": "ffff485c58d5245121aa1811bfe887fc743ca27a9c9ffed1bcc9b44fdefba73c"
     },
     {
       "id": "article-Art38-Para2",
@@ -11368,7 +12430,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art38-Para2 references article-Art38-Para1 to inherit its financial-entity scope before imposing the separate controlled ICT change-management procedure."
+          "reasoning": "article-Art38-Para2 references article-Art38-Para1 to inherit its financial-entity scope before imposing the separate controlled ICT change-management procedure.",
+          "source_canonical_ref": "celex:32024R1774/article-Art38-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
         }
       ],
       "inbound_relations": [
@@ -11380,7 +12444,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art29-Para2 depends on article-Art38-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the controlled ICT change-management procedure covering recording, testing, assessment, approval, implementation and verification of changes."
+          "reasoning": "article-Art29-Para2 depends on article-Art38-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the controlled ICT change-management procedure covering recording, testing, assessment, approval, implementation and verification of changes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para2"
         },
         {
           "edge_id": "article-Art36-Para1__article-Art38-Para2__depends_on",
@@ -11390,7 +12456,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art36-Para1 depends on article-Art38-Para2 because the security testing plan expressly validates the effectiveness of the ICT change-management procedure required by that paragraph."
+          "reasoning": "article-Art36-Para1 depends on article-Art38-Para2 because the security testing plan expressly validates the effectiveness of the ICT change-management procedure required by that paragraph.",
+          "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art38-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11401,7 +12469,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6599
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art38-Para2",
+      "text_sha256": "729ccc5e5a002402d9a159a4cfbf3427e1680d4d2aad72831f98c51a10cd8173"
     },
     {
       "id": "article-Art39-Para1",
@@ -11427,7 +12497,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art39-Para2 depends on article-Art39-Para1 because it prescribes the approval, resources, recovery, backup and communication content of the business continuity plans developed under paragraph 1."
+          "reasoning": "article-Art39-Para2 depends on article-Art39-Para1 because it prescribes the approval, resources, recovery, backup and communication content of the business continuity plans developed under paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art39-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art39-Para1"
         },
         {
           "edge_id": "article-Art40-Para1__article-Art39-Para1__depends_on",
@@ -11437,7 +12509,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para1 depends on article-Art39-Para1 because the annual or major-change test covers the business continuity plans and severe-disruption scenarios established in Article 39(1)."
+          "reasoning": "article-Art40-Para1 depends on article-Art39-Para1 because the annual or major-change test covers the business continuity plans and severe-disruption scenarios established in Article 39(1).",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art39-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11448,7 +12522,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6620
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art39-Para1",
+      "text_sha256": "fa29ddb73ab9c8037a1ca8db3423545c70566194943f95ad27d51d23cf4b5384"
     },
     {
       "id": "article-Art39-Para2",
@@ -11574,7 +12650,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art39-Para2 depends on article-Art39-Para1 because it prescribes the approval, resources, recovery, backup and communication content of the business continuity plans developed under paragraph 1."
+          "reasoning": "article-Art39-Para2 depends on article-Art39-Para1 because it prescribes the approval, resources, recovery, backup and communication content of the business continuity plans developed under paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art39-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art39-Para1"
         }
       ],
       "inbound_relations": [
@@ -11586,7 +12664,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para1 depends on article-Art39-Para2 because its express requirement to test the Article 39 business continuity plans at least annually for backup and restore procedures reaches the paragraph that specifies backup procedures, restoration and recovery measures, recovery levels and timeframes."
+          "reasoning": "article-Art40-Para1 depends on article-Art39-Para2 because its express requirement to test the Article 39 business continuity plans at least annually for backup and restore procedures reaches the paragraph that specifies backup procedures, restoration and recovery measures, recovery levels and timeframes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art39-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11603,7 +12683,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6764
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art39-Para2",
+      "text_sha256": "b15349783f755bd05fab47a0fb8d55eb3e46b9648c5c3b48b1e5c6edb5d505bf"
     },
     {
       "id": "article-Art40-Para1",
@@ -11628,7 +12710,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para1 depends on article-Art39-Para1 because the annual or major-change test covers the business continuity plans and severe-disruption scenarios established in Article 39(1)."
+          "reasoning": "article-Art40-Para1 depends on article-Art39-Para1 because the annual or major-change test covers the business continuity plans and severe-disruption scenarios established in Article 39(1).",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art39-Para1"
         },
         {
           "edge_id": "article-Art40-Para1__article-Art39-Para2__depends_on",
@@ -11638,7 +12722,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para1 depends on article-Art39-Para2 because its express requirement to test the Article 39 business continuity plans at least annually for backup and restore procedures reaches the paragraph that specifies backup procedures, restoration and recovery measures, recovery levels and timeframes."
+          "reasoning": "article-Art40-Para1 depends on article-Art39-Para2 because its express requirement to test the Article 39 business continuity plans at least annually for backup and restore procedures reaches the paragraph that specifies backup procedures, restoration and recovery measures, recovery levels and timeframes.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para1",
+          "target_canonical_ref": "celex:32024R1774/article-Art39-Para2"
         }
       ],
       "inbound_relations": [
@@ -11650,7 +12736,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para2 depends on article-Art40-Para1 because it defines what the paragraph-1 testing must demonstrate about business viability, operational re-establishment and plan deficiencies."
+          "reasoning": "article-Art40-Para2 depends on article-Art40-Para1 because it defines what the paragraph-1 testing must demonstrate about business viability, operational re-establishment and plan deficiencies.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art40-Para1"
         },
         {
           "edge_id": "article-Art40-Para3__article-Art40-Para1__references",
@@ -11660,7 +12748,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art40-Para3 references article-Art40-Para1 to inherit the financial-entity scope and the business-continuity-plan testing whose results must be documented."
+          "reasoning": "article-Art40-Para3 references article-Art40-Para1 to inherit the financial-entity scope and the business-continuity-plan testing whose results must be documented.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art40-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11671,7 +12761,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6773
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art40-Para1",
+      "text_sha256": "20837b356261c438efaa433e096c33de1a5a999dcdf30e7d8e57decef7a7e013"
     },
     {
       "id": "article-Art40-Para2",
@@ -11696,7 +12788,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para2 depends on article-Art40-Para1 because it defines what the paragraph-1 testing must demonstrate about business viability, operational re-establishment and plan deficiencies."
+          "reasoning": "article-Art40-Para2 depends on article-Art40-Para1 because it defines what the paragraph-1 testing must demonstrate about business viability, operational re-establishment and plan deficiencies.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art40-Para1"
         }
       ],
       "inbound_relations": [
@@ -11708,7 +12802,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para3 depends on article-Art40-Para2 because the deficiencies to be analysed, addressed and reported are those the paragraph-2 test is required to identify."
+          "reasoning": "article-Art40-Para3 depends on article-Art40-Para2 because the deficiencies to be analysed, addressed and reported are those the paragraph-2 test is required to identify.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art40-Para2"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11719,7 +12815,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6776
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art40-Para2",
+      "text_sha256": "f061dddbcadf3f73acb7ac50226aabbc194818b268760fc9b7fd5305edf97ec5"
     },
     {
       "id": "article-Art40-Para3",
@@ -11744,7 +12842,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "references",
           "confidence": "high",
-          "reasoning": "article-Art40-Para3 references article-Art40-Para1 to inherit the financial-entity scope and the business-continuity-plan testing whose results must be documented."
+          "reasoning": "article-Art40-Para3 references article-Art40-Para1 to inherit the financial-entity scope and the business-continuity-plan testing whose results must be documented.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art40-Para1"
         },
         {
           "edge_id": "article-Art40-Para3__article-Art40-Para2__depends_on",
@@ -11754,7 +12854,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art40-Para3 depends on article-Art40-Para2 because the deficiencies to be analysed, addressed and reported are those the paragraph-2 test is required to identify."
+          "reasoning": "article-Art40-Para3 depends on article-Art40-Para2 because the deficiencies to be analysed, addressed and reported are those the paragraph-2 test is required to identify.",
+          "source_canonical_ref": "celex:32024R1774/article-Art40-Para3",
+          "target_canonical_ref": "celex:32024R1774/article-Art40-Para2"
         }
       ],
       "inbound_relations": [],
@@ -11766,7 +12868,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6779
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art40-Para3",
+      "text_sha256": "93e924c608d8ca157372d1132e8aed6ac424c82660e980aff4204e3297887189"
     },
     {
       "id": "article-Art41-Para1",
@@ -11792,7 +12896,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art41-Para2 depends on article-Art41-Para1 because it specifies the mandatory content of the searchable electronic simplified-framework review report introduced in paragraph 1."
+          "reasoning": "article-Art41-Para2 depends on article-Art41-Para1 because it specifies the mandatory content of the searchable electronic simplified-framework review report introduced in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art41-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art41-Para1"
         }
       ],
       "akn4eu_source_paragraphs": [
@@ -11803,7 +12909,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6800
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art41-Para1",
+      "text_sha256": "96a40cc9ab9c42e2d14fdd88599878c36c193318e53f4e50f9333399dbb13a16"
     },
     {
       "id": "article-Art41-Para2",
@@ -11979,7 +13087,9 @@ The repository licence covers only original selection, structure and analysis. I
           "target_type": "article_paragraph",
           "relation": "depends_on",
           "confidence": "high",
-          "reasoning": "article-Art41-Para2 depends on article-Art41-Para1 because it specifies the mandatory content of the searchable electronic simplified-framework review report introduced in paragraph 1."
+          "reasoning": "article-Art41-Para2 depends on article-Art41-Para1 because it specifies the mandatory content of the searchable electronic simplified-framework review report introduced in paragraph 1.",
+          "source_canonical_ref": "celex:32024R1774/article-Art41-Para2",
+          "target_canonical_ref": "celex:32024R1774/article-Art41-Para1"
         }
       ],
       "inbound_relations": [],
@@ -11991,7 +13101,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 6803
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art41-Para2",
+      "text_sha256": "de11315732de2c4d50f99631fd389dae0943da1b3023dc9347e6967c4bdc4e44"
     },
     {
       "id": "article-Art42-Para1",
@@ -12016,7 +13128,9 @@ The repository licence covers only original selection, structure and analysis. I
           "source_line_end": 7030
         }
       ],
-      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART"
+      "akn4eu_article_type_uri": "http://publications.europa.eu/resource/authority/resource-type/ART",
+      "canonical_ref": "celex:32024R1774/article-Art42-Para1",
+      "text_sha256": "1bf0e7175a7bcc082e16d3f0989df2463f5335c79522f61c6297e2b6faf20be3"
     }
   ],
   "annex_points": [],
@@ -13492,7 +14606,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art10-Para2 enumerates the scanning, third-party, remediation and recording controls for the vulnerability-management procedures mandated by article-Art10-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art10-Para2__article-Art10-Para1__depends_on"
+      "edge_id": "article-Art10-Para2__article-Art10-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art10-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para1"
     },
     {
       "source": "article-Art10-Para4",
@@ -13502,7 +14618,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art10-Para4 sets the evaluation, emergency, testing, deployment and deadline requirements for the patch-management procedures established by article-Art10-Para3.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art10-Para4__article-Art10-Para3__depends_on"
+      "edge_id": "article-Art10-Para4__article-Art10-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art10-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para3"
     },
     {
       "source": "article-Art10-Para4",
@@ -13512,7 +14630,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art10-Para4 expressly refers patch and update testing and deployment to the production and non-production testing controls in article-Art8-Para2 points (b)(v) to (vii).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art10-Para4__article-Art8-Para2__references"
+      "edge_id": "article-Art10-Para4__article-Art8-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art10-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
     },
     {
       "source": "article-Art11-Para2",
@@ -13522,7 +14642,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art11-Para2 expressly takes the data and system security procedure established by article-Art11-Para1 as the procedure whose mandatory security elements it enumerates.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art11-Para2__article-Art11-Para1__depends_on"
+      "edge_id": "article-Art11-Para2__article-Art11-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art11-Para1"
     },
     {
       "source": "article-Art11-Para2",
@@ -13532,7 +14654,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art11-Para2 expressly imports the access restrictions laid down in article-Art21-Para1 as an element supporting the protection requirements attached to each data-classification level.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art11-Para2__article-Art21-Para1__references"
+      "edge_id": "article-Art11-Para2__article-Art21-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
     },
     {
       "source": "article-Art11-Para2",
@@ -13542,7 +14666,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art11-Para2 conditions use of removable data-storage devices on residual ICT risk remaining within the risk-tolerance level established in article-Art3-Para1, first subparagraph, point (a).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art11-Para2__article-Art3-Para1__references"
+      "edge_id": "article-Art11-Para2__article-Art3-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art11-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art3-Para1"
     },
     {
       "source": "article-Art12-Para2",
@@ -13552,7 +14678,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art12-Para2 expressly specifies the mandatory contents of the logging procedures, protocols and tools that article-Art12-Para1 requires financial entities to establish.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art12-Para2__article-Art12-Para1__depends_on"
+      "edge_id": "article-Art12-Para2__article-Art12-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art12-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art12-Para1"
     },
     {
       "source": "article-Art12-Para2",
@@ -13562,7 +14690,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art12-Para2 expressly requires logs for logical and physical access-control events governed by article-Art21-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art12-Para2__article-Art21-Para1__references"
+      "edge_id": "article-Art12-Para2__article-Art21-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art12-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
     },
     {
       "source": "article-Art13-Para1",
@@ -13572,7 +14702,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art13-Para1 expressly requires network-connection encryption to take account of the encryption of network connections governed by article-Art6-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art13-Para1__article-Art6-Para2__references"
+      "edge_id": "article-Art13-Para1__article-Art6-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art13-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
     },
     {
       "source": "article-Art14-Para2",
@@ -13582,7 +14714,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art14-Para2 expressly requires the information-in-transit policies and controls established by article-Art14-Para1 to be designed from the approved data classification and ICT risk assessment.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art14-Para2__article-Art14-Para1__depends_on"
+      "edge_id": "article-Art14-Para2__article-Art14-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art14-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art14-Para1"
     },
     {
       "source": "article-Art15-Para2",
@@ -13592,7 +14726,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art15-Para2 expressly defines the acquisition, maintenance and development projects that must be covered by the ICT project-management policy required in article-Art15-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art15-Para2__article-Art15-Para1__depends_on"
+      "edge_id": "article-Art15-Para2__article-Art15-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art15-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
     },
     {
       "source": "article-Art15-Para3",
@@ -13602,7 +14738,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art15-Para3 expressly enumerates the governance, planning, risk, change and testing contents of the ICT project-management policy required by article-Art15-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art15-Para3__article-Art15-Para1__depends_on"
+      "edge_id": "article-Art15-Para3__article-Art15-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art15-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
     },
     {
       "source": "article-Art15-Para4",
@@ -13612,7 +14750,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art15-Para4 expressly adds business-area information and expertise as a secure-implementation requirement of the ICT project-management policy established in article-Art15-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art15-Para4__article-Art15-Para1__depends_on"
+      "edge_id": "article-Art15-Para4__article-Art15-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art15-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
     },
     {
       "source": "article-Art15-Para5",
@@ -13622,7 +14762,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art15-Para5 expressly makes reporting on critical or important ICT projects and their risks a requirement of the project-management policy established in article-Art15-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art15-Para5__article-Art15-Para1__depends_on"
+      "edge_id": "article-Art15-Para5__article-Art15-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art15-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para1"
     },
     {
       "source": "article-Art15-Para5",
@@ -13632,7 +14774,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art15-Para5 expressly bases management-body reporting on the ICT project risk assessment required by article-Art15-Para3, point (d).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art15-Para5__article-Art15-Para3__references"
+      "edge_id": "article-Art15-Para5__article-Art15-Para3__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art15-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para3"
     },
     {
       "source": "article-Art16-Para2",
@@ -13642,7 +14786,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para2 expressly requires pre-use and post-maintenance ICT-system testing to follow the production-separation and testing controls in article-Art8-Para2, point (b)(v) to (vii).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para2__article-Art8-Para2__references"
+      "edge_id": "article-Art16-Para2__article-Art8-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
     },
     {
       "source": "article-Art16-Para3",
@@ -13652,7 +14798,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para3 expressly makes source-code review and the resulting vulnerability action plan part of the acquisition, development and maintenance testing procedure established in article-Art16-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para3__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para3__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para3",
@@ -13662,7 +14810,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para3 expressly subjects security testing for internet-exposed systems and applications to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para3__article-Art8-Para2__references"
+      "edge_id": "article-Art16-Para3__article-Art8-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
     },
     {
       "source": "article-Art16-Para4",
@@ -13672,7 +14822,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para4 expressly adds integration-phase security testing of software packages to the testing procedure established in article-Art16-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para4__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para4__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para4",
@@ -13682,7 +14834,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para4 expressly subjects software-package security testing to the environment-separation and production-testing requirements in article-Art8-Para2, point (b)(v) to (vii).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para4__article-Art8-Para2__references"
+      "edge_id": "article-Art16-Para4__article-Art8-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
     },
     {
       "source": "article-Art16-Para5",
@@ -13692,7 +14846,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para5 expressly makes anonymisation, pseudonymisation or randomisation of production data and protection of non-production data part of the testing procedure established in article-Art16-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para5__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para5__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para6",
@@ -13702,7 +14858,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para6 expressly places its tightly controlled production-data testing exception within the acquisition, development and maintenance procedure established in article-Art16-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para6__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para6__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para6",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para6",
@@ -13712,7 +14870,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para6 expressly derogates from article-Art16-Para5 by permitting production data for specific testing occasions only for limited periods, after approval and with reporting to the ICT risk-management function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para6__article-Art16-Para5__qualifies"
+      "edge_id": "article-Art16-Para6__article-Art16-Para5__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para6",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para5"
     },
     {
       "source": "article-Art16-Para7",
@@ -13722,7 +14882,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para7 expressly adds controls protecting source-code integrity, including code developed by ICT third-party providers, to the procedure established in article-Art16-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para7__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para7__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para7",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para8",
@@ -13732,7 +14894,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para8 expressly makes pre-deployment analysis and testing of proprietary, third-party and open-source software part of the procedure established in article-Art16-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para8__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para8__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para8",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para8",
@@ -13742,7 +14906,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para8 expressly requires proprietary, third-party and open-source software to be analysed and tested according to the static and dynamic source-code review regime in article-Art16-Para3.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para8__article-Art16-Para3__references"
+      "edge_id": "article-Art16-Para8__article-Art16-Para3__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para8",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
     },
     {
       "source": "article-Art16-Para9",
@@ -13752,7 +14918,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the acquisition, development and maintenance policy duty in article-Art16-Para1 to ICT systems developed or managed by users outside the ICT function, subject to a risk-based approach.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para1__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para1"
     },
     {
       "source": "article-Art16-Para9",
@@ -13762,7 +14930,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the pre-use and post-maintenance testing and approval procedure in article-Art16-Para2 to ICT systems developed or managed outside the ICT function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para2__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "article-Art16-Para9",
@@ -13772,7 +14942,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the source-code review, vulnerability analysis and remediation regime in article-Art16-Para3 to user-developed or user-managed ICT systems.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para3__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
     },
     {
       "source": "article-Art16-Para9",
@@ -13782,7 +14954,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the integration-phase software-package security testing required by article-Art16-Para4 to ICT systems developed or managed outside the ICT function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para4__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para4__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para4"
     },
     {
       "source": "article-Art16-Para9",
@@ -13792,7 +14966,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the non-production data safeguards in article-Art16-Para5 to ICT systems developed or managed by users outside the ICT function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para5__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para5__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para5"
     },
     {
       "source": "article-Art16-Para9",
@@ -13802,7 +14978,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the limited and approved production-data testing exception in article-Art16-Para6 to ICT systems developed or managed outside the ICT function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para6__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para6__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para6"
     },
     {
       "source": "article-Art16-Para9",
@@ -13812,7 +14990,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the source-code integrity controls in article-Art16-Para7 to ICT systems developed or managed by users outside the ICT function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para7__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para7__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para7"
     },
     {
       "source": "article-Art16-Para9",
@@ -13822,7 +15002,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art16-Para9 expressly extends the pre-deployment proprietary, third-party and open-source analysis required by article-Art16-Para8 to systems developed or managed outside the ICT function.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art16-Para9__article-Art16-Para8__depends_on"
+      "edge_id": "article-Art16-Para9__article-Art16-Para8__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art16-Para9",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para8"
     },
     {
       "source": "article-Art18-Para2",
@@ -13832,7 +15014,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art18-Para2 expressly enumerates the access, environmental, asset-protection and clear-desk controls that the physical and environmental security policy established in article-Art18-Para1 must contain.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art18-Para2__article-Art18-Para1__depends_on"
+      "edge_id": "article-Art18-Para2__article-Art18-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art18-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art18-Para1"
     },
     {
       "source": "article-Art18-Para2",
@@ -13842,7 +15026,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art18-Para2 expressly imports the physical access-management controls in article-Art21-Para1, point (g), into the physical and environmental security policy.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art18-Para2__article-Art21-Para1__references"
+      "edge_id": "article-Art18-Para2__article-Art21-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art18-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
     },
     {
       "source": "article-Art2-Para2",
@@ -13852,7 +15038,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art2-Para2 expressly applies its governance and content requirements to the ICT security policies established under article-Art2-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art2-Para2__article-Art2-Para1__depends_on"
+      "edge_id": "article-Art2-Para2__article-Art2-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art2-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para1"
     },
     {
       "source": "article-Art20-Para1",
@@ -13862,7 +15050,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art20-Para1 expressly makes unique identification and authentication the prerequisite for assigning user access rights under article-Art21-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art20-Para1__article-Art21-Para1__references"
+      "edge_id": "article-Art20-Para1__article-Art21-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art20-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
     },
     {
       "source": "article-Art20-Para2",
@@ -13872,7 +15062,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art20-Para2 expressly specifies the unique-account and identity-lifecycle contents of the identity-management policies and procedures established in article-Art20-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art20-Para2__article-Art20-Para1__depends_on"
+      "edge_id": "article-Art20-Para2__article-Art20-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art20-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art20-Para1"
     },
     {
       "source": "article-Art20-Para2",
@@ -13882,7 +15074,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art20-Para2 expressly references article-Art21-Para1 through a without-prejudice clause that preserves the exceptional generic and shared-account regime in point (c) while imposing the one-identity-to-one-account rule.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art20-Para2__article-Art21-Para1__references"
+      "edge_id": "article-Art20-Para2__article-Art21-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art20-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
     },
     {
       "source": "article-Art22-Para1",
@@ -13892,7 +15086,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art22-Para1 expressly requires its incident-policy mechanisms to enable prompt anomalous-activity detection in accordance with Article 23; article-Art23-Para2 is the narrow paragraph that defines that prompt-detection mechanism and its capabilities.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art22-Para1__article-Art23-Para2__references"
+      "edge_id": "article-Art22-Para1__article-Art23-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art22-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
     },
     {
       "source": "article-Art23-Para2",
@@ -13902,7 +15098,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art23-Para2 expressly includes logs collected under Article 12 among its detection inputs, and article-Art12-Para2 is the narrow target specifying the events, retention, protection, and handling requirements for those logs.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art23-Para2__article-Art12-Para2__references"
+      "edge_id": "article-Art23-Para2__article-Art12-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art23-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art12-Para2"
     },
     {
       "source": "article-Art23-Para6",
@@ -13912,7 +15110,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art23-Para6 expressly operates for the purposes of article-Art23-Para5 and qualifies its four trigger criteria by adding the criticality of the affected services as a required consideration.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art23-Para6__article-Art23-Para5__qualifies"
+      "edge_id": "article-Art23-Para6__article-Art23-Para5__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art23-Para6",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para5"
     },
     {
       "source": "article-Art24-Para1",
@@ -13922,7 +15122,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art24-Para1 expressly places testing and review within Article 25; article-Art25-Para1 is the narrow anchor that subjects ICT business continuity plan testing to the BIA and ICT risk assessment.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art24-Para1__article-Art25-Para1__references"
+      "edge_id": "article-Art24-Para1__article-Art25-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
     },
     {
       "source": "article-Art24-Para1",
@@ -13932,7 +15134,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art24-Para1 expressly places development, testing, and review of ICT response and recovery plans under Article 26, and article-Art26-Para1 is the narrow anchor defining those plans' required content and recovery objectives.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art24-Para1__article-Art26-Para1__references"
+      "edge_id": "article-Art24-Para1__article-Art26-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
     },
     {
       "source": "article-Art24-Para1",
@@ -13942,7 +15146,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art24-Para1 expressly requires business-continuity alignment to potential failure scenarios including those in article-Art26-Para2, the narrow paragraph containing the mandatory response-and-recovery scenario set.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art24-Para1__article-Art26-Para2__references"
+      "edge_id": "article-Art24-Para1__article-Art26-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art24-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
     },
     {
       "source": "article-Art24-Para2",
@@ -13952,7 +15158,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art24-Para2 expressly adds central-counterparty-specific recovery times, interdependencies, and secondary-site arrangements to the general ICT business continuity policy requirements in article-Art24-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art24-Para2__article-Art24-Para1__qualifies"
+      "edge_id": "article-Art24-Para2__article-Art24-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art24-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
     },
     {
       "source": "article-Art24-Para3",
@@ -13962,7 +15170,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art24-Para3 expressly supplements article-Art24-Para1 for central securities depositories by adding infrastructure interdependencies and a two-hour recovery-time objective.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art24-Para3__article-Art24-Para1__qualifies"
+      "edge_id": "article-Art24-Para3__article-Art24-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art24-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
     },
     {
       "source": "article-Art24-Para4",
@@ -13972,7 +15182,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art24-Para4 expressly supplements article-Art24-Para1 for trading venues by adding a near-two-hour resumption target and a near-zero maximum data-loss requirement.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art24-Para4__article-Art24-Para1__qualifies"
+      "edge_id": "article-Art24-Para4__article-Art24-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art24-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
     },
     {
       "source": "article-Art25-Para1",
@@ -13982,7 +15194,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para1 expressly requires continuity-plan testing to take account of the ICT risk assessment in article-Art3-Para1, point (b), which defines the assessment procedure and methodology.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para1__article-Art3-Para1__references"
+      "edge_id": "article-Art25-Para1__article-Art3-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art3-Para1"
     },
     {
       "source": "article-Art25-Para2",
@@ -13992,7 +15206,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para2 repeatedly identifies its subject as the testing of ICT business continuity plans referred to in article-Art25-Para1, so its scenario, switchover, and response requirements depend on that testing obligation.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para2__article-Art25-Para1__depends_on"
+      "edge_id": "article-Art25-Para2__article-Art25-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
     },
     {
       "source": "article-Art25-Para2",
@@ -14002,7 +15218,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para2 expressly requires testing staff, systems, and services against scenarios taken into account under article-Art26-Para2, the paragraph listing response-and-recovery scenarios.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para2__article-Art26-Para2__references"
+      "edge_id": "article-Art25-Para2__article-Art26-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
     },
     {
       "source": "article-Art25-Para3",
@@ -14012,7 +15230,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para3 expressly identifies the plans whose testing must involve clearing members, external providers, and relevant infrastructure institutions as the plans referred to in article-Art25-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para3__article-Art25-Para1__depends_on"
+      "edge_id": "article-Art25-Para3__article-Art25-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
     },
     {
       "source": "article-Art25-Para3",
@@ -14022,7 +15242,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para3 expressly adds central-counterparty participant requirements to the general continuity-plan testing requirements in article-Art25-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para3__article-Art25-Para2__qualifies"
+      "edge_id": "article-Art25-Para3__article-Art25-Para2__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
     },
     {
       "source": "article-Art25-Para4",
@@ -14032,7 +15254,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para4 expressly identifies the continuity plans whose testing must involve users, utilities, service providers, depositories, and market infrastructures as the plans referred to in article-Art25-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para4__article-Art25-Para1__depends_on"
+      "edge_id": "article-Art25-Para4__article-Art25-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
     },
     {
       "source": "article-Art25-Para4",
@@ -14042,7 +15266,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para4 expressly adds central-securities-depository participant requirements to the general continuity-plan testing requirements in article-Art25-Para2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para4__article-Art25-Para2__qualifies"
+      "edge_id": "article-Art25-Para4__article-Art25-Para2__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
     },
     {
       "source": "article-Art25-Para5",
@@ -14052,7 +15278,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art25-Para5 makes documentation, analysis, remediation, and management-body reporting conditional on results of the testing defined in article-Art25-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art25-Para5__article-Art25-Para1__depends_on"
+      "edge_id": "article-Art25-Para5__article-Art25-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art25-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para1"
     },
     {
       "source": "article-Art26-Para2",
@@ -14062,7 +15290,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art26-Para2 expressly applies its mandatory disruption scenarios to the ICT response and recovery plans referred to in article-Art26-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art26-Para2__article-Art26-Para1__depends_on"
+      "edge_id": "article-Art26-Para2__article-Art26-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art26-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
     },
     {
       "source": "article-Art26-Para3",
@@ -14072,7 +15302,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art26-Para3 qualifies the plans defined in article-Art26-Para1 by requiring alternative options where primary recovery measures may be infeasible in the short term because of cost, risk, logistics, or unforeseen circumstances.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art26-Para3__article-Art26-Para1__qualifies"
+      "edge_id": "article-Art26-Para3__article-Art26-Para1__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art26-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
     },
     {
       "source": "article-Art26-Para4",
@@ -14082,7 +15314,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art26-Para4 expressly makes third-party-provider continuity measures part of the ICT response and recovery plans referred to in article-Art26-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art26-Para4__article-Art26-Para1__depends_on"
+      "edge_id": "article-Art26-Para4__article-Art26-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art26-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para1"
     },
     {
       "source": "article-Art27-Para2",
@@ -14092,7 +15326,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art27-Para2 defines the mandatory information for the report referred to in article-Art27-Para1 and therefore depends on that paragraph's report and electronic-format obligation.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art27-Para2__article-Art27-Para1__depends_on"
+      "edge_id": "article-Art27-Para2__article-Art27-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art27-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art27-Para1"
     },
     {
       "source": "article-Art28-Para2",
@@ -14102,7 +15338,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para2 expressly applies its management-body duties to the financial entities identified in article-Art28-Para1 and to the simplified framework established there.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para2__article-Art28-Para1__depends_on"
+      "edge_id": "article-Art28-Para2__article-Art28-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
     },
     {
       "source": "article-Art28-Para2",
@@ -14112,7 +15350,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para2 expressly requires management-body approval and review of the information-asset classification in article-Art30-Para1, which is the narrow paragraph imposing identification and classification duties.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para2__article-Art30-Para1__references"
+      "edge_id": "article-Art28-Para2__article-Art30-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art28-Para3",
@@ -14122,7 +15362,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para3 expressly applies its outsourcing option and retained-responsibility rule to the financial entities referred to in article-Art28-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para3__article-Art28-Para1__depends_on"
+      "edge_id": "article-Art28-Para3__article-Art28-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
     },
     {
       "source": "article-Art28-Para4",
@@ -14132,7 +15374,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para4 expressly applies segregation and independence requirements for control and internal-audit functions to the financial entities referred to in article-Art28-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para4__article-Art28-Para1__depends_on"
+      "edge_id": "article-Art28-Para4__article-Art28-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
     },
     {
       "source": "article-Art28-Para5",
@@ -14142,7 +15386,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para5 expressly subjects the simplified ICT risk management framework of the financial entities identified in article-Art28-Para1 to independent, risk-commensurate internal audit.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para5__article-Art28-Para1__depends_on"
+      "edge_id": "article-Art28-Para5__article-Art28-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
     },
     {
       "source": "article-Art28-Para6",
@@ -14152,7 +15398,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para6 expressly assigns remediation of critical audit findings to the financial entities referred to in article-Art28-Para1, whose simplified governance framework supplies the rule's scope.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para6__article-Art28-Para1__depends_on"
+      "edge_id": "article-Art28-Para6__article-Art28-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para6",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
     },
     {
       "source": "article-Art28-Para6",
@@ -14162,7 +15410,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art28-Para6 expressly bases timely verification and remediation of critical findings on the audit required by article-Art28-Para5.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art28-Para6__article-Art28-Para5__depends_on"
+      "edge_id": "article-Art28-Para6__article-Art28-Para5__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art28-Para6",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para5"
     },
     {
       "source": "article-Art29-Para2",
@@ -14172,7 +15422,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art29-Para1 because its ICT security measures must be established from the information security policy defined in paragraph 1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art29-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art29-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art29-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14182,7 +15434,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art30-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification, classification and documentation of critical functions, supporting information and ICT assets, and their interdependencies.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art30-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art30-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14192,7 +15446,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art30-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s identification of critical or important functions supported by ICT third-party service providers.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art30-Para2__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art30-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para2"
     },
     {
       "source": "article-Art29-Para2",
@@ -14202,7 +15458,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art31-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches that paragraph’s risk-tolerance, risk-assessment, mitigation, effectiveness-monitoring and change-, test- and incident-driven assessment measures.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art31-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art31-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14212,7 +15470,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art31-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the periodic documented ICT risk assessment calibrated to the entity’s ICT risk profile.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art31-Para2__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art31-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para2"
     },
     {
       "source": "article-Art29-Para2",
@@ -14222,7 +15482,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art31-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches continuous monitoring of relevant threats and vulnerabilities and regular review of risk scenarios affecting critical or important functions.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art31-Para3__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art31-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para3"
     },
     {
       "source": "article-Art29-Para2",
@@ -14232,7 +15494,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art31-Para4 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the alert thresholds and criteria that trigger and initiate ICT-related incident response processes.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art31-Para4__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art31-Para4__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para4"
     },
     {
       "source": "article-Art29-Para2",
@@ -14242,7 +15506,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art32-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches threat- and classification-based physical security measures for ICT assets and accessible information assets.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art32-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art32-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art32-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14252,7 +15518,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art32-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches protection of premises and applicable data centres against unauthorised access, attacks, accidents and environmental hazards.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art32-Para2__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art32-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art32-Para2"
     },
     {
       "source": "article-Art29-Para2",
@@ -14262,7 +15530,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art32-Para3 because its express incorporation of all ICT security requirements in Articles 30 to 38 reaches the proportionality constraint linking environmental protection to premises importance and the criticality of operations or ICT systems located there.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art32-Para3__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art32-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art32-Para3"
     },
     {
       "source": "article-Art29-Para2",
@@ -14272,7 +15542,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art33-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the logical and physical access-control procedure, including least-privilege, accountability, account-management, authentication and review controls.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art33-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art33-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art33-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14282,7 +15554,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art34-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches ICT-operations controls for asset lifecycle, capacity, vulnerabilities and patches, logging, anomalous activity, cyber threats and information leakage.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art34-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art34-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14292,7 +15566,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art35-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches network and data safeguards covering protection in use, transit and at rest, secure transfer, deletion and disposal, and teleworking and endpoint-device risks.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art35-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art35-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art35-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14302,7 +15578,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art36-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the testing plan that validates their effectiveness and considers identified threats and vulnerabilities.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art36-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art36-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14312,7 +15590,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art36-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches review, assessment and testing of those measures with regard to the overall ICT-asset risk profile.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art36-Para2__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art36-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art36-Para2"
     },
     {
       "source": "article-Art29-Para2",
@@ -14322,7 +15602,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art36-Para3 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches monitoring and evaluation of security-test results and prompt updating of measures for systems supporting critical or important functions.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art36-Para3__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art36-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art36-Para3"
     },
     {
       "source": "article-Art29-Para2",
@@ -14332,7 +15614,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art37-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the risk-based procedure and security controls for ICT-system acquisition, development, maintenance, pre-use testing and production changes.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art37-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art37-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art37-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14342,7 +15626,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art38-Para1 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the documented ICT project-management procedure, assigned implementation roles and coverage of every project stage from initiation to closure.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art38-Para1__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art38-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
     },
     {
       "source": "article-Art29-Para2",
@@ -14352,7 +15638,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art29-Para2 depends on article-Art38-Para2 because its express incorporation of all ICT security measures in Articles 30 to 38 reaches the controlled ICT change-management procedure covering recording, testing, assessment, approval, implementation and verification of changes.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art29-Para2__article-Art38-Para2__depends_on"
+      "edge_id": "article-Art29-Para2__article-Art38-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art29-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art38-Para2"
     },
     {
       "source": "article-Art30-Para2",
@@ -14362,7 +15650,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art30-Para2 references article-Art30-Para1 to inherit the paragraph-1 entity scope before adding identification of critical or important functions supported by ICT third-party service providers.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art30-Para2__article-Art30-Para1__references"
+      "edge_id": "article-Art30-Para2__article-Art30-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art30-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art31-Para2",
@@ -14372,7 +15662,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art31-Para2 depends on article-Art31-Para1 because the periodic documented assessment in paragraph 2 is the ICT risk assessment established as part of the paragraph-1 simplified risk framework.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art31-Para2__article-Art31-Para1__depends_on"
+      "edge_id": "article-Art31-Para2__article-Art31-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art31-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
     },
     {
       "source": "article-Art31-Para3",
@@ -14382,7 +15674,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art31-Para3 references article-Art31-Para1 to carry its financial-entity scope into continuous threat and vulnerability monitoring for critical functions and supporting assets.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art31-Para3__article-Art31-Para1__references"
+      "edge_id": "article-Art31-Para3__article-Art31-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art31-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
     },
     {
       "source": "article-Art31-Para4",
@@ -14392,7 +15686,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art31-Para4 references article-Art31-Para1 to apply alert-threshold and incident-response-trigger duties to the financial entities defined in paragraph 1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art31-Para4__article-Art31-Para1__references"
+      "edge_id": "article-Art31-Para4__article-Art31-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art31-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para1"
     },
     {
       "source": "article-Art32-Para1",
@@ -14402,7 +15698,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art32-Para1 depends on article-Art30-Para1 because physical security measures must be designed in accordance with the information-asset and ICT-asset classification established there.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art32-Para1__article-Art30-Para1__depends_on"
+      "edge_id": "article-Art32-Para1__article-Art30-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art32-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art32-Para2",
@@ -14412,7 +15710,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art32-Para2 depends on article-Art32-Para1 because it specifies the premises, data centres, threats and hazards against which the paragraph-1 physical security measures must protect.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art32-Para2__article-Art32-Para1__depends_on"
+      "edge_id": "article-Art32-Para2__article-Art32-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art32-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art32-Para1"
     },
     {
       "source": "article-Art32-Para3",
@@ -14422,7 +15722,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art32-Para3 qualifies article-Art32-Para2 by making its environmental-threat protection proportionate to premises importance and the criticality of operations or ICT systems located there.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art32-Para3__article-Art32-Para2__qualifies"
+      "edge_id": "article-Art32-Para3__article-Art32-Para2__qualifies",
+      "source_canonical_ref": "celex:32024R1774/article-Art32-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art32-Para2"
     },
     {
       "source": "article-Art33-Para1",
@@ -14432,7 +15734,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art33-Para1 depends on article-Art30-Para1 because authentication strength under the access-control procedure must be commensurate with the asset classification established in that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art33-Para1__article-Art30-Para1__depends_on"
+      "edge_id": "article-Art33-Para1__article-Art30-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art33-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art33-Para1",
@@ -14442,7 +15746,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art33-Para1 references article-Art34-Para1 because privileged, emergency and administrator access assigned under Article 33 must be logged under the Article 34 first-paragraph point-(f) logging control.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art33-Para1__article-Art34-Para1__references"
+      "edge_id": "article-Art33-Para1__article-Art34-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art33-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
     },
     {
       "source": "article-Art34-Para1",
@@ -14452,7 +15758,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art34-Para1 depends on article-Art30-Para1 because the required vulnerability scanning and assessments are calibrated to the asset classification defined in Article 30(1).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art34-Para1__article-Art30-Para1__depends_on"
+      "edge_id": "article-Art34-Para1__article-Art30-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art34-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art35-Para1",
@@ -14462,7 +15770,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art35-Para1 depends on article-Art30-Para1 because its data, system and network safeguards must be selected while taking the Article 30(1) asset classification into account.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art35-Para1__article-Art30-Para1__depends_on"
+      "edge_id": "article-Art35-Para1__article-Art30-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art35-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art30-Para1"
     },
     {
       "source": "article-Art36-Para1",
@@ -14472,7 +15782,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art31-Para3 because its testing plan must consider the threats and vulnerabilities continuously identified under the simplified ICT risk management framework.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art31-Para3__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art31-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art31-Para3"
     },
     {
       "source": "article-Art36-Para1",
@@ -14482,7 +15794,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art33-Para1 because the security testing plan expressly validates the effectiveness of the access-control measures required by that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art33-Para1__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art33-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art33-Para1"
     },
     {
       "source": "article-Art36-Para1",
@@ -14492,7 +15806,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art34-Para1 because the security testing plan expressly validates the effectiveness of the ICT-operations security measures required by that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art34-Para1__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art34-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
     },
     {
       "source": "article-Art36-Para1",
@@ -14502,7 +15818,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art35-Para1 because the security testing plan expressly validates the effectiveness of the data, system and network safeguards required by that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art35-Para1__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art35-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art35-Para1"
     },
     {
       "source": "article-Art36-Para1",
@@ -14512,7 +15830,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art37-Para1 because the security testing plan expressly validates the effectiveness of the acquisition, development and maintenance controls required by that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art37-Para1__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art37-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art37-Para1"
     },
     {
       "source": "article-Art36-Para1",
@@ -14522,7 +15842,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art38-Para1 because the security testing plan expressly validates the effectiveness of the ICT project-management procedure required by that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art38-Para1__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art38-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
     },
     {
       "source": "article-Art36-Para1",
@@ -14532,7 +15854,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para1 depends on article-Art38-Para2 because the security testing plan expressly validates the effectiveness of the ICT change-management procedure required by that paragraph.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para1__article-Art38-Para2__depends_on"
+      "edge_id": "article-Art36-Para1__article-Art38-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art38-Para2"
     },
     {
       "source": "article-Art36-Para2",
@@ -14542,7 +15866,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para2 depends on article-Art36-Para1 because its review, assessment and testing of ICT security measures operationalise the testing plan and entity scope established in paragraph 1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para2__article-Art36-Para1__depends_on"
+      "edge_id": "article-Art36-Para2__article-Art36-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
     },
     {
       "source": "article-Art36-Para3",
@@ -14552,7 +15878,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para3 references article-Art36-Para1 to inherit the financial-entity scope and testing-plan context for monitoring and evaluating security-test results.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para3__article-Art36-Para1__references"
+      "edge_id": "article-Art36-Para3__article-Art36-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art36-Para1"
     },
     {
       "source": "article-Art36-Para3",
@@ -14562,7 +15890,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art36-Para3 depends on article-Art36-Para2 because the results that paragraph 3 requires entities to evaluate arise from the review, assessment and testing mandated in paragraph 2.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art36-Para3__article-Art36-Para2__depends_on"
+      "edge_id": "article-Art36-Para3__article-Art36-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art36-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art36-Para2"
     },
     {
       "source": "article-Art38-Para2",
@@ -14572,7 +15902,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art38-Para2 references article-Art38-Para1 to inherit its financial-entity scope before imposing the separate controlled ICT change-management procedure.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art38-Para2__article-Art38-Para1__references"
+      "edge_id": "article-Art38-Para2__article-Art38-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art38-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art38-Para1"
     },
     {
       "source": "article-Art39-Para2",
@@ -14582,7 +15914,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art39-Para2 depends on article-Art39-Para1 because it prescribes the approval, resources, recovery, backup and communication content of the business continuity plans developed under paragraph 1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art39-Para2__article-Art39-Para1__depends_on"
+      "edge_id": "article-Art39-Para2__article-Art39-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art39-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art39-Para1"
     },
     {
       "source": "article-Art4-Para2",
@@ -14592,7 +15926,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art4-Para2 defines the mandatory contents of the ICT asset-management policy that article-Art4-Para1 requires financial entities to establish.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art4-Para2__article-Art4-Para1__depends_on"
+      "edge_id": "article-Art4-Para2__article-Art4-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art4-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art4-Para1"
     },
     {
       "source": "article-Art40-Para1",
@@ -14602,7 +15938,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art40-Para1 depends on article-Art39-Para1 because the annual or major-change test covers the business continuity plans and severe-disruption scenarios established in Article 39(1).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art40-Para1__article-Art39-Para1__depends_on"
+      "edge_id": "article-Art40-Para1__article-Art39-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art40-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art39-Para1"
     },
     {
       "source": "article-Art40-Para1",
@@ -14612,7 +15950,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art40-Para1 depends on article-Art39-Para2 because its express requirement to test the Article 39 business continuity plans at least annually for backup and restore procedures reaches the paragraph that specifies backup procedures, restoration and recovery measures, recovery levels and timeframes.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art40-Para1__article-Art39-Para2__depends_on"
+      "edge_id": "article-Art40-Para1__article-Art39-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art40-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art39-Para2"
     },
     {
       "source": "article-Art40-Para2",
@@ -14622,7 +15962,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art40-Para2 depends on article-Art40-Para1 because it defines what the paragraph-1 testing must demonstrate about business viability, operational re-establishment and plan deficiencies.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art40-Para2__article-Art40-Para1__depends_on"
+      "edge_id": "article-Art40-Para2__article-Art40-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art40-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art40-Para1"
     },
     {
       "source": "article-Art40-Para3",
@@ -14632,7 +15974,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art40-Para3 references article-Art40-Para1 to inherit the financial-entity scope and the business-continuity-plan testing whose results must be documented.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art40-Para3__article-Art40-Para1__references"
+      "edge_id": "article-Art40-Para3__article-Art40-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art40-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art40-Para1"
     },
     {
       "source": "article-Art40-Para3",
@@ -14642,7 +15986,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art40-Para3 depends on article-Art40-Para2 because the deficiencies to be analysed, addressed and reported are those the paragraph-2 test is required to identify.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art40-Para3__article-Art40-Para2__depends_on"
+      "edge_id": "article-Art40-Para3__article-Art40-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art40-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art40-Para2"
     },
     {
       "source": "article-Art41-Para2",
@@ -14652,7 +15998,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art41-Para2 depends on article-Art41-Para1 because it specifies the mandatory content of the searchable electronic simplified-framework review report introduced in paragraph 1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art41-Para2__article-Art41-Para1__depends_on"
+      "edge_id": "article-Art41-Para2__article-Art41-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art41-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art41-Para1"
     },
     {
       "source": "article-Art5-Para2",
@@ -14662,7 +16010,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art5-Para2 supplies the criticality-assessment criteria for the ICT asset-management procedure created by article-Art5-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art5-Para2__article-Art5-Para1__depends_on"
+      "edge_id": "article-Art5-Para2__article-Art5-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art5-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art5-Para1"
     },
     {
       "source": "article-Art6-Para2",
@@ -14672,7 +16022,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para2 prescribes the design and rules of the encryption and cryptographic-controls policy mandated by article-Art6-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para2__article-Art6-Para1__depends_on"
+      "edge_id": "article-Art6-Para2__article-Art6-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
     },
     {
       "source": "article-Art6-Para2",
@@ -14682,7 +16034,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para2 refers cryptographic-key management to Article 7, and article-Art7-Para1 is the narrow paragraph specifying whole-lifecycle key management.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para2__article-Art7-Para1__references"
+      "edge_id": "article-Art6-Para2__article-Art7-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art7-Para1"
     },
     {
       "source": "article-Art6-Para2",
@@ -14692,7 +16046,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para2's express Article 7 reference includes protection of cryptographic keys, which article-Art7-Para2 specifically regulates throughout the key lifecycle.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para2__article-Art7-Para2__references"
+      "edge_id": "article-Art6-Para2__article-Art7-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art7-Para2"
     },
     {
       "source": "article-Art6-Para3",
@@ -14702,7 +16058,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para3 adds technique-selection and mitigation criteria to the cryptographic-controls policy established by article-Art6-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para3__article-Art6-Para1__depends_on"
+      "edge_id": "article-Art6-Para3__article-Art6-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para3",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
     },
     {
       "source": "article-Art6-Para4",
@@ -14712,7 +16070,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para4 expressly invokes article-Art10-Para2 point (a) when requiring awareness-driven updates that keep cryptographic technology resilient to cyber threats.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para4__article-Art10-Para2__references"
+      "edge_id": "article-Art6-Para4__article-Art10-Para2__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
     },
     {
       "source": "article-Art6-Para4",
@@ -14722,7 +16082,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para4 requires technology-update provisions within the encryption and cryptographic-controls policy mandated by article-Art6-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para4__article-Art6-Para1__depends_on"
+      "edge_id": "article-Art6-Para4__article-Art6-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para4",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
     },
     {
       "source": "article-Art6-Para5",
@@ -14732,7 +16094,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para5 places recording and explanation duties inside the cryptographic-controls policy first required by article-Art6-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para5__article-Art6-Para1__depends_on"
+      "edge_id": "article-Art6-Para5__article-Art6-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para1"
     },
     {
       "source": "article-Art6-Para5",
@@ -14742,7 +16106,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para5 expressly requires records for mitigation and monitoring measures adopted under article-Art6-Para3 when leading practices or reliable techniques cannot be followed.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para5__article-Art6-Para3__depends_on"
+      "edge_id": "article-Art6-Para5__article-Art6-Para3__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para3"
     },
     {
       "source": "article-Art6-Para5",
@@ -14752,7 +16118,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art6-Para5 expressly requires a reasoned record of the mitigation and monitoring measures adopted under article-Art6-Para4 when cryptographic technology cannot be updated.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art6-Para5__article-Art6-Para4__depends_on"
+      "edge_id": "article-Art6-Para5__article-Art6-Para4__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art6-Para5",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para4"
     },
     {
       "source": "article-Art7-Para1",
@@ -14762,7 +16130,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art7-Para1 expressly makes its whole-lifecycle key requirements part of the cryptographic-key management policy specified in article-Art6-Para2 point (d).",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art7-Para1__article-Art6-Para2__depends_on"
+      "edge_id": "article-Art7-Para1__article-Art6-Para2__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art7-Para1",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
     },
     {
       "source": "article-Art8-Para2",
@@ -14772,7 +16142,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art8-Para2 expressly applies the segregation requirement in article-Art13-Para1 point (a) to all components of separated production and non-production environments.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art8-Para2__article-Art13-Para1__references"
+      "edge_id": "article-Art8-Para2__article-Art13-Para1__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art13-Para1"
     },
     {
       "source": "article-Art8-Para2",
@@ -14782,7 +16154,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art8-Para2 expressly uses article-Art16-Para6 as the approval and limited-duration standard for testing in production environments.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art8-Para2__article-Art16-Para6__references"
+      "edge_id": "article-Art8-Para2__article-Art16-Para6__references",
+      "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para6"
     },
     {
       "source": "article-Art8-Para2",
@@ -14792,7 +16166,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art8-Para2 prescribes the required operational, monitoring and error-handling contents of the ICT-operations policies created by article-Art8-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art8-Para2__article-Art8-Para1__depends_on"
+      "edge_id": "article-Art8-Para2__article-Art8-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art8-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para1"
     },
     {
       "source": "article-Art9-Para2",
@@ -14802,7 +16178,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "article-Art9-Para2 adds system-specific proportional measures to the capacity and performance management procedures required by article-Art9-Para1.",
       "source_type": "article_paragraph",
       "target_type": "article_paragraph",
-      "edge_id": "article-Art9-Para2__article-Art9-Para1__depends_on"
+      "edge_id": "article-Art9-Para2__article-Art9-Para1__depends_on",
+      "source_canonical_ref": "celex:32024R1774/article-Art9-Para2",
+      "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
     },
     {
       "source": "recital-10",
@@ -14812,7 +16190,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-10 provides guidance for article-Art8-Para2 by explaining the security purpose of separating production from development, testing and other non-production environments and the exceptional justification and approval required for testing in production.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-10__article-Art8-Para2__provides_guidance_for"
+      "edge_id": "recital-10__article-Art8-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-10",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
     },
     {
       "source": "recital-11",
@@ -14822,7 +16202,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-11 concretizes article-Art10-Para2 by requiring reliable vulnerability information, automated monitoring, remediation, and verification that ICT third-party service providers promptly investigate and address vulnerabilities in supplied services.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-11__article-Art10-Para2__concretizes"
+      "edge_id": "recital-11__article-Art10-Para2__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-11",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
     },
     {
       "source": "recital-12",
@@ -14832,7 +16214,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-12 provides guidance for article-Art10-Para4 by explaining that patches should be tested and deployed in a controlled environment so that identified vulnerabilities are remedied without creating operational disruption.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-12__article-Art10-Para4__provides_guidance_for"
+      "edge_id": "recital-12__article-Art10-Para4__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-12",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para4"
     },
     {
       "source": "recital-12",
@@ -14842,7 +16226,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-12 builds on recital-11 by presenting controlled patch testing and deployment as the remediation step for the vulnerabilities that recital-11 requires financial entities and their ICT providers to identify and address.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-12__recital-11__builds_on"
+      "edge_id": "recital-12__recital-11__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-12",
+      "target_canonical_ref": "celex:32024R1774/recital-11"
     },
     {
       "source": "recital-13",
@@ -14852,7 +16238,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-13 provides guidance for the responsible-disclosure procedure in article-Art10-Para2 by identifying severity, stakeholder impact, and the readiness of a fix or mitigation as factors for communicating ICT vulnerabilities.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-13__article-Art10-Para2__provides_guidance_for"
+      "edge_id": "recital-13__article-Art10-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-13",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para2"
     },
     {
       "source": "recital-14",
@@ -14862,7 +16250,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-14 concretizes article-Art20-Para1 by explaining that unique identification must cover both individuals and systems so that user access rights can be assigned without exposing the entity to unauthorised access and untraceable activity.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-14__article-Art20-Para1__concretizes"
+      "edge_id": "recital-14__article-Art20-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-14",
+      "target_canonical_ref": "celex:32024R1774/article-Art20-Para1"
     },
     {
       "source": "recital-14",
@@ -14872,7 +16262,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-14 restricts article-Art21-Para1 by clarifying that generic or shared accounts are exceptional and may be used only under specified circumstances while preserving accountability for every action performed through them.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-14__article-Art21-Para1__restricts"
+      "edge_id": "recital-14__article-Art21-Para1__restricts",
+      "source_canonical_ref": "celex:32024R1774/recital-14",
+      "target_canonical_ref": "celex:32024R1774/article-Art21-Para1"
     },
     {
       "source": "recital-15",
@@ -14882,7 +16274,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-15 concretizes article-Art15-Para2 by identifying acquisition, maintenance, development and change of ICT systems as project-management subject matter regardless of the methodology selected by the financial entity.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-15__article-Art15-Para2__concretizes"
+      "edge_id": "recital-15__article-Art15-Para2__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-15",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para2"
     },
     {
       "source": "recital-15",
@@ -14892,7 +16286,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-15 provides guidance for article-Art15-Para3 by requiring project testing methods suited to the entity, applied on a risk basis, while preserving a secure, reliable and resilient ICT environment.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-15__article-Art15-Para3__provides_guidance_for"
+      "edge_id": "recital-15__article-Art15-Para3__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-15",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para3"
     },
     {
       "source": "recital-15",
@@ -14902,7 +16298,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-15 concretizes article-Art15-Para4 by explaining that staff from business areas or roles affected by an ICT project must supply the information and expertise needed for secure implementation.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-15__article-Art15-Para4__concretizes"
+      "edge_id": "recital-15__article-Art15-Para4__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-15",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para4"
     },
     {
       "source": "recital-15",
@@ -14912,7 +16310,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-15 provides guidance for article-Art15-Para5 by linking management-body reporting to projects affecting critical or important functions and by tying report frequency and detail to each project’s importance and size.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-15__article-Art15-Para5__provides_guidance_for"
+      "edge_id": "recital-15__article-Art15-Para5__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-15",
+      "target_canonical_ref": "celex:32024R1774/article-Art15-Para5"
     },
     {
       "source": "recital-16",
@@ -14922,7 +16322,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-16 concretizes article-Art16-Para3 by requiring source-code review through both static and dynamic testing to reveal vulnerabilities and security gaps and to assess software integrity before operational use.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-16__article-Art16-Para3__concretizes"
+      "edge_id": "recital-16__article-Art16-Para3__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-16",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para3"
     },
     {
       "source": "recital-16",
@@ -14932,7 +16334,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-16 concretizes article-Art16-Para4 by explaining that acquired or developed software packages must undergo ICT security testing so that they can be integrated securely into the existing ICT environment.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-16__article-Art16-Para4__concretizes"
+      "edge_id": "recital-16__article-Art16-Para4__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-16",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para4"
     },
     {
       "source": "recital-16",
@@ -14942,7 +16346,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-16 provides guidance for article-Art16-Para8 by specifying that review should cover acquired software, including proprietary software and, where feasible, source code supplied by ICT third-party service providers.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-16__article-Art16-Para8__provides_guidance_for"
+      "edge_id": "recital-16__article-Art16-Para8__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-16",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para8"
     },
     {
       "source": "recital-17",
@@ -14952,7 +16358,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-17 concretizes article-Art17-Para1 by explaining why change-security verification, separation of approval from request and implementation, assigned roles, controlled testing, quality assurance, and fall-back responsibilities are required to contain confidentiality, integrity, availability, and disruption risks.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-17__article-Art17-Para1__concretizes"
+      "edge_id": "recital-17__article-Art17-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-17",
+      "target_canonical_ref": "celex:32024R1774/article-Art17-Para1"
     },
     {
       "source": "recital-17",
@@ -14962,7 +16370,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-17 builds on recital-15 because recital-15 places ICT changes within project management and testing, while recital-17 develops that change strand into dedicated approval-separation, transition, quality, and fall-back controls.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-17__recital-15__builds_on"
+      "edge_id": "recital-17__recital-15__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-17",
+      "target_canonical_ref": "celex:32024R1774/recital-15"
     },
     {
       "source": "recital-18",
@@ -14972,7 +16382,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-18 concretizes article-Art22-Para1 by identifying the incident-policy functions implemented there: an end-to-end management process, internal and external coordination contacts, and detailed analysis of significant or recurring incidents and patterns.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-18__article-Art22-Para1__concretizes"
+      "edge_id": "recital-18__article-Art22-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-18",
+      "target_canonical_ref": "celex:32024R1774/article-Art22-Para1"
     },
     {
       "source": "recital-19",
@@ -14982,7 +16394,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-19 concretizes article-Art23-Para1 by tying that paragraph's clear-role requirement specifically to responsibility for collecting, monitoring, and analysing information used to detect anomalous activities early and effectively.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-19__article-Art23-Para1__concretizes"
+      "edge_id": "recital-19__article-Art23-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-19",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para1"
     },
     {
       "source": "recital-19",
@@ -14992,7 +16406,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-19 concretizes article-Art23-Para2 by explaining that its detection mechanism must combine logs with reports from internal functions, external information, and incident notices from ICT third-party providers rather than relying on logs alone.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-19__article-Art23-Para2__concretizes"
+      "edge_id": "recital-19__article-Art23-Para2__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-19",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
     },
     {
       "source": "recital-19",
@@ -15002,7 +16418,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-19 builds on recital-18 by developing the detection phase of recital-18's incident-management process into concrete internal, log, external, and ICT-provider information sources with assigned responsibilities.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-19__recital-18__builds_on"
+      "edge_id": "recital-19__recital-18__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-19",
+      "target_canonical_ref": "celex:32024R1774/recital-18"
     },
     {
       "source": "recital-19",
@@ -15012,7 +16430,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-19 provides context for recital-30 because its incident-detection data collection is the concrete setting in which recital-30 reiterates full data-protection application and uses data minimisation for incident detection as its example.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-19__recital-30__provides_context_for"
+      "edge_id": "recital-19__recital-30__provides_context_for",
+      "source_canonical_ref": "celex:32024R1774/recital-19",
+      "target_canonical_ref": "celex:32024R1774/recital-30"
     },
     {
       "source": "recital-1",
@@ -15022,7 +16442,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-1 explains the proportionality rationale for article-Art1-Para1 by tying ICT requirements to entity size, structure, complexity and corresponding ICT risk.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-1__article-Art1-Para1__provides_guidance_for"
+      "edge_id": "recital-1__article-Art1-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-1",
+      "target_canonical_ref": "celex:32024R1774/article-Art1-Para1"
     },
     {
       "source": "recital-20",
@@ -15032,7 +16454,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-20 concretizes the evidence-retention duty in article-Art22-Para1 by explaining that its period must balance effective incident detection against regulatory burden while reflecting data criticality and Union-law retention requirements.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-20__article-Art22-Para1__concretizes"
+      "edge_id": "recital-20__article-Art22-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-20",
+      "target_canonical_ref": "celex:32024R1774/article-Art22-Para1"
     },
     {
       "source": "recital-20",
@@ -15042,7 +16466,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-20 builds on recital-18 by adding evidence retention and a calibrated retention period to the incident-policy and incident-management process introduced in recital-18.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-20__recital-18__builds_on"
+      "edge_id": "recital-20__recital-18__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-20",
+      "target_canonical_ref": "celex:32024R1774/recital-18"
     },
     {
       "source": "recital-21",
@@ -15052,7 +16478,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-21 provides guidance for article-Art23-Para5 by clarifying that every listed trigger criterion must be considered, but that the list is non-exhaustive and the listed circumstances need not occur simultaneously.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-21__article-Art23-Para5__provides_guidance_for"
+      "edge_id": "recital-21__article-Art23-Para5__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-21",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para5"
     },
     {
       "source": "recital-21",
@@ -15062,7 +16490,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-21 provides guidance for article-Art23-Para6 by explaining that the criticality assessment concerns the importance of the affected ICT services when deciding whether to trigger incident detection and response.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-21__article-Art23-Para6__provides_guidance_for"
+      "edge_id": "recital-21__article-Art23-Para6__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-21",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para6"
     },
     {
       "source": "recital-21",
@@ -15072,7 +16502,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-21 builds on recital-18 by specifying how trigger criteria are to operate within the detection and response phases of the incident-management process established in recital-18.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-21__recital-18__builds_on"
+      "edge_id": "recital-21__recital-18__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-21",
+      "target_canonical_ref": "celex:32024R1774/recital-18"
     },
     {
       "source": "recital-22",
@@ -15082,7 +16514,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-22 provides guidance for article-Art24-Para1 by requiring the ICT business continuity policy assembled under that paragraph to integrate incident management, communication, change management, and ICT third-party-provider risk considerations.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-22__article-Art24-Para1__provides_guidance_for"
+      "edge_id": "recital-22__article-Art24-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-22",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para1"
     },
     {
       "source": "recital-22",
@@ -15092,7 +16526,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-22 builds on recital-17 by expressly making the ICT change-management process developed in recital-17 an input to the design of the ICT business continuity policy.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-22__recital-17__builds_on"
+      "edge_id": "recital-22__recital-17__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-22",
+      "target_canonical_ref": "celex:32024R1774/recital-17"
     },
     {
       "source": "recital-22",
@@ -15102,7 +16538,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-22 builds on recital-18 by expressly incorporating ICT-related incident management and its communication dimension into the ICT business continuity policy.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-22__recital-18__builds_on"
+      "edge_id": "recital-22__recital-18__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-22",
+      "target_canonical_ref": "celex:32024R1774/recital-18"
     },
     {
       "source": "recital-23",
@@ -15112,7 +16550,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-23 provides guidance for article-Art25-Para2 by explaining the purpose of severe-but-plausible scenario testing and of switchover tests: verify redundant capacity, backups, and facilities over a sufficient period and restore normal operation to the recovery objectives.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-23__article-Art25-Para2__provides_guidance_for"
+      "edge_id": "recital-23__article-Art25-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-23",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para2"
     },
     {
       "source": "recital-23",
@@ -15122,7 +16562,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-23 provides guidance for article-Art26-Para2 by directing entities to assess the relevance and plausibility of the response-and-recovery scenarios listed there and to consider whether alternative scenarios are needed.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-23__article-Art26-Para2__provides_guidance_for"
+      "edge_id": "recital-23__article-Art26-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-23",
+      "target_canonical_ref": "celex:32024R1774/article-Art26-Para2"
     },
     {
       "source": "recital-23",
@@ -15132,7 +16574,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-23 builds on recital-22 by moving from the components to be integrated into an ICT business continuity policy to the scenarios used to implement response and recovery plans and test continuity plans.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-23__recital-22__builds_on"
+      "edge_id": "recital-23__recital-22__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-23",
+      "target_canonical_ref": "celex:32024R1774/recital-22"
     },
     {
       "source": "recital-24",
@@ -15142,7 +16586,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 explains why article-Art16-Para2 adds sector-specific ICT-system testing participation for central counterparties and central securities depositories: the RTS builds project-management controls on the operational-risk rules already applicable to those infrastructures.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art16-Para2__provides_guidance_for"
+      "edge_id": "recital-24__article-Art16-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art16-Para2"
     },
     {
       "source": "recital-24",
@@ -15152,7 +16598,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 supplies the sectoral rationale for article-Art17-Para2, whose stringent post-change testing duties specifically address central counterparties and central securities depositories under the ICT change-management requirements.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art17-Para2__provides_guidance_for"
+      "edge_id": "recital-24__article-Art17-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art17-Para2"
     },
     {
       "source": "recital-24",
@@ -15162,7 +16610,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 explains the legislative basis for the central-counterparty-specific continuity requirements in article-Art24-Para2 by stating that the RTS builds on operational-risk rules already applicable to central counterparties.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art24-Para2__provides_guidance_for"
+      "edge_id": "recital-24__article-Art24-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para2"
     },
     {
       "source": "recital-24",
@@ -15172,7 +16622,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 explains the legislative basis for the central-securities-depository-specific continuity requirements in article-Art24-Para3 by linking the RTS to pre-existing operational-risk rules for those depositories.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art24-Para3__provides_guidance_for"
+      "edge_id": "recital-24__article-Art24-Para3__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para3"
     },
     {
       "source": "recital-24",
@@ -15182,7 +16634,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 explains why article-Art24-Para4 preserves trading-venue-specific recovery and data-loss requirements within the RTS business-continuity framework.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art24-Para4__provides_guidance_for"
+      "edge_id": "recital-24__article-Art24-Para4__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art24-Para4"
     },
     {
       "source": "recital-24",
@@ -15192,7 +16646,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 provides the sectoral context for article-Art25-Para3, which supplements general continuity-plan testing with participation duties tailored to central counterparties.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art25-Para3__provides_guidance_for"
+      "edge_id": "recital-24__article-Art25-Para3__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para3"
     },
     {
       "source": "recital-24",
@@ -15202,7 +16658,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-24 provides the sectoral context for article-Art25-Para4, which supplements continuity-plan testing with participants and infrastructures relevant specifically to central securities depositories.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-24__article-Art25-Para4__provides_guidance_for"
+      "edge_id": "recital-24__article-Art25-Para4__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-24",
+      "target_canonical_ref": "celex:32024R1774/article-Art25-Para4"
     },
     {
       "source": "recital-25",
@@ -15212,7 +16670,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-25 explains the processing and transmission rationale for article-Art27-Para1 requiring the DORA Article 6(5) ICT-risk-framework review report to be submitted in a searchable electronic format.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-25__article-Art27-Para1__provides_guidance_for"
+      "edge_id": "recital-25__article-Art27-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-25",
+      "target_canonical_ref": "celex:32024R1774/article-Art27-Para1"
     },
     {
       "source": "recital-26",
@@ -15222,7 +16682,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-26 guides application of article-Art1-Para1 by explaining that scale, risk, size and complexity justify limiting the simplified ICT risk management framework to the minimum controls needed to protect data and services.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-26__article-Art1-Para1__provides_guidance_for"
+      "edge_id": "recital-26__article-Art1-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-26",
+      "target_canonical_ref": "celex:32024R1774/article-Art1-Para1"
     },
     {
       "source": "recital-26",
@@ -15232,7 +16694,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-26 concretizes article-Art28-Para1 by identifying an internal governance and control framework as the organisational basis for effective and sound ICT risk management by simplified-framework entities.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-26__article-Art28-Para1__concretizes"
+      "edge_id": "recital-26__article-Art28-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-26",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para1"
     },
     {
       "source": "recital-26",
@@ -15242,7 +16706,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-26 concretizes the clear-responsibility element of article-Art28-Para2 by requiring governance arrangements with unambiguous responsibilities for the simplified ICT risk management framework.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-26__article-Art28-Para2__concretizes"
+      "edge_id": "recital-26__article-Art28-Para2__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-26",
+      "target_canonical_ref": "celex:32024R1774/article-Art28-Para2"
     },
     {
       "source": "recital-26",
@@ -15252,7 +16718,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-26 directly concretizes article-Art29-Para1: simplified-framework entities use one information security policy containing high-level rules that protect confidentiality, integrity, availability and authenticity.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-26__article-Art29-Para1__concretizes"
+      "edge_id": "recital-26__article-Art29-Para1__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-26",
+      "target_canonical_ref": "celex:32024R1774/article-Art29-Para1"
     },
     {
       "source": "recital-26",
@@ -15262,7 +16730,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-26 builds_on recital-2 by turning recital-2’s flexibility and essential-policy premise into the simplified-framework rule that entities maintain one high-level information security policy proportionate to scale and risk.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-26__recital-2__builds_on"
+      "edge_id": "recital-26__recital-2__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-26",
+      "target_canonical_ref": "celex:32024R1774/recital-2"
     },
     {
       "source": "recital-29",
@@ -15272,7 +16742,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-29 builds_on recital-28: recital-28 identifies the ESAs’ draft regulatory technical standards, while recital-29 records the Joint Committee consultation, cost-benefit analysis and stakeholder advice for that same draft.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-29__recital-28__builds_on"
+      "edge_id": "recital-29__recital-28__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-29",
+      "target_canonical_ref": "celex:32024R1774/recital-28"
     },
     {
       "source": "recital-2",
@@ -15282,7 +16754,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 expressly lists vulnerability management among the technical implementation procedures that article-Art10-Para1 requires financial entities to establish.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art10-Para1__provides_guidance_for"
+      "edge_id": "recital-2__article-Art10-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para1"
     },
     {
       "source": "recital-2",
@@ -15292,7 +16766,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 separately names patch management as a necessary technical procedure, directly explaining the obligation in article-Art10-Para3.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art10-Para3__provides_guidance_for"
+      "edge_id": "recital-2__article-Art10-Para3__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/article-Art10-Para3"
     },
     {
       "source": "recital-2",
@@ -15302,7 +16778,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 identifies data and system security as a technical implementation area, which is the precise procedure created by article-Art11-Para1.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art11-Para1__provides_guidance_for"
+      "edge_id": "recital-2__article-Art11-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/article-Art11-Para1"
     },
     {
       "source": "recital-2",
@@ -15312,7 +16790,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 expressly includes logging among necessary technical procedures, supplying the policy rationale for article-Art12-Para1's logging obligation.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art12-Para1__provides_guidance_for"
+      "edge_id": "recital-2__article-Art12-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/article-Art12-Para1"
     },
     {
       "source": "recital-2",
@@ -15322,7 +16802,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 guides application of article-Art2-Para2 by allowing existing documentation to satisfy documentation duties and by explaining why only essential policy elements require dedicated documentation.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art2-Para2__provides_guidance_for"
+      "edge_id": "recital-2__article-Art2-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
     },
     {
       "source": "recital-2",
@@ -15332,7 +16814,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 expressly identifies capacity and performance management as a technical procedure domain, providing the rationale for the procedure mandated by article-Art9-Para1.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-2__article-Art9-Para1__provides_guidance_for"
+      "edge_id": "recital-2__article-Art9-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
     },
     {
       "source": "recital-2",
@@ -15342,7 +16826,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-2 expressly proceeds 'for the same reason' from recital-1's proportionality rationale and develops that rationale into flexibility and documentation reuse.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-2__recital-1__builds_on"
+      "edge_id": "recital-2__recital-1__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-2",
+      "target_canonical_ref": "celex:32024R1774/recital-1"
     },
     {
       "source": "recital-30",
@@ -15352,7 +16838,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-30 restricts the collection and analysis required by article-Art23-Para2: where incident-detection information is personal data, the Union data-protection regime and data-minimisation principle continue to apply.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-30__article-Art23-Para2__restricts"
+      "edge_id": "recital-30__article-Art23-Para2__restricts",
+      "source_canonical_ref": "celex:32024R1774/recital-30",
+      "target_canonical_ref": "celex:32024R1774/article-Art23-Para2"
     },
     {
       "source": "recital-30",
@@ -15362,7 +16850,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-30 restricts the anomalous-activity monitoring and security-information measures in article-Art34-Para1 by requiring any personal-data processing for incident detection to comply fully with Union data-protection law and data minimisation.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-30__article-Art34-Para1__restricts"
+      "edge_id": "recital-30__article-Art34-Para1__restricts",
+      "source_canonical_ref": "celex:32024R1774/recital-30",
+      "target_canonical_ref": "celex:32024R1774/article-Art34-Para1"
     },
     {
       "source": "recital-3",
@@ -15372,7 +16862,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-3 explains why article-Art2-Para2 requires maintained ICT-security roles and responsibilities and consequences for staff non-compliance.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-3__article-Art2-Para2__provides_guidance_for"
+      "edge_id": "recital-3__article-Art2-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-3",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
     },
     {
       "source": "recital-4",
@@ -15382,7 +16874,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-4 supplies the conflict-of-interest rationale for the segregation-of-duties arrangements mandated in article-Art2-Para2.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-4__article-Art2-Para2__provides_guidance_for"
+      "edge_id": "recital-4__article-Art2-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-4",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
     },
     {
       "source": "recital-4",
@@ -15392,7 +16886,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-4 qualifies recital-3's general assignment of ICT roles by requiring segregation of duties where needed to avoid conflicts of interest.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-4__recital-3__qualifies"
+      "edge_id": "recital-4__recital-3__qualifies",
+      "source_canonical_ref": "celex:32024R1774/recital-4",
+      "target_canonical_ref": "celex:32024R1774/recital-3"
     },
     {
       "source": "recital-5",
@@ -15402,7 +16898,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-5 limits article-Art2-Para2's non-compliance provision by confirming that a dedicated provision is unnecessary when another policy or procedure already contains it.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-5__article-Art2-Para2__restricts"
+      "edge_id": "recital-5__article-Art2-Para2__restricts",
+      "source_canonical_ref": "celex:32024R1774/recital-5",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
     },
     {
       "source": "recital-5",
@@ -15412,7 +16910,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-5 qualifies recital-3's requirement for non-compliance consequences by creating an exception when another policy or procedure already states them.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-5__recital-3__qualifies"
+      "edge_id": "recital-5__recital-3__qualifies",
+      "source_canonical_ref": "celex:32024R1774/recital-5",
+      "target_canonical_ref": "celex:32024R1774/recital-3"
     },
     {
       "source": "recital-6",
@@ -15422,7 +16922,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-6 explains that evolving ICT risk requires leading practices and applicable standards, guiding the corresponding standards and material-change criteria in article-Art2-Para2.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-6__article-Art2-Para2__provides_guidance_for"
+      "edge_id": "recital-6__article-Art2-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-6",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para2"
     },
     {
       "source": "recital-6",
@@ -15432,7 +16934,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-6 builds on recital-2's leading-practice and standards principle by explaining its continuing importance in an evolving ICT-risk landscape.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-6__recital-2__builds_on"
+      "edge_id": "recital-6__recital-2__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-6",
+      "target_canonical_ref": "celex:32024R1774/recital-2"
     },
     {
       "source": "recital-7",
@@ -15442,7 +16946,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-7 links operational, asset and capacity controls to network security, intrusion safeguards and data protection, explaining the common outcomes required by article-Art2-Para1.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-7__article-Art2-Para1__provides_guidance_for"
+      "edge_id": "recital-7__article-Art2-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-7",
+      "target_canonical_ref": "celex:32024R1774/article-Art2-Para1"
     },
     {
       "source": "recital-7",
@@ -15452,7 +16958,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-7 expressly identifies development and implementation of an ICT asset-management policy as necessary for digital operational resilience, explaining the obligation in article-Art4-Para1.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-7__article-Art4-Para1__provides_guidance_for"
+      "edge_id": "recital-7__article-Art4-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-7",
+      "target_canonical_ref": "celex:32024R1774/article-Art4-Para1"
     },
     {
       "source": "recital-7",
@@ -15462,7 +16970,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-7 explains lifecycle monitoring as the purpose of ICT asset management, directly guiding the lifecycle-management content of article-Art4-Para2.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-7__article-Art4-Para2__provides_guidance_for"
+      "edge_id": "recital-7__article-Art4-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-7",
+      "target_canonical_ref": "celex:32024R1774/article-Art4-Para2"
     },
     {
       "source": "recital-7",
@@ -15472,7 +16982,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-7 describes effective and smooth day-to-day ICT operation as the objective of the operational policies and procedures required by article-Art8-Para1.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-7__article-Art8-Para1__provides_guidance_for"
+      "edge_id": "recital-7__article-Art8-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-7",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para1"
     },
     {
       "source": "recital-7",
@@ -15482,7 +16994,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-7 explains that capacity and performance management should optimise ICT operations and meet business and security objectives, guiding article-Art9-Para1.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-7__article-Art9-Para1__provides_guidance_for"
+      "edge_id": "recital-7__article-Art9-Para1__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-7",
+      "target_canonical_ref": "celex:32024R1774/article-Art9-Para1"
     },
     {
       "source": "recital-7",
@@ -15492,7 +17006,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-7 builds on recital-2's identification of technical procedure domains by explaining the operational purposes of asset, capacity and ICT-operations controls.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-7__recital-2__builds_on"
+      "edge_id": "recital-7__recital-2__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-7",
+      "target_canonical_ref": "celex:32024R1774/recital-2"
     },
     {
       "source": "recital-8",
@@ -15502,7 +17018,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-8 explains the legacy-system risk purpose of recording and monitoring support end-dates, directly guiding the support-date records in article-Art4-Para2.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-8__article-Art4-Para2__provides_guidance_for"
+      "edge_id": "recital-8__article-Art4-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-8",
+      "target_canonical_ref": "celex:32024R1774/article-Art4-Para2"
     },
     {
       "source": "recital-8",
@@ -15512,7 +17030,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-8 prioritises business-critical assets by the impact of confidentiality, integrity and availability loss, guiding the criticality assessment criteria in article-Art5-Para2.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-8__article-Art5-Para2__provides_guidance_for"
+      "edge_id": "recital-8__article-Art5-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-8",
+      "target_canonical_ref": "celex:32024R1774/article-Art5-Para2"
     },
     {
       "source": "recital-8",
@@ -15522,7 +17042,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-8 identifies support expiry monitoring as a means to manage legacy-system risk, providing application guidance for the legacy-system control required by article-Art8-Para2.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-8__article-Art8-Para2__provides_guidance_for"
+      "edge_id": "recital-8__article-Art8-Para2__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-8",
+      "target_canonical_ref": "celex:32024R1774/article-Art8-Para2"
     },
     {
       "source": "recital-8",
@@ -15532,7 +17054,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-8 builds on recital-7's lifecycle-based asset-management rationale by addressing the specific legacy-system risk created when third-party support expires.",
       "source_type": "recital",
       "target_type": "recital",
-      "edge_id": "recital-8__recital-7__builds_on"
+      "edge_id": "recital-8__recital-7__builds_on",
+      "source_canonical_ref": "celex:32024R1774/recital-8",
+      "target_canonical_ref": "celex:32024R1774/recital-7"
     },
     {
       "source": "recital-9",
@@ -15542,7 +17066,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-9 concretizes article-Art6-Para2 by linking the encryption policy to approved data classification and ICT risk assessment, distinguishing data at rest, in transit and in use, and explaining the equivalent safeguards required when in-use encryption is infeasible.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-9__article-Art6-Para2__concretizes"
+      "edge_id": "recital-9__article-Art6-Para2__concretizes",
+      "source_canonical_ref": "celex:32024R1774/recital-9",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para2"
     },
     {
       "source": "recital-9",
@@ -15552,7 +17078,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-9 provides guidance for article-Art6-Para3 by explaining why cryptographic techniques must track leading practices and standards and why a flexible combination of risk mitigation and monitoring is needed when the most reliable techniques cannot be used.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-9__article-Art6-Para3__provides_guidance_for"
+      "edge_id": "recital-9__article-Art6-Para3__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-9",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para3"
     },
     {
       "source": "recital-9",
@@ -15562,7 +17090,9 @@ The repository licence covers only original selection, structure and analysis. I
       "reasoning": "recital-9 provides guidance for article-Art6-Para4 by identifying rapid cryptanalysis developments, including quantum-related threats, as the reason to update cryptographic technology or adopt compensating mitigation and monitoring measures.",
       "source_type": "recital",
       "target_type": "article_paragraph",
-      "edge_id": "recital-9__article-Art6-Para4__provides_guidance_for"
+      "edge_id": "recital-9__article-Art6-Para4__provides_guidance_for",
+      "source_canonical_ref": "celex:32024R1774/recital-9",
+      "target_canonical_ref": "celex:32024R1774/article-Art6-Para4"
     }
   ],
   "metadata": {
@@ -16709,6 +18239,39 @@ The repository licence covers only original selection, structure and analysis. I
       "status": "intentional",
       "reason": "The canonical EUR-Lex body contains no structural annex after the final article.",
       "canonical_annex_regions": 0
+    }
+  },
+  "schema": "akn4eu/legal-mapping@1.0.0",
+  "contract_profile": "legacy_syntax_only",
+  "migration": {
+    "mode": "syntax_only",
+    "source_path": "2024-03-13_EU_Commission_DORA_Delegated_Regulation_2024-1774_recital_article_case_law_mapping.md",
+    "source_schema": null,
+    "semantic_enrichment_performed": false,
+    "preservation": {
+      "pass": true,
+      "node_count_before": 141,
+      "node_count_after": 141,
+      "node_occurrence_count_before": 141,
+      "node_occurrence_count_after": 141,
+      "duplicate_node_occurrences_before": 0,
+      "duplicate_node_occurrences_after": 0,
+      "edge_count_before": 208,
+      "edge_count_after": 208,
+      "nodes_added": 0,
+      "nodes_removed": 0,
+      "edges_added": 0,
+      "edges_removed": 0,
+      "relations_reclassified": 0,
+      "endpoints_changed": 0,
+      "semantic_fields_authored": 0,
+      "verbatim_and_existing_fields_preserved": true
+    },
+    "integrity": {
+      "preserved_semantics_sha256": "1bb0fa344c2fa5199e0ff2e979a58e1ddcc60ad78238d72a207ac1a5a6db8a26",
+      "migrated_payload_sha256": "6d6f6308bc77812564d36df9738c6c051618379ae8f0c834df3f0c1b92f21850",
+      "source_artifact_sha256": "76c5924ff41832b1eb2c0a404bff98e5c8317996473e2fc791f22d686af5d792",
+      "markdown_wrapper_sha256": "0aaf90f60d92055c65f0cfdb27fb8048ceef493ce7b1baa533e76cd2dd0950e8"
     }
   }
 }
